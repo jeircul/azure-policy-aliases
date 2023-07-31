@@ -33,7 +33,7 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE
         now=$(date)
-        git config --global user.email "$USER_EMAIL
+        git config --global user.email "$USER_EMAIL" 
         git config --global user.name "$USER_NAME" 
         git add --all
         if [ -n "$(git status --porcelain)" ]
