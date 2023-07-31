@@ -1,0 +1,39 @@
+name: Update Aliases
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+  push:
+    branches: [ master ]
+
+permissions:
+      id-token: write
+      contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Azure Login
+      uses: Azure/login@v1
+      with:
+        creds: '${{ secrets.AZURE_CREDENTIALS }}'
+        enable-AzPSSession: true
+    - name: Get Updated Aliases
+      uses: Azure/powershell@v1
+      with:
+        inlineScript: |
+          Set-Location $ENV:GITHUB_WORKSPACE
+          Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
+          dir
+          ./src/Get-ResourceAliases.ps1
+        azPSVersion: latest
+    - name: Create pull request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        branch: aliases
+        title: "Auto update aliases"
+        labels: |
+          Automated PR
