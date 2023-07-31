@@ -31,7 +31,7 @@ jobs:
           ./src/Get-ResourceAliases.ps1
         azPSVersion: latest
     - name: Create pull request
-      uses: peter-evans/create-pull-request@v5
+      uses: peter-evans/create-pull-request@v4
       with:
         branch: aliases
         title: "Auto update aliases"
