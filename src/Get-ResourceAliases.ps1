@@ -6,7 +6,7 @@ if (!(Test-Path -Path $basePath)) {
     New-Item -Name $basePath -ItemType "directory"
 }
 
-$toc = "# Azure Policy Aliases`n"
+$toc = "# Azure Policy Aliases TESTING PR`n"
 $toc += "This repository contains all available resource property aliases for easy reference when creating Policy definitions. "
 $toc += "The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.`n`n"
 
