@@ -1,24 +1,27 @@
 name: Update Aliases
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 0 * * *'
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 permissions:
-      id-token: write
-      contents: write
+  id-token: write
+  contents: write
+  pull-requests: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Azure Login
       uses: Azure/login@v1
       with:
-        creds: ${{ secrets.AZURE_CREDENTIALS }}
+        creds: '${{ secrets.AZURE_CREDENTIALS }}'
         enable-AzPSSession: true
     - name: Get Updated Aliases
       uses: Azure/powershell@v1
@@ -29,15 +32,10 @@ jobs:
           dir
           ./src/Get-ResourceAliases.ps1
         azPSVersion: latest
-    - name: Commit changes
-      run: |
-        cd $GITHUB_WORKSPACE
-        now=$(date)
-        git config --global user.email "${{ secrets.USER_EMAIL }}"
-        git config --global user.name "${{ secrets.USER_NAME }}"
-        git add --all
-        if [ -n "$(git status --porcelain)" ]
-        then
-          git commit -a -m "auto update aliases $now"
-          git push
-        fi
+    - name: Create pull request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        branch: aliases
+        title: "Auto update aliases"
+        labels: |
+          Automated PR
