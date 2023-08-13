@@ -737,7 +737,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.HybridCompute/machines/extensions](aliases/Microsoft.HybridCompute/machines-extensions.md)
 - [Microsoft.HybridCompute/privateLinkScopes](aliases/Microsoft.HybridCompute/privateLinkScopes.md)
 - [Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections](aliases/Microsoft.HybridCompute/privateLinkScopes-privateEndpointConnections.md)
-- [Microsoft.HybridCompute/machines/runcommands](aliases/Microsoft.HybridCompute/machines-runcommands.md)
 
 
 ## microsoft.insights
