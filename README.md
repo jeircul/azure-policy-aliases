@@ -1,4 +1,6 @@
 # Azure Policy Aliases
+![Finance](https://github.com/jeircul/azure-policy-aliases/actions/workflows/update-aliases.yml/badge.svg)
+
 This repository contains all available resource property aliases for easy reference when creating Policy definitions.
 The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
 
