@@ -812,7 +812,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Kusto/clusters/databases/eventhubconnections](aliases/Microsoft.Kusto/clusters-databases-eventhubconnections.md)
 - [Microsoft.Kusto/clusters/databases/dataconnections](aliases/Microsoft.Kusto/clusters-databases-dataconnections.md)
 - [Microsoft.Kusto/clusters/databases/principalassignments](aliases/Microsoft.Kusto/clusters-databases-principalassignments.md)
-- [Microsoft.Kusto/Clusters/ManagedPrivateEndpoints](aliases/Microsoft.Kusto/Clusters-ManagedPrivateEndpoints.md)
+- [Microsoft.Kusto/clusters/managedPrivateEndpoints](aliases/Microsoft.Kusto/clusters-managedPrivateEndpoints.md)
 - [Microsoft.Kusto/Clusters/PrivateEndpointConnections](aliases/Microsoft.Kusto/Clusters-PrivateEndpointConnections.md)
 
 
