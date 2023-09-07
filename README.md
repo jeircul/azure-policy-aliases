@@ -351,6 +351,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.ContainerRegistry
 
 - [Microsoft.ContainerRegistry/registries](aliases/Microsoft.ContainerRegistry/registries.md)
+- [Microsoft.ContainerRegistry/registries/cacheRules](aliases/Microsoft.ContainerRegistry/registries-cacheRules.md)
+- [Microsoft.ContainerRegistry/registries/credentialSets](aliases/Microsoft.ContainerRegistry/registries-credentialSets.md)
 - [Microsoft.ContainerRegistry/registries/connectedRegistries](aliases/Microsoft.ContainerRegistry/registries-connectedRegistries.md)
 - [Microsoft.ContainerRegistry/registries/scopeMaps](aliases/Microsoft.ContainerRegistry/registries-scopeMaps.md)
 - [Microsoft.ContainerRegistry/registries/tokens](aliases/Microsoft.ContainerRegistry/registries-tokens.md)
@@ -365,6 +367,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
 - [Microsoft.ContainerRegistry/registries/replications](aliases/Microsoft.ContainerRegistry/registries-replications.md)
 - [Microsoft.ContainerRegistry/registries/webhooks](aliases/Microsoft.ContainerRegistry/registries-webhooks.md)
+- [Microsoft.ContainerRegistry/registries/packages/archives](aliases/Microsoft.ContainerRegistry/registries-packages-archives.md)
 
 
 ## Microsoft.ContainerService
