@@ -217,6 +217,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AzureStackHCI/virtualMachines/extensions](aliases/Microsoft.AzureStackHCI/virtualMachines-extensions.md)
 - [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
 - [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
+- [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
 
 
 ## Microsoft.Batch
