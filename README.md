@@ -665,6 +665,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ElasticSan/elasticSans](aliases/Microsoft.ElasticSan/elasticSans.md)
 - [Microsoft.ElasticSan/elasticSans/volumeGroups](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups.md)
 - [Microsoft.ElasticSan/elasticSans/volumeGroups/volumes](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups-volumes.md)
+- [Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups-snapshots.md)
 
 
 ## Microsoft.EventGrid
