@@ -262,6 +262,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -947,7 +948,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Media
 
 - [Microsoft.Media/mediaservices](aliases/Microsoft.Media/mediaservices.md)
-- [Microsoft.Media/videoAnalyzers](aliases/Microsoft.Media/videoAnalyzers.md)
 - [Microsoft.Media/mediaservices/assets](aliases/Microsoft.Media/mediaservices-assets.md)
 - [Microsoft.Media/mediaservices/contentKeyPolicies](aliases/Microsoft.Media/mediaservices-contentKeyPolicies.md)
 - [Microsoft.Media/mediaservices/streamingLocators](aliases/Microsoft.Media/mediaservices-streamingLocators.md)
@@ -961,13 +961,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Media/mediaservices/assets/assetFilters](aliases/Microsoft.Media/mediaservices-assets-assetFilters.md)
 - [Microsoft.Media/mediaservices/accountFilters](aliases/Microsoft.Media/mediaservices-accountFilters.md)
 - [Microsoft.Media/mediaservices/mediaGraphs](aliases/Microsoft.Media/mediaservices-mediaGraphs.md)
-- [Microsoft.Media/videoAnalyzers/accessPolicies](aliases/Microsoft.Media/videoAnalyzers-accessPolicies.md)
-- [Microsoft.Media/videoAnalyzers/edgeModules](aliases/Microsoft.Media/videoAnalyzers-edgeModules.md)
-- [Microsoft.Media/videoAnalyzers/videos](aliases/Microsoft.Media/videoAnalyzers-videos.md)
-- [Microsoft.Media/videoAnalyzers/livePipelines](aliases/Microsoft.Media/videoAnalyzers-livePipelines.md)
-- [Microsoft.Media/videoAnalyzers/pipelineJobs](aliases/Microsoft.Media/videoAnalyzers-pipelineJobs.md)
-- [Microsoft.Media/videoAnalyzers/pipelineTopologies](aliases/Microsoft.Media/videoAnalyzers-pipelineTopologies.md)
-- [Microsoft.Media/videoAnalyzers/privateEndpointConnections](aliases/Microsoft.Media/videoAnalyzers-privateEndpointConnections.md)
 
 
 ## Microsoft.Migrate
@@ -1009,6 +1002,22 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.Network
 
+- [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
+- [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
+- [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
+- [Microsoft.Network/privateDnsZones/AAAA](aliases/Microsoft.Network/privateDnsZones-AAAA.md)
+- [Microsoft.Network/privateDnsZones/CNAME](aliases/Microsoft.Network/privateDnsZones-CNAME.md)
+- [Microsoft.Network/privateDnsZones/PTR](aliases/Microsoft.Network/privateDnsZones-PTR.md)
+- [Microsoft.Network/privateDnsZones/MX](aliases/Microsoft.Network/privateDnsZones-MX.md)
+- [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
+- [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
+- [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/virtualNetworkGateways](aliases/Microsoft.Network/virtualNetworkGateways.md)
 - [Microsoft.Network/localNetworkGateways](aliases/Microsoft.Network/localNetworkGateways.md)
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
@@ -1043,12 +1052,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
@@ -1060,16 +1063,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/dnszones/SOA](aliases/Microsoft.Network/dnszones-SOA.md)
 - [Microsoft.Network/dnszones/NS](aliases/Microsoft.Network/dnszones-NS.md)
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
-- [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
-- [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
-- [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
-- [Microsoft.Network/privateDnsZones/AAAA](aliases/Microsoft.Network/privateDnsZones-AAAA.md)
-- [Microsoft.Network/privateDnsZones/CNAME](aliases/Microsoft.Network/privateDnsZones-CNAME.md)
-- [Microsoft.Network/privateDnsZones/PTR](aliases/Microsoft.Network/privateDnsZones-PTR.md)
-- [Microsoft.Network/privateDnsZones/MX](aliases/Microsoft.Network/privateDnsZones-MX.md)
-- [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
-- [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
-- [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
 - [Microsoft.Network/virtualNetworks](aliases/Microsoft.Network/virtualNetworks.md)
 - [Microsoft.Network/natGateways](aliases/Microsoft.Network/natGateways.md)
 - [Microsoft.Network/publicIPAddresses](aliases/Microsoft.Network/publicIPAddresses.md)
@@ -1413,6 +1406,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/servers/devOpsAuditingSettings](aliases/Microsoft.Sql/servers-devOpsAuditingSettings.md)
 - [Microsoft.Sql/servers/elasticpools](aliases/Microsoft.Sql/servers-elasticpools.md)
 - [Microsoft.Sql/servers/jobAgents](aliases/Microsoft.Sql/servers-jobAgents.md)
+- [Microsoft.Sql/servers/jobAgents/privateEndpoints](aliases/Microsoft.Sql/servers-jobAgents-privateEndpoints.md)
 - [Microsoft.Sql/servers/jobAgents/jobs](aliases/Microsoft.Sql/servers-jobAgents-jobs.md)
 - [Microsoft.Sql/servers/jobAgents/jobs/steps](aliases/Microsoft.Sql/servers-jobAgents-jobs-steps.md)
 - [Microsoft.Sql/servers/disasterRecoveryConfiguration](aliases/Microsoft.Sql/servers-disasterRecoveryConfiguration.md)
@@ -1434,10 +1428,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/managedInstances/administrators](aliases/Microsoft.Sql/managedInstances-administrators.md)
 - [Microsoft.Sql/managedInstances/databases](aliases/Microsoft.Sql/managedInstances-databases.md)
 - [Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies](aliases/Microsoft.Sql/managedInstances-databases-backupLongTermRetentionPolicies.md)
+- [Microsoft.Sql/managedInstances/startStopSchedules](aliases/Microsoft.Sql/managedInstances-startStopSchedules.md)
 - [Microsoft.Sql/virtualClusters](aliases/Microsoft.Sql/virtualClusters.md)
 - [Microsoft.Sql/locations/instanceFailoverGroups](aliases/Microsoft.Sql/locations-instanceFailoverGroups.md)
 - [Microsoft.Sql/locations/serverTrustGroups](aliases/Microsoft.Sql/locations-serverTrustGroups.md)
 - [Microsoft.Sql/servers/connectionPolicies](aliases/Microsoft.Sql/servers-connectionPolicies.md)
+- [Microsoft.Sql/managedInstances/databases/ledgerDigestUploads](aliases/Microsoft.Sql/managedInstances-databases-ledgerDigestUploads.md)
 - [Microsoft.Sql/servers/firewallRules](aliases/Microsoft.Sql/servers-firewallRules.md)
 - [Microsoft.Sql/servers/databases/connectionPolicies](aliases/Microsoft.Sql/servers-databases-connectionPolicies.md)
 - [Microsoft.Sql/managedInstances/securityAlertPolicies](aliases/Microsoft.Sql/managedInstances-securityAlertPolicies.md)
@@ -1473,6 +1469,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines.md)
 - [Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules.md)
+- [Microsoft.Sql/managedInstances/serverConfigurationOptions](aliases/Microsoft.Sql/managedInstances-serverConfigurationOptions.md)
+- [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
 
 
 ## Microsoft.SqlVirtualMachine
