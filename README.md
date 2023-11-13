@@ -947,7 +947,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Media
 
 - [Microsoft.Media/mediaservices](aliases/Microsoft.Media/mediaservices.md)
-- [Microsoft.Media/videoAnalyzers](aliases/Microsoft.Media/videoAnalyzers.md)
 - [Microsoft.Media/mediaservices/assets](aliases/Microsoft.Media/mediaservices-assets.md)
 - [Microsoft.Media/mediaservices/contentKeyPolicies](aliases/Microsoft.Media/mediaservices-contentKeyPolicies.md)
 - [Microsoft.Media/mediaservices/streamingLocators](aliases/Microsoft.Media/mediaservices-streamingLocators.md)
@@ -961,13 +960,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Media/mediaservices/assets/assetFilters](aliases/Microsoft.Media/mediaservices-assets-assetFilters.md)
 - [Microsoft.Media/mediaservices/accountFilters](aliases/Microsoft.Media/mediaservices-accountFilters.md)
 - [Microsoft.Media/mediaservices/mediaGraphs](aliases/Microsoft.Media/mediaservices-mediaGraphs.md)
-- [Microsoft.Media/videoAnalyzers/accessPolicies](aliases/Microsoft.Media/videoAnalyzers-accessPolicies.md)
-- [Microsoft.Media/videoAnalyzers/edgeModules](aliases/Microsoft.Media/videoAnalyzers-edgeModules.md)
-- [Microsoft.Media/videoAnalyzers/videos](aliases/Microsoft.Media/videoAnalyzers-videos.md)
-- [Microsoft.Media/videoAnalyzers/livePipelines](aliases/Microsoft.Media/videoAnalyzers-livePipelines.md)
-- [Microsoft.Media/videoAnalyzers/pipelineJobs](aliases/Microsoft.Media/videoAnalyzers-pipelineJobs.md)
-- [Microsoft.Media/videoAnalyzers/pipelineTopologies](aliases/Microsoft.Media/videoAnalyzers-pipelineTopologies.md)
-- [Microsoft.Media/videoAnalyzers/privateEndpointConnections](aliases/Microsoft.Media/videoAnalyzers-privateEndpointConnections.md)
 
 
 ## Microsoft.Migrate
