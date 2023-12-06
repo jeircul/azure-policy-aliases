@@ -96,6 +96,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
 - [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
+- [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
@@ -1006,6 +1007,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
 
 
 ## Microsoft.Network
