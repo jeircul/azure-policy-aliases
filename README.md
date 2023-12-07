@@ -523,6 +523,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DBforMySQL/flexibleServers/firewallRules](aliases/Microsoft.DBforMySQL/flexibleServers-firewallRules.md)
 - [Microsoft.DBforMySQL/flexibleServers/administrators](aliases/Microsoft.DBforMySQL/flexibleServers-administrators.md)
 - [Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections](aliases/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections.md)
+- [Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings.md)
 
 
 ## Microsoft.DBforPostgreSQL
@@ -1073,6 +1074,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/dnszones/SOA](aliases/Microsoft.Network/dnszones-SOA.md)
 - [Microsoft.Network/dnszones/NS](aliases/Microsoft.Network/dnszones-NS.md)
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
+- [Microsoft.Network/dnszones/DS](aliases/Microsoft.Network/dnszones-DS.md)
+- [Microsoft.Network/dnszones/TLSA](aliases/Microsoft.Network/dnszones-TLSA.md)
 - [Microsoft.Network/virtualNetworks](aliases/Microsoft.Network/virtualNetworks.md)
 - [Microsoft.Network/natGateways](aliases/Microsoft.Network/natGateways.md)
 - [Microsoft.Network/publicIPAddresses](aliases/Microsoft.Network/publicIPAddresses.md)
