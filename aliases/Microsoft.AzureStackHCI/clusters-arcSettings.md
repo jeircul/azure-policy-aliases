@@ -18,5 +18,4 @@
 | `properties.defaultExtensions[*]` | `Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions[*]` |
 | `properties.defaultExtensions[*].category` | `Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions[*].category` |
 | `properties.defaultExtensions[*].consentTime` | `Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions[*].consentTime` |
-| `properties.perNodeDetails[*].arcNodeServicePrincipalObjectId` | `Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails[*].arcNodeServicePrincipalObjectId` |
 
