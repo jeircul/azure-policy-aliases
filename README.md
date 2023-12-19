@@ -219,6 +219,10 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
 - [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
 - [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
+- [Microsoft.AzureStackHCI/clusters/deploymentSettings](aliases/Microsoft.AzureStackHCI/clusters-deploymentSettings.md)
+- [Microsoft.AzureStackHCI/edgeDevices](aliases/Microsoft.AzureStackHCI/edgeDevices.md)
+- [Microsoft.AzureStackHCI/logicalNetworks](aliases/Microsoft.AzureStackHCI/logicalNetworks.md)
+- [Microsoft.AzureStackHCI/Clusters/SecuritySettings](aliases/Microsoft.AzureStackHCI/Clusters-SecuritySettings.md)
 
 
 ## Microsoft.Batch
