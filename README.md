@@ -277,6 +277,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -391,7 +392,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.ContainerService
 
-- [Microsoft.ContainerService/containerServices](aliases/Microsoft.ContainerService/containerServices.md)
 - [Microsoft.ContainerService/fleets](aliases/Microsoft.ContainerService/fleets.md)
 - [Microsoft.ContainerService/fleets/members](aliases/Microsoft.ContainerService/fleets-members.md)
 - [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
