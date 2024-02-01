@@ -1535,6 +1535,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/managedInstances/serverConfigurationOptions](aliases/Microsoft.Sql/managedInstances-serverConfigurationOptions.md)
 - [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
+- [Microsoft.Sql/servers/networkSecurityPerimeterConfigurations](aliases/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.SqlVirtualMachine
