@@ -258,6 +258,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.BotService/botServices/channels](aliases/Microsoft.BotService/botServices-channels.md)
 - [Microsoft.BotService/botServices/connections](aliases/Microsoft.BotService/botServices-connections.md)
 - [Microsoft.BotService/botServices/privateEndpointConnections](aliases/Microsoft.BotService/botServices-privateEndpointConnections.md)
+- [Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.Cache
@@ -751,6 +752,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.EventHub/namespaces/authorizationrules](aliases/Microsoft.EventHub/namespaces-authorizationrules.md)
 - [Microsoft.EventHub/namespaces/networkrulesets](aliases/Microsoft.EventHub/namespaces-networkrulesets.md)
 - [Microsoft.EventHub/namespaces/privateEndpointConnections](aliases/Microsoft.EventHub/namespaces-privateEndpointConnections.md)
+- [Microsoft.EventHub/namespaces/networkSecurityPerimeterConfigurations](aliases/Microsoft.EventHub/namespaces-networkSecurityPerimeterConfigurations.md)
 - [Microsoft.EventHub/namespaces/eventhubs](aliases/Microsoft.EventHub/namespaces-eventhubs.md)
 - [Microsoft.EventHub/namespaces/eventhubs/authorizationrules](aliases/Microsoft.EventHub/namespaces-eventhubs-authorizationrules.md)
 - [Microsoft.EventHub/namespaces/eventhubs/consumergroups](aliases/Microsoft.EventHub/namespaces-eventhubs-consumergroups.md)
