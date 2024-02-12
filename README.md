@@ -278,7 +278,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -303,9 +302,9 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 - [Microsoft.CognitiveServices/accounts](aliases/Microsoft.CognitiveServices/accounts.md)
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
-- [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
 - [Microsoft.CognitiveServices/accounts/commitmentplans](aliases/Microsoft.CognitiveServices/accounts-commitmentplans.md)
 - [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
+- [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
 - [Microsoft.CognitiveServices/accounts/raiBlocklists](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists.md)
 - [Microsoft.CognitiveServices/accounts/raiPolicies](aliases/Microsoft.CognitiveServices/accounts-raiPolicies.md)
 
