@@ -17,21 +17,24 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
+    - name: Login
+      uses: jeircul/actions/az-login@main
+      with:
+        client-id: ${{ secrets.CLIENT_ID }}
+        tenant-id: ${{ secrets.TENANT_ID }}
     - name: Azure Login
       uses: Azure/login@v1
       with:
         creds: '${{ secrets.AZURE_CREDENTIALS }}'
         enable-AzPSSession: true
     - name: Get Updated Aliases
-      uses: Azure/powershell@v1
-      with:
-        inlineScript: |
+      shell: pwsh
+      run: |
           Set-Location $ENV:GITHUB_WORKSPACE
           Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
           dir
           ./src/Get-ResourceAliases.ps1
-        azPSVersion: latest
     - name: Auto commit changes
       run: |
         cd $GITHUB_WORKSPACE
