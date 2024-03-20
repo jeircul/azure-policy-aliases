@@ -3,7 +3,7 @@ name: Update Aliases
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -17,35 +17,36 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - name: Login
-      uses: ./.github/actions/az-login
-      with:
-        client-id: ${{ secrets.CLIENT_ID }}
-        tenant-id: ${{ secrets.TENANT_ID }}
-    - name: Get Updated Aliases
-      shell: pwsh
-      run: |
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Login
+        uses: ./.github/actions/az-login
+        with:
+          client-id: ${{ secrets.CLIENT_ID }}
+          tenant-id: ${{ secrets.TENANT_ID }}
+      - name: Get Updated Aliases
+        shell: pwsh
+        run: |
           Set-Location $ENV:GITHUB_WORKSPACE
           Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
           dir
           ./src/Get-ResourceAliases.ps1
-    - name: Auto commit changes
-      run: |
-        cd $GITHUB_WORKSPACE
-        now=$(date +'%a %d %b %Y')
-        git config --global user.email $ENV:GIT_USER_EMAIL
-        git config --global user.name $ENV:GIT_USER_NAME
-        git add --all
-        if [ -n "$(git status --porcelain)" ]
-        then
-          git commit -a -m "auto update aliases $now"
-          git push
-        fi
-    # - name: Create pull request
-    #   uses: peter-evans/create-pull-request@v5
-    #   with:
-    #     branch: aliases
-    #     title: "Auto update aliases"
-    #     labels: |
-    #       Automated PR
+      - name: Auto commit changes
+        run: |
+          cd $GITHUB_WORKSPACE
+          now=$(date +'%a %d %b %Y')
+          git config --global user.email $ENV:GIT_USER_EMAIL
+          git config --global user.name $ENV:GIT_USER_NAME
+          git add --all
+          if [ -n "$(git status --porcelain)" ]
+          then
+            git commit -a -m "auto update aliases $now"
+            git push
+          fi
+      # - name: Create pull request
+      #   uses: peter-evans/create-pull-request@v5
+      #   with:
+      #     branch: aliases
+      #     title: "Auto update aliases"
+      #     labels: |
+      #       Automated PR
