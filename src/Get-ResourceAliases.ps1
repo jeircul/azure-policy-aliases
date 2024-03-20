@@ -1,3 +1,4 @@
+if(-not (Get-Module Az.Resources -ListAvailable)){Install-Module Az.Resources -Force}
 $resourceTypes = Get-AzPolicyAlias -ListAvailable
 $providers = $resourceTypes | Group-Object -Property Namespace
 
