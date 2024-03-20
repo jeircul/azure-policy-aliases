@@ -96,8 +96,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.App/managedEnvironments](aliases/Microsoft.App/managedEnvironments.md)
 - [Microsoft.App/managedEnvironments/certificates](aliases/Microsoft.App/managedEnvironments-certificates.md)
 - [Microsoft.App/containerApps](aliases/Microsoft.App/containerApps.md)
+- [Microsoft.App/managedEnvironments/daprComponents](aliases/Microsoft.App/managedEnvironments-daprComponents.md)
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
-- [Microsoft.App/managedenvironments/daprcomponents](aliases/Microsoft.App/managedenvironments-daprcomponents.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
 - [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
 
@@ -307,6 +307,16 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
 - [Microsoft.CognitiveServices/accounts/raiBlocklists](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists.md)
 - [Microsoft.CognitiveServices/accounts/raiPolicies](aliases/Microsoft.CognitiveServices/accounts-raiPolicies.md)
+
+
+## Microsoft.Communication
+
+- [Microsoft.Communication/CommunicationServices](aliases/Microsoft.Communication/CommunicationServices.md)
+- [Microsoft.Communication/EmailServices](aliases/Microsoft.Communication/EmailServices.md)
+- [Microsoft.Communication/EmailServices/Domains](aliases/Microsoft.Communication/EmailServices-Domains.md)
+- [Microsoft.Communication/EmailServices/Domains/SenderUsernames](aliases/Microsoft.Communication/EmailServices-Domains-SenderUsernames.md)
+- [Microsoft.Communication/EmailServices/Domains/SuppressionLists](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists.md)
+- [Microsoft.Communication/EmailServices/Domains/SuppressionLists/SuppressionListAddresses](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists-SuppressionListAddresses.md)
 
 
 ## Microsoft.Compute
@@ -958,6 +968,10 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.MachineLearningServices/workspaces/models/versions](aliases/Microsoft.MachineLearningServices/workspaces-models-versions.md)
 - [Microsoft.MachineLearningServices/workspaces/linkedServices](aliases/Microsoft.MachineLearningServices/workspaces-linkedServices.md)
 - [Microsoft.MachineLearningServices/workspaces/schedules](aliases/Microsoft.MachineLearningServices/workspaces-schedules.md)
+- [Microsoft.MachineLearningServices/workspaces/featuresets](aliases/Microsoft.MachineLearningServices/workspaces-featuresets.md)
+- [Microsoft.MachineLearningServices/workspaces/serverlessEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-serverlessEndpoints.md)
+- [Microsoft.MachineLearningServices/workspaces/featurestoreEntities](aliases/Microsoft.MachineLearningServices/workspaces-featurestoreEntities.md)
+- [Microsoft.MachineLearningServices/workspaces/endpoints](aliases/Microsoft.MachineLearningServices/workspaces-endpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
 
@@ -1066,15 +1080,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.Network
 
-- [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
-- [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
-- [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/virtualNetworkGateways](aliases/Microsoft.Network/virtualNetworkGateways.md)
 - [Microsoft.Network/localNetworkGateways](aliases/Microsoft.Network/localNetworkGateways.md)
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
@@ -1103,6 +1108,15 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
 - [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
+- [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
+- [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
+- [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
@@ -1357,6 +1371,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Security/serverVulnerabilityAssessmentsSettings](aliases/Microsoft.Security/serverVulnerabilityAssessmentsSettings.md)
 - [Microsoft.Security/automations](aliases/Microsoft.Security/automations.md)
 - [Microsoft.Security/defenderForStorageSettings](aliases/Microsoft.Security/defenderForStorageSettings.md)
+- [Microsoft.Security/securityConnectors](aliases/Microsoft.Security/securityConnectors.md)
+- [Microsoft.Security/securityConnectors/devops](aliases/Microsoft.Security/securityConnectors-devops.md)
 - [Microsoft.Security/standards](aliases/Microsoft.Security/standards.md)
 - [Microsoft.Security/assignments](aliases/Microsoft.Security/assignments.md)
 
@@ -1570,6 +1586,15 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 - [Microsoft.StorageCache/caches](aliases/Microsoft.StorageCache/caches.md)
 - [Microsoft.StorageCache/caches/storageTargets](aliases/Microsoft.StorageCache/caches-storageTargets.md)
+
+
+## Microsoft.StorageMover
+
+- [Microsoft.StorageMover/storageMovers](aliases/Microsoft.StorageMover/storageMovers.md)
+- [Microsoft.StorageMover/storageMovers/projects](aliases/Microsoft.StorageMover/storageMovers-projects.md)
+- [Microsoft.StorageMover/storageMovers/agents](aliases/Microsoft.StorageMover/storageMovers-agents.md)
+- [Microsoft.StorageMover/storageMovers/endpoints](aliases/Microsoft.StorageMover/storageMovers-endpoints.md)
+- [Microsoft.StorageMover/storageMovers/projects/jobDefinitions](aliases/Microsoft.StorageMover/storageMovers-projects-jobDefinitions.md)
 
 
 ## Microsoft.StorageSync
