@@ -166,6 +166,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Automation/automationAccounts/softwareUpdateConfigurations](aliases/Microsoft.Automation/automationAccounts-softwareUpdateConfigurations.md)
 - [Microsoft.Automation/automationAccounts/jobs](aliases/Microsoft.Automation/automationAccounts-jobs.md)
 - [Microsoft.Automation/automationAccounts/privateEndpointConnections](aliases/Microsoft.Automation/automationAccounts-privateEndpointConnections.md)
+- [Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups](aliases/Microsoft.Automation/automationAccounts-hybridRunbookWorkerGroups.md)
+- [Microsoft.Automation/automationAccounts/hybridRunbookWorkerGroups/hybridRunbookWorkers](aliases/Microsoft.Automation/automationAccounts-hybridRunbookWorkerGroups-hybridRunbookWorkers.md)
 - [Microsoft.Automation/automationAccounts/variables](aliases/Microsoft.Automation/automationAccounts-variables.md)
 - [Microsoft.Automation/automationAccounts/certificates](aliases/Microsoft.Automation/automationAccounts-certificates.md)
 - [Microsoft.Automation/automationAccounts/compilationjobs](aliases/Microsoft.Automation/automationAccounts-compilationjobs.md)
@@ -275,6 +277,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -421,6 +424,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 - [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
 - [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
+- [Microsoft.Dashboard/grafana/managedPrivateEndpoints](aliases/Microsoft.Dashboard/grafana-managedPrivateEndpoints.md)
 
 
 ## Microsoft.DataBox
@@ -1080,9 +1084,16 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
 - [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
-- [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
-- [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
-- [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
+- [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
+- [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
+- [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
+- [Microsoft.Network/privateDnsZones/AAAA](aliases/Microsoft.Network/privateDnsZones-AAAA.md)
+- [Microsoft.Network/privateDnsZones/CNAME](aliases/Microsoft.Network/privateDnsZones-CNAME.md)
+- [Microsoft.Network/privateDnsZones/PTR](aliases/Microsoft.Network/privateDnsZones-PTR.md)
+- [Microsoft.Network/privateDnsZones/MX](aliases/Microsoft.Network/privateDnsZones-MX.md)
+- [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
+- [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
+- [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
 - [Microsoft.Network/virtualNetworkGateways](aliases/Microsoft.Network/virtualNetworkGateways.md)
 - [Microsoft.Network/localNetworkGateways](aliases/Microsoft.Network/localNetworkGateways.md)
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
@@ -1111,22 +1122,15 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
 - [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
+- [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
+- [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
+- [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
 - [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
 - [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
 - [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
 - [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
 - [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
 - [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
-- [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
-- [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
-- [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
-- [Microsoft.Network/privateDnsZones/AAAA](aliases/Microsoft.Network/privateDnsZones-AAAA.md)
-- [Microsoft.Network/privateDnsZones/CNAME](aliases/Microsoft.Network/privateDnsZones-CNAME.md)
-- [Microsoft.Network/privateDnsZones/PTR](aliases/Microsoft.Network/privateDnsZones-PTR.md)
-- [Microsoft.Network/privateDnsZones/MX](aliases/Microsoft.Network/privateDnsZones-MX.md)
-- [Microsoft.Network/privateDnsZones/TXT](aliases/Microsoft.Network/privateDnsZones-TXT.md)
-- [Microsoft.Network/privateDnsZones/SRV](aliases/Microsoft.Network/privateDnsZones-SRV.md)
-- [Microsoft.Network/privateDnsZones/SOA](aliases/Microsoft.Network/privateDnsZones-SOA.md)
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
 - [Microsoft.Network/dnszones/AAAA](aliases/Microsoft.Network/dnszones-AAAA.md)
