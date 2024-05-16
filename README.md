@@ -633,6 +633,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies.md)
 
 
+## Microsoft.DevOpsInfrastructure
+
+- [Microsoft.DevOpsInfrastructure/pools](aliases/Microsoft.DevOpsInfrastructure/pools.md)
+
+
 ## Microsoft.DevTestLab
 
 - [Microsoft.DevTestLab/labs](aliases/Microsoft.DevTestLab/labs.md)
