@@ -618,6 +618,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DevCenter/projects/environmentTypes](aliases/Microsoft.DevCenter/projects-environmentTypes.md)
 - [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
 - [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
+- [Microsoft.DevCenter/projects/catalogs](aliases/Microsoft.DevCenter/projects-catalogs.md)
 
 
 ## Microsoft.Devices
