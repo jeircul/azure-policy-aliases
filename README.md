@@ -306,7 +306,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1016,9 +1015,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.MachineLearningServices/workspaces/endpoints](aliases/Microsoft.MachineLearningServices/workspaces-endpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/connections](aliases/Microsoft.MachineLearningServices/workspaces-connections.md)
 - [Microsoft.MachineLearningServices/workspaces/privateEndpointConnections](aliases/Microsoft.MachineLearningServices/workspaces-privateEndpointConnections.md)
-- [Microsoft.MachineLearningServices/workspaces/connections/deployments](aliases/Microsoft.MachineLearningServices/workspaces-connections-deployments.md)
-- [Microsoft.MachineLearningServices/workspaces/endpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-endpoints-deployments.md)
-- [Microsoft.MachineLearningServices/workspaces/outboundRules](aliases/Microsoft.MachineLearningServices/workspaces-outboundRules.md)
 
 
 ## Microsoft.Maintenance
@@ -1131,6 +1127,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.Network
 
+- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
+- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
+- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
+- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
+- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
+- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
+- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/virtualNetworkGateways](aliases/Microsoft.Network/virtualNetworkGateways.md)
 - [Microsoft.Network/localNetworkGateways](aliases/Microsoft.Network/localNetworkGateways.md)
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
@@ -1155,9 +1158,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/trafficmanagerprofiles/externalendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-externalendpoints.md)
 - [Microsoft.Network/trafficmanagerprofiles/nestedendpoints](aliases/Microsoft.Network/trafficmanagerprofiles-nestedendpoints.md)
 - [Microsoft.Network/trafficManagerUserMetricsKeys](aliases/Microsoft.Network/trafficManagerUserMetricsKeys.md)
-- [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
-- [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
-- [Microsoft.Network/networkSecurityPerimeters](aliases/Microsoft.Network/networkSecurityPerimeters.md)
 - [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
 - [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
 - [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
@@ -1177,10 +1177,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
 - [Microsoft.Network/dnszones/DS](aliases/Microsoft.Network/dnszones-DS.md)
 - [Microsoft.Network/dnszones/TLSA](aliases/Microsoft.Network/dnszones-TLSA.md)
-- [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
-- [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
-- [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
-- [Microsoft.Network/networkVirtualAppliances](aliases/Microsoft.Network/networkVirtualAppliances.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
