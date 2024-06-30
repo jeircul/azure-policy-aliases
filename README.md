@@ -1130,6 +1130,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.Network
 
+- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
+- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
+- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
+- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
+- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
+- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
@@ -1174,12 +1180,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/dnszones/CAA](aliases/Microsoft.Network/dnszones-CAA.md)
 - [Microsoft.Network/dnszones/DS](aliases/Microsoft.Network/dnszones-DS.md)
 - [Microsoft.Network/dnszones/TLSA](aliases/Microsoft.Network/dnszones-TLSA.md)
-- [Microsoft.Network/dnsResolvers](aliases/Microsoft.Network/dnsResolvers.md)
-- [Microsoft.Network/dnsResolvers/inboundEndpoints](aliases/Microsoft.Network/dnsResolvers-inboundEndpoints.md)
-- [Microsoft.Network/dnsResolvers/outboundEndpoints](aliases/Microsoft.Network/dnsResolvers-outboundEndpoints.md)
-- [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
-- [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
-- [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones](aliases/Microsoft.Network/privateDnsZones.md)
 - [Microsoft.Network/privateDnsZones/virtualNetworkLinks](aliases/Microsoft.Network/privateDnsZones-virtualNetworkLinks.md)
 - [Microsoft.Network/privateDnsZones/A](aliases/Microsoft.Network/privateDnsZones-A.md)
