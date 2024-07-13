@@ -820,6 +820,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ExtendedLocation/customLocations/resourceSyncRules](aliases/Microsoft.ExtendedLocation/customLocations-resourceSyncRules.md)
 
 
+## Microsoft.Fabric
+
+- [Microsoft.Fabric/capacities](aliases/Microsoft.Fabric/capacities.md)
+
+
 ## Microsoft.Features
 
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
