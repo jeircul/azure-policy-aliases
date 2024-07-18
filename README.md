@@ -309,6 +309,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -753,6 +754,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DocumentDB/databaseAccounts/dataTransferJobs](aliases/Microsoft.DocumentDB/databaseAccounts-dataTransferJobs.md)
 - [Microsoft.DocumentDB/mongoClusters/firewallRules](aliases/Microsoft.DocumentDB/mongoClusters-firewallRules.md)
 - [Microsoft.DocumentDB/mongoClusters/privateEndpointConnections](aliases/Microsoft.DocumentDB/mongoClusters-privateEndpointConnections.md)
+- [Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterConfigurations](aliases/Microsoft.DocumentDB/databaseAccounts-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.EdgeOrder
@@ -918,9 +920,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.KeyVault/vaults](aliases/Microsoft.KeyVault/vaults.md)
 - [Microsoft.KeyVault/vaults/secrets](aliases/Microsoft.KeyVault/vaults-secrets.md)
 - [Microsoft.KeyVault/managedHSMs](aliases/Microsoft.KeyVault/managedHSMs.md)
+- [Microsoft.KeyVault/managedHSMs/keys](aliases/Microsoft.KeyVault/managedHSMs-keys.md)
 - [Microsoft.KeyVault/vaults/keys](aliases/Microsoft.KeyVault/vaults-keys.md)
 - [Microsoft.KeyVault/vaults/privateEndpointConnections](aliases/Microsoft.KeyVault/vaults-privateEndpointConnections.md)
 - [Microsoft.KeyVault/managedHSMs/privateEndpointConnections](aliases/Microsoft.KeyVault/managedHSMs-privateEndpointConnections.md)
+- [Microsoft.KeyVault/vaults/networkSecurityPerimeterConfigurations](aliases/Microsoft.KeyVault/vaults-networkSecurityPerimeterConfigurations.md)
 
 
 ## Microsoft.Kubernetes
