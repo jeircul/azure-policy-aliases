@@ -1757,13 +1757,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
 
 
-## Microsoft.TimeSeriesInsights
-
-- [Microsoft.TimeSeriesInsights/environments](aliases/Microsoft.TimeSeriesInsights/environments.md)
-- [Microsoft.TimeSeriesInsights/environments/referenceDataSets](aliases/Microsoft.TimeSeriesInsights/environments-referenceDataSets.md)
-- [Microsoft.TimeSeriesInsights/environments/accessPolicies](aliases/Microsoft.TimeSeriesInsights/environments-accessPolicies.md)
-
-
 ## Microsoft.VirtualMachineImages
 
 - [Microsoft.VirtualMachineImages/imageTemplates](aliases/Microsoft.VirtualMachineImages/imageTemplates.md)
