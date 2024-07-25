@@ -3,8 +3,6 @@
 
 This repository contains all available resource property aliases for easy reference when creating Policy definitions.
 The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
-
-
 ## Microsoft.AAD
 
 - [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
