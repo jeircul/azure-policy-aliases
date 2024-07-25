@@ -20,11 +20,6 @@ runs:
         ENABLE_CLI: ${{ inputs.enable-cli }}
       shell: pwsh
       run: |
-        # Validate inputs
-        if(-not $Env:CLIENT_ID -or -not $Env:TENANT_ID) {
-          throw "Client ID and Tenant ID are required."
-        }
-
         # Install Az.Accounts if not available
         if(-not (Get-Module Az.Accounts -ListAvailable)){
           Install-Module Az.Accounts -Force -ErrorAction Stop
