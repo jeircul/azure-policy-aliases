@@ -5,11 +5,6 @@ Last revision: Jul 25th by [ovea](ovea@equinor.com).
 This action logs into Azure PowerShell using Open ID Connect and Federated Credentials.
 It also supports Azure CLI with the `enable-cli` option.
 
-## Prerequisites
-
-- Az.Accounts module should be installed.
-  The action will install it if it does not exist.
-
 ## Inputs
 
 - `client-id`: The Client ID of the identity to federate. This is a required input.
@@ -27,6 +22,7 @@ This action does not produce any outputs.
 2. Gets the federated token from environment variables.
 3. Invokes a web request to retrieve the JWT token.
 4. Uses `Connect-AzAccount` to perform the authentication.
+5. Uses `az login` to perform authentication for AZ CLI if specified.
 
 ## How to use
 
