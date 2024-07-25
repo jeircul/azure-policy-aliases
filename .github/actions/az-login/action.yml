@@ -1,7 +1,3 @@
-# Internally used GitHub action to authenticate to Azure using OIDC (federated token)
-# This is usually used by managed identities
-# Last revision: Feb 15th, 2024
-
 name: Azure Federated Credentials login
 description: Login to Azure Powershell with Federated Credentials, also installs Az.Accounts if it is not installed
 inputs:
@@ -24,10 +20,23 @@ runs:
         ENABLE_CLI: ${{ inputs.enable-cli }}
       shell: pwsh
       run: |
-        if(-not (Get-Module Az.Accounts -ListAvailable)){Install-Module Az.Accounts -Force}
+        # Validate inputs
+        if(-not $Env:CLIENT_ID -or -not $Env:TENANT_ID) {
+          throw "Client ID and Tenant ID are required."
+        }
+
+        # Install Az.Accounts if not available
+        if(-not (Get-Module Az.Accounts -ListAvailable)){
+          Install-Module Az.Accounts -Force -ErrorAction Stop
+        }
+
+        # Get federated token
         $secureOIDCToken = $ENV:ACTIONS_ID_TOKEN_REQUEST_TOKEN | ConvertTo-SecureString -AsPlainText
         $federatedToken = (Invoke-RestMethod "$($ENV:ACTIONS_ID_TOKEN_REQUEST_URL)&audience=api://AzureADTokenExchange" -Authentication Bearer -token $secureOIDCToken).value
-        Connect-AzAccount -FederatedToken $federatedToken -Tenant $Env:TENANT_ID -ApplicationID $Env:CLIENT_ID
+
+        # Connect to Azure account
+        Connect-AzAccount -FederatedToken $federatedToken -Tenant $Env:TENANT_ID -ApplicationID $Env:CLIENT_ID -ErrorAction Stop
+
         # Az Login if enable-cli option is set
         if($ENV:ENABLE_CLI) {
           az login --service-principal -u $($Env:CLIENT_ID) -t $($Env:TENANT_ID) --federated-token $federatedToken --allow-no-subscriptions
