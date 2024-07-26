@@ -307,7 +307,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1388,7 +1387,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.RecoveryServices/vaults/replicationFabrics/replicationRecoveryServicesProviders](aliases/Microsoft.RecoveryServices/vaults-replicationFabrics-replicationRecoveryServicesProviders.md)
 - [Microsoft.RecoveryServices/Vaults/backupResourceGuardProxies](aliases/Microsoft.RecoveryServices/Vaults-backupResourceGuardProxies.md)
 - [Microsoft.RecoveryServices/Vaults/privateEndpointConnections](aliases/Microsoft.RecoveryServices/Vaults-privateEndpointConnections.md)
-- [Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems-recoveryPoints.md)
 
 
 ## Microsoft.RedHatOpenShift
