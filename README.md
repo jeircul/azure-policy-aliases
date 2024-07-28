@@ -307,6 +307,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -487,11 +488,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Databricks/accessConnectors](aliases/Microsoft.Databricks/accessConnectors.md)
 - [Microsoft.Databricks/workspaces/virtualNetworkPeerings](aliases/Microsoft.Databricks/workspaces-virtualNetworkPeerings.md)
 - [Microsoft.Databricks/workspaces/privateEndpointConnections](aliases/Microsoft.Databricks/workspaces-privateEndpointConnections.md)
-
-
-## Microsoft.DataCatalog
-
-- [Microsoft.DataCatalog/catalogs](aliases/Microsoft.DataCatalog/catalogs.md)
 
 
 ## Microsoft.Datadog
