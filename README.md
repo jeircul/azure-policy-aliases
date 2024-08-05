@@ -1600,6 +1600,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/locations/serverTrustGroups](aliases/Microsoft.Sql/locations-serverTrustGroups.md)
 - [Microsoft.Sql/servers/connectionPolicies](aliases/Microsoft.Sql/servers-connectionPolicies.md)
 - [Microsoft.Sql/managedInstances/databases/ledgerDigestUploads](aliases/Microsoft.Sql/managedInstances-databases-ledgerDigestUploads.md)
+- [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
 - [Microsoft.Sql/servers/firewallRules](aliases/Microsoft.Sql/servers-firewallRules.md)
 - [Microsoft.Sql/servers/databases/connectionPolicies](aliases/Microsoft.Sql/servers-databases-connectionPolicies.md)
 - [Microsoft.Sql/managedInstances/securityAlertPolicies](aliases/Microsoft.Sql/managedInstances-securityAlertPolicies.md)
@@ -1636,7 +1637,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/servers/databases/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-databases-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/servers/sqlVulnerabilityAssessments/baselines/rules](aliases/Microsoft.Sql/servers-sqlVulnerabilityAssessments-baselines-rules.md)
 - [Microsoft.Sql/managedInstances/serverConfigurationOptions](aliases/Microsoft.Sql/managedInstances-serverConfigurationOptions.md)
-- [Microsoft.Sql/servers/databases/replicationLinks](aliases/Microsoft.Sql/servers-databases-replicationLinks.md)
 - [Microsoft.Sql/servers/networkSecurityPerimeterConfigurations](aliases/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations.md)
 
 
