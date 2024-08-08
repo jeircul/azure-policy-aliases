@@ -307,7 +307,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -860,11 +859,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.HealthcareApis/workspaces/iotconnectors](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors.md)
 - [Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations.md)
 - [Microsoft.HealthcareApis/workspaces/fhirservices](aliases/Microsoft.HealthcareApis/workspaces-fhirservices.md)
-
-
-## Microsoft.HealthDataAIServices
-
-- [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
 
 
 ## Microsoft.HybridCompute
