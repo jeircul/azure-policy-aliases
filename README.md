@@ -861,6 +861,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.HealthcareApis/workspaces/fhirservices](aliases/Microsoft.HealthcareApis/workspaces-fhirservices.md)
 
 
+## Microsoft.HealthDataAIServices
+
+- [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
+
+
 ## Microsoft.HybridCompute
 
 - [Microsoft.HybridCompute/machines](aliases/Microsoft.HybridCompute/machines.md)
