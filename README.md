@@ -10,7 +10,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## microsoft.aadiam
 
-- [microsoft.aadiam/azureADMetrics](aliases/microsoft.aadiam/azureADMetrics.md)
 - [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
 - [microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections](aliases/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections.md)
 
@@ -307,6 +306,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
