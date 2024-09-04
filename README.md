@@ -246,6 +246,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AzureArcData/SqlServerInstances/AvailabilityGroups](aliases/Microsoft.AzureArcData/SqlServerInstances-AvailabilityGroups.md)
 
 
+## Microsoft.AzureFleet
+
+- [Microsoft.AzureFleet/fleets](aliases/Microsoft.AzureFleet/fleets.md)
+
+
 ## Microsoft.AzureStackHCI
 
 - [Microsoft.AzureStackHCI/galleryImages](aliases/Microsoft.AzureStackHCI/galleryImages.md)
