@@ -311,6 +311,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -755,6 +756,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DocumentDB/databaseAccounts/networkSecurityPerimeterConfigurations](aliases/Microsoft.DocumentDB/databaseAccounts-networkSecurityPerimeterConfigurations.md)
 
 
+## Microsoft.DomainRegistration
+
+- [Microsoft.DomainRegistration/domains](aliases/Microsoft.DomainRegistration/domains.md)
+- [Microsoft.DomainRegistration/domains/domainOwnershipIdentifiers](aliases/Microsoft.DomainRegistration/domains-domainOwnershipIdentifiers.md)
+
+
 ## Microsoft.EdgeOrder
 
 - [Microsoft.EdgeOrder/addresses](aliases/Microsoft.EdgeOrder/addresses.md)
@@ -995,13 +1002,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations](aliases/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations.md)
 
 
-## Microsoft.MachineLearning
-
-- [Microsoft.MachineLearning/Workspaces](aliases/Microsoft.MachineLearning/Workspaces.md)
-- [Microsoft.MachineLearning/webServices](aliases/Microsoft.MachineLearning/webServices.md)
-- [Microsoft.MachineLearning/commitmentPlans](aliases/Microsoft.MachineLearning/commitmentPlans.md)
-
-
 ## Microsoft.MachineLearningServices
 
 - [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
@@ -1189,6 +1189,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/bastionHosts](aliases/Microsoft.Network/bastionHosts.md)
 - [Microsoft.Network/networkManagers](aliases/Microsoft.Network/networkManagers.md)
 - [Microsoft.Network/networkManagerConnections](aliases/Microsoft.Network/networkManagerConnections.md)
+- [Microsoft.Network/networkManagers/ipamPools](aliases/Microsoft.Network/networkManagers-ipamPools.md)
+- [Microsoft.Network/networkManagers/verifierWorkspaces](aliases/Microsoft.Network/networkManagers-verifierWorkspaces.md)
 - [Microsoft.Network/firewallPolicies](aliases/Microsoft.Network/firewallPolicies.md)
 - [Microsoft.Network/ipGroups](aliases/Microsoft.Network/ipGroups.md)
 - [Microsoft.Network/virtualRouters](aliases/Microsoft.Network/virtualRouters.md)
@@ -1282,6 +1284,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-securityAdminConfigurations-ruleCollections-rules.md)
 - [Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-securityUserConfigurations-ruleCollections-rules.md)
 - [Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections](aliases/Microsoft.Network/networkVirtualAppliances-networkVirtualApplianceConnections.md)
+- [Microsoft.Network/networkManagers/routingConfigurations](aliases/Microsoft.Network/networkManagers-routingConfigurations.md)
+- [Microsoft.Network/networkManagers/routingConfigurations/ruleCollections](aliases/Microsoft.Network/networkManagers-routingConfigurations-ruleCollections.md)
+- [Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-routingConfigurations-ruleCollections-rules.md)
+- [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
+- [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 
 
 ## Microsoft.NetworkCloud
