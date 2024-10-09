@@ -311,6 +311,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1547,11 +1548,19 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 - [Microsoft.SignalRService/SignalR](aliases/Microsoft.SignalRService/SignalR.md)
 - [Microsoft.SignalRService/WebPubSub](aliases/Microsoft.SignalRService/WebPubSub.md)
+- [Microsoft.SignalRService/SignalR/replicas](aliases/Microsoft.SignalRService/SignalR-replicas.md)
+- [Microsoft.SignalRService/WebPubSub/replicas](aliases/Microsoft.SignalRService/WebPubSub-replicas.md)
+- [Microsoft.SignalRService/SignalR/customDomains](aliases/Microsoft.SignalRService/SignalR-customDomains.md)
+- [Microsoft.SignalRService/WebPubSub/customDomains](aliases/Microsoft.SignalRService/WebPubSub-customDomains.md)
 - [Microsoft.SignalRService/signalR/privateEndpointConnections](aliases/Microsoft.SignalRService/signalR-privateEndpointConnections.md)
 - [Microsoft.SignalRService/SignalR/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/WebPubSub/privateEndpointConnections](aliases/Microsoft.SignalRService/WebPubSub-privateEndpointConnections.md)
 - [Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-sharedPrivateLinkResources.md)
 - [Microsoft.SignalRService/WebPubSub/hubs](aliases/Microsoft.SignalRService/WebPubSub-hubs.md)
+- [Microsoft.SignalRService/SignalR/customCertificates](aliases/Microsoft.SignalRService/SignalR-customCertificates.md)
+- [Microsoft.SignalRService/SignalR/replicas/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/SignalR-replicas-sharedPrivateLinkResources.md)
+- [Microsoft.SignalRService/WebPubSub/customCertificates](aliases/Microsoft.SignalRService/WebPubSub-customCertificates.md)
+- [Microsoft.SignalRService/WebPubSub/replicas/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-replicas-sharedPrivateLinkResources.md)
 
 
 ## Microsoft.Singularity
