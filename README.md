@@ -1041,6 +1041,9 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.MachineLearningServices/workspaces/connections/deployments](aliases/Microsoft.MachineLearningServices/workspaces-connections-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/endpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-endpoints-deployments.md)
 - [Microsoft.MachineLearningServices/workspaces/outboundRules](aliases/Microsoft.MachineLearningServices/workspaces-outboundRules.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/raiBlocklists](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/raiBlocklists/raiBlocklistItems](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists-raiBlocklistItems.md)
+- [Microsoft.MachineLearningServices/workspaces/connections/raiPolicies](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiPolicies.md)
 
 
 ## Microsoft.Maintenance
