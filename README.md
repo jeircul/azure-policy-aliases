@@ -1327,6 +1327,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.NotificationHubs/namespaces/notificationHubs](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs.md)
 - [Microsoft.NotificationHubs/Namespaces/AuthorizationRules](aliases/Microsoft.NotificationHubs/Namespaces-AuthorizationRules.md)
 - [Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules.md)
+- [Microsoft.NotificationHubs/namespaces/privateEndpointConnections](aliases/Microsoft.NotificationHubs/namespaces-privateEndpointConnections.md)
 
 
 ## Microsoft.OffAzure
