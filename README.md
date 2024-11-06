@@ -30,6 +30,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.ApiManagement
 
 - [Microsoft.ApiManagement/service](aliases/Microsoft.ApiManagement/service.md)
+- [Microsoft.ApiManagement/gateways](aliases/Microsoft.ApiManagement/gateways.md)
 - [Microsoft.ApiManagement/service/apis/diagnostics](aliases/Microsoft.ApiManagement/service-apis-diagnostics.md)
 - [Microsoft.ApiManagement/service/apis/issues](aliases/Microsoft.ApiManagement/service-apis-issues.md)
 - [Microsoft.ApiManagement/service/apis/issues/attachments](aliases/Microsoft.ApiManagement/service-apis-issues-attachments.md)
@@ -108,6 +109,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ApiManagement/service/workspaces/tags/apiLinks](aliases/Microsoft.ApiManagement/service-workspaces-tags-apiLinks.md)
 - [Microsoft.ApiManagement/service/workspaces/tags/operationLinks](aliases/Microsoft.ApiManagement/service-workspaces-tags-operationLinks.md)
 - [Microsoft.ApiManagement/service/workspaces/tags/productLinks](aliases/Microsoft.ApiManagement/service-workspaces-tags-productLinks.md)
+- [Microsoft.ApiManagement/gateways/configConnections](aliases/Microsoft.ApiManagement/gateways-configConnections.md)
+- [Microsoft.ApiManagement/service/workspaces/apis/diagnostics](aliases/Microsoft.ApiManagement/service-workspaces-apis-diagnostics.md)
+- [Microsoft.ApiManagement/service/workspaces/backends](aliases/Microsoft.ApiManagement/service-workspaces-backends.md)
+- [Microsoft.ApiManagement/service/workspaces/certificates](aliases/Microsoft.ApiManagement/service-workspaces-certificates.md)
+- [Microsoft.ApiManagement/service/workspaces/diagnostics](aliases/Microsoft.ApiManagement/service-workspaces-diagnostics.md)
+- [Microsoft.ApiManagement/service/workspaces/loggers](aliases/Microsoft.ApiManagement/service-workspaces-loggers.md)
 
 
 ## Microsoft.App
