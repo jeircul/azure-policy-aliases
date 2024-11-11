@@ -889,7 +889,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.HealthDataAIServices
 
-- [Microsoft.HealthDataAIServices/DeidServices](aliases/Microsoft.HealthDataAIServices/DeidServices.md)
+- [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
 - [Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/deidServices-privateEndpointConnections.md)
 
 
