@@ -11,7 +11,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## microsoft.aadiam
 
 - [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
-- [microsoft.aadiam/privateLinkForAzureAD/privateEndpointConnections](aliases/microsoft.aadiam/privateLinkForAzureAD-privateEndpointConnections.md)
 
 
 ## Microsoft.AlertsManagement
