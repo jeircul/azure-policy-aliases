@@ -1118,7 +1118,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.MixedReality
 
-- [Microsoft.MixedReality/spatialAnchorsAccounts](aliases/Microsoft.MixedReality/spatialAnchorsAccounts.md)
 - [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
 
 
