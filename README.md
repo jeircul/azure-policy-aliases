@@ -323,7 +323,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1800,12 +1799,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments](aliases/Microsoft.Synapse/workspaces-kustoPools-PrincipalAssignments.md)
 - [Microsoft.Synapse/workspaces/azureADOnlyAuthentications](aliases/Microsoft.Synapse/workspaces-azureADOnlyAuthentications.md)
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
-
-
-## Microsoft.VideoIndexer
-
-- [Microsoft.VideoIndexer/accounts](aliases/Microsoft.VideoIndexer/accounts.md)
-- [Microsoft.VideoIndexer/accounts/privateEndpointConnections](aliases/Microsoft.VideoIndexer/accounts-privateEndpointConnections.md)
 
 
 ## Microsoft.VirtualMachineImages
