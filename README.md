@@ -1801,6 +1801,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
 
 
+## Microsoft.VideoIndexer
+
+- [Microsoft.VideoIndexer/accounts](aliases/Microsoft.VideoIndexer/accounts.md)
+- [Microsoft.VideoIndexer/accounts/privateEndpointConnections](aliases/Microsoft.VideoIndexer/accounts-privateEndpointConnections.md)
+
+
 ## Microsoft.VirtualMachineImages
 
 - [Microsoft.VirtualMachineImages/imageTemplates](aliases/Microsoft.VirtualMachineImages/imageTemplates.md)
