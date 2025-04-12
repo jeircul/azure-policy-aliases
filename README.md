@@ -883,13 +883,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.HealthcareApis
 
+- [Microsoft.HealthcareApis/workspaces/iotconnectors](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors.md)
+- [Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations.md)
 - [Microsoft.HealthcareApis/services](aliases/Microsoft.HealthcareApis/services.md)
 - [Microsoft.HealthcareApis/services/privateEndpointConnections](aliases/Microsoft.HealthcareApis/services-privateEndpointConnections.md)
 - [Microsoft.HealthcareApis/workspaces](aliases/Microsoft.HealthcareApis/workspaces.md)
 - [Microsoft.HealthcareApis/workspaces/privateEndpointConnections](aliases/Microsoft.HealthcareApis/workspaces-privateEndpointConnections.md)
 - [Microsoft.HealthcareApis/workspaces/dicomservices](aliases/Microsoft.HealthcareApis/workspaces-dicomservices.md)
-- [Microsoft.HealthcareApis/workspaces/iotconnectors](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors.md)
-- [Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations.md)
 - [Microsoft.HealthcareApis/workspaces/fhirservices](aliases/Microsoft.HealthcareApis/workspaces-fhirservices.md)
 
 
