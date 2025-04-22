@@ -144,9 +144,9 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.AppConfiguration
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
-- [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
 - [Microsoft.AppConfiguration/configurationStores/snapshots](aliases/Microsoft.AppConfiguration/configurationStores-snapshots.md)
+- [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
@@ -323,7 +323,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -1088,6 +1087,24 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 - [Microsoft.Maps/accounts](aliases/Microsoft.Maps/accounts.md)
 - [Microsoft.Maps/accounts/creators](aliases/Microsoft.Maps/accounts-creators.md)
+
+
+## Microsoft.Media
+
+- [Microsoft.Media/mediaservices](aliases/Microsoft.Media/mediaservices.md)
+- [Microsoft.Media/mediaservices/assets](aliases/Microsoft.Media/mediaservices-assets.md)
+- [Microsoft.Media/mediaservices/contentKeyPolicies](aliases/Microsoft.Media/mediaservices-contentKeyPolicies.md)
+- [Microsoft.Media/mediaservices/streamingLocators](aliases/Microsoft.Media/mediaservices-streamingLocators.md)
+- [Microsoft.Media/mediaservices/streamingPolicies](aliases/Microsoft.Media/mediaservices-streamingPolicies.md)
+- [Microsoft.Media/mediaservices/transforms](aliases/Microsoft.Media/mediaservices-transforms.md)
+- [Microsoft.Media/mediaservices/transforms/jobs](aliases/Microsoft.Media/mediaservices-transforms-jobs.md)
+- [Microsoft.Media/mediaservices/streamingEndpoints](aliases/Microsoft.Media/mediaservices-streamingEndpoints.md)
+- [Microsoft.Media/mediaservices/liveEvents](aliases/Microsoft.Media/mediaservices-liveEvents.md)
+- [Microsoft.Media/mediaservices/liveEvents/liveOutputs](aliases/Microsoft.Media/mediaservices-liveEvents-liveOutputs.md)
+- [Microsoft.Media/mediaservices/privateEndpointConnections](aliases/Microsoft.Media/mediaservices-privateEndpointConnections.md)
+- [Microsoft.Media/mediaservices/assets/assetFilters](aliases/Microsoft.Media/mediaservices-assets-assetFilters.md)
+- [Microsoft.Media/mediaservices/accountFilters](aliases/Microsoft.Media/mediaservices-accountFilters.md)
+- [Microsoft.Media/mediaservices/mediaGraphs](aliases/Microsoft.Media/mediaservices-mediaGraphs.md)
 
 
 ## Microsoft.Migrate
