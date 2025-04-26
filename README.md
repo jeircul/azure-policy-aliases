@@ -265,19 +265,19 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.AzureStackHCI
 
-- [Microsoft.AzureStackHCI/galleryImages](aliases/Microsoft.AzureStackHCI/galleryImages.md)
-- [Microsoft.AzureStackHCI/networkInterfaces](aliases/Microsoft.AzureStackHCI/networkInterfaces.md)
-- [Microsoft.AzureStackHCI/virtualHardDisks](aliases/Microsoft.AzureStackHCI/virtualHardDisks.md)
 - [Microsoft.AzureStackHCI/clusters](aliases/Microsoft.AzureStackHCI/clusters.md)
 - [Microsoft.AzureStackHCI/clusters/arcSettings](aliases/Microsoft.AzureStackHCI/clusters-arcSettings.md)
 - [Microsoft.AzureStackHCI/clusters/arcSettings/extensions](aliases/Microsoft.AzureStackHCI/clusters-arcSettings-extensions.md)
-- [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
-- [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
-- [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
 - [Microsoft.AzureStackHCI/clusters/deploymentSettings](aliases/Microsoft.AzureStackHCI/clusters-deploymentSettings.md)
 - [Microsoft.AzureStackHCI/edgeDevices](aliases/Microsoft.AzureStackHCI/edgeDevices.md)
-- [Microsoft.AzureStackHCI/logicalNetworks](aliases/Microsoft.AzureStackHCI/logicalNetworks.md)
 - [Microsoft.AzureStackHCI/clusters/securitySettings](aliases/Microsoft.AzureStackHCI/clusters-securitySettings.md)
+- [Microsoft.AzureStackHCI/galleryImages](aliases/Microsoft.AzureStackHCI/galleryImages.md)
+- [Microsoft.AzureStackHCI/marketplaceGalleryImages](aliases/Microsoft.AzureStackHCI/marketplaceGalleryImages.md)
+- [Microsoft.AzureStackHCI/logicalNetworks](aliases/Microsoft.AzureStackHCI/logicalNetworks.md)
+- [Microsoft.AzureStackHCI/networkInterfaces](aliases/Microsoft.AzureStackHCI/networkInterfaces.md)
+- [Microsoft.AzureStackHCI/storageContainers](aliases/Microsoft.AzureStackHCI/storageContainers.md)
+- [Microsoft.AzureStackHCI/virtualHardDisks](aliases/Microsoft.AzureStackHCI/virtualHardDisks.md)
+- [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
 
 
 ## Microsoft.Batch
