@@ -323,6 +323,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -664,17 +665,17 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.DevCenter
 
 - [Microsoft.DevCenter/devcenters](aliases/Microsoft.DevCenter/devcenters.md)
-- [Microsoft.DevCenter/devcenters/catalogs](aliases/Microsoft.DevCenter/devcenters-catalogs.md)
-- [Microsoft.DevCenter/devcenters/attachednetworks](aliases/Microsoft.DevCenter/devcenters-attachednetworks.md)
-- [Microsoft.DevCenter/devcenters/devboxdefinitions](aliases/Microsoft.DevCenter/devcenters-devboxdefinitions.md)
-- [Microsoft.DevCenter/devcenters/environmentTypes](aliases/Microsoft.DevCenter/devcenters-environmentTypes.md)
-- [Microsoft.DevCenter/devcenters/galleries](aliases/Microsoft.DevCenter/devcenters-galleries.md)
-- [Microsoft.DevCenter/networkconnections](aliases/Microsoft.DevCenter/networkconnections.md)
 - [Microsoft.DevCenter/projects](aliases/Microsoft.DevCenter/projects.md)
+- [Microsoft.DevCenter/networkconnections](aliases/Microsoft.DevCenter/networkconnections.md)
 - [Microsoft.DevCenter/projects/environmentTypes](aliases/Microsoft.DevCenter/projects-environmentTypes.md)
-- [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
-- [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
 - [Microsoft.DevCenter/projects/catalogs](aliases/Microsoft.DevCenter/projects-catalogs.md)
+- [Microsoft.DevCenter/devcenters/catalogs](aliases/Microsoft.DevCenter/devcenters-catalogs.md)
+- [Microsoft.DevCenter/projects/pools](aliases/Microsoft.DevCenter/projects-pools.md)
+- [Microsoft.DevCenter/devcenters/galleries](aliases/Microsoft.DevCenter/devcenters-galleries.md)
+- [Microsoft.DevCenter/devcenters/attachednetworks](aliases/Microsoft.DevCenter/devcenters-attachednetworks.md)
+- [Microsoft.DevCenter/devcenters/environmentTypes](aliases/Microsoft.DevCenter/devcenters-environmentTypes.md)
+- [Microsoft.DevCenter/devcenters/devboxdefinitions](aliases/Microsoft.DevCenter/devcenters-devboxdefinitions.md)
+- [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
 
 
 ## Microsoft.Devices
