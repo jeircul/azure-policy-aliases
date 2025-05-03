@@ -323,6 +323,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -488,8 +489,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Dashboard
 
 - [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
-- [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
 - [Microsoft.Dashboard/grafana/managedPrivateEndpoints](aliases/Microsoft.Dashboard/grafana-managedPrivateEndpoints.md)
+- [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
 
 
 ## Microsoft.DataBox
