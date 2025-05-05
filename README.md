@@ -488,8 +488,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Dashboard
 
 - [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
-- [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
 - [Microsoft.Dashboard/grafana/managedPrivateEndpoints](aliases/Microsoft.Dashboard/grafana-managedPrivateEndpoints.md)
+- [Microsoft.Dashboard/grafana/privateEndpointConnections](aliases/Microsoft.Dashboard/grafana-privateEndpointConnections.md)
 
 
 ## Microsoft.DataBox
