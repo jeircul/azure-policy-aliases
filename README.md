@@ -477,7 +477,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.CostManagement
 
-- [Microsoft.CostManagement/CloudConnectors](aliases/Microsoft.CostManagement/CloudConnectors.md)
 - [Microsoft.CostManagement/Alerts](aliases/Microsoft.CostManagement/Alerts.md)
 - [Microsoft.CostManagement/Exports](aliases/Microsoft.CostManagement/Exports.md)
 - [Microsoft.CostManagement/Views](aliases/Microsoft.CostManagement/Views.md)
