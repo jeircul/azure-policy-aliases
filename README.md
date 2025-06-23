@@ -1551,10 +1551,10 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.ServiceLinker
 
-- [Microsoft.ServiceLinker/linkers](aliases/Microsoft.ServiceLinker/linkers.md)
 - [Microsoft.ServiceLinker/dryruns](aliases/Microsoft.ServiceLinker/dryruns.md)
-- [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
+- [Microsoft.ServiceLinker/linkers](aliases/Microsoft.ServiceLinker/linkers.md)
 - [Microsoft.ServiceLinker/locations/dryruns](aliases/Microsoft.ServiceLinker/locations-dryruns.md)
+- [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
 
 
 ## Microsoft.SignalRService
