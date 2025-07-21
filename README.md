@@ -325,6 +325,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -370,6 +371,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Communication
 
 - [Microsoft.Communication/CommunicationServices](aliases/Microsoft.Communication/CommunicationServices.md)
+- [Microsoft.Communication/CommunicationServices/SmtpUsernames](aliases/Microsoft.Communication/CommunicationServices-SmtpUsernames.md)
 - [Microsoft.Communication/EmailServices](aliases/Microsoft.Communication/EmailServices.md)
 - [Microsoft.Communication/EmailServices/Domains](aliases/Microsoft.Communication/EmailServices-Domains.md)
 - [Microsoft.Communication/EmailServices/Domains/SuppressionLists](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists.md)
@@ -943,6 +945,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [microsoft.insights/components/myAnalyticsItems](aliases/microsoft.insights/components-myAnalyticsItems.md)
 - [microsoft.insights/components/proactiveDetectionConfigs](aliases/microsoft.insights/components-proactiveDetectionConfigs.md)
 - [microsoft.insights/webtests](aliases/microsoft.insights/webtests.md)
+- [microsoft.insights/scheduledqueryrules/networkSecurityPerimeterConfigurations](aliases/microsoft.insights/scheduledqueryrules-networkSecurityPerimeterConfigurations.md)
 - [microsoft.insights/components/pricingPlans](aliases/microsoft.insights/components-pricingPlans.md)
 - [microsoft.insights/logprofiles](aliases/microsoft.insights/logprofiles.md)
 - [microsoft.insights/autoscalesettings](aliases/microsoft.insights/autoscalesettings.md)
@@ -1359,11 +1362,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.OperationalInsights/workspaces](aliases/Microsoft.OperationalInsights/workspaces.md)
 - [Microsoft.OperationalInsights/querypacks](aliases/Microsoft.OperationalInsights/querypacks.md)
 - [Microsoft.OperationalInsights/workspaces/dataSources](aliases/Microsoft.OperationalInsights/workspaces-dataSources.md)
+- [Microsoft.OperationalInsights/workspaces/linkedStorageAccounts](aliases/Microsoft.OperationalInsights/workspaces-linkedStorageAccounts.md)
 - [Microsoft.OperationalInsights/workspaces/tables](aliases/Microsoft.OperationalInsights/workspaces-tables.md)
 - [Microsoft.OperationalInsights/workspaces/storageInsightConfigs](aliases/Microsoft.OperationalInsights/workspaces-storageInsightConfigs.md)
 - [Microsoft.OperationalInsights/workspaces/linkedServices](aliases/Microsoft.OperationalInsights/workspaces-linkedServices.md)
 - [Microsoft.OperationalInsights/clusters](aliases/Microsoft.OperationalInsights/clusters.md)
 - [Microsoft.OperationalInsights/workspaces/dataExports](aliases/Microsoft.OperationalInsights/workspaces-dataExports.md)
+- [Microsoft.OperationalInsights/workspaces/networkSecurityPerimeterConfigurations](aliases/Microsoft.OperationalInsights/workspaces-networkSecurityPerimeterConfigurations.md)
 - [Microsoft.OperationalInsights/workspaces/savedSearches](aliases/Microsoft.OperationalInsights/workspaces-savedSearches.md)
 - [Microsoft.OperationalInsights/querypacks/queries](aliases/Microsoft.OperationalInsights/querypacks-queries.md)
 
