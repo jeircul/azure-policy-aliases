@@ -957,8 +957,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [microsoft.insights/privateLinkScopes](aliases/microsoft.insights/privateLinkScopes.md)
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
-- [microsoft.insights/guestDiagnosticSettings](aliases/microsoft.insights/guestDiagnosticSettings.md)
-- [microsoft.insights/guestDiagnosticSettingsAssociation](aliases/microsoft.insights/guestDiagnosticSettingsAssociation.md)
 
 
 ## Microsoft.IoTCentral
