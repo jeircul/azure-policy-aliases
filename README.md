@@ -890,6 +890,11 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
 
 
+## Microsoft.FileShares
+
+- [Microsoft.FileShares/fileShares](aliases/Microsoft.FileShares/fileShares.md)
+
+
 ## Microsoft.FluidRelay
 
 - [Microsoft.FluidRelay/fluidRelayServers](aliases/Microsoft.FluidRelay/fluidRelayServers.md)
@@ -1032,7 +1037,10 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 
 ## Microsoft.LoadTestService
 
+- [Microsoft.LoadTestService/loadTestMappings](aliases/Microsoft.LoadTestService/loadTestMappings.md)
+- [Microsoft.LoadTestService/loadTestProfileMappings](aliases/Microsoft.LoadTestService/loadTestProfileMappings.md)
 - [Microsoft.LoadTestService/loadtests](aliases/Microsoft.LoadTestService/loadtests.md)
+- [Microsoft.LoadTestService/playwrightWorkspaces](aliases/Microsoft.LoadTestService/playwrightWorkspaces.md)
 
 
 ## Microsoft.Logic
