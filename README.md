@@ -325,6 +325,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 ## Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## Microsoft.Cdn
@@ -399,6 +400,8 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Compute/galleries/images/versions](aliases/Microsoft.Compute/galleries-images-versions.md)
 - [Microsoft.Compute/galleries/applications](aliases/Microsoft.Compute/galleries-applications.md)
 - [Microsoft.Compute/galleries/applications/versions](aliases/Microsoft.Compute/galleries-applications-versions.md)
+- [Microsoft.Compute/galleries/inVMAccessControlProfiles](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles.md)
+- [Microsoft.Compute/galleries/inVMAccessControlProfiles/versions](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles-versions.md)
 - [Microsoft.Compute/disks](aliases/Microsoft.Compute/disks.md)
 - [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
 - [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
