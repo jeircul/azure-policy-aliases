@@ -1148,11 +1148,6 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
 
 
-## Microsoft.MixedReality
-
-- [Microsoft.MixedReality/remoteRenderingAccounts](aliases/Microsoft.MixedReality/remoteRenderingAccounts.md)
-
-
 ## Microsoft.Monitor
 
 - [Microsoft.Monitor/accounts](aliases/Microsoft.Monitor/accounts.md)
@@ -1316,6 +1311,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules](aliases/Microsoft.Network/networkManagers-routingConfigurations-ruleCollections-rules.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
+- [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
 
 
 ## Microsoft.NetworkCloud
