@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VirtualMachines/HybridIdentityMetadata
+# Microsoft.ConnectedVMwarevSphere/virtualmachines/hybrididentitymetadata
 
 | Default Path | Alias |
 |---|---|

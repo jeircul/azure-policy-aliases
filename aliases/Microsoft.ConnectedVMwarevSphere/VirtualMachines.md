@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VirtualMachines
+# Microsoft.ConnectedVMwarevSphere/virtualmachines
 
 | Default Path | Alias |
 |---|---|

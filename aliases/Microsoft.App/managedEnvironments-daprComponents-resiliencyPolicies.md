@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies
+# Microsoft.App/managedenvironments/daprcomponents/resiliencypolicies
 
 | Default Path | Alias |
 |---|---|

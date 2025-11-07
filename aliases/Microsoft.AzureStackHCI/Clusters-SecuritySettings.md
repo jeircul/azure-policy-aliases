@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/Clusters/SecuritySettings
+# Microsoft.AzureStackHCI/clusters/securitySettings
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,6 @@
 | `properties.securityComplianceStatus.dataInTransitProtected` | `Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.dataInTransitProtected` |
 | `properties.securityComplianceStatus.lastUpdated` | `Microsoft.AzureStackHCI/clusters/securitySettings/securityComplianceStatus.lastUpdated` |
 | `properties.provisioningState` | `Microsoft.AzureStackHCI/clusters/securitySettings/provisioningState` |
+| `properties.wdacComplianceAssignment` | `Microsoft.AzureStackHCI/clusters/securitySettings/wdacComplianceAssignment` |
+| `properties.smbEncryptionForIntraClusterTrafficComplianceAssignment` | `Microsoft.AzureStackHCI/clusters/securitySettings/smbEncryptionForIntraClusterTrafficComplianceAssignment` |
 

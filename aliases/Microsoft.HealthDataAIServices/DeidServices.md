@@ -1,4 +1,4 @@
-# Microsoft.HealthDataAIServices/DeidServices
+# Microsoft.HealthDataAIServices/deidServices
 
 | Default Path | Alias |
 |---|---|

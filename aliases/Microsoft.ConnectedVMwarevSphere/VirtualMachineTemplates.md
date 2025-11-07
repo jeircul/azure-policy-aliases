@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VirtualMachineTemplates
+# Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates
 
 | Default Path | Alias |
 |---|---|

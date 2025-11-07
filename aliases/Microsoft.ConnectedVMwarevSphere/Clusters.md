@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/Clusters
+# Microsoft.ConnectedVMwarevSphere/clusters
 
 | Default Path | Alias |
 |---|---|

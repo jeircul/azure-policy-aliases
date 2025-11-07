@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VCenters/InventoryItems
+# Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems
 
 | Default Path | Alias |
 |---|---|

@@ -1,4 +1,4 @@
-# microsoft.insights/Components/MyAnalyticsItems
+# microsoft.insights/components/myAnalyticsItems
 
 | Default Path | Alias |
 |---|---|

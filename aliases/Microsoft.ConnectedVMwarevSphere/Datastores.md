@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/Datastores
+# Microsoft.ConnectedVMwarevSphere/datastores
 
 | Default Path | Alias |
 |---|---|

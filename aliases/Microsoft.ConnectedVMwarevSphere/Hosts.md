@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/Hosts
+# Microsoft.ConnectedVMwarevSphere/hosts
 
 | Default Path | Alias |
 |---|---|

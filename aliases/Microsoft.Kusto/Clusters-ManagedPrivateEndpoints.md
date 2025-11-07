@@ -1,4 +1,4 @@
-# Microsoft.Kusto/Clusters/ManagedPrivateEndpoints
+# Microsoft.Kusto/clusters/managedPrivateEndpoints
 
 | Default Path | Alias |
 |---|---|

@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VirtualMachines/GuestAgents
+# Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents
 
 | Default Path | Alias |
 |---|---|

@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/ResourcePools
+# Microsoft.ConnectedVMwarevSphere/resourcepools
 
 | Default Path | Alias |
 |---|---|

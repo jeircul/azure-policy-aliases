@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/virtualMachines/extensions
+# Microsoft.AzureStackHCI/virtualmachines/extensions
 
 | Default Path | Alias |
 |---|---|

@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces/storageInsightConfigs
+# Microsoft.OperationalInsights/workspaces/storageinsightconfigs
 
 | Default Path | Alias |
 |---|---|

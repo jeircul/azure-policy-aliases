@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VirtualNetworks
+# Microsoft.ConnectedVMwarevSphere/virtualnetworks
 
 | Default Path | Alias |
 |---|---|

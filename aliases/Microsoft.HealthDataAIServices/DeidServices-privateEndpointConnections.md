@@ -1,4 +1,4 @@
-# Microsoft.HealthDataAIServices/DeidServices/privateEndpointConnections
+# Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
