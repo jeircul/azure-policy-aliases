@@ -19,11 +19,16 @@ if (!(Test-Path -Path $basePath)) {
 
 # Initialize table of contents
 $toc = @"
-# Azure Policy Aliases
+# 📋 Azure Policy Aliases
 ![Update Aliases](https://github.com/jeircul/azure-policy-aliases/actions/workflows/update-aliases.yml/badge.svg)
 
-This repository contains all available resource property aliases for easy reference when creating Policy definitions.
-The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
+🎯 This repository contains all available resource property aliases for easy reference when creating Policy definitions.
+
+📅 The data is periodically fetched using ``Get-AzPolicyAlias`` command provided as part of the Az Module.
+
+✨ **Total Providers**: $($providers.Count) | 📦 **Resource Types**: $($resourceTypes.Count)
+
+---
 
 "@
 
@@ -32,7 +37,7 @@ foreach ($provider in $providers) {
     $resourceTypesWithAliases = $provider.Group | Where-Object { $_.Aliases.Count -gt 0 }
 
     if ($resourceTypesWithAliases.Count -gt 0) {
-        $toc += "## $($provider.Name)`n`n"
+        $toc += "## 🔷 $($provider.Name)`n`n"
 
         $namespacePath = Join-Path -Path $basePath -ChildPath $provider.Name
 
