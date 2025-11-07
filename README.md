@@ -1,19 +1,24 @@
-# Azure Policy Aliases
+# 📋 Azure Policy Aliases
 ![Update Aliases](https://github.com/jeircul/azure-policy-aliases/actions/workflows/update-aliases.yml/badge.svg)
 
-This repository contains all available resource property aliases for easy reference when creating Policy definitions.
-The data is periodically fetched using Get-AzPolicyAlias command provided as part of the Az Module.
-## Microsoft.AAD
+🎯 This repository contains all available resource property aliases for easy reference when creating Policy definitions.
+
+📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
+
+✨ **Total Providers**: 327 | 📦 **Resource Types**: 5558
+
+---
+## 🔷 Microsoft.AAD
 
 - [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
 
 
-## microsoft.aadiam
+## 🔷 microsoft.aadiam
 
 - [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
 
 
-## Microsoft.AlertsManagement
+## 🔷 Microsoft.AlertsManagement
 
 - [Microsoft.AlertsManagement/smartDetectorAlertRules](aliases/Microsoft.AlertsManagement/smartDetectorAlertRules.md)
 - [Microsoft.AlertsManagement/actionRules](aliases/Microsoft.AlertsManagement/actionRules.md)
@@ -21,12 +26,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AlertsManagement/tenantActivityLogAlerts](aliases/Microsoft.AlertsManagement/tenantActivityLogAlerts.md)
 
 
-## Microsoft.AnalysisServices
+## 🔷 Microsoft.AnalysisServices
 
 - [Microsoft.AnalysisServices/servers](aliases/Microsoft.AnalysisServices/servers.md)
 
 
-## Microsoft.ApiManagement
+## 🔷 Microsoft.ApiManagement
 
 - [Microsoft.ApiManagement/service](aliases/Microsoft.ApiManagement/service.md)
 - [Microsoft.ApiManagement/gateways](aliases/Microsoft.ApiManagement/gateways.md)
@@ -116,7 +121,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ApiManagement/service/workspaces/loggers](aliases/Microsoft.ApiManagement/service-workspaces-loggers.md)
 
 
-## Microsoft.App
+## 🔷 Microsoft.App
 
 - [Microsoft.App/managedEnvironments](aliases/Microsoft.App/managedEnvironments.md)
 - [Microsoft.App/managedEnvironments/certificates](aliases/Microsoft.App/managedEnvironments-certificates.md)
@@ -141,7 +146,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.App/managedenvironments/maintenanceconfigurations](aliases/Microsoft.App/managedenvironments-maintenanceconfigurations.md)
 
 
-## Microsoft.AppConfiguration
+## 🔷 Microsoft.AppConfiguration
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
 - [Microsoft.AppConfiguration/configurationStores/replicas](aliases/Microsoft.AppConfiguration/configurationStores-replicas.md)
@@ -150,7 +155,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
 
 
-## Microsoft.AppPlatform
+## 🔷 Microsoft.AppPlatform
 
 - [Microsoft.AppPlatform/Spring](aliases/Microsoft.AppPlatform/Spring.md)
 - [Microsoft.AppPlatform/Spring/apps](aliases/Microsoft.AppPlatform/Spring-apps.md)
@@ -169,13 +174,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AppPlatform/Spring/storages](aliases/Microsoft.AppPlatform/Spring-storages.md)
 
 
-## Microsoft.Attestation
+## 🔷 Microsoft.Attestation
 
 - [Microsoft.Attestation/attestationProviders](aliases/Microsoft.Attestation/attestationProviders.md)
 - [Microsoft.Attestation/attestationProviders/privateEndpointConnections](aliases/Microsoft.Attestation/attestationProviders-privateEndpointConnections.md)
 
 
-## Microsoft.Authorization
+## 🔷 Microsoft.Authorization
 
 - [Microsoft.Authorization/roleAssignmentScheduleRequests](aliases/Microsoft.Authorization/roleAssignmentScheduleRequests.md)
 - [Microsoft.Authorization/roleEligibilityScheduleRequests](aliases/Microsoft.Authorization/roleEligibilityScheduleRequests.md)
@@ -190,14 +195,14 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
 
 
-## Microsoft.Automanage
+## 🔷 Microsoft.Automanage
 
 - [Microsoft.Automanage/configurationProfileAssignments](aliases/Microsoft.Automanage/configurationProfileAssignments.md)
 - [Microsoft.Automanage/configurationProfiles](aliases/Microsoft.Automanage/configurationProfiles.md)
 - [Microsoft.Automanage/configurationProfiles/versions](aliases/Microsoft.Automanage/configurationProfiles-versions.md)
 
 
-## Microsoft.Automation
+## 🔷 Microsoft.Automation
 
 - [Microsoft.Automation/automationAccounts](aliases/Microsoft.Automation/automationAccounts.md)
 - [Microsoft.Automation/automationAccounts/runbooks](aliases/Microsoft.Automation/automationAccounts-runbooks.md)
@@ -223,7 +228,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Automation/automationAccounts/nodes](aliases/Microsoft.Automation/automationAccounts-nodes.md)
 
 
-## Microsoft.AVS
+## 🔷 Microsoft.AVS
 
 - [Microsoft.AVS/privateClouds](aliases/Microsoft.AVS/privateClouds.md)
 - [Microsoft.AVS/privateClouds/addons](aliases/Microsoft.AVS/privateClouds-addons.md)
@@ -240,13 +245,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AVS/privateClouds/workloadNetworks/vmGroups](aliases/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups.md)
 
 
-## Microsoft.AzureActiveDirectory
+## 🔷 Microsoft.AzureActiveDirectory
 
 - [Microsoft.AzureActiveDirectory/guestUsages](aliases/Microsoft.AzureActiveDirectory/guestUsages.md)
 - [Microsoft.AzureActiveDirectory/b2cDirectories](aliases/Microsoft.AzureActiveDirectory/b2cDirectories.md)
 
 
-## Microsoft.AzureArcData
+## 🔷 Microsoft.AzureArcData
 
 - [Microsoft.AzureArcData/DataControllers](aliases/Microsoft.AzureArcData/DataControllers.md)
 - [Microsoft.AzureArcData/DataControllers/ActiveDirectoryConnectors](aliases/Microsoft.AzureArcData/DataControllers-ActiveDirectoryConnectors.md)
@@ -258,12 +263,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AzureArcData/PostgresInstances](aliases/Microsoft.AzureArcData/PostgresInstances.md)
 
 
-## Microsoft.AzureFleet
+## 🔷 Microsoft.AzureFleet
 
 - [Microsoft.AzureFleet/fleets](aliases/Microsoft.AzureFleet/fleets.md)
 
 
-## Microsoft.AzureStackHCI
+## 🔷 Microsoft.AzureStackHCI
 
 - [Microsoft.AzureStackHCI/clusters](aliases/Microsoft.AzureStackHCI/clusters.md)
 - [Microsoft.AzureStackHCI/clusters/arcSettings](aliases/Microsoft.AzureStackHCI/clusters-arcSettings.md)
@@ -282,7 +287,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
 
 
-## Microsoft.Batch
+## 🔷 Microsoft.Batch
 
 - [Microsoft.Batch/batchAccounts](aliases/Microsoft.Batch/batchAccounts.md)
 - [Microsoft.Batch/batchAccounts/pools](aliases/Microsoft.Batch/batchAccounts-pools.md)
@@ -292,14 +297,14 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Batch/batchAccounts/privateEndpointConnections](aliases/Microsoft.Batch/batchAccounts-privateEndpointConnections.md)
 
 
-## Microsoft.Blueprint
+## 🔷 Microsoft.Blueprint
 
 - [Microsoft.Blueprint/blueprints](aliases/Microsoft.Blueprint/blueprints.md)
 - [Microsoft.Blueprint/blueprints/versions](aliases/Microsoft.Blueprint/blueprints-versions.md)
 - [Microsoft.Blueprint/blueprintAssignments](aliases/Microsoft.Blueprint/blueprintAssignments.md)
 
 
-## Microsoft.BotService
+## 🔷 Microsoft.BotService
 
 - [Microsoft.BotService/botServices](aliases/Microsoft.BotService/botServices.md)
 - [Microsoft.BotService/botServices/channels](aliases/Microsoft.BotService/botServices-channels.md)
@@ -308,7 +313,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations.md)
 
 
-## Microsoft.Cache
+## 🔷 Microsoft.Cache
 
 - [Microsoft.Cache/Redis](aliases/Microsoft.Cache/Redis.md)
 - [Microsoft.Cache/Redis/privateEndpointConnections](aliases/Microsoft.Cache/Redis-privateEndpointConnections.md)
@@ -322,12 +327,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Cache/redis/accessPolicyAssignments](aliases/Microsoft.Cache/redis-accessPolicyAssignments.md)
 
 
-## Microsoft.Capacity
+## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
 
 
-## Microsoft.Cdn
+## 🔷 Microsoft.Cdn
 
 - [Microsoft.Cdn/profiles](aliases/Microsoft.Cdn/profiles.md)
 - [Microsoft.Cdn/profiles/endpoints](aliases/Microsoft.Cdn/profiles-endpoints.md)
@@ -345,13 +350,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Cdn/profiles/securitypolicies](aliases/Microsoft.Cdn/profiles-securitypolicies.md)
 
 
-## Microsoft.CertificateRegistration
+## 🔷 Microsoft.CertificateRegistration
 
 - [Microsoft.CertificateRegistration/certificateOrders](aliases/Microsoft.CertificateRegistration/certificateOrders.md)
 - [Microsoft.CertificateRegistration/certificateOrders/certificates](aliases/Microsoft.CertificateRegistration/certificateOrders-certificates.md)
 
 
-## Microsoft.CognitiveServices
+## 🔷 Microsoft.CognitiveServices
 
 - [Microsoft.CognitiveServices/accounts](aliases/Microsoft.CognitiveServices/accounts.md)
 - [Microsoft.CognitiveServices/accounts/projects](aliases/Microsoft.CognitiveServices/accounts-projects.md)
@@ -367,7 +372,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems.md)
 
 
-## Microsoft.Communication
+## 🔷 Microsoft.Communication
 
 - [Microsoft.Communication/CommunicationServices](aliases/Microsoft.Communication/CommunicationServices.md)
 - [Microsoft.Communication/CommunicationServices/SmtpUsernames](aliases/Microsoft.Communication/CommunicationServices-SmtpUsernames.md)
@@ -378,7 +383,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Communication/EmailServices/Domains/SuppressionLists/SuppressionListAddresses](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists-SuppressionListAddresses.md)
 
 
-## Microsoft.Compute
+## 🔷 Microsoft.Compute
 
 - [Microsoft.Compute/availabilitySets](aliases/Microsoft.Compute/availabilitySets.md)
 - [Microsoft.Compute/virtualMachines](aliases/Microsoft.Compute/virtualMachines.md)
@@ -413,7 +418,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Compute/diskAccesses/privateEndpointConnections](aliases/Microsoft.Compute/diskAccesses-privateEndpointConnections.md)
 
 
-## Microsoft.ConnectedVMwarevSphere
+## 🔷 Microsoft.ConnectedVMwarevSphere
 
 - [Microsoft.ConnectedVMwarevSphere/VCenters](aliases/Microsoft.ConnectedVMwarevSphere/VCenters.md)
 - [Microsoft.ConnectedVMwarevSphere/resourcepools](aliases/Microsoft.ConnectedVMwarevSphere/resourcepools.md)
@@ -429,17 +434,17 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents.md)
 
 
-## Microsoft.Consumption
+## 🔷 Microsoft.Consumption
 
 - [Microsoft.Consumption/Budgets](aliases/Microsoft.Consumption/Budgets.md)
 
 
-## Microsoft.ContainerInstance
+## 🔷 Microsoft.ContainerInstance
 
 - [Microsoft.ContainerInstance/containerGroups](aliases/Microsoft.ContainerInstance/containerGroups.md)
 
 
-## Microsoft.ContainerRegistry
+## 🔷 Microsoft.ContainerRegistry
 
 - [Microsoft.ContainerRegistry/registries](aliases/Microsoft.ContainerRegistry/registries.md)
 - [Microsoft.ContainerRegistry/registries/cacheRules](aliases/Microsoft.ContainerRegistry/registries-cacheRules.md)
@@ -461,7 +466,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
 
 
-## Microsoft.ContainerService
+## 🔷 Microsoft.ContainerService
 
 - [Microsoft.ContainerService/deploymentSafeguards](aliases/Microsoft.ContainerService/deploymentSafeguards.md)
 - [Microsoft.ContainerService/fleets](aliases/Microsoft.ContainerService/fleets.md)
@@ -483,7 +488,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ContainerService/managedClusters/namespaces](aliases/Microsoft.ContainerService/managedClusters-namespaces.md)
 
 
-## Microsoft.CostManagement
+## 🔷 Microsoft.CostManagement
 
 - [Microsoft.CostManagement/Alerts](aliases/Microsoft.CostManagement/Alerts.md)
 - [Microsoft.CostManagement/Exports](aliases/Microsoft.CostManagement/Exports.md)
@@ -491,13 +496,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.CostManagement/ScheduledActions](aliases/Microsoft.CostManagement/ScheduledActions.md)
 
 
-## Microsoft.CustomProviders
+## 🔷 Microsoft.CustomProviders
 
 - [Microsoft.CustomProviders/resourceProviders](aliases/Microsoft.CustomProviders/resourceProviders.md)
 - [Microsoft.CustomProviders/associations](aliases/Microsoft.CustomProviders/associations.md)
 
 
-## Microsoft.Dashboard
+## 🔷 Microsoft.Dashboard
 
 - [Microsoft.Dashboard/grafana](aliases/Microsoft.Dashboard/grafana.md)
 - [Microsoft.Dashboard/grafana/managedPrivateEndpoints](aliases/Microsoft.Dashboard/grafana-managedPrivateEndpoints.md)
@@ -506,12 +511,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Dashboard/dashboards](aliases/Microsoft.Dashboard/dashboards.md)
 
 
-## Microsoft.DataBox
+## 🔷 Microsoft.DataBox
 
 - [Microsoft.DataBox/jobs](aliases/Microsoft.DataBox/jobs.md)
 
 
-## Microsoft.DataBoxEdge
+## 🔷 Microsoft.DataBoxEdge
 
 - [Microsoft.DataBoxEdge/DataBoxEdgeDevices](aliases/Microsoft.DataBoxEdge/DataBoxEdgeDevices.md)
 - [Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-bandwidthSchedules.md)
@@ -525,7 +530,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-triggers.md)
 
 
-## Microsoft.Databricks
+## 🔷 Microsoft.Databricks
 
 - [Microsoft.Databricks/workspaces](aliases/Microsoft.Databricks/workspaces.md)
 - [Microsoft.Databricks/accessConnectors](aliases/Microsoft.Databricks/accessConnectors.md)
@@ -533,14 +538,14 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Databricks/workspaces/privateEndpointConnections](aliases/Microsoft.Databricks/workspaces-privateEndpointConnections.md)
 
 
-## Microsoft.Datadog
+## 🔷 Microsoft.Datadog
 
 - [Microsoft.Datadog/monitors](aliases/Microsoft.Datadog/monitors.md)
 - [Microsoft.Datadog/monitors/tagRules](aliases/Microsoft.Datadog/monitors-tagRules.md)
 - [Microsoft.Datadog/monitors/singleSignOnConfigurations](aliases/Microsoft.Datadog/monitors-singleSignOnConfigurations.md)
 
 
-## Microsoft.DataFactory
+## 🔷 Microsoft.DataFactory
 
 - [Microsoft.DataFactory/factories](aliases/Microsoft.DataFactory/factories.md)
 - [Microsoft.DataFactory/factories/integrationRuntimes](aliases/Microsoft.DataFactory/factories-integrationRuntimes.md)
@@ -556,7 +561,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataFactory/factories/credentials](aliases/Microsoft.DataFactory/factories-credentials.md)
 
 
-## Microsoft.DataLakeAnalytics
+## 🔷 Microsoft.DataLakeAnalytics
 
 - [Microsoft.DataLakeAnalytics/accounts](aliases/Microsoft.DataLakeAnalytics/accounts.md)
 - [Microsoft.DataLakeAnalytics/accounts/dataLakeStoreAccounts](aliases/Microsoft.DataLakeAnalytics/accounts-dataLakeStoreAccounts.md)
@@ -565,7 +570,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataLakeAnalytics/accounts/firewallRules](aliases/Microsoft.DataLakeAnalytics/accounts-firewallRules.md)
 
 
-## Microsoft.DataLakeStore
+## 🔷 Microsoft.DataLakeStore
 
 - [Microsoft.DataLakeStore/accounts](aliases/Microsoft.DataLakeStore/accounts.md)
 - [Microsoft.DataLakeStore/accounts/firewallRules](aliases/Microsoft.DataLakeStore/accounts-firewallRules.md)
@@ -573,7 +578,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataLakeStore/accounts/virtualNetworkRules](aliases/Microsoft.DataLakeStore/accounts-virtualNetworkRules.md)
 
 
-## Microsoft.DataMigration
+## 🔷 Microsoft.DataMigration
 
 - [Microsoft.DataMigration/services](aliases/Microsoft.DataMigration/services.md)
 - [Microsoft.DataMigration/services/projects](aliases/Microsoft.DataMigration/services-projects.md)
@@ -585,7 +590,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataMigration/services/serviceTasks](aliases/Microsoft.DataMigration/services-serviceTasks.md)
 
 
-## Microsoft.DataProtection
+## 🔷 Microsoft.DataProtection
 
 - [Microsoft.DataProtection/BackupVaults](aliases/Microsoft.DataProtection/BackupVaults.md)
 - [Microsoft.DataProtection/backupVaults/backupInstances](aliases/Microsoft.DataProtection/backupVaults-backupInstances.md)
@@ -593,7 +598,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataProtection/backupVaults/backupResourceGuardProxies](aliases/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies.md)
 
 
-## Microsoft.DataShare
+## 🔷 Microsoft.DataShare
 
 - [Microsoft.DataShare/accounts](aliases/Microsoft.DataShare/accounts.md)
 - [Microsoft.DataShare/accounts/shares](aliases/Microsoft.DataShare/accounts-shares.md)
@@ -601,7 +606,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DataShare/accounts/sharesubscriptions](aliases/Microsoft.DataShare/accounts-sharesubscriptions.md)
 
 
-## Microsoft.DBforMariaDB
+## 🔷 Microsoft.DBforMariaDB
 
 - [Microsoft.DBforMariaDB/servers](aliases/Microsoft.DBforMariaDB/servers.md)
 - [Microsoft.DBforMariaDB/servers/virtualNetworkRules](aliases/Microsoft.DBforMariaDB/servers-virtualNetworkRules.md)
@@ -613,7 +618,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DBforMariaDB/servers/securityAlertPolicies](aliases/Microsoft.DBforMariaDB/servers-securityAlertPolicies.md)
 
 
-## Microsoft.DBforMySQL
+## 🔷 Microsoft.DBforMySQL
 
 - [Microsoft.DBforMySQL/servers](aliases/Microsoft.DBforMySQL/servers.md)
 - [Microsoft.DBforMySQL/flexibleServers](aliases/Microsoft.DBforMySQL/flexibleServers.md)
@@ -633,7 +638,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings.md)
 
 
-## Microsoft.DBforPostgreSQL
+## 🔷 Microsoft.DBforPostgreSQL
 
 - [Microsoft.DBforPostgreSQL/servers](aliases/Microsoft.DBforPostgreSQL/servers.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers](aliases/Microsoft.DBforPostgreSQL/flexibleServers.md)
@@ -656,7 +661,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints](aliases/Microsoft.DBforPostgreSQL/flexibleServers-virtualendpoints.md)
 
 
-## Microsoft.DesktopVirtualization
+## 🔷 Microsoft.DesktopVirtualization
 
 - [Microsoft.DesktopVirtualization/workspaces](aliases/Microsoft.DesktopVirtualization/workspaces.md)
 - [Microsoft.DesktopVirtualization/applicationgroups](aliases/Microsoft.DesktopVirtualization/applicationgroups.md)
@@ -675,7 +680,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhostmanagements.md)
 
 
-## Microsoft.DevCenter
+## 🔷 Microsoft.DevCenter
 
 - [Microsoft.DevCenter/devcenters](aliases/Microsoft.DevCenter/devcenters.md)
 - [Microsoft.DevCenter/projects](aliases/Microsoft.DevCenter/projects.md)
@@ -692,7 +697,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
 
 
-## Microsoft.Devices
+## 🔷 Microsoft.Devices
 
 - [Microsoft.Devices/IotHubs](aliases/Microsoft.Devices/IotHubs.md)
 - [Microsoft.Devices/ProvisioningServices](aliases/Microsoft.Devices/ProvisioningServices.md)
@@ -702,7 +707,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Devices/provisioningServices/privateEndpointConnections](aliases/Microsoft.Devices/provisioningServices-privateEndpointConnections.md)
 
 
-## Microsoft.DeviceUpdate
+## 🔷 Microsoft.DeviceUpdate
 
 - [Microsoft.DeviceUpdate/accounts](aliases/Microsoft.DeviceUpdate/accounts.md)
 - [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
@@ -710,12 +715,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies.md)
 
 
-## Microsoft.DevOpsInfrastructure
+## 🔷 Microsoft.DevOpsInfrastructure
 
 - [Microsoft.DevOpsInfrastructure/pools](aliases/Microsoft.DevOpsInfrastructure/pools.md)
 
 
-## Microsoft.DevTestLab
+## 🔷 Microsoft.DevTestLab
 
 - [Microsoft.DevTestLab/labs](aliases/Microsoft.DevTestLab/labs.md)
 - [Microsoft.DevTestLab/schedules](aliases/Microsoft.DevTestLab/schedules.md)
@@ -737,13 +742,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DevTestLab/labs/virtualNetworks](aliases/Microsoft.DevTestLab/labs-virtualNetworks.md)
 
 
-## Microsoft.DigitalTwins
+## 🔷 Microsoft.DigitalTwins
 
 - [Microsoft.DigitalTwins/digitalTwinsInstances](aliases/Microsoft.DigitalTwins/digitalTwinsInstances.md)
 - [Microsoft.DigitalTwins/digitalTwinsInstances/endpoints](aliases/Microsoft.DigitalTwins/digitalTwinsInstances-endpoints.md)
 
 
-## Microsoft.DocumentDB
+## 🔷 Microsoft.DocumentDB
 
 - [Microsoft.DocumentDB/databaseAccounts](aliases/Microsoft.DocumentDB/databaseAccounts.md)
 - [Microsoft.DocumentDB/cassandraClusters](aliases/Microsoft.DocumentDB/cassandraClusters.md)
@@ -808,19 +813,19 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.DocumentDB/mongoClusters/users](aliases/Microsoft.DocumentDB/mongoClusters-users.md)
 
 
-## Microsoft.DomainRegistration
+## 🔷 Microsoft.DomainRegistration
 
 - [Microsoft.DomainRegistration/domains](aliases/Microsoft.DomainRegistration/domains.md)
 - [Microsoft.DomainRegistration/domains/domainOwnershipIdentifiers](aliases/Microsoft.DomainRegistration/domains-domainOwnershipIdentifiers.md)
 
 
-## Microsoft.EdgeOrder
+## 🔷 Microsoft.EdgeOrder
 
 - [Microsoft.EdgeOrder/addresses](aliases/Microsoft.EdgeOrder/addresses.md)
 - [Microsoft.EdgeOrder/orderItems](aliases/Microsoft.EdgeOrder/orderItems.md)
 
 
-## Microsoft.ElasticSan
+## 🔷 Microsoft.ElasticSan
 
 - [Microsoft.ElasticSan/elasticSans](aliases/Microsoft.ElasticSan/elasticSans.md)
 - [Microsoft.ElasticSan/elasticSans/volumeGroups](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups.md)
@@ -828,7 +833,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups-snapshots.md)
 
 
-## Microsoft.EventGrid
+## 🔷 Microsoft.EventGrid
 
 - [Microsoft.EventGrid/eventSubscriptions](aliases/Microsoft.EventGrid/eventSubscriptions.md)
 - [Microsoft.EventGrid/topics](aliases/Microsoft.EventGrid/topics.md)
@@ -859,7 +864,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.EventGrid/topics/eventSubscriptions](aliases/Microsoft.EventGrid/topics-eventSubscriptions.md)
 
 
-## Microsoft.EventHub
+## 🔷 Microsoft.EventHub
 
 - [Microsoft.EventHub/namespaces](aliases/Microsoft.EventHub/namespaces.md)
 - [Microsoft.EventHub/clusters](aliases/Microsoft.EventHub/clusters.md)
@@ -876,50 +881,50 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.EventHub/namespaces/schemagroups](aliases/Microsoft.EventHub/namespaces-schemagroups.md)
 
 
-## Microsoft.ExtendedLocation
+## 🔷 Microsoft.ExtendedLocation
 
 - [Microsoft.ExtendedLocation/customLocations](aliases/Microsoft.ExtendedLocation/customLocations.md)
 - [Microsoft.ExtendedLocation/customLocations/resourceSyncRules](aliases/Microsoft.ExtendedLocation/customLocations-resourceSyncRules.md)
 
 
-## Microsoft.Fabric
+## 🔷 Microsoft.Fabric
 
 - [Microsoft.Fabric/capacities](aliases/Microsoft.Fabric/capacities.md)
 
 
-## Microsoft.Features
+## 🔷 Microsoft.Features
 
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
 
 
-## Microsoft.FileShares
+## 🔷 Microsoft.FileShares
 
 - [Microsoft.FileShares/fileShares](aliases/Microsoft.FileShares/fileShares.md)
 
 
-## Microsoft.FluidRelay
+## 🔷 Microsoft.FluidRelay
 
 - [Microsoft.FluidRelay/fluidRelayServers](aliases/Microsoft.FluidRelay/fluidRelayServers.md)
 
 
-## Microsoft.GuestConfiguration
+## 🔷 Microsoft.GuestConfiguration
 
 - [Microsoft.GuestConfiguration/guestConfigurationAssignments](aliases/Microsoft.GuestConfiguration/guestConfigurationAssignments.md)
 
 
-## Microsoft.HDInsight
+## 🔷 Microsoft.HDInsight
 
 - [Microsoft.HDInsight/clusters](aliases/Microsoft.HDInsight/clusters.md)
 - [Microsoft.HDInsight/clusters/applications](aliases/Microsoft.HDInsight/clusters-applications.md)
 - [Microsoft.HDInsight/clusters/privateEndpointConnections](aliases/Microsoft.HDInsight/clusters-privateEndpointConnections.md)
 
 
-## Microsoft.HealthBot
+## 🔷 Microsoft.HealthBot
 
 - [Microsoft.HealthBot/healthBots](aliases/Microsoft.HealthBot/healthBots.md)
 
 
-## Microsoft.HealthcareApis
+## 🔷 Microsoft.HealthcareApis
 
 - [Microsoft.HealthcareApis/workspaces/iotconnectors](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors.md)
 - [Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations](aliases/Microsoft.HealthcareApis/workspaces-iotconnectors-fhirdestinations.md)
@@ -931,13 +936,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.HealthcareApis/workspaces/fhirservices](aliases/Microsoft.HealthcareApis/workspaces-fhirservices.md)
 
 
-## Microsoft.HealthDataAIServices
+## 🔷 Microsoft.HealthDataAIServices
 
 - [Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/deidServices-privateEndpointConnections.md)
 - [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
 
 
-## Microsoft.HybridCompute
+## 🔷 Microsoft.HybridCompute
 
 - [Microsoft.HybridCompute/machines](aliases/Microsoft.HybridCompute/machines.md)
 - [Microsoft.HybridCompute/machines/extensions](aliases/Microsoft.HybridCompute/machines-extensions.md)
@@ -949,7 +954,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
 
 
-## microsoft.insights
+## 🔷 microsoft.insights
 
 - [microsoft.insights/dataCollectionRules](aliases/microsoft.insights/dataCollectionRules.md)
 - [microsoft.insights/dataCollectionRuleAssociations](aliases/microsoft.insights/dataCollectionRuleAssociations.md)
@@ -978,13 +983,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
 
 
-## Microsoft.IoTCentral
+## 🔷 Microsoft.IoTCentral
 
 - [Microsoft.IoTCentral/IoTApps](aliases/Microsoft.IoTCentral/IoTApps.md)
 - [Microsoft.IoTCentral/IoTApps/privateEndpointConnections](aliases/Microsoft.IoTCentral/IoTApps-privateEndpointConnections.md)
 
 
-## Microsoft.KeyVault
+## 🔷 Microsoft.KeyVault
 
 - [Microsoft.KeyVault/vaults](aliases/Microsoft.KeyVault/vaults.md)
 - [Microsoft.KeyVault/vaults/secrets](aliases/Microsoft.KeyVault/vaults-secrets.md)
@@ -996,12 +1001,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.KeyVault/vaults/networkSecurityPerimeterConfigurations](aliases/Microsoft.KeyVault/vaults-networkSecurityPerimeterConfigurations.md)
 
 
-## Microsoft.Kubernetes
+## 🔷 Microsoft.Kubernetes
 
 - [Microsoft.Kubernetes/connectedClusters](aliases/Microsoft.Kubernetes/connectedClusters.md)
 
 
-## Microsoft.KubernetesConfiguration
+## 🔷 Microsoft.KubernetesConfiguration
 
 - [Microsoft.KubernetesConfiguration/sourceControlConfigurations](aliases/Microsoft.KubernetesConfiguration/sourceControlConfigurations.md)
 - [Microsoft.KubernetesConfiguration/extensions](aliases/Microsoft.KubernetesConfiguration/extensions.md)
@@ -1010,7 +1015,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections](aliases/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections.md)
 
 
-## Microsoft.Kusto
+## 🔷 Microsoft.Kusto
 
 - [Microsoft.Kusto/clusters](aliases/Microsoft.Kusto/clusters.md)
 - [Microsoft.Kusto/clusters/databases](aliases/Microsoft.Kusto/clusters-databases.md)
@@ -1023,7 +1028,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Kusto/Clusters/PrivateEndpointConnections](aliases/Microsoft.Kusto/Clusters-PrivateEndpointConnections.md)
 
 
-## Microsoft.LabServices
+## 🔷 Microsoft.LabServices
 
 - [Microsoft.LabServices/labplans](aliases/Microsoft.LabServices/labplans.md)
 - [Microsoft.LabServices/labs](aliases/Microsoft.LabServices/labs.md)
@@ -1037,7 +1042,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.LabServices/labs/users](aliases/Microsoft.LabServices/labs-users.md)
 
 
-## Microsoft.LoadTestService
+## 🔷 Microsoft.LoadTestService
 
 - [Microsoft.LoadTestService/loadTestMappings](aliases/Microsoft.LoadTestService/loadTestMappings.md)
 - [Microsoft.LoadTestService/loadTestProfileMappings](aliases/Microsoft.LoadTestService/loadTestProfileMappings.md)
@@ -1045,7 +1050,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.LoadTestService/playwrightWorkspaces](aliases/Microsoft.LoadTestService/playwrightWorkspaces.md)
 
 
-## Microsoft.Logic
+## 🔷 Microsoft.Logic
 
 - [Microsoft.Logic/workflows](aliases/Microsoft.Logic/workflows.md)
 - [Microsoft.Logic/integrationAccounts](aliases/Microsoft.Logic/integrationAccounts.md)
@@ -1063,7 +1068,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations](aliases/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations.md)
 
 
-## Microsoft.MachineLearningServices
+## 🔷 Microsoft.MachineLearningServices
 
 - [Microsoft.MachineLearningServices/workspaces/batchEndpoints](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints.md)
 - [Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments](aliases/Microsoft.MachineLearningServices/workspaces-batchEndpoints-deployments.md)
@@ -1101,37 +1106,37 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.MachineLearningServices/workspaces/connections/raiPolicies](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiPolicies.md)
 
 
-## Microsoft.Maintenance
+## 🔷 Microsoft.Maintenance
 
 - [Microsoft.Maintenance/maintenanceConfigurations](aliases/Microsoft.Maintenance/maintenanceConfigurations.md)
 - [Microsoft.Maintenance/configurationAssignments](aliases/Microsoft.Maintenance/configurationAssignments.md)
 - [Microsoft.Maintenance/applyUpdates](aliases/Microsoft.Maintenance/applyUpdates.md)
 
 
-## Microsoft.ManagedIdentity
+## 🔷 Microsoft.ManagedIdentity
 
 - [Microsoft.ManagedIdentity/userAssignedIdentities](aliases/Microsoft.ManagedIdentity/userAssignedIdentities.md)
 - [Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials](aliases/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials.md)
 
 
-## Microsoft.ManagedServices
+## 🔷 Microsoft.ManagedServices
 
 - [Microsoft.ManagedServices/registrationDefinitions](aliases/Microsoft.ManagedServices/registrationDefinitions.md)
 - [Microsoft.ManagedServices/registrationAssignments](aliases/Microsoft.ManagedServices/registrationAssignments.md)
 
 
-## Microsoft.Management
+## 🔷 Microsoft.Management
 
 - [Microsoft.Management/managementGroups](aliases/Microsoft.Management/managementGroups.md)
 
 
-## Microsoft.Maps
+## 🔷 Microsoft.Maps
 
 - [Microsoft.Maps/accounts](aliases/Microsoft.Maps/accounts.md)
 - [Microsoft.Maps/accounts/creators](aliases/Microsoft.Maps/accounts-creators.md)
 
 
-## Microsoft.Migrate
+## 🔷 Microsoft.Migrate
 
 - [Microsoft.Migrate/migrateprojects](aliases/Microsoft.Migrate/migrateprojects.md)
 - [Microsoft.Migrate/assessmentProjects](aliases/Microsoft.Migrate/assessmentProjects.md)
@@ -1148,12 +1153,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
 
 
-## Microsoft.Monitor
+## 🔷 Microsoft.Monitor
 
 - [Microsoft.Monitor/accounts](aliases/Microsoft.Monitor/accounts.md)
 
 
-## Microsoft.NetApp
+## 🔷 Microsoft.NetApp
 
 - [Microsoft.NetApp/netAppAccounts](aliases/Microsoft.NetApp/netAppAccounts.md)
 - [Microsoft.NetApp/netAppAccounts/snapshotPolicies](aliases/Microsoft.NetApp/netAppAccounts-snapshotPolicies.md)
@@ -1167,7 +1172,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
 
 
-## Microsoft.Network
+## 🔷 Microsoft.Network
 
 - [Microsoft.Network/dnszones](aliases/Microsoft.Network/dnszones.md)
 - [Microsoft.Network/dnszones/A](aliases/Microsoft.Network/dnszones-A.md)
@@ -1314,7 +1319,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
 
 
-## Microsoft.NetworkCloud
+## 🔷 Microsoft.NetworkCloud
 
 - [Microsoft.NetworkCloud/virtualMachines](aliases/Microsoft.NetworkCloud/virtualMachines.md)
 - [Microsoft.NetworkCloud/l2Networks](aliases/Microsoft.NetworkCloud/l2Networks.md)
@@ -1335,7 +1340,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.NetworkCloud/clusters/bmcKeySets](aliases/Microsoft.NetworkCloud/clusters-bmcKeySets.md)
 
 
-## Microsoft.NotificationHubs
+## 🔷 Microsoft.NotificationHubs
 
 - [Microsoft.NotificationHubs/namespaces](aliases/Microsoft.NotificationHubs/namespaces.md)
 - [Microsoft.NotificationHubs/namespaces/notificationHubs](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs.md)
@@ -1344,7 +1349,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.NotificationHubs/namespaces/privateEndpointConnections](aliases/Microsoft.NotificationHubs/namespaces-privateEndpointConnections.md)
 
 
-## Microsoft.OffAzure
+## 🔷 Microsoft.OffAzure
 
 - [Microsoft.OffAzure/VMwareSites](aliases/Microsoft.OffAzure/VMwareSites.md)
 - [Microsoft.OffAzure/HyperVSites](aliases/Microsoft.OffAzure/HyperVSites.md)
@@ -1355,7 +1360,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.OffAzure/VMwareSites/vcenters](aliases/Microsoft.OffAzure/VMwareSites-vcenters.md)
 
 
-## Microsoft.OperationalInsights
+## 🔷 Microsoft.OperationalInsights
 
 - [Microsoft.OperationalInsights/workspaces](aliases/Microsoft.OperationalInsights/workspaces.md)
 - [Microsoft.OperationalInsights/querypacks](aliases/Microsoft.OperationalInsights/querypacks.md)
@@ -1371,13 +1376,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.OperationalInsights/querypacks/queries](aliases/Microsoft.OperationalInsights/querypacks-queries.md)
 
 
-## Microsoft.OperationsManagement
+## 🔷 Microsoft.OperationsManagement
 
 - [Microsoft.OperationsManagement/solutions](aliases/Microsoft.OperationsManagement/solutions.md)
 - [Microsoft.OperationsManagement/managementassociations](aliases/Microsoft.OperationsManagement/managementassociations.md)
 
 
-## Microsoft.Portal
+## 🔷 Microsoft.Portal
 
 - [Microsoft.Portal/dashboards](aliases/Microsoft.Portal/dashboards.md)
 - [Microsoft.Portal/tenantconfigurations](aliases/Microsoft.Portal/tenantconfigurations.md)
@@ -1385,24 +1390,24 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Portal/userSettings](aliases/Microsoft.Portal/userSettings.md)
 
 
-## Microsoft.PowerBI
+## 🔷 Microsoft.PowerBI
 
 - [Microsoft.PowerBI/workspaceCollections](aliases/Microsoft.PowerBI/workspaceCollections.md)
 
 
-## Microsoft.PowerBIDedicated
+## 🔷 Microsoft.PowerBIDedicated
 
 - [Microsoft.PowerBIDedicated/capacities](aliases/Microsoft.PowerBIDedicated/capacities.md)
 
 
-## Microsoft.Purview
+## 🔷 Microsoft.Purview
 
 - [Microsoft.Purview/accounts](aliases/Microsoft.Purview/accounts.md)
 - [Microsoft.Purview/accounts/kafkaConfigurations](aliases/Microsoft.Purview/accounts-kafkaConfigurations.md)
 - [Microsoft.Purview/accounts/privateEndpointConnections](aliases/Microsoft.Purview/accounts-privateEndpointConnections.md)
 
 
-## Microsoft.RecoveryServices
+## 🔷 Microsoft.RecoveryServices
 
 - [Microsoft.RecoveryServices/vaults](aliases/Microsoft.RecoveryServices/vaults.md)
 - [Microsoft.RecoveryServices/backupProtectedItems](aliases/Microsoft.RecoveryServices/backupProtectedItems.md)
@@ -1431,12 +1436,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems-recoveryPoints.md)
 
 
-## Microsoft.RedHatOpenShift
+## 🔷 Microsoft.RedHatOpenShift
 
 - [Microsoft.RedHatOpenShift/OpenShiftClusters](aliases/Microsoft.RedHatOpenShift/OpenShiftClusters.md)
 
 
-## Microsoft.Relay
+## 🔷 Microsoft.Relay
 
 - [Microsoft.Relay/namespaces](aliases/Microsoft.Relay/namespaces.md)
 - [Microsoft.Relay/namespaces/authorizationrules](aliases/Microsoft.Relay/namespaces-authorizationrules.md)
@@ -1448,7 +1453,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Relay/namespaces/networkrulesets](aliases/Microsoft.Relay/namespaces-networkrulesets.md)
 
 
-## Microsoft.Resources
+## 🔷 Microsoft.Resources
 
 - [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
 - [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
@@ -1459,13 +1464,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Resources/deploymentStacks](aliases/Microsoft.Resources/deploymentStacks.md)
 
 
-## Microsoft.SaaS
+## 🔷 Microsoft.SaaS
 
 - [Microsoft.SaaS/saasresources](aliases/Microsoft.SaaS/saasresources.md)
 - [Microsoft.SaaS/resources](aliases/Microsoft.SaaS/resources.md)
 
 
-## Microsoft.Search
+## 🔷 Microsoft.Search
 
 - [Microsoft.Search/searchServices](aliases/Microsoft.Search/searchServices.md)
 - [Microsoft.Search/searchServices/sharedPrivateLinkResources](aliases/Microsoft.Search/searchServices-sharedPrivateLinkResources.md)
@@ -1473,7 +1478,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Search/searchServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.Search/searchServices-networkSecurityPerimeterConfigurations.md)
 
 
-## Microsoft.Security
+## 🔷 Microsoft.Security
 
 - [Microsoft.Security/alerts](aliases/Microsoft.Security/alerts.md)
 - [Microsoft.Security/alertsSuppressionRules](aliases/Microsoft.Security/alertsSuppressionRules.md)
@@ -1503,7 +1508,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Security/assignments](aliases/Microsoft.Security/assignments.md)
 
 
-## Microsoft.SecurityInsights
+## 🔷 Microsoft.SecurityInsights
 
 - [Microsoft.SecurityInsights/alertRules](aliases/Microsoft.SecurityInsights/alertRules.md)
 - [Microsoft.SecurityInsights/cases](aliases/Microsoft.SecurityInsights/cases.md)
@@ -1521,12 +1526,12 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.SecurityInsights/threatintelligence/indicators](aliases/Microsoft.SecurityInsights/threatintelligence-indicators.md)
 
 
-## Microsoft.SerialConsole
+## 🔷 Microsoft.SerialConsole
 
 - [Microsoft.SerialConsole/consoleServices](aliases/Microsoft.SerialConsole/consoleServices.md)
 
 
-## Microsoft.ServiceBus
+## 🔷 Microsoft.ServiceBus
 
 - [Microsoft.ServiceBus/namespaces](aliases/Microsoft.ServiceBus/namespaces.md)
 - [Microsoft.ServiceBus/namespaces/authorizationrules](aliases/Microsoft.ServiceBus/namespaces-authorizationrules.md)
@@ -1541,7 +1546,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ServiceBus/namespaces/virtualNetworkRules](aliases/Microsoft.ServiceBus/namespaces-virtualNetworkRules.md)
 
 
-## Microsoft.ServiceFabric
+## 🔷 Microsoft.ServiceFabric
 
 - [Microsoft.ServiceFabric/clusters](aliases/Microsoft.ServiceFabric/clusters.md)
 - [Microsoft.ServiceFabric/clusters/applications](aliases/Microsoft.ServiceFabric/clusters-applications.md)
@@ -1556,7 +1561,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ServiceFabric/managedclusters/applications/services](aliases/Microsoft.ServiceFabric/managedclusters-applications-services.md)
 
 
-## Microsoft.ServiceLinker
+## 🔷 Microsoft.ServiceLinker
 
 - [Microsoft.ServiceLinker/dryruns](aliases/Microsoft.ServiceLinker/dryruns.md)
 - [Microsoft.ServiceLinker/linkers](aliases/Microsoft.ServiceLinker/linkers.md)
@@ -1564,7 +1569,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
 
 
-## Microsoft.ServiceNetworking
+## 🔷 Microsoft.ServiceNetworking
 
 - [Microsoft.ServiceNetworking/trafficControllers](aliases/Microsoft.ServiceNetworking/trafficControllers.md)
 - [Microsoft.ServiceNetworking/trafficControllers/frontends](aliases/Microsoft.ServiceNetworking/trafficControllers-frontends.md)
@@ -1572,7 +1577,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.ServiceNetworking/trafficControllers/securityPolicies](aliases/Microsoft.ServiceNetworking/trafficControllers-securityPolicies.md)
 
 
-## Microsoft.SignalRService
+## 🔷 Microsoft.SignalRService
 
 - [Microsoft.SignalRService/SignalR](aliases/Microsoft.SignalRService/SignalR.md)
 - [Microsoft.SignalRService/WebPubSub](aliases/Microsoft.SignalRService/WebPubSub.md)
@@ -1591,7 +1596,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.SignalRService/WebPubSub/replicas/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-replicas-sharedPrivateLinkResources.md)
 
 
-## Microsoft.Singularity
+## 🔷 Microsoft.Singularity
 
 - [Microsoft.Singularity/accounts](aliases/Microsoft.Singularity/accounts.md)
 - [Microsoft.Singularity/accounts/storageContainers](aliases/Microsoft.Singularity/accounts-storageContainers.md)
@@ -1600,14 +1605,14 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Singularity/accounts/jobs](aliases/Microsoft.Singularity/accounts-jobs.md)
 
 
-## Microsoft.Solutions
+## 🔷 Microsoft.Solutions
 
 - [Microsoft.Solutions/applications](aliases/Microsoft.Solutions/applications.md)
 - [Microsoft.Solutions/applicationDefinitions](aliases/Microsoft.Solutions/applicationDefinitions.md)
 - [Microsoft.Solutions/jitRequests](aliases/Microsoft.Solutions/jitRequests.md)
 
 
-## Microsoft.Sql
+## 🔷 Microsoft.Sql
 
 - [Microsoft.Sql/servers/keys](aliases/Microsoft.Sql/servers-keys.md)
 - [Microsoft.Sql/servers/encryptionProtector](aliases/Microsoft.Sql/servers-encryptionProtector.md)
@@ -1703,14 +1708,14 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Sql/servers/networkSecurityPerimeterConfigurations](aliases/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations.md)
 
 
-## Microsoft.SqlVirtualMachine
+## 🔷 Microsoft.SqlVirtualMachine
 
 - [Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups](aliases/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups.md)
 - [Microsoft.SqlVirtualMachine/SqlVirtualMachines](aliases/Microsoft.SqlVirtualMachine/SqlVirtualMachines.md)
 - [Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners](aliases/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups-AvailabilityGroupListeners.md)
 
 
-## Microsoft.Storage
+## 🔷 Microsoft.Storage
 
 - [Microsoft.Storage/storageAccounts/storageTaskAssignments](aliases/Microsoft.Storage/storageAccounts-storageTaskAssignments.md)
 - [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)
@@ -1731,13 +1736,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations](aliases/Microsoft.Storage/storageAccounts-networkSecurityPerimeterConfigurations.md)
 
 
-## Microsoft.StorageCache
+## 🔷 Microsoft.StorageCache
 
 - [Microsoft.StorageCache/caches](aliases/Microsoft.StorageCache/caches.md)
 - [Microsoft.StorageCache/caches/storageTargets](aliases/Microsoft.StorageCache/caches-storageTargets.md)
 
 
-## Microsoft.StorageMover
+## 🔷 Microsoft.StorageMover
 
 - [Microsoft.StorageMover/storageMovers](aliases/Microsoft.StorageMover/storageMovers.md)
 - [Microsoft.StorageMover/storageMovers/endpoints](aliases/Microsoft.StorageMover/storageMovers-endpoints.md)
@@ -1746,7 +1751,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.StorageMover/storageMovers/projects/jobDefinitions](aliases/Microsoft.StorageMover/storageMovers-projects-jobDefinitions.md)
 
 
-## Microsoft.StorageSync
+## 🔷 Microsoft.StorageSync
 
 - [Microsoft.StorageSync/storageSyncServices](aliases/Microsoft.StorageSync/storageSyncServices.md)
 - [Microsoft.StorageSync/storageSyncServices/syncGroups](aliases/Microsoft.StorageSync/storageSyncServices-syncGroups.md)
@@ -1756,7 +1761,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.StorageSync/storageSyncServices/privateEndpointConnections](aliases/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections.md)
 
 
-## Microsoft.StreamAnalytics
+## 🔷 Microsoft.StreamAnalytics
 
 - [Microsoft.StreamAnalytics/streamingjobs](aliases/Microsoft.StreamAnalytics/streamingjobs.md)
 - [Microsoft.StreamAnalytics/clusters](aliases/Microsoft.StreamAnalytics/clusters.md)
@@ -1767,13 +1772,13 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.StreamAnalytics/streamingjobs/transformations](aliases/Microsoft.StreamAnalytics/streamingjobs-transformations.md)
 
 
-## Microsoft.Subscription
+## 🔷 Microsoft.Subscription
 
 - [Microsoft.Subscription/SubscriptionDefinitions](aliases/Microsoft.Subscription/SubscriptionDefinitions.md)
 - [Microsoft.Subscription/aliases](aliases/Microsoft.Subscription/aliases.md)
 
 
-## Microsoft.Synapse
+## 🔷 Microsoft.Synapse
 
 - [Microsoft.Synapse/workspaces](aliases/Microsoft.Synapse/workspaces.md)
 - [Microsoft.Synapse/workspaces/bigDataPools](aliases/Microsoft.Synapse/workspaces-bigDataPools.md)
@@ -1814,23 +1819,23 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
 
 
-## Microsoft.VideoIndexer
+## 🔷 Microsoft.VideoIndexer
 
 - [Microsoft.VideoIndexer/accounts/privateEndpointConnections](aliases/Microsoft.VideoIndexer/accounts-privateEndpointConnections.md)
 - [Microsoft.VideoIndexer/accounts](aliases/Microsoft.VideoIndexer/accounts.md)
 
 
-## Microsoft.VirtualMachineImages
+## 🔷 Microsoft.VirtualMachineImages
 
 - [Microsoft.VirtualMachineImages/imageTemplates](aliases/Microsoft.VirtualMachineImages/imageTemplates.md)
 
 
-## microsoft.visualstudio
+## 🔷 microsoft.visualstudio
 
 - [microsoft.visualstudio/account/project](aliases/microsoft.visualstudio/account-project.md)
 
 
-## Microsoft.Web
+## 🔷 Microsoft.Web
 
 - [Microsoft.Web/publishingUsers](aliases/Microsoft.Web/publishingUsers.md)
 - [Microsoft.Web/sourceControls](aliases/Microsoft.Web/sourceControls.md)
@@ -1890,7 +1895,7 @@ The data is periodically fetched using Get-AzPolicyAlias command provided as par
 - [Microsoft.Web/sites/slots/sitecontainers](aliases/Microsoft.Web/sites-slots-sitecontainers.md)
 
 
-## Microsoft.Workloads
+## 🔷 Microsoft.Workloads
 
 - [Microsoft.Workloads/sapVirtualInstances](aliases/Microsoft.Workloads/sapVirtualInstances.md)
 - [Microsoft.Workloads/sapVirtualInstances/applicationInstances](aliases/Microsoft.Workloads/sapVirtualInstances-applicationInstances.md)
