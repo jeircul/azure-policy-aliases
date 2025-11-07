@@ -1,0 +1,46 @@
+# PowerShell Module Artifacts
+*.psm1.backup
+*.psd1.backup
+
+# Build Artifacts
+bin/
+obj/
+output/
+
+# PowerShell Logs
+*.log
+*.txt.log
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+
+# Azure / Secrets
+*.publishsettings
+*.azurePubxml
+local.settings.json
+.env
+
+# Test Results
+TestResults/
+*.trx
+coverage.xml
