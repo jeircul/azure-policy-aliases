@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 328 | 📦 **Resource Types**: 5581
+✨ **Total Providers**: 328 | 📦 **Resource Types**: 5582
 
 ---
 ## 🔷 Microsoft.AAD
@@ -332,6 +332,7 @@
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## 🔷 Microsoft.Cdn
@@ -356,6 +357,12 @@
 
 - [Microsoft.CertificateRegistration/certificateOrders](aliases/Microsoft.CertificateRegistration/certificateOrders.md)
 - [Microsoft.CertificateRegistration/certificateOrders/certificates](aliases/Microsoft.CertificateRegistration/certificateOrders-certificates.md)
+
+
+## 🔷 Microsoft.Chaos
+
+- [Microsoft.Chaos/experiments](aliases/Microsoft.Chaos/experiments.md)
+- [Microsoft.Chaos/targets/capabilities](aliases/Microsoft.Chaos/targets-capabilities.md)
 
 
 ## 🔷 Microsoft.CognitiveServices
@@ -1461,13 +1468,13 @@
 
 ## 🔷 Microsoft.Resources
 
-- [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
-- [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
-- [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 - [Microsoft.Resources/deploymentScripts](aliases/Microsoft.Resources/deploymentScripts.md)
 - [Microsoft.Resources/templateSpecs](aliases/Microsoft.Resources/templateSpecs.md)
 - [Microsoft.Resources/templateSpecs/versions](aliases/Microsoft.Resources/templateSpecs-versions.md)
 - [Microsoft.Resources/deploymentStacks](aliases/Microsoft.Resources/deploymentStacks.md)
+- [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
+- [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
+- [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 
 
 ## 🔷 Microsoft.SaaS
