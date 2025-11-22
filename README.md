@@ -1467,13 +1467,13 @@
 
 ## 🔷 Microsoft.Resources
 
-- [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
-- [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
-- [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 - [Microsoft.Resources/deploymentScripts](aliases/Microsoft.Resources/deploymentScripts.md)
 - [Microsoft.Resources/templateSpecs](aliases/Microsoft.Resources/templateSpecs.md)
 - [Microsoft.Resources/templateSpecs/versions](aliases/Microsoft.Resources/templateSpecs-versions.md)
 - [Microsoft.Resources/deploymentStacks](aliases/Microsoft.Resources/deploymentStacks.md)
+- [Microsoft.Resources/deployments](aliases/Microsoft.Resources/deployments.md)
+- [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
+- [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 
 
 ## 🔷 Microsoft.SaaS
