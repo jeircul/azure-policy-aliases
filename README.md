@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 326 | 📦 **Resource Types**: 5583
+✨ **Total Providers**: 327 | 📦 **Resource Types**: 5587
 
 ---
 ## 🔷 Microsoft.AAD
@@ -831,13 +831,6 @@
 - [Microsoft.DomainRegistration/domains/domainOwnershipIdentifiers](aliases/Microsoft.DomainRegistration/domains-domainOwnershipIdentifiers.md)
 
 
-## 🔷 Microsoft.DurableTask
-
-- [Microsoft.DurableTask/schedulers/taskhubs](aliases/Microsoft.DurableTask/schedulers-taskhubs.md)
-- [Microsoft.DurableTask/schedulers/retentionpolicies](aliases/Microsoft.DurableTask/schedulers-retentionpolicies.md)
-- [Microsoft.DurableTask/schedulers](aliases/Microsoft.DurableTask/schedulers.md)
-
-
 ## 🔷 Microsoft.EdgeOrder
 
 - [Microsoft.EdgeOrder/addresses](aliases/Microsoft.EdgeOrder/addresses.md)
@@ -1212,10 +1205,6 @@
 - [Microsoft.Network/dnsForwardingRulesets](aliases/Microsoft.Network/dnsForwardingRulesets.md)
 - [Microsoft.Network/dnsForwardingRulesets/forwardingRules](aliases/Microsoft.Network/dnsForwardingRulesets-forwardingRules.md)
 - [Microsoft.Network/dnsForwardingRulesets/virtualNetworkLinks](aliases/Microsoft.Network/dnsForwardingRulesets-virtualNetworkLinks.md)
-- [Microsoft.Network/dnsResolverPolicies](aliases/Microsoft.Network/dnsResolverPolicies.md)
-- [Microsoft.Network/dnsResolverPolicies/dnsSecurityRules](aliases/Microsoft.Network/dnsResolverPolicies-dnsSecurityRules.md)
-- [Microsoft.Network/dnsResolverPolicies/virtualNetworkLinks](aliases/Microsoft.Network/dnsResolverPolicies-virtualNetworkLinks.md)
-- [Microsoft.Network/dnsResolverDomainLists](aliases/Microsoft.Network/dnsResolverDomainLists.md)
 - [Microsoft.Network/frontdoors](aliases/Microsoft.Network/frontdoors.md)
 - [Microsoft.Network/frontdoorWebApplicationFirewallPolicies](aliases/Microsoft.Network/frontdoorWebApplicationFirewallPolicies.md)
 - [Microsoft.Network/networkExperimentProfiles](aliases/Microsoft.Network/networkExperimentProfiles.md)
@@ -1527,16 +1516,8 @@
 - [Microsoft.Security/defenderForStorageSettings](aliases/Microsoft.Security/defenderForStorageSettings.md)
 - [Microsoft.Security/securityConnectors](aliases/Microsoft.Security/securityConnectors.md)
 - [Microsoft.Security/securityConnectors/devops](aliases/Microsoft.Security/securityConnectors-devops.md)
-- [Microsoft.Security/customRecommendations](aliases/Microsoft.Security/customRecommendations.md)
-- [Microsoft.Security/securityStandards](aliases/Microsoft.Security/securityStandards.md)
 - [Microsoft.Security/standards](aliases/Microsoft.Security/standards.md)
-- [Microsoft.Security/standardAssignments](aliases/Microsoft.Security/standardAssignments.md)
 - [Microsoft.Security/assignments](aliases/Microsoft.Security/assignments.md)
-- [Microsoft.Security/privateLinks](aliases/Microsoft.Security/privateLinks.md)
-- [Microsoft.Security/privateLinks/privateEndpointConnections](aliases/Microsoft.Security/privateLinks-privateEndpointConnections.md)
-- [Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs](aliases/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs.md)
-- [Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects](aliases/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs-projects.md)
-- [Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/repos](aliases/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs-projects-repos.md)
 
 
 ## 🔷 Microsoft.SecurityInsights

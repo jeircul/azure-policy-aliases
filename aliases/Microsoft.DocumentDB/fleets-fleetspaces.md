@@ -10,9 +10,4 @@
 | `properties.throughputPoolConfiguration.serviceTier` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.serviceTier` |
 | `properties.throughputPoolConfiguration.dataRegions` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.dataRegions` |
 | `properties.throughputPoolConfiguration.dataRegions[*]` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.dataRegions[*]` |
-| `properties.serviceTier` | `Microsoft.DocumentDB/fleets/fleetspaces/serviceTier` |
-| `properties.dataRegions` | `Microsoft.DocumentDB/fleets/fleetspaces/dataRegions` |
-| `properties.dataRegions[*]` | `Microsoft.DocumentDB/fleets/fleetspaces/dataRegions[*]` |
-| `properties.throughputPoolConfiguration.dedicatedRUs` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.dedicatedRUs` |
-| `properties.throughputPoolConfiguration.maxConsumableRUs` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.maxConsumableRUs` |
 

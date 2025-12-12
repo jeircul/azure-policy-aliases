@@ -800,5 +800,4 @@
 | `properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualnetworks/subnets/ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-| `properties.privateEndpoints[*].properties.ipVersionType` | `Microsoft.Network/virtualnetworks/subnets/privateEndpoints[*].ipVersionType` |
 
