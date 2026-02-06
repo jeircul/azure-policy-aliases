@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 5618
+✨ **Total Providers**: 329 | 📦 **Resource Types**: 5615
 
 ---
 ## 🔷 Microsoft.AAD
@@ -368,10 +368,14 @@
 
 - [Microsoft.CognitiveServices/accounts](aliases/Microsoft.CognitiveServices/accounts.md)
 - [Microsoft.CognitiveServices/accounts/projects](aliases/Microsoft.CognitiveServices/accounts-projects.md)
+- [Microsoft.CognitiveServices/accounts/projects/capabilityhosts](aliases/Microsoft.CognitiveServices/accounts-projects-capabilityhosts.md)
+- [Microsoft.CognitiveServices/accounts/capabilityhosts](aliases/Microsoft.CognitiveServices/accounts-capabilityhosts.md)
 - [Microsoft.CognitiveServices/accounts/connections](aliases/Microsoft.CognitiveServices/accounts-connections.md)
 - [Microsoft.CognitiveServices/accounts/projects/connections](aliases/Microsoft.CognitiveServices/accounts-projects-connections.md)
+- [Microsoft.CognitiveServices/accounts/projects/applications](aliases/Microsoft.CognitiveServices/accounts-projects-applications.md)
 - [Microsoft.CognitiveServices/accounts/privateEndpointConnections](aliases/Microsoft.CognitiveServices/accounts-privateEndpointConnections.md)
 - [Microsoft.CognitiveServices/accounts/encryptionScopes](aliases/Microsoft.CognitiveServices/accounts-encryptionScopes.md)
+- [Microsoft.CognitiveServices/raiExternalSafetyProviders](aliases/Microsoft.CognitiveServices/raiExternalSafetyProviders.md)
 - [Microsoft.CognitiveServices/accounts/commitmentplans](aliases/Microsoft.CognitiveServices/accounts-commitmentplans.md)
 - [Microsoft.CognitiveServices/accounts/deployments](aliases/Microsoft.CognitiveServices/accounts-deployments.md)
 - [Microsoft.CognitiveServices/accounts/raiBlocklists](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists.md)
@@ -380,6 +384,7 @@
 - [Microsoft.CognitiveServices/accounts/raiBlocklists/raiBlocklistItems](aliases/Microsoft.CognitiveServices/accounts-raiBlocklists-raiBlocklistItems.md)
 - [Microsoft.CognitiveServices/accounts/raiToolLabels](aliases/Microsoft.CognitiveServices/accounts-raiToolLabels.md)
 - [Microsoft.CognitiveServices/accounts/raiTopics](aliases/Microsoft.CognitiveServices/accounts-raiTopics.md)
+- [Microsoft.CognitiveServices/accounts/projects/applications/agentdeployments](aliases/Microsoft.CognitiveServices/accounts-projects-applications-agentdeployments.md)
 
 
 ## 🔷 Microsoft.Communication
