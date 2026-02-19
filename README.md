@@ -1407,7 +1407,6 @@
 ## 🔷 Microsoft.OperationsManagement
 
 - [Microsoft.OperationsManagement/solutions](aliases/Microsoft.OperationsManagement/solutions.md)
-- [Microsoft.OperationsManagement/managementassociations](aliases/Microsoft.OperationsManagement/managementassociations.md)
 
 
 ## 🔷 Microsoft.Portal
