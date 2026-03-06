@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 331 | 📦 **Resource Types**: 5646
+✨ **Total Providers**: 330 | 📦 **Resource Types**: 5649
 
 ---
 ## 🔷 Microsoft.AAD
@@ -190,7 +190,9 @@
 - [Microsoft.Authorization/roleDefinitions](aliases/Microsoft.Authorization/roleDefinitions.md)
 - [Microsoft.Authorization/locks](aliases/Microsoft.Authorization/locks.md)
 - [Microsoft.Authorization/policyDefinitions](aliases/Microsoft.Authorization/policyDefinitions.md)
+- [Microsoft.Authorization/policyDefinitions/versions](aliases/Microsoft.Authorization/policyDefinitions-versions.md)
 - [Microsoft.Authorization/policySetDefinitions](aliases/Microsoft.Authorization/policySetDefinitions.md)
+- [Microsoft.Authorization/policySetDefinitions/versions](aliases/Microsoft.Authorization/policySetDefinitions-versions.md)
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
 - [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
 
@@ -1407,6 +1409,12 @@
 ## 🔷 Microsoft.OperationsManagement
 
 - [Microsoft.OperationsManagement/solutions](aliases/Microsoft.OperationsManagement/solutions.md)
+
+
+## 🔷 Microsoft.PolicyInsights
+
+- [Microsoft.PolicyInsights/remediations](aliases/Microsoft.PolicyInsights/remediations.md)
+- [Microsoft.PolicyInsights/attestations](aliases/Microsoft.PolicyInsights/attestations.md)
 
 
 ## 🔷 Microsoft.Portal
