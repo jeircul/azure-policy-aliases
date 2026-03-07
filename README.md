@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 5649
+✨ **Total Providers**: 331 | 📦 **Resource Types**: 5663
 
 ---
 ## 🔷 Microsoft.AAD
@@ -358,6 +358,12 @@
 
 - [Microsoft.CertificateRegistration/certificateOrders](aliases/Microsoft.CertificateRegistration/certificateOrders.md)
 - [Microsoft.CertificateRegistration/certificateOrders/certificates](aliases/Microsoft.CertificateRegistration/certificateOrders-certificates.md)
+
+
+## 🔷 Microsoft.ChangeSafety
+
+- [Microsoft.ChangeSafety/changerecords](aliases/Microsoft.ChangeSafety/changerecords.md)
+- [Microsoft.ChangeSafety/changerecords/stageprogressions](aliases/Microsoft.ChangeSafety/changerecords-stageprogressions.md)
 
 
 ## 🔷 Microsoft.Chaos
