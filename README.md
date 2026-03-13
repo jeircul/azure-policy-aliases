@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 332 | 📦 **Resource Types**: 5670
+✨ **Total Providers**: 332 | 📦 **Resource Types**: 5671
 
 ---
 ## 🔷 Microsoft.AAD
@@ -334,6 +334,7 @@
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 
 ## 🔷 Microsoft.Cdn
@@ -1165,7 +1166,6 @@
 ## 🔷 Microsoft.Maps
 
 - [Microsoft.Maps/accounts](aliases/Microsoft.Maps/accounts.md)
-- [Microsoft.Maps/accounts/creators](aliases/Microsoft.Maps/accounts-creators.md)
 
 
 ## 🔷 Microsoft.Migrate
