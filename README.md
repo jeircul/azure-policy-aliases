@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 5670
+✨ **Total Providers**: 330 | 📦 **Resource Types**: 5685
 
 ---
 ## 🔷 Microsoft.AAD
@@ -984,6 +984,20 @@
 - [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
 - [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
 - [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
+
+
+## 🔷 Microsoft.HybridContainerService
+
+- [Microsoft.HybridContainerService/virtualNetworks](aliases/Microsoft.HybridContainerService/virtualNetworks.md)
+- [Microsoft.HybridContainerService/provisionedClusterInstances](aliases/Microsoft.HybridContainerService/provisionedClusterInstances.md)
+- [Microsoft.HybridContainerService/skus](aliases/Microsoft.HybridContainerService/skus.md)
+- [Microsoft.HybridContainerService/kubernetesVersions](aliases/Microsoft.HybridContainerService/kubernetesVersions.md)
+- [Microsoft.HybridContainerService/provisionedClusters](aliases/Microsoft.HybridContainerService/provisionedClusters.md)
+- [Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata](aliases/Microsoft.HybridContainerService/provisionedClusters-hybridIdentityMetadata.md)
+- [Microsoft.HybridContainerService/provisionedClusters/agentPools](aliases/Microsoft.HybridContainerService/provisionedClusters-agentPools.md)
+- [Microsoft.HybridContainerService/storageSpaces](aliases/Microsoft.HybridContainerService/storageSpaces.md)
+- [Microsoft.HybridContainerService/provisionedClusterInstances/agentPools](aliases/Microsoft.HybridContainerService/provisionedClusterInstances-agentPools.md)
+- [Microsoft.HybridContainerService/provisionedClusterInstances/hybridIdentityMetadata](aliases/Microsoft.HybridContainerService/provisionedClusterInstances-hybridIdentityMetadata.md)
 
 
 ## 🔷 microsoft.insights
