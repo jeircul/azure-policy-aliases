@@ -1,10 +1,8 @@
 # Abort on any error — prevents partial/empty output being committed
 $ErrorActionPreference = 'Stop'
 
-# Install Az.Resources if not available
-if (-not (Get-Module Az.Resources -ListAvailable)) {
-    Install-Module Az.Resources -Force -Scope CurrentUser -MinimumVersion 7.0.0
-}
+# Ensure Az.Resources is up-to-date; installs if missing, updates if outdated, no-ops if current
+Install-PSResource Az.Resources -Scope CurrentUser -Quiet -AcceptLicense -TrustRepository
 
 # Get all available policy aliases
 $resourceTypes = Get-AzPolicyAlias -ListAvailable

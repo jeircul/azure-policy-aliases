@@ -20,10 +20,8 @@ runs:
         ENABLE_CLI: ${{ inputs.enable-cli }}
       shell: pwsh
       run: |
-        # Install Az.Accounts if not available
-        if (-not (Get-Module Az.Accounts -ListAvailable)) {
-          Install-Module Az.Accounts -Force -Scope CurrentUser -ErrorAction Stop
-        }
+        # Ensure Az.Accounts is up-to-date; installs if missing, updates if outdated, no-ops if current
+        Install-PSResource Az.Accounts -Scope CurrentUser -Quiet -AcceptLicense -TrustRepository
 
         # Get federated token
         $secureOIDCToken = $ENV:ACTIONS_ID_TOKEN_REQUEST_TOKEN | ConvertTo-SecureString -AsPlainText
