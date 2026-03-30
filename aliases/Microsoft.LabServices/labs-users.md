@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labs/users
+﻿# Microsoft.LabServices/labs/users
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.invitationState` | `Microsoft.LabServices/labs/users/invitationState` |
 | `properties.invitationSent` | `Microsoft.LabServices/labs/users/invitationSent` |
 | `properties.totalUsage` | `Microsoft.LabServices/labs/users/totalUsage` |
-

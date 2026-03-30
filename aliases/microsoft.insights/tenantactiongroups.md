@@ -1,4 +1,4 @@
-# microsoft.insights/tenantactiongroups
+﻿# microsoft.insights/tenantactiongroups
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.voiceReceivers[*].name` | `Microsoft.Insights/tenantActionGroups/voiceReceivers[*].name` |
 | `properties.voiceReceivers[*].countryCode` | `Microsoft.Insights/tenantActionGroups/voiceReceivers[*].countryCode` |
 | `properties.voiceReceivers[*].phoneNumber` | `Microsoft.Insights/tenantActionGroups/voiceReceivers[*].phoneNumber` |
-

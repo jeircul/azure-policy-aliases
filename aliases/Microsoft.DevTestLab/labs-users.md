@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/users
+﻿# Microsoft.DevTestLab/labs/users
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.createdDate` | `Microsoft.DevTestLab/labs/users/createdDate` |
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/users/provisioningState` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/users/uniqueIdentifier` |
-

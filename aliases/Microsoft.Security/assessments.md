@@ -1,4 +1,4 @@
-# Microsoft.Security/assessments
+﻿# Microsoft.Security/assessments
 
 | Default Path | Alias |
 |---|---|
@@ -69,4 +69,3 @@
 | `properties.risk.paths[*].edges[*].targetId` | `Microsoft.Security/assessments/risk.paths[*].edges[*].targetId` |
 | `properties.risk.paths[*].edges[*].sourceId` | `Microsoft.Security/assessments/risk.paths[*].edges[*].sourceId` |
 | `properties.risk.isContextualRisk` | `Microsoft.Security/assessments/risk.isContextualRisk` |
-

@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems
+﻿# Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.providerSpecificDetails.targetVmSecurityProfile.isTargetVmIntegrityMonitoringEnabled` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetVmSecurityProfile.isTargetVmIntegrityMonitoringEnabled` |
 | `properties.providerSpecificDetails.targetVmSecurityProfile.isTargetVmConfidentialEncryptionEnabled` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.targetVmSecurityProfile.isTargetVmConfidentialEncryptionEnabled` |
 | `properties.providerSpecificDetails.linuxLicenseType` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationMigrationItems/providerSpecificDetails.VMwareCbt.linuxLicenseType` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings
+﻿# Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
 | `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/resource.instantMaximumThroughput` |
 | `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings/resource.softAllowedMaximumThroughput` |
-

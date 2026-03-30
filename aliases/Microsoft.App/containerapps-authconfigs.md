@@ -1,4 +1,4 @@
-# Microsoft.App/containerapps/authconfigs
+﻿# Microsoft.App/containerapps/authconfigs
 
 | Default Path | Alias |
 |---|---|
@@ -118,4 +118,3 @@
 | `properties.login.tokenStore.azureBlobStorage.blobContainerUri` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.blobContainerUri` |
 | `properties.login.tokenStore.azureBlobStorage.clientId` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.clientId` |
 | `properties.login.tokenStore.azureBlobStorage.managedIdentityResourceId` | `Microsoft.App/containerApps/authConfigs/login.tokenStore.azureBlobStorage.managedIdentityResourceId` |
-

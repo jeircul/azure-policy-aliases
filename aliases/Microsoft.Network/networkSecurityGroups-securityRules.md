@@ -1,4 +1,4 @@
-# Microsoft.Network/networkSecurityGroups/securityRules
+﻿# Microsoft.Network/networkSecurityGroups/securityRules
 
 | Default Path | Alias |
 |---|---|
@@ -40,4 +40,3 @@
 | `properties.destinationApplicationSecurityGroups[*].type` | `Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].type` |
 | `properties.destinationApplicationSecurityGroups[*].location` | `Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].location` |
 | `properties.destinationApplicationSecurityGroups[*].tags` | `Microsoft.Network/networkSecurityGroups/securityRules/destinationApplicationSecurityGroups[*].tags` |
-

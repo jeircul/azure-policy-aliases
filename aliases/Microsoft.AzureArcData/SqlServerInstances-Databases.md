@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/SqlServerInstances/Databases
+﻿# Microsoft.AzureArcData/SqlServerInstances/Databases
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.sourceDatabaseId` | `Microsoft.AzureArcData/sqlServerInstances/databases/sourceDatabaseId` |
 | `properties.restorePointInTime` | `Microsoft.AzureArcData/sqlServerInstances/databases/restorePointInTime` |
 | `properties.lastDatabaseUploadTime` | `Microsoft.AzureArcData/sqlServerInstances/databases/lastDatabaseUploadTime` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Cache/Redis
+﻿# Microsoft.Cache/Redis
 
 | Default Path | Alias |
 |---|---|
@@ -49,4 +49,3 @@
 | `properties.updateChannel` | `Microsoft.Cache/Redis/updateChannel` |
 | `properties.disableAccessKeyAuthentication` | `Microsoft.Cache/Redis/disableAccessKeyAuthentication` |
 | `properties.zonalAllocationPolicy` | `Microsoft.Cache/Redis/zonalAllocationPolicy` |
-

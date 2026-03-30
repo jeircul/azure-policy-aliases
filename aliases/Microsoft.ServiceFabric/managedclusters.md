@@ -1,4 +1,4 @@
-# Microsoft.ServiceFabric/managedclusters
+﻿# Microsoft.ServiceFabric/managedclusters
 
 | Default Path | Alias |
 |---|---|
@@ -93,4 +93,3 @@
 | `properties.serviceEndpoints[*].locations` | `Microsoft.ServiceFabric/managedClusters/serviceEndpoints[*].locations` |
 | `properties.serviceEndpoints[*].locations[*]` | `Microsoft.ServiceFabric/managedClusters/serviceEndpoints[*].locations[*]` |
 | `properties.loadBalancingRules[*].loadDistribution` | `Microsoft.ServiceFabric/managedClusters/loadBalancingRules[*].loadDistribution` |
-

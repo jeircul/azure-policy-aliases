@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRoutePorts
+﻿# Microsoft.Network/expressRoutePorts
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.links[*].properties.macSecConfig.sciState` | `Microsoft.Network/ExpressRoutePorts/links[*].macSecConfig.sciState` |
 | `properties.links[*].properties.coloLocation` | `Microsoft.Network/ExpressRoutePorts/links[*].coloLocation` |
 | `properties.billingType` | `Microsoft.Network/ExpressRoutePorts/billingType` |
-

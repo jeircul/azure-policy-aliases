@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/Vaults/backupconfig
+﻿# Microsoft.RecoveryServices/Vaults/backupconfig
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.resourceGuardOperationRequests[*]` | `Microsoft.RecoveryServices/vaults/backupconfig/resourceGuardOperationRequests[*]` |
 | `properties.isSoftDeleteFeatureStateEditable` | `Microsoft.RecoveryServices/vaults/backupconfig/isSoftDeleteFeatureStateEditable` |
 | `properties.softDeleteRetentionPeriodInDays` | `Microsoft.RecoveryServices/vaults/backupconfig/softDeleteRetentionPeriodInDays` |
-

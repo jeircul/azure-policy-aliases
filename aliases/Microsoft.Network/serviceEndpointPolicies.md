@@ -1,4 +1,4 @@
-# Microsoft.Network/serviceEndpointPolicies
+﻿# Microsoft.Network/serviceEndpointPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -391,4 +391,3 @@
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/serviceEndpointPolicies/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

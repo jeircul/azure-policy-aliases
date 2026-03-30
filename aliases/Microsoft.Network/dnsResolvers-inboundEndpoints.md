@@ -1,4 +1,4 @@
-# Microsoft.Network/dnsResolvers/inboundEndpoints
+﻿# Microsoft.Network/dnsResolvers/inboundEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.ipConfigurations[*].privateIpAllocationMethod` | `Microsoft.Network/dnsResolvers/inboundEndpoints/ipConfigurations[*].privateIpAllocationMethod` |
 | `properties.provisioningState` | `Microsoft.Network/dnsResolvers/inboundEndpoints/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/dnsResolvers/inboundEndpoints/resourceGuid` |
-

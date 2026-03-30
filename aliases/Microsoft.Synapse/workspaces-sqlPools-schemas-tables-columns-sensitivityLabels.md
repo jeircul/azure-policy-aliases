@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels
+﻿# Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.columnName` | `Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels/columnName` |
 | `properties.rank` | `Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels/rank` |
 | `managedBy` | `Microsoft.Synapse/workspaces/sqlPools/schemas/tables/columns/sensitivityLabels/managedBy` |
-

@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/endpoints
+﻿# Microsoft.MachineLearningServices/workspaces/endpoints
 
 | Default Path | Alias |
 |---|---|
@@ -61,4 +61,3 @@
 | `properties.deployments[*].properties.sku.name` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.name` |
 | `properties.deployments[*].properties.sku.size` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.size` |
 | `properties.deployments[*].properties.sku.tier` | `Microsoft.MachineLearningServices/workspaces/endpoints/deployments[*].sku.tier` |
-

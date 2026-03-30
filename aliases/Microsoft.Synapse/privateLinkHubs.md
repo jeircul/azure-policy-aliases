@@ -1,4 +1,4 @@
-# Microsoft.Synapse/privateLinkHubs
+﻿# Microsoft.Synapse/privateLinkHubs
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Synapse/privateLinkHubs/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Synapse/privateLinkHubs/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Synapse/privateLinkHubs/privateEndpointConnections[*].provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/exportPipelines
+﻿# Microsoft.ContainerRegistry/registries/exportPipelines
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.options[*]` | `Microsoft.ContainerRegistry/registries/exportPipelines/options[*]` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/exportPipelines/provisioningState` |
 | `properties.target.storageAccessMode` | `Microsoft.ContainerRegistry/registries/exportPipelines/target.storageAccessMode` |
-

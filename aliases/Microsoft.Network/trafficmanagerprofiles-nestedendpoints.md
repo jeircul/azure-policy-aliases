@@ -1,4 +1,4 @@
-# Microsoft.Network/trafficmanagerprofiles/nestedendpoints
+﻿# Microsoft.Network/trafficmanagerprofiles/nestedendpoints
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.customHeaders[*].name` | `Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/customHeaders[*].name` |
 | `properties.customHeaders[*].value` | `Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/customHeaders[*].value` |
 | `properties.alwaysServe` | `Microsoft.Network/trafficmanagerprofiles/NestedEndpoints/alwaysServe` |
-

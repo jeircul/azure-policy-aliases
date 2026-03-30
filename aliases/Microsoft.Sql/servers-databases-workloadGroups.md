@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/workloadGroups
+﻿# Microsoft.Sql/servers/databases/workloadGroups
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.maxResourcePercentPerRequest` | `Microsoft.Sql/servers/databases/workloadGroups/maxResourcePercentPerRequest` |
 | `properties.importance` | `Microsoft.Sql/servers/databases/workloadGroups/importance` |
 | `properties.queryExecutionTimeout` | `Microsoft.Sql/servers/databases/workloadGroups/queryExecutionTimeout` |
-

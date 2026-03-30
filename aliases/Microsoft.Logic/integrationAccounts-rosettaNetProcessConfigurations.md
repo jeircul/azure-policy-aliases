@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations
+﻿# Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -45,4 +45,3 @@
 | `properties.responderRoleSettings.description` | `Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/responderRoleSettings.description` |
 | `properties.responderRoleSettings` | `Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/responderRoleSettings` |
 | `properties.description` | `Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations/description` |
-

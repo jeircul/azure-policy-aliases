@@ -1,4 +1,4 @@
-# Microsoft.ServiceBus/namespaces/networkrulesets
+﻿# Microsoft.ServiceBus/namespaces/networkrulesets
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.ipRules[*].action` | `Microsoft.ServiceBus/namespaces/networkrulesets/ipRules[*].action` |
 | `properties.trustedServiceAccessEnabled` | `Microsoft.ServiceBus/namespaces/networkRuleSets/trustedServiceAccessEnabled` |
 | `properties.publicNetworkAccess` | `Microsoft.ServiceBus/namespaces/networkRuleSets/publicNetworkAccess` |
-

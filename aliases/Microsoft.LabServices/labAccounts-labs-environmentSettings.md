@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labAccounts/labs/environmentSettings
+﻿# Microsoft.LabServices/labAccounts/labs/environmentSettings
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.networkInterface` | `Microsoft.LabServices/labAccounts/labs/environmentSettings/environments.networkInterface` |
 | `properties.totalUsage` | `Microsoft.LabServices/labAccounts/labs/environmentSettings/environments.totalUsage` |
 | `properties.passwordLastReset` | `Microsoft.LabServices/labAccounts/labs/environmentSettings/environments.passwordLastReset` |
-

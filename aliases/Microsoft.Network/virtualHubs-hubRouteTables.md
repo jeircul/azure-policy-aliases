@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs/hubRouteTables
+﻿# Microsoft.Network/virtualHubs/hubRouteTables
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.propagatingConnections[*]` | `Microsoft.Network/virtualHubs/hubRouteTables/propagatingConnections[*]` |
 | `properties.propagatingConnections` | `Microsoft.Network/virtualHubs/hubRouteTables/propagatingConnections` |
 | `properties.provisioningState` | `Microsoft.Network/virtualHubs/hubRouteTables/provisioningState` |
-

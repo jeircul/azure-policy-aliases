@@ -1,4 +1,4 @@
-# Microsoft.Network/customIpPrefixes
+﻿# Microsoft.Network/customIpPrefixes
 
 | Default Path | Alias |
 |---|---|
@@ -44,4 +44,3 @@
 | `properties.expressRouteAdvertise` | `Microsoft.Network/customIpPrefixes/expressRouteAdvertise` |
 | `properties.geo` | `Microsoft.Network/customIpPrefixes/geo` |
 | `properties.prefixType` | `Microsoft.Network/customIpPrefixes/prefixType` |
-

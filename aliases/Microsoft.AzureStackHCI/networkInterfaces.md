@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/networkInterfaces
+﻿# Microsoft.AzureStackHCI/networkInterfaces
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.networkSecurityGroup` | `Microsoft.AzureStackHCI/networkinterfaces/networkSecurityGroup` |
 | `properties.networkSecurityGroup.id` | `Microsoft.AzureStackHCI/networkinterfaces/networkSecurityGroup.id` |
 | `properties.createFromLocal` | `Microsoft.AzureStackHCI/networkinterfaces/createFromLocal` |
-

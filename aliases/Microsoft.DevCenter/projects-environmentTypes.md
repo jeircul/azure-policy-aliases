@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/projects/environmentTypes
+﻿# Microsoft.DevCenter/projects/environmentTypes
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.provisioningState` | `Microsoft.DevCenter/projects/environmentTypes/provisioningState` |
 | `properties.displayName` | `Microsoft.DevCenter/projects/environmentTypes/displayName` |
 | `properties.environmentCount` | `Microsoft.DevCenter/projects/environmentTypes/environmentCount` |
-

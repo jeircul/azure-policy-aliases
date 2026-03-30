@@ -1,4 +1,4 @@
-# Microsoft.Workloads/phpWorkloads/wordpressInstances
+﻿# Microsoft.Workloads/phpWorkloads/wordpressInstances
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.databaseUser` | `Microsoft.Workloads/phpWorkloads/wordpressInstances/databaseUser` |
 | `properties.siteUrl` | `Microsoft.Workloads/phpWorkloads/wordpressInstances/siteUrl` |
 | `properties.provisioningState` | `Microsoft.Workloads/phpWorkloads/wordpressInstances/provisioningState` |
-

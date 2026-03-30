@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/provisionedClusters/agentPools
+﻿# Microsoft.HybridContainerService/provisionedClusters/agentPools
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.status.provisioningStatus.status` | `Microsoft.HybridContainerService/provisionedClusters/agentPools/status.provisioningStatus.status` |
 | `properties.status.readyReplicas` | `Microsoft.HybridContainerService/provisionedClusters/agentPools/status.readyReplicas` |
 | `properties.status.replicas` | `Microsoft.HybridContainerService/provisionedClusters/agentPools/status.replicas` |
-

@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments
+﻿# Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments
 
 | Default Path | Alias |
 |---|---|
@@ -68,4 +68,3 @@
 | `properties.resources.locations` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.locations` |
 | `properties.resources.locations[*]` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.locations[*]` |
 | `properties.resources.maxInstanceCount` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/deployments/resources.maxInstanceCount` |
-

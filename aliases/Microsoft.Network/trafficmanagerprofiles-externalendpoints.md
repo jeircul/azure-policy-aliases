@@ -1,4 +1,4 @@
-# Microsoft.Network/trafficmanagerprofiles/externalendpoints
+﻿# Microsoft.Network/trafficmanagerprofiles/externalendpoints
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.customHeaders[*].name` | `Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/customHeaders[*].name` |
 | `properties.customHeaders[*].value` | `Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/customHeaders[*].value` |
 | `properties.alwaysServe` | `Microsoft.Network/trafficmanagerprofiles/ExternalEndpoints/alwaysServe` |
-

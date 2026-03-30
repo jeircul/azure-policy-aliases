@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/flexibleServers/configurations
+﻿# Microsoft.DBforPostgreSQL/flexibleServers/configurations
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.isConfigPendingRestart` | `Microsoft.DBForPostgreSql/flexibleServers/configurations/isConfigPendingRestart` |
 | `properties.unit` | `Microsoft.DBForPostgreSql/flexibleServers/configurations/unit` |
 | `properties.documentationLink` | `Microsoft.DBForPostgreSql/flexibleServers/configurations/documentationLink` |
-

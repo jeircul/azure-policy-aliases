@@ -1,4 +1,4 @@
-# Microsoft.Blueprint/blueprints
+﻿# Microsoft.Blueprint/blueprints
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.layout` | `Microsoft.Blueprint/blueprints/layout` |
 | `properties.resourceGroups.additionalProperties.tags` | `Microsoft.Blueprint/blueprints/resourceGroups.additionalProperties.tags` |
 | `properties.resourceGroups.additionalProperties.tags.additionalProperties` | `Microsoft.Blueprint/blueprints/resourceGroups.additionalProperties.tags.additionalProperties` |
-

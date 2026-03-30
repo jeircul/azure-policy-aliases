@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs/routingIntent
+﻿# Microsoft.Network/virtualHubs/routingIntent
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.routingPolicies[*].destinations[*]` | `Microsoft.Network/virtualHubs/routingIntent/routingPolicies[*].destinations[*]` |
 | `properties.routingPolicies[*].nextHop` | `Microsoft.Network/virtualHubs/routingIntent/routingPolicies[*].nextHop` |
 | `properties.provisioningState` | `Microsoft.Network/virtualHubs/routingIntent/provisioningState` |
-

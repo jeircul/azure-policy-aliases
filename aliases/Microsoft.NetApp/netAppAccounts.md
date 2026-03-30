@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts
+﻿# Microsoft.NetApp/netAppAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -46,4 +46,3 @@
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.NetApp/netAppAccounts/encryption.identity.userAssignedIdentity` |
 | `properties.disableShowmount` | `Microsoft.NetApp/netAppAccounts/disableShowmount` |
 | `properties.activeDirectories[*].preferredServersForLdapClient` | `Microsoft.NetApp/netAppAccounts/activeDirectories[*].preferredServersForLdapClient` |
-

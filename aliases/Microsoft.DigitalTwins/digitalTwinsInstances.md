@@ -1,4 +1,4 @@
-# Microsoft.DigitalTwins/digitalTwinsInstances
+﻿# Microsoft.DigitalTwins/digitalTwinsInstances
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.DigitalTwins/digitalTwinsInstances/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DigitalTwins/digitalTwinsInstances/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.publicNetworkAccess` | `Microsoft.DigitalTwins/digitalTwinsInstances/publicNetworkAccess` |
-

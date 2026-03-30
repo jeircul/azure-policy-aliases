@@ -1,4 +1,4 @@
-# Microsoft.Network/connections
+﻿# Microsoft.Network/connections
 
 | Default Path | Alias |
 |---|---|
@@ -369,4 +369,3 @@
 | `properties.certificateAuthentication.inboundAuthCertificateSubjectName` | `Microsoft.Network/connections/certificateAuthentication.inboundAuthCertificateSubjectName` |
 | `properties.certificateAuthentication.inboundAuthCertificateChain` | `Microsoft.Network/connections/certificateAuthentication.inboundAuthCertificateChain` |
 | `properties.certificateAuthentication.inboundAuthCertificateChain[*]` | `Microsoft.Network/connections/certificateAuthentication.inboundAuthCertificateChain[*]` |
-

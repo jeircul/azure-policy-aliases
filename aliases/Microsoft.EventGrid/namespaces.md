@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/namespaces
+﻿# Microsoft.EventGrid/namespaces
 
 | Default Path | Alias |
 |---|---|
@@ -50,4 +50,3 @@
 | `sku` | `Microsoft.EventGrid/namespaces/sku` |
 | `sku.name` | `Microsoft.EventGrid/namespaces/sku.name` |
 | `sku.capacity` | `Microsoft.EventGrid/namespaces/sku.capacity` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables
+﻿# Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.schema.clusterKeys[*]` | `Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys[*]` |
 | `properties.schema.clusterKeys[*].name` | `Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys[*].name` |
 | `properties.schema.clusterKeys[*].orderBy` | `Microsoft.DocumentDB/databaseAccounts/apis/keyspaces/tables/schema.clusterKeys[*].orderBy` |
-

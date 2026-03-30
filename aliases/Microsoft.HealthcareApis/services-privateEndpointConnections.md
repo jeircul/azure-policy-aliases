@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/services/privateEndpointConnections
+﻿# Microsoft.HealthcareApis/services/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.HealthcareApis/services/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HealthcareApis/services/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.HealthcareApis/services/privateEndpointConnections/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/raiPolicies
+﻿# Microsoft.CognitiveServices/accounts/raiPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.safetyProviders[*].safetyProviderName` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].safetyProviderName` |
 | `properties.safetyProviders[*].blocking` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].blocking` |
 | `properties.safetyProviders[*].source` | `Microsoft.CognitiveServices/accounts/raiPolicies/safetyProviders[*].source` |
-

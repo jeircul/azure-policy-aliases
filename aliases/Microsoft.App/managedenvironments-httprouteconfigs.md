@@ -1,4 +1,4 @@
-# Microsoft.App/managedenvironments/httprouteconfigs
+﻿# Microsoft.App/managedenvironments/httprouteconfigs
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.rules[*].routes[*].action` | `Microsoft.App/managedEnvironments/httpRouteConfigs/rules[*].routes[*].action` |
 | `properties.rules[*].routes[*].action.prefixRewrite` | `Microsoft.App/managedEnvironments/httpRouteConfigs/rules[*].routes[*].action.prefixRewrite` |
 | `properties.rules[*].description` | `Microsoft.App/managedEnvironments/httpRouteConfigs/rules[*].description` |
-

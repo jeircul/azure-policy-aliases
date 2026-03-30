@@ -1,4 +1,4 @@
-# Microsoft.DBforMariaDB/servers
+﻿# Microsoft.DBforMariaDB/servers
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBForMariaDB/servers/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.DBForMariaDB/servers/privateEndpointConnections[*].provisioningState` |
 | `properties.minimalTlsVersion` | `Microsoft.DBForMariaDB/servers/minimalTlsVersion` |
-

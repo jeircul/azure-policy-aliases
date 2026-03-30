@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles
+﻿# Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles
 
 | Default Path | Alias |
 |---|---|
@@ -42,4 +42,3 @@
 | `properties.ioTEdgeAgentInfo.imageRepository.password.encryptionCertThumbprint` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTEdgeAgentInfo.imageRepository.password.encryptionCertThumbprint` |
 | `properties.ioTEdgeAgentInfo.imageRepository.password.encryptionAlgorithm` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.ioTEdgeAgentInfo.imageRepository.password.encryptionAlgorithm` |
 | `properties.hostPlatformType` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles/IOT.hostPlatformType` |
-

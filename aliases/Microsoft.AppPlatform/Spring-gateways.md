@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/gateways
+﻿# Microsoft.AppPlatform/Spring/gateways
 
 | Default Path | Alias |
 |---|---|
@@ -71,4 +71,3 @@
 | `properties.responseCacheProperties.timeToLive` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerInstance.timeToLive` |
 | `properties.responseCacheProperties.timeToLive` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.LocalCachePerRoute.timeToLive` |
 | `properties.responseCacheProperties.responseCacheType` | `Microsoft.AppPlatform/Spring/gateways/responseCacheProperties.responseCacheType` |
-

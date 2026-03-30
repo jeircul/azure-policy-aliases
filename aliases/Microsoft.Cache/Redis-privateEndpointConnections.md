@@ -1,4 +1,4 @@
-# Microsoft.Cache/Redis/privateEndpointConnections
+﻿# Microsoft.Cache/Redis/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.Cache/redis/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.Cache/redis/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Cache/redis/privateEndpointConnections/groupIds[*]` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/distributedAvailabilityGroups
+﻿# Microsoft.Sql/managedInstances/distributedAvailabilityGroups
 
 | Default Path | Alias |
 |---|---|
@@ -46,4 +46,3 @@
 | `properties.databases[*].instanceSendReplicationLagSeconds` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].instanceSendReplicationLagSeconds` |
 | `properties.databases[*].instanceRedoReplicationLagSeconds` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].instanceRedoReplicationLagSeconds` |
 | `properties.databases[*].seedingProgress` | `Microsoft.Sql/managedInstances/distributedAvailabilityGroups/databases[*].seedingProgress` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/projects/pools/schedules
+﻿# Microsoft.DevCenter/projects/pools/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.provisioningState` | `Microsoft.DevCenter/projects/pools/schedules/provisioningState` |
 | `properties.tags` | `Microsoft.DevCenter/projects/pools/schedules/tags` |
 | `properties.location` | `Microsoft.DevCenter/projects/pools/schedules/location` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Security/deviceSecurityGroups
+﻿# Microsoft.Security/deviceSecurityGroups
 
 | Default Path | Alias |
 |---|---|
@@ -104,4 +104,3 @@
 | `properties.denylistRules[*].valueType` | `Microsoft.Security/deviceSecurityGroups/denylistRules[*].ListCustomAlertRule.valueType` |
 | `properties.denylistRules[*].allowlistValues` | `Microsoft.Security/deviceSecurityGroups/denylistRules[*].allowlistValues` |
 | `properties.denylistRules[*].allowlistValues[*]` | `Microsoft.Security/deviceSecurityGroups/denylistRules[*].allowlistValues[*]` |
-

@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub
+﻿# Microsoft.SignalRService/WebPubSub
 
 | Default Path | Alias |
 |---|---|
@@ -114,4 +114,3 @@
 | `properties.applicationFirewall.clientConnectionCountRules[*].type` | `Microsoft.SignalRService/webPubSub/applicationFirewall.clientConnectionCountRules[*].type` |
 | `properties.sharedPrivateLinkResources[*].properties.fqdns` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].fqdns` |
 | `properties.sharedPrivateLinkResources[*].properties.fqdns[*]` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources[*].fqdns[*]` |
-

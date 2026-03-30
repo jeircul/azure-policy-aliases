@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/routingConfigurations/ruleCollections
+﻿# Microsoft.Network/networkManagers/routingConfigurations/ruleCollections
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.peeringRoutePropagationRules` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/peeringRoutePropagationRules` |
 | `properties.peeringRoutePropagationRules[*]` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/peeringRoutePropagationRules[*]` |
 | `properties.peeringRoutePropagationRules[*].propagationOption` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/peeringRoutePropagationRules[*].propagationOption` |
-

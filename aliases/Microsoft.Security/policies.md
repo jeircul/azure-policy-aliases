@@ -1,4 +1,4 @@
-# Microsoft.Security/policies
+﻿# Microsoft.Security/policies
 
 | Default Path | Alias |
 |---|---|
@@ -38,4 +38,3 @@
 | `properties.pricingConfiguration.standardBundles` | `Microsoft.Security/policies/pricingConfiguration.standardBundles` |
 | `properties.pricingConfiguration.standardBundles[*]` | `Microsoft.Security/policies/pricingConfiguration.standardBundles[*]` |
 | `properties.pricingConfiguration.selectedPricingTier` | `Microsoft.Security/policies/pricingConfiguration.selectedPricingTier` |
-

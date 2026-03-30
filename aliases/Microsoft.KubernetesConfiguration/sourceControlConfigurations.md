@@ -1,4 +1,4 @@
-# Microsoft.KubernetesConfiguration/sourceControlConfigurations
+﻿# Microsoft.KubernetesConfiguration/sourceControlConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.complianceStatus.messageLevel` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/complianceStatus.messageLevel` |
 | `properties.configurationProtectedSettings` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/configurationProtectedSettings` |
 | `properties.sshKnownHostsContents` | `Microsoft.KubernetesConfiguration/sourceControlConfigurations/sshKnownHostsContents` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/customdomains
+﻿# Microsoft.Cdn/profiles/customdomains
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.mtlsSettings.certificateValidation` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.certificateValidation` |
 | `properties.mtlsSettings.certificatePassthrough` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.certificatePassthrough` |
 | `properties.mtlsSettings.ocsp` | `Microsoft.Cdn/profiles/customDomains/mtlsSettings.ocsp` |
-

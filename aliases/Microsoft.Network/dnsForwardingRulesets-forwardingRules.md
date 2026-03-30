@@ -1,4 +1,4 @@
-# Microsoft.Network/dnsForwardingRulesets/forwardingRules
+﻿# Microsoft.Network/dnsForwardingRulesets/forwardingRules
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.metadata` | `Microsoft.Network/dnsForwardingRulesets/forwardingRules/metadata` |
 | `properties.forwardingRuleState` | `Microsoft.Network/dnsForwardingRulesets/forwardingRules/forwardingRuleState` |
 | `properties.provisioningState` | `Microsoft.Network/dnsForwardingRulesets/forwardingRules/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apis/operations
+﻿# Microsoft.ApiManagement/service/apis/operations
 
 | Default Path | Alias |
 |---|---|
@@ -100,4 +100,3 @@
 | `properties.responses[*].headers[*].examples` | `Microsoft.ApiManagement/service/apis/operations/responses[*].headers[*].examples` |
 | `properties.request.representations[*].examples` | `Microsoft.ApiManagement/service/apis/operations/request.representations[*].examples` |
 | `properties.responses[*].representations[*].examples` | `Microsoft.ApiManagement/service/apis/operations/responses[*].representations[*].examples` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/taskRuns
+﻿# Microsoft.ContainerRegistry/registries/taskRuns
 
 | Default Path | Alias |
 |---|---|
@@ -154,4 +154,3 @@
 | `properties.runResult.systemData.lastModifiedBy` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.lastModifiedBy` |
 | `properties.runResult.systemData.lastModifiedByType` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.lastModifiedByType` |
 | `properties.runResult.systemData.lastModifiedAt` | `Microsoft.ContainerRegistry/registries/taskRuns/runResult.systemData.lastModifiedAt` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/deploymentSafeguards
+﻿# Microsoft.ContainerService/deploymentSafeguards
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.systemExcludedNamespaces` | `Microsoft.ContainerService/deploymentSafeguards/systemExcludedNamespaces` |
 | `properties.systemExcludedNamespaces[*]` | `Microsoft.ContainerService/deploymentSafeguards/systemExcludedNamespaces[*]` |
 | `properties.podSecurityStandardsLevel` | `Microsoft.ContainerService/deploymentSafeguards/podSecurityStandardsLevel` |
-

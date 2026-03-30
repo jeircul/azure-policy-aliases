@@ -1,4 +1,4 @@
-# Microsoft.Network/networkWatchers/connectionMonitors
+﻿# Microsoft.Network/networkWatchers/connectionMonitors
 
 | Default Path | Alias |
 |---|---|
@@ -77,4 +77,3 @@
 | `properties.endpoints[*].locationDetails` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].locationDetails` |
 | `properties.endpoints[*].locationDetails.region` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].locationDetails.region` |
 | `properties.endpoints[*].subscriptionId` | `Microsoft.Network/networkWatchers/connectionMonitors/endpoints[*].subscriptionId` |
-

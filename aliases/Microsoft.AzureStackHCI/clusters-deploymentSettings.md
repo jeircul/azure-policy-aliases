@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/clusters/deploymentSettings
+﻿# Microsoft.AzureStackHCI/clusters/deploymentSettings
 
 | Default Path | Alias |
 |---|---|
@@ -143,4 +143,3 @@
 | `properties.deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones` |
 | `properties.deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones[*]` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.localAvailabilityZones[*]` |
 | `properties.deploymentConfiguration.scaleUnits[*].deploymentData.assemblyInfo` | `Microsoft.AzureStackHCI/clusters/deploymentSettings/deploymentConfiguration.scaleUnits[*].deploymentData.assemblyInfo` |
-

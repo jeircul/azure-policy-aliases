@@ -1,4 +1,4 @@
-# Microsoft.Maintenance/configurationAssignments
+﻿# Microsoft.Maintenance/configurationAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.filter.tagSettings` | `Microsoft.Maintenance/configurationAssignments/filter.tagSettings` |
 | `properties.filter.tagSettings.tags` | `Microsoft.Maintenance/configurationAssignments/filter.tagSettings.tags` |
 | `properties.filter.tagSettings.filterOperator` | `Microsoft.Maintenance/configurationAssignments/filter.tagSettings.filterOperator` |
-

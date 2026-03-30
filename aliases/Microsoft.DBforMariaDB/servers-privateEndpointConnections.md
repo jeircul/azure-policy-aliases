@@ -1,4 +1,4 @@
-# Microsoft.DBforMariaDB/servers/privateEndpointConnections
+﻿# Microsoft.DBforMariaDB/servers/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.DBforMariaDB/servers/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.DBforMariaDB/servers/privateEndpointConnections/provisioningState` |
-

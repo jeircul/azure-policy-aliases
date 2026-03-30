@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/certificates
+﻿# Microsoft.App/managedEnvironments/certificates
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.certificateKeyVaultProperties.identity` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties.identity` |
 | `properties.certificateKeyVaultProperties.keyVaultUrl` | `Microsoft.App/managedEnvironments/certificates/certificateKeyVaultProperties.keyVaultUrl` |
 | `properties.deploymentErrors` | `Microsoft.App/managedEnvironments/certificates/deploymentErrors` |
-

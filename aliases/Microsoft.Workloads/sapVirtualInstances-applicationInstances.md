@@ -1,4 +1,4 @@
-# Microsoft.Workloads/sapVirtualInstances/applicationInstances
+﻿# Microsoft.Workloads/sapVirtualInstances/applicationInstances
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.vmDetails[*].storageDetails` | `Microsoft.Workloads/sapVirtualInstances/applicationInstances/vmDetails[*].storageDetails` |
 | `properties.vmDetails[*].storageDetails[*]` | `Microsoft.Workloads/sapVirtualInstances/applicationInstances/vmDetails[*].storageDetails[*]` |
 | `properties.vmDetails[*].storageDetails[*].id` | `Microsoft.Workloads/sapVirtualInstances/applicationInstances/vmDetails[*].storageDetails[*].id` |
-

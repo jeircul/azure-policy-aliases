@@ -1,4 +1,4 @@
-# Microsoft.Network/dnsResolverPolicies/dnsSecurityRules
+﻿# Microsoft.Network/dnsResolverPolicies/dnsSecurityRules
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.provisioningState` | `Microsoft.Network/dnsResolverPolicies/dnsSecurityRules/provisioningState` |
 | `properties.managedDomainLists` | `Microsoft.Network/dnsResolverPolicies/dnsSecurityRules/managedDomainLists` |
 | `properties.managedDomainLists[*]` | `Microsoft.Network/dnsResolverPolicies/dnsSecurityRules/managedDomainLists[*]` |
-

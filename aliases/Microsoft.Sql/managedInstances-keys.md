@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/keys
+﻿# Microsoft.Sql/managedInstances/keys
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.thumbprint` | `Microsoft.Sql/managedInstances/keys/thumbprint` |
 | `properties.creationDate` | `Microsoft.Sql/managedInstances/keys/creationDate` |
 | `properties.autoRotationEnabled` | `Microsoft.Sql/managedInstances/keys/autoRotationEnabled` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Migrate/migrateprojects
+﻿# Microsoft.Migrate/migrateprojects
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Migrate/migrateProjects/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Migrate/migrateProjects/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Migrate/migrateProjects/privateEndpointConnections[*].systemData.lastModifiedAt` |
-

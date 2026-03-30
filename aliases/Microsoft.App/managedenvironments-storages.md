@@ -1,4 +1,4 @@
-# Microsoft.App/managedenvironments/storages
+﻿# Microsoft.App/managedenvironments/storages
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.nfsAzureFile.server` | `Microsoft.App/managedEnvironments/storages/nfsAzureFile.server` |
 | `properties.nfsAzureFile.accessMode` | `Microsoft.App/managedEnvironments/storages/nfsAzureFile.accessMode` |
 | `properties.nfsAzureFile.shareName` | `Microsoft.App/managedEnvironments/storages/nfsAzureFile.shareName` |
-

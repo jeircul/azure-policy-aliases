@@ -1,4 +1,4 @@
-# Microsoft.Network/routeFilters
+﻿# Microsoft.Network/routeFilters
 
 | Default Path | Alias |
 |---|---|
@@ -196,4 +196,3 @@
 | `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/routeFilters/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
 | `properties.ipv6Peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/routeFilters/ipv6Peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
 | `properties.ipv6Peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/routeFilters/ipv6Peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
-

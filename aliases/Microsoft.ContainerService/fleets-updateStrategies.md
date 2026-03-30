@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/fleets/updateStrategies
+﻿# Microsoft.ContainerService/fleets/updateStrategies
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.strategy.stages[*].afterGates[*]` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].afterGates[*]` |
 | `properties.strategy.stages[*].afterGates[*].displayName` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].afterGates[*].displayName` |
 | `properties.strategy.stages[*].afterGates[*].type` | `Microsoft.ContainerService/fleets/updateStrategies/strategy.stages[*].afterGates[*].type` |
-

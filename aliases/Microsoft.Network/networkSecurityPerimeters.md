@@ -1,4 +1,4 @@
-# Microsoft.Network/networkSecurityPerimeters
+﻿# Microsoft.Network/networkSecurityPerimeters
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.description` | `Microsoft.Network/networkSecurityPerimeters/description` |
 | `properties.provisioningState` | `Microsoft.Network/networkSecurityPerimeters/provisioningState` |
 | `properties.perimeterGuid` | `Microsoft.Network/networkSecurityPerimeters/perimeterGuid` |
-

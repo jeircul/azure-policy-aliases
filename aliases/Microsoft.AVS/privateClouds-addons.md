@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/addons
+﻿# Microsoft.AVS/privateClouds/addons
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.provisioningState` | `Microsoft.AVS/privateClouds/addons/provisioningState` |
 | `properties.offer` | `Microsoft.AVS/privateClouds/addons/HCX.offer` |
 | `properties.vrsCount` | `Microsoft.AVS/privateClouds/addons/VR.vrsCount` |
-

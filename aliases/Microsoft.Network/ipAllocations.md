@@ -1,4 +1,4 @@
-# Microsoft.Network/ipAllocations
+﻿# Microsoft.Network/ipAllocations
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.prefixType` | `Microsoft.Network/ipAllocations/prefixType` |
 | `properties.ipamAllocationId` | `Microsoft.Network/ipAllocations/ipamAllocationId` |
 | `properties.allocationTags` | `Microsoft.Network/ipAllocations/allocationTags` |
-

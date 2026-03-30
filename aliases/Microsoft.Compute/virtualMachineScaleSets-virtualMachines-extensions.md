@@ -1,4 +1,4 @@
-# Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions
+﻿# Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
 | `properties.provisionAfterExtensions` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisionAfterExtensions` |
 | `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachines/extensions/provisionAfterExtensions[*]` |
-

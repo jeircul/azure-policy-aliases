@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies
+﻿# Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.storageAccountAccessKey` | `Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies/storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies/retentionDays` |
 | `properties.creationTime` | `Microsoft.Synapse/workspaces/sqlPools/securityAlertPolicies/creationTime` |
-

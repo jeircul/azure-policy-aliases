@@ -1,4 +1,4 @@
-# Microsoft.Workloads/monitors/sapLandscapeMonitor
+﻿# Microsoft.Workloads/monitors/sapLandscapeMonitor
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.topMetricsThresholds[*].green` | `Microsoft.Workloads/monitors/sapLandscapeMonitor/topMetricsThresholds[*].green` |
 | `properties.topMetricsThresholds[*].yellow` | `Microsoft.Workloads/monitors/sapLandscapeMonitor/topMetricsThresholds[*].yellow` |
 | `properties.topMetricsThresholds[*].red` | `Microsoft.Workloads/monitors/sapLandscapeMonitor/topMetricsThresholds[*].red` |
-

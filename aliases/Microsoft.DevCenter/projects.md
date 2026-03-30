@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/projects
+﻿# Microsoft.DevCenter/projects
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.serverlessGpuSessionsSettings.maxConcurrentSessionsPerProject` | `Microsoft.DevCenter/projects/serverlessGpuSessionsSettings.maxConcurrentSessionsPerProject` |
 | `properties.workspaceStorageSettings` | `Microsoft.DevCenter/projects/workspaceStorageSettings` |
 | `properties.workspaceStorageSettings.workspaceStorageMode` | `Microsoft.DevCenter/projects/workspaceStorageSettings.workspaceStorageMode` |
-

@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/cloudServicesNetworks
+﻿# Microsoft.NetworkCloud/cloudServicesNetworks
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.provisioningState` | `Microsoft.NetworkCloud/cloudServicesNetworks/provisioningState` |
 | `properties.virtualMachinesAssociatedIds` | `Microsoft.NetworkCloud/cloudServicesNetworks/virtualMachinesAssociatedIds` |
 | `properties.virtualMachinesAssociatedIds[*]` | `Microsoft.NetworkCloud/cloudServicesNetworks/virtualMachinesAssociatedIds[*]` |
-

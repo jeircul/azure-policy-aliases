@@ -1,4 +1,4 @@
-# Microsoft.Network/ipGroups
+﻿# Microsoft.Network/ipGroups
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.firewallPolicies` | `Microsoft.Network/ipGroups/firewallPolicies` |
 | `properties.firewallPolicies[*]` | `Microsoft.Network/ipGroups/firewallPolicies[*]` |
 | `properties.firewallPolicies[*].id` | `Microsoft.Network/ipGroups/firewallPolicies[*].id` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/firewallPolicies/ruleGroups
+﻿# Microsoft.Network/firewallPolicies/ruleGroups
 
 | Default Path | Alias |
 |---|---|
@@ -104,4 +104,3 @@
 | `properties.rules[*].ruleCondition.sourceIpGroups` | `Microsoft.Network/firewallPolicies/ruleGroups/rules[*].FirewallPolicyNatRule.ruleCondition.ApplicationRuleCondition.sourceIpGroups` |
 | `properties.rules[*].ruleCondition.sourceIpGroups[*]` | `Microsoft.Network/firewallPolicies/ruleGroups/rules[*].FirewallPolicyNatRule.ruleCondition.NatRuleCondition.sourceIpGroups[*]` |
 | `properties.rules[*].ruleCondition.sourceIpGroups[*]` | `Microsoft.Network/firewallPolicies/ruleGroups/rules[*].FirewallPolicyNatRule.ruleCondition.ApplicationRuleCondition.sourceIpGroups[*]` |
-

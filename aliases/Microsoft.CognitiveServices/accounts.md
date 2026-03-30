@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts
+﻿# Microsoft.CognitiveServices/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -152,4 +152,3 @@
 | `properties.networkInjections[*].subnetArmId` | `Microsoft.CognitiveServices/accounts/networkInjections[*].subnetArmId` |
 | `properties.networkInjections[*].useMicrosoftManagedNetwork` | `Microsoft.CognitiveServices/accounts/networkInjections[*].useMicrosoftManagedNetwork` |
 | `properties.storedCompletionsDisabled` | `Microsoft.CognitiveServices/accounts/storedCompletionsDisabled` |
-

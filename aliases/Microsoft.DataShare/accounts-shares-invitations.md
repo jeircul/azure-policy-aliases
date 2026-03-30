@@ -1,4 +1,4 @@
-# Microsoft.DataShare/accounts/shares/invitations
+﻿# Microsoft.DataShare/accounts/shares/invitations
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.userEmail` | `Microsoft.DataShare/accounts/shares/invitations/userEmail` |
 | `properties.userName` | `Microsoft.DataShare/accounts/shares/invitations/userName` |
 | `properties.expirationDate` | `Microsoft.DataShare/accounts/shares/invitations/expirationDate` |
-

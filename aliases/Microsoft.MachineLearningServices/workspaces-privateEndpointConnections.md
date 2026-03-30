@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/privateEndpointConnections
+﻿# Microsoft.MachineLearningServices/workspaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `sku.size` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.size` |
 | `sku.family` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.family` |
 | `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/privateEndpointConnections/sku.capacity` |
-

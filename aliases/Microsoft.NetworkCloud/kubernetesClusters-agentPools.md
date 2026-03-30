@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/kubernetesClusters/agentPools
+﻿# Microsoft.NetworkCloud/kubernetesClusters/agentPools
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.upgradeSettings` | `Microsoft.NetworkCloud/kubernetesClusters/agentPools/upgradeSettings` |
 | `properties.upgradeSettings.maxSurge` | `Microsoft.NetworkCloud/kubernetesClusters/agentPools/upgradeSettings.maxSurge` |
 | `properties.vmSkuName` | `Microsoft.NetworkCloud/kubernetesClusters/agentPools/vmSkuName` |
-

@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/workspaces/dicomservices
+﻿# Microsoft.HealthcareApis/workspaces/dicomservices
 
 | Default Path | Alias |
 |---|---|
@@ -38,4 +38,3 @@
 | `properties.storageConfiguration.storageResourceId` | `Microsoft.HealthcareApis/workspaces/dicomservices/storageConfiguration.storageResourceId` |
 | `properties.storageConfiguration.fileSystemName` | `Microsoft.HealthcareApis/workspaces/dicomservices/storageConfiguration.fileSystemName` |
 | `properties.enableDataPartitions` | `Microsoft.HealthcareApis/workspaces/dicomservices/enableDataPartitions` |
-

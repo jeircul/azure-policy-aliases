@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/kustoPools/databases/dataconnections
+﻿# Microsoft.Synapse/workspaces/kustoPools/databases/dataconnections
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.eventSystemProperties` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventSystemProperties` |
 | `properties.eventSystemProperties[*]` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.eventSystemProperties[*]` |
 | `properties.managedIdentityResourceId` | `Microsoft.Synapse/workspaces/kustoPools/databases/dataConnections/EventHub.managedIdentityResourceId` |
-

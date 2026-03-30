@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections
+﻿# Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.appliesToGroups[*].networkGroupId` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/appliesToGroups[*].networkGroupId` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/resourceGuid` |
-

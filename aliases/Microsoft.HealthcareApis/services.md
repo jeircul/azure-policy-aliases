@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/services
+﻿# Microsoft.HealthcareApis/services
 
 | Default Path | Alias |
 |---|---|
@@ -50,4 +50,3 @@
 | `properties.importConfiguration.initialImportMode` | `Microsoft.HealthcareApis/services/importConfiguration.initialImportMode` |
 | `properties.importConfiguration.enabled` | `Microsoft.HealthcareApis/services/importConfiguration.enabled` |
 | `properties.cosmosDbConfiguration.crossTenantCmkApplicationId` | `Microsoft.HealthcareApis/services/cosmosDbConfiguration.crossTenantCmkApplicationId` |
-

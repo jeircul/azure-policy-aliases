@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/endpoints
+﻿# Microsoft.Cdn/profiles/endpoints
 
 | Default Path | Alias |
 |---|---|
@@ -368,4 +368,3 @@
 | `properties.customDomains[*].name` | `Microsoft.Cdn/profiles/endpoints/customDomains[*].name` |
 | `properties.deliveryPolicy.rules[*].actions[*]` | `Microsoft.Cdn/profiles/endpoints/deliveryPolicy.rules[*].actions[*].AfdUrlSigning` |
 | `properties.origins[*].properties.privateEndpointStatus` | `Microsoft.Cdn/profiles/endpoints/origins[*].privateEndpointStatus` |
-

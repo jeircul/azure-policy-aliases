@@ -1,4 +1,4 @@
-# Microsoft.DevOpsInfrastructure/pools
+﻿# Microsoft.DevOpsInfrastructure/pools
 
 | Default Path | Alias |
 |---|---|
@@ -65,4 +65,3 @@
 | `properties.agentProfile.resourcePredictionsProfile` | `Microsoft.DevOpsInfrastructure/pools/agentProfile.resourcePredictionsProfile` |
 | `properties.agentProfile.resourcePredictionsProfile.predictionPreference` | `Microsoft.DevOpsInfrastructure/pools/agentProfile.resourcePredictionsProfile.Automatic.predictionPreference` |
 | `properties.agentProfile.resourcePredictionsProfile.kind` | `Microsoft.DevOpsInfrastructure/pools/agentProfile.resourcePredictionsProfile.kind` |
-

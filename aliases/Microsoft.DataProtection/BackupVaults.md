@@ -1,4 +1,4 @@
-# Microsoft.DataProtection/BackupVaults
+﻿# Microsoft.DataProtection/BackupVaults
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.bcdrSecurityLevel` | `Microsoft.DataProtection/backupVaults/bcdrSecurityLevel` |
 | `properties.resourceGuardOperationRequests` | `Microsoft.DataProtection/backupVaults/resourceGuardOperationRequests` |
 | `properties.resourceGuardOperationRequests[*]` | `Microsoft.DataProtection/backupVaults/resourceGuardOperationRequests[*]` |
-

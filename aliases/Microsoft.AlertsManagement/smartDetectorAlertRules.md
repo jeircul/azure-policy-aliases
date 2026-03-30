@@ -1,4 +1,4 @@
-# Microsoft.AlertsManagement/smartDetectorAlertRules
+﻿# Microsoft.AlertsManagement/smartDetectorAlertRules
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.detector.parameterDefinitions[*].isMandatory` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.parameterDefinitions[*].isMandatory` |
 | `properties.detector.supportedCadences` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.supportedCadences` |
 | `properties.detector.supportedCadences[*]` | `microsoft.alertsManagement/smartDetectorAlertRules/detector.supportedCadences[*]` |
-

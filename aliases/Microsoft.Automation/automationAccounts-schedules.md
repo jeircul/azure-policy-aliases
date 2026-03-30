@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/schedules
+﻿# Microsoft.Automation/automationAccounts/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.advancedSchedule.monthlyOccurrences` | `Microsoft.Automation/automationAccounts/schedules/advancedSchedule.monthlyOccurrences` |
 | `properties.advancedSchedule` | `Microsoft.Automation/automationAccounts/schedules/advancedSchedule` |
 | `properties.description` | `Microsoft.Automation/automationAccounts/schedules/description` |
-

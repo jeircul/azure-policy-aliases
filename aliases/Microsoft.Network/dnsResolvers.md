@@ -1,4 +1,4 @@
-# Microsoft.Network/dnsResolvers
+﻿# Microsoft.Network/dnsResolvers
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.dnsResolverState` | `Microsoft.Network/dnsResolvers/dnsResolverState` |
 | `properties.provisioningState` | `Microsoft.Network/dnsResolvers/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/dnsResolvers/resourceGuid` |
-

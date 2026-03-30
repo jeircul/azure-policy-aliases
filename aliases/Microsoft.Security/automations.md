@@ -1,4 +1,4 @@
-# Microsoft.Security/automations
+﻿# Microsoft.Security/automations
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.actions[*]` | `Microsoft.Security/automations/actions[*].EventHub` |
 | `properties.actions[*]` | `Microsoft.Security/automations/actions[*].LogicApp` |
 | `properties.actions[*].isTrustedServiceEnabled` | `Microsoft.Security/automations/actions[*].EventHub.isTrustedServiceEnabled` |
-

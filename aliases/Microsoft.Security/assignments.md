@@ -1,4 +1,4 @@
-# Microsoft.Security/assignments
+﻿# Microsoft.Security/assignments
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.expiresOn` | `Microsoft.Security/assignments/expiresOn` |
 | `properties.additionalData` | `Microsoft.Security/assignments/additionalData` |
 | `properties.additionalData.exemptionCategory` | `Microsoft.Security/assignments/additionalData.exemptionCategory` |
-

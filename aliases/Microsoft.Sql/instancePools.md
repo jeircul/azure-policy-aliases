@@ -1,4 +1,4 @@
-# Microsoft.Sql/instancePools
+﻿# Microsoft.Sql/instancePools
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.licenseType` | `Microsoft.Sql/instancePools/licenseType` |
 | `properties.dnsZone` | `Microsoft.Sql/instancePools/dnsZone` |
 | `properties.maintenanceConfigurationId` | `Microsoft.Sql/instancePools/maintenanceConfigurationId` |
-

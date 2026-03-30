@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentprojects/servercollectors
+﻿# Microsoft.Migrate/assessmentprojects/servercollectors
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.agentProperties.spnDetails.audience` | `Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.audience` |
 | `properties.agentProperties.spnDetails.objectId` | `Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.objectId` |
 | `properties.agentProperties.spnDetails.tenantId` | `Microsoft.Migrate/assessmentProjects/servercollectors/agentProperties.spnDetails.tenantId` |
-

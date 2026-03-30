@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/ipamPools
+﻿# Microsoft.Network/networkManagers/ipamPools
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.addressPrefixes` | `Microsoft.Network/networkManagers/ipamPools/addressPrefixes` |
 | `properties.addressPrefixes[*]` | `Microsoft.Network/networkManagers/ipamPools/addressPrefixes[*]` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/ipamPools/provisioningState` |
-

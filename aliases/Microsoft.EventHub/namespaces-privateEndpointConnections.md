@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces/privateEndpointConnections
+﻿# Microsoft.EventHub/namespaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.EventHub/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.EventHub/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.provisioningState` | `Microsoft.EventHub/namespaces/privateEndpointConnections/provisioningState` |
-

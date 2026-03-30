@@ -1,4 +1,4 @@
-# Microsoft.Network/trafficmanagerprofiles/azureendpoints
+﻿# Microsoft.Network/trafficmanagerprofiles/azureendpoints
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.customHeaders[*].name` | `Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/customHeaders[*].name` |
 | `properties.customHeaders[*].value` | `Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/customHeaders[*].value` |
 | `properties.alwaysServe` | `Microsoft.Network/trafficmanagerprofiles/AzureEndpoints/alwaysServe` |
-

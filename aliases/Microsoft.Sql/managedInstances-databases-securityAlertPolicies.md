@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/databases/securityAlertPolicies
+﻿# Microsoft.Sql/managedInstances/databases/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.storageAccountAccessKey` | `Microsoft.Sql/managedInstances/databases/securityAlertPolicies/default.storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.Sql/managedInstances/databases/securityAlertPolicies/default.retentionDays` |
 | `properties.creationTime` | `Microsoft.Sql/managedInstances/databases/securityAlertPolicies/default.creationTime` |
-

@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds
+﻿# Microsoft.AVS/privateClouds
 
 | Default Path | Alias |
 |---|---|
@@ -60,4 +60,3 @@
 | `properties.secondaryCircuit.secondarySubnet` | `Microsoft.AVS/privateClouds/secondaryCircuit.secondarySubnet` |
 | `properties.secondaryCircuit.expressRouteID` | `Microsoft.AVS/privateClouds/secondaryCircuit.expressRouteID` |
 | `properties.secondaryCircuit.expressRoutePrivatePeeringID` | `Microsoft.AVS/privateClouds/secondaryCircuit.expressRoutePrivatePeeringID` |
-

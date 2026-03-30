@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualNetworkGateways
+﻿# Microsoft.Network/virtualNetworkGateways
 
 | Default Path | Alias |
 |---|---|
@@ -169,4 +169,3 @@
 | `properties.virtualNetworkGatewayMigrationStatus.phase` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayMigrationStatus.phase` |
 | `properties.virtualNetworkGatewayMigrationStatus.errorMessage` | `Microsoft.Network/virtualnetworkgateways/virtualNetworkGatewayMigrationStatus.errorMessage` |
 | `properties.enableHighBandwidthVpnGateway` | `Microsoft.Network/virtualnetworkgateways/enableHighBandwidthVpnGateway` |
-

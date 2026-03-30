@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRouteCircuits/authorizations
+﻿# Microsoft.Network/expressRouteCircuits/authorizations
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.authorizationUseStatus` | `Microsoft.Network/expressRouteCircuits/authorizations/authorizationUseStatus` |
 | `properties.provisioningState` | `Microsoft.Network/expressRouteCircuits/authorizations/provisioningState` |
 | `properties.connectionResourceUri` | `Microsoft.Network/expressRouteCircuits/authorizations/connectionResourceUri` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/webhooks
+﻿# Microsoft.Automation/automationAccounts/webhooks
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.runbook.name` | `Microsoft.Automation/automationAccounts/webhooks/runbook.name` |
 | `properties.runbook` | `Microsoft.Automation/automationAccounts/webhooks/runbook` |
 | `properties.runOn` | `Microsoft.Automation/automationAccounts/webhooks/runOn` |
-

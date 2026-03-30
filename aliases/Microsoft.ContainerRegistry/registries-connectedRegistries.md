@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/connectedRegistries
+﻿# Microsoft.ContainerRegistry/registries/connectedRegistries
 
 | Default Path | Alias |
 |---|---|
@@ -42,4 +42,3 @@
 | `properties.garbageCollection` | `Microsoft.ContainerRegistry/registries/connectedRegistries/garbageCollection` |
 | `properties.garbageCollection.enabled` | `Microsoft.ContainerRegistry/registries/connectedRegistries/garbageCollection.enabled` |
 | `properties.garbageCollection.schedule` | `Microsoft.ContainerRegistry/registries/connectedRegistries/garbageCollection.schedule` |
-

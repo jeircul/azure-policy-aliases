@@ -1,4 +1,4 @@
-# Microsoft.Compute/galleries/inVMAccessControlProfiles/versions
+﻿# Microsoft.Compute/galleries/inVMAccessControlProfiles/versions
 
 | Default Path | Alias |
 |---|---|
@@ -58,4 +58,3 @@
 | `properties.rules.roleAssignments[*].role` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*].role` |
 | `properties.rules.roleAssignments[*].identities` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*].identities` |
 | `properties.rules.roleAssignments[*].identities[*]` | `Microsoft.Compute/galleries/inVMAccessControlProfiles/versions/rules.roleAssignments[*].identities[*]` |
-

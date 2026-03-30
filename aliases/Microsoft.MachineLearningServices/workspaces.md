@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces
+﻿# Microsoft.MachineLearningServices/workspaces
 
 | Default Path | Alias |
 |---|---|
@@ -147,4 +147,3 @@
 | `properties.networkAcls.ipRules[*]` | `Microsoft.MachineLearningServices/workspaces/networkAcls.ipRules[*]` |
 | `properties.networkAcls.ipRules[*].value` | `Microsoft.MachineLearningServices/workspaces/networkAcls.ipRules[*].value` |
 | `properties.provisionNetworkNow` | `Microsoft.MachineLearningServices/workspaces/provisionNetworkNow` |
-

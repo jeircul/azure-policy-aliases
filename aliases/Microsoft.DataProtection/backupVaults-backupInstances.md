@@ -1,4 +1,4 @@
-# Microsoft.DataProtection/backupVaults/backupInstances
+﻿# Microsoft.DataProtection/backupVaults/backupInstances
 
 | Default Path | Alias |
 |---|---|
@@ -143,4 +143,3 @@
 | `properties.resourceGuardOperationRequests[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/resourceGuardOperationRequests[*]` |
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].containersList` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].containersList` |
 | `properties.policyInfo.policyParameters.backupDatasourceParametersList[*].containersList[*]` | `Microsoft.DataProtection/backupVaults/backupInstances/policyInfo.policyParameters.backupDatasourceParametersList[*].containersList[*]` |
-

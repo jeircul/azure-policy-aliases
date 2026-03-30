@@ -1,4 +1,4 @@
-# Microsoft.Solutions/applicationDefinitions
+﻿# Microsoft.Solutions/applicationDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.policies[*].parameters` | `Microsoft.Solutions/applicationDefinitions/policies[*].parameters` |
 | `properties.policies` | `Microsoft.Solutions/applicationDefinitions/policies` |
 | `properties.storageAccountId` | `Microsoft.Solutions/applicationDefinitions/storageAccountId` |
-

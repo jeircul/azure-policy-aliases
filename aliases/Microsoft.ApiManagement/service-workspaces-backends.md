@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/backends
+﻿# Microsoft.ApiManagement/service/workspaces/backends
 
 | Default Path | Alias |
 |---|---|
@@ -57,4 +57,3 @@
 | `properties.type` | `Microsoft.ApiManagement/service/workspaces/backends/type` |
 | `properties.url` | `Microsoft.ApiManagement/service/workspaces/backends/url` |
 | `properties.protocol` | `Microsoft.ApiManagement/service/workspaces/backends/protocol` |
-

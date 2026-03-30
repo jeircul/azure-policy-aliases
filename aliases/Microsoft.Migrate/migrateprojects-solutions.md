@@ -1,4 +1,4 @@
-# Microsoft.Migrate/migrateprojects/solutions
+﻿# Microsoft.Migrate/migrateprojects/solutions
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.summary.testMigratedCount` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers.testMigratedCount` |
 | `properties.summary.migratedCount` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers.migratedCount` |
 | `properties.summary` | `Microsoft.Migrate/migrateProjects/solutions/summary.Servers` |
-

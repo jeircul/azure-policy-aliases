@@ -1,4 +1,4 @@
-# Microsoft.Web/staticSites/privateEndpointConnections
+﻿# Microsoft.Web/staticSites/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateEndpoint.id` | `Microsoft.Web/staticSites/privateEndpointConnections/privateEndpoint.id` |
 | `properties.ipAddresses` | `Microsoft.Web/staticSites/privateEndpointConnections/ipAddresses` |
 | `properties.ipAddresses[*]` | `Microsoft.Web/staticSites/privateEndpointConnections/ipAddresses[*]` |
-

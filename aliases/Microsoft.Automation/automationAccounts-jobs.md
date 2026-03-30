@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/jobs
+﻿# Microsoft.Automation/automationAccounts/jobs
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.runbook` | `Microsoft.Automation/automationAccounts/jobs/runbook` |
 | `properties.runOn` | `Microsoft.Automation/automationAccounts/jobs/runOn` |
 | `properties.parameters` | `Microsoft.Automation/automationAccounts/jobs/parameters` |
-

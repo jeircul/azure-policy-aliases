@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/networkSecurityGroups
+﻿# Microsoft.AzureStackHCI/networkSecurityGroups
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.status.provisioningStatus` | `Microsoft.AzureStackHCI/networkSecurityGroups/status.provisioningStatus` |
 | `properties.status.provisioningStatus.operationId` | `Microsoft.AzureStackHCI/networkSecurityGroups/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/networkSecurityGroups/status.provisioningStatus.status` |
-

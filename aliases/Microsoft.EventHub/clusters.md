@@ -1,4 +1,4 @@
-# Microsoft.EventHub/clusters
+﻿# Microsoft.EventHub/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.upgradePreferences` | `Microsoft.EventHub/clusters/upgradePreferences` |
 | `properties.upgradePreferences.startDayOfWeek` | `Microsoft.EventHub/clusters/upgradePreferences.startDayOfWeek` |
 | `properties.upgradePreferences.startHourOfDay` | `Microsoft.EventHub/clusters/upgradePreferences.startHourOfDay` |
-

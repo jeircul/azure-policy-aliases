@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/slots
+﻿# Microsoft.Web/sites/slots
 
 | Default Path | Alias |
 |---|---|
@@ -400,4 +400,3 @@
 | `properties.sshEnabled` | `Microsoft.Web/sites/slots/sshEnabled` |
 | `properties.functionAppConfig.siteUpdateStrategy` | `Microsoft.Web/sites/slots/functionAppConfig.siteUpdateStrategy` |
 | `properties.functionAppConfig.siteUpdateStrategy.type` | `Microsoft.Web/sites/slots/functionAppConfig.siteUpdateStrategy.type` |
-

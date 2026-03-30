@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions
+﻿# Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.permissions[*].dataActions[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].dataActions[*]` |
 | `properties.permissions[*].notDataActions` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].notDataActions` |
 | `properties.permissions[*].notDataActions[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlRoleDefinitions/permissions[*].notDataActions[*]` |
-

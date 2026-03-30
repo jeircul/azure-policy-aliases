@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub/customDomains
+﻿# Microsoft.SignalRService/WebPubSub/customDomains
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.domainName` | `Microsoft.SignalRService/webPubSub/customDomains/domainName` |
 | `properties.customCertificate` | `Microsoft.SignalRService/webPubSub/customDomains/customCertificate` |
 | `properties.customCertificate.id` | `Microsoft.SignalRService/webPubSub/customDomains/customCertificate.id` |
-

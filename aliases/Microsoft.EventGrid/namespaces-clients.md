@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/namespaces/clients
+﻿# Microsoft.EventGrid/namespaces/clients
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.state` | `Microsoft.EventGrid/namespaces/clients/state` |
 | `properties.attributes` | `Microsoft.EventGrid/namespaces/clients/attributes` |
 | `properties.provisioningState` | `Microsoft.EventGrid/namespaces/clients/provisioningState` |
-

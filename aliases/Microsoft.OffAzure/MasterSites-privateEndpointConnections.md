@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/MasterSites/privateEndpointConnections
+﻿# Microsoft.OffAzure/MasterSites/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.OffAzure/masterSites/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.OffAzure/masterSites/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.OffAzure/masterSites/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

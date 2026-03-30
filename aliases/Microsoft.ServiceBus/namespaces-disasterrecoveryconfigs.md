@@ -1,4 +1,4 @@
-# Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs
+﻿# Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.partnerNamespace` | `Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs/partnerNamespace` |
 | `properties.alternateName` | `Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs/alternateName` |
 | `properties.role` | `Microsoft.ServiceBus/namespaces/disasterrecoveryconfigs/role` |
-

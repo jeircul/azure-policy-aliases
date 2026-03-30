@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/portalsettings
+﻿# Microsoft.ApiManagement/service/portalsettings
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.subscriptions` | `Microsoft.ApiManagement/service/portalsettings/delegation.subscriptions` |
 | `properties.userRegistration.enabled` | `Microsoft.ApiManagement/service/portalsettings/delegation.userRegistration.enabled` |
 | `properties.userRegistration` | `Microsoft.ApiManagement/service/portalsettings/delegation.userRegistration` |
-

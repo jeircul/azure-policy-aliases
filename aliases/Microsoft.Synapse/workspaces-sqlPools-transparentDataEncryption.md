@@ -1,6 +1,5 @@
-# Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption
+﻿# Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption
 
 | Default Path | Alias |
 |---|---|
 | `properties.status` | `Microsoft.Synapse/workspaces/sqlPools/transparentDataEncryption/status` |
-

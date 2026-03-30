@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/virtualMachineInstances
+﻿# Microsoft.AzureStackHCI/virtualMachineInstances
 
 | Default Path | Alias |
 |---|---|
@@ -115,4 +115,3 @@
 | `properties.placementProfile.strictPlacementPolicy` | `Microsoft.AzureStackHCI/virtualMachineInstances/placementProfile.strictPlacementPolicy` |
 | `properties.hyperVVmId` | `Microsoft.AzureStackHCI/virtualMachineInstances/hyperVVmId` |
 | `properties.hostNodeName` | `Microsoft.AzureStackHCI/virtualMachineInstances/hostNodeName` |
-

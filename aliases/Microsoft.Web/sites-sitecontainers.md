@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/sitecontainers
+﻿# Microsoft.Web/sites/sitecontainers
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.environmentVariables[*].name` | `Microsoft.Web/sites/sitecontainers/environmentVariables[*].name` |
 | `properties.environmentVariables[*].value` | `Microsoft.Web/sites/sitecontainers/environmentVariables[*].value` |
 | `properties.inheritAppSettingsAndConnectionStrings` | `Microsoft.Web/sites/sitecontainers/inheritAppSettingsAndConnectionStrings` |
-

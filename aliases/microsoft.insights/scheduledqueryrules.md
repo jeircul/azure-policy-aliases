@@ -1,4 +1,4 @@
-# microsoft.insights/scheduledqueryrules
+﻿# microsoft.insights/scheduledqueryrules
 
 | Default Path | Alias |
 |---|---|
@@ -138,4 +138,3 @@
 | `properties.criteria.allOf[*].alertSensitivity` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].alertSensitivity` |
 | `properties.criteria.allOf[*].ignoreDataBefore` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].ignoreDataBefore` |
 | `properties.criteria.allOf[*].minRecurrenceCount` | `Microsoft.Insights/scheduledQueryRules/criteria.allOf[*].minRecurrenceCount` |
-

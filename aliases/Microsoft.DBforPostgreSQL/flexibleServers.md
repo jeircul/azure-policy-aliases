@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/flexibleServers
+﻿# Microsoft.DBforPostgreSQL/flexibleServers
 
 | Default Path | Alias |
 |---|---|
@@ -104,4 +104,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DBForPostgreSql/flexibleServers/privateEndpointConnections[*].systemData.lastModifiedAt` |
-

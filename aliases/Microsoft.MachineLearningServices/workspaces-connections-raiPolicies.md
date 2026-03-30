@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/connections/raiPolicies
+﻿# Microsoft.MachineLearningServices/workspaces/connections/raiPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.promptBlocklists[*]` | `Microsoft.MachineLearningServices/workspaces/connections/raiPolicies/promptBlocklists[*]` |
 | `properties.promptBlocklists[*].blocking` | `Microsoft.MachineLearningServices/workspaces/connections/raiPolicies/promptBlocklists[*].blocking` |
 | `properties.promptBlocklists[*].blocklistName` | `Microsoft.MachineLearningServices/workspaces/connections/raiPolicies/promptBlocklists[*].blocklistName` |
-

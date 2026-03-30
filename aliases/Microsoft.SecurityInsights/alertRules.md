@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/alertRules
+﻿# Microsoft.SecurityInsights/alertRules
 
 | Default Path | Alias |
 |---|---|
@@ -35,4 +35,3 @@
 | `properties.productFilter` | `Microsoft.SecurityInsights/alertRules/MicrosoftSecurityIncidentCreation.productFilter` |
 | `properties.severitiesFilter` | `Microsoft.SecurityInsights/alertRules/MicrosoftSecurityIncidentCreation.severitiesFilter` |
 | `properties.severitiesFilter[*]` | `Microsoft.SecurityInsights/alertRules/MicrosoftSecurityIncidentCreation.severitiesFilter[*]` |
-

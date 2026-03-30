@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/policySets/policies
+﻿# Microsoft.DevTestLab/labs/policySets/policies
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/policySets/policies/provisioningState` |
 | `properties.createdDate` | `Microsoft.DevTestLab/labs/policySets/policies/createdDate` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/policySets/policies/uniqueIdentifier` |
-

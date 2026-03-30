@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/privateEndpointConnections
+﻿# Microsoft.ContainerService/managedClusters/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.privateLinkServiceConnectionState` | `Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.ContainerService/managedClusters/privateEndpointConnections/privateLinkServiceConnectionState.description` |
-

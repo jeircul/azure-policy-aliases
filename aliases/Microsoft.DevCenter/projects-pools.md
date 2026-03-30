@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/projects/pools
+﻿# Microsoft.DevCenter/projects/pools
 
 | Default Path | Alias |
 |---|---|
@@ -45,4 +45,3 @@
 | `properties.activeHoursConfiguration.defaultStartTimeHour` | `Microsoft.DevCenter/projects/pools/activeHoursConfiguration.defaultStartTimeHour` |
 | `properties.activeHoursConfiguration.defaultEndTimeHour` | `Microsoft.DevCenter/projects/pools/activeHoursConfiguration.defaultEndTimeHour` |
 | `properties.devBoxTunnelEnableStatus` | `Microsoft.DevCenter/projects/pools/devBoxTunnelEnableStatus` |
-

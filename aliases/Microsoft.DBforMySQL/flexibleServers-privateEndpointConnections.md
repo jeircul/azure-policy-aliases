@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections
+﻿# Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections/provisioningState` |
-

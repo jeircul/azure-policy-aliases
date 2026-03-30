@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/users/serviceFabrics/schedules
+﻿# Microsoft.DevTestLab/labs/users/serviceFabrics/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.targetResourceId` | `Microsoft.DevTestLab/labs/users/serviceFabrics/schedules/targetResourceId` |
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/users/serviceFabrics/schedules/provisioningState` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/users/serviceFabrics/schedules/uniqueIdentifier` |
-

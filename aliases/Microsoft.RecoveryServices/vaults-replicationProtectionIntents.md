@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults/replicationProtectionIntents
+﻿# Microsoft.RecoveryServices/vaults/replicationProtectionIntents
 
 | Default Path | Alias |
 |---|---|
@@ -61,4 +61,3 @@
 | `properties.providerSpecificDetails.agentAutoUpdateStatus` | `Microsoft.RecoveryServices/vaults/replicationProtectionIntents/providerSpecificDetails.A2A.agentAutoUpdateStatus` |
 | `properties.providerSpecificDetails.automationAccountArmId` | `Microsoft.RecoveryServices/vaults/replicationProtectionIntents/providerSpecificDetails.A2A.automationAccountArmId` |
 | `properties.providerSpecificDetails.automationAccountAuthenticationType` | `Microsoft.RecoveryServices/vaults/replicationProtectionIntents/providerSpecificDetails.A2A.automationAccountAuthenticationType` |
-

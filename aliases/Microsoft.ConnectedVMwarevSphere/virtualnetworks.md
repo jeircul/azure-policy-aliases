@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/virtualnetworks
+﻿# Microsoft.ConnectedVMwarevSphere/virtualnetworks
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.statuses[*].severity` | `Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].severity` |
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/virtualNetworks/statuses[*].lastUpdatedAt` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/virtualNetworks/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/partners
+﻿# Microsoft.Logic/integrationAccounts/partners
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.content.b2b` | `Microsoft.Logic/integrationAccounts/partners/content.b2b` |
 | `properties.content` | `Microsoft.Logic/integrationAccounts/partners/content` |
 | `properties.content.b2b.businessIdentities[*].Value` | `Microsoft.Logic/integrationAccounts/partners/content.b2b.businessIdentities[*].Value` |
-

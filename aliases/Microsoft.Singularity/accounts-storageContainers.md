@@ -1,4 +1,4 @@
-# Microsoft.Singularity/accounts/storageContainers
+﻿# Microsoft.Singularity/accounts/storageContainers
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.kind` | `Microsoft.Singularity/accounts/storagecontainers/kind` |
 | `properties.region` | `Microsoft.Singularity/accounts/storagecontainers/region` |
 | `properties.defaultMountPath` | `Microsoft.Singularity/accounts/storagecontainers/defaultMountPath` |
-

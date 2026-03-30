@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/workspaces
+﻿# Microsoft.HealthcareApis/workspaces
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HealthcareApis/workspaces/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.HealthcareApis/workspaces/privateEndpointConnections[*].provisioningState` |
 | `properties.publicNetworkAccess` | `Microsoft.HealthcareApis/workspaces/publicNetworkAccess` |
-

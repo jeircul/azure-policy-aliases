@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/slots/sitecontainers
+﻿# Microsoft.Web/sites/slots/sitecontainers
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.environmentVariables[*].name` | `Microsoft.Web/sites/slots/sitecontainers/environmentVariables[*].name` |
 | `properties.environmentVariables[*].value` | `Microsoft.Web/sites/slots/sitecontainers/environmentVariables[*].value` |
 | `properties.inheritAppSettingsAndConnectionStrings` | `Microsoft.Web/sites/slots/sitecontainers/inheritAppSettingsAndConnectionStrings` |
-

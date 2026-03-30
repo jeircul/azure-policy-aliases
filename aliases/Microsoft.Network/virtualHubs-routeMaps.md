@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs/routeMaps
+﻿# Microsoft.Network/virtualHubs/routeMaps
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.rules[*].actions[*].parameters[*].asPath[*]` | `Microsoft.Network/virtualHubs/routeMaps/rules[*].actions[*].parameters[*].asPath[*]` |
 | `properties.rules[*].nextStepIfMatched` | `Microsoft.Network/virtualHubs/routeMaps/rules[*].nextStepIfMatched` |
 | `properties.provisioningState` | `Microsoft.Network/virtualHubs/routeMaps/provisioningState` |
-

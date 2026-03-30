@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/commitmentplans
+﻿# Microsoft.CognitiveServices/accounts/commitmentplans
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.commitmentPlanGuid` | `Microsoft.CognitiveServices/accounts/commitmentPlans/commitmentPlanGuid` |
 | `properties.provisioningIssues` | `Microsoft.CognitiveServices/accounts/commitmentPlans/provisioningIssues` |
 | `properties.provisioningIssues[*]` | `Microsoft.CognitiveServices/accounts/commitmentPlans/provisioningIssues[*]` |
-

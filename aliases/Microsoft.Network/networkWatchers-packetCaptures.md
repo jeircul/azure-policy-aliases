@@ -1,4 +1,4 @@
-# Microsoft.Network/networkWatchers/packetCaptures
+﻿# Microsoft.Network/networkWatchers/packetCaptures
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.captureSettings.fileCount` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings.fileCount` |
 | `properties.captureSettings.fileSizeInBytes` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings.fileSizeInBytes` |
 | `properties.captureSettings.sessionTimeLimitInSeconds` | `Microsoft.Network/networkWatchers/packetCaptures/captureSettings.sessionTimeLimitInSeconds` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/afdendpoints/routes
+﻿# Microsoft.Cdn/profiles/afdendpoints/routes
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.cacheConfiguration.compressionSettings.contentTypesToCompress[*]` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.contentTypesToCompress[*]` |
 | `properties.cacheConfiguration.compressionSettings.isCompressionEnabled` | `Microsoft.Cdn/profiles/afdEndpoints/routes/cacheConfiguration.compressionSettings.isCompressionEnabled` |
 | `properties.grpcState` | `Microsoft.Cdn/profiles/afdEndpoints/routes/grpcState` |
-

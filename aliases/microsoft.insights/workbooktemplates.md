@@ -1,4 +1,4 @@
-# microsoft.insights/workbooktemplates
+﻿# microsoft.insights/workbooktemplates
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.galleries[*].order` | `microsoft.insights/workbooktemplates/galleries[*].order` |
 | `properties.galleries[*].resourceType` | `microsoft.insights/workbooktemplates/galleries[*].resourceType` |
 | `properties.localized` | `microsoft.insights/workbooktemplates/localized` |
-

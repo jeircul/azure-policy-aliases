@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers
+﻿# Microsoft.Network/networkManagers
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.networkManagerScopes.crossTenantScopes[*].subscriptions` | `Microsoft.Network/networkManagers/networkManagerScopes.crossTenantScopes[*].subscriptions` |
 | `properties.networkManagerScopes.crossTenantScopes[*].subscriptions[*]` | `Microsoft.Network/networkManagers/networkManagerScopes.crossTenantScopes[*].subscriptions[*]` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/resourceGuid` |
-

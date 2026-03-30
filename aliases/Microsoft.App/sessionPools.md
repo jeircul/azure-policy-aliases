@@ -1,4 +1,4 @@
-# Microsoft.App/sessionPools
+﻿# Microsoft.App/sessionPools
 
 | Default Path | Alias |
 |---|---|
@@ -53,4 +53,3 @@
 | `properties.dynamicPoolConfiguration.lifecycleConfiguration.lifecycleType` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration.lifecycleType` |
 | `properties.dynamicPoolConfiguration.lifecycleConfiguration.cooldownPeriodInSeconds` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration.cooldownPeriodInSeconds` |
 | `properties.dynamicPoolConfiguration.lifecycleConfiguration.maxAlivePeriodInSeconds` | `Microsoft.App/sessionPools/dynamicPoolConfiguration.lifecycleConfiguration.maxAlivePeriodInSeconds` |
-

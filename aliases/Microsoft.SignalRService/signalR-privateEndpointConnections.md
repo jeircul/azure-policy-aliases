@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/signalR/privateEndpointConnections
+﻿# Microsoft.SignalRService/signalR/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.SignalRService/signalR/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.groupIds` | `Microsoft.SignalRService/signalR/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.SignalRService/signalR/privateEndpointConnections/groupIds[*]` |
-

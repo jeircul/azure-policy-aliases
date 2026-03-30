@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/privateLinkScopes
+﻿# Microsoft.HybridCompute/privateLinkScopes
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.serviceExtensions[*]` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions[*]` |
 | `properties.serviceExtensions[*].serviceExtensionType` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions[*].serviceExtensionType` |
 | `properties.serviceExtensions[*].serviceExtensionPublicNetworkAccess` | `Microsoft.HybridCompute/privateLinkScopes/serviceExtensions[*].serviceExtensionPublicNetworkAccess` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Workloads/sapVirtualInstances/centralInstances
+﻿# Microsoft.Workloads/sapVirtualInstances/centralInstances
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.errors.properties.details[*].message` | `Microsoft.Workloads/sapVirtualInstances/centralInstances/errors.details[*].message` |
 | `properties.errors.properties.details[*].details` | `Microsoft.Workloads/sapVirtualInstances/centralInstances/errors.details[*].details` |
 | `properties.errors.properties.details[*].details[*]` | `Microsoft.Workloads/sapVirtualInstances/centralInstances/errors.details[*].details[*]` |
-

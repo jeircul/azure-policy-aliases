@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases
+﻿# Microsoft.Sql/servers/databases
 
 | Default Path | Alias |
 |---|---|
@@ -137,4 +137,3 @@
 | `properties.useFreeLimit` | `Microsoft.Sql/servers/databases/useFreeLimit` |
 | `properties.freeLimitExhaustionBehavior` | `Microsoft.Sql/servers/databases/freeLimitExhaustionBehavior` |
 | `properties.encryptionProtectorAutoRotation` | `Microsoft.Sql/servers/databases/encryptionProtectorAutoRotation` |
-

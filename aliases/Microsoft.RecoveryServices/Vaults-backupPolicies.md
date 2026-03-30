@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/Vaults/backupPolicies
+﻿# Microsoft.RecoveryServices/Vaults/backupPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -596,4 +596,3 @@
 | `properties.vaultRetentionPolicy.vaultRetention.retentionPolicyType` | `Microsoft.RecoveryServices/vaults/backupPolicies/AzureStorage.vaultRetentionPolicy.vaultRetention.retentionPolicyType` |
 | `properties.vaultRetentionPolicy.snapshotRetentionInDays` | `Microsoft.RecoveryServices/vaults/backupPolicies/AzureStorage.vaultRetentionPolicy.snapshotRetentionInDays` |
 | `properties.snapshotConsistencyType` | `Microsoft.RecoveryServices/vaults/backupPolicies/AzureIaasVM.snapshotConsistencyType` |
-

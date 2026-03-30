@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/gateways/hostnameConfigurations
+﻿# Microsoft.ApiManagement/service/gateways/hostnameConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.tls10Enabled` | `Microsoft.ApiManagement/service/gateways/hostnameConfigurations/tls10Enabled` |
 | `properties.tls11Enabled` | `Microsoft.ApiManagement/service/gateways/hostnameConfigurations/tls11Enabled` |
 | `properties.http2Enabled` | `Microsoft.ApiManagement/service/gateways/hostnameConfigurations/http2Enabled` |
-

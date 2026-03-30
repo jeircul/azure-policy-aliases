@@ -1,4 +1,4 @@
-# Microsoft.Compute/diskAccesses
+﻿# Microsoft.Compute/diskAccesses
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.privateEndpointConnections` | `Microsoft.Compute/diskAccesses/privateEndpointConnections` |
 | `properties.provisioningState` | `Microsoft.Compute/diskAccesses/provisioningState` |
 | `properties.timeCreated` | `Microsoft.Compute/diskAccesses/timeCreated` |
-

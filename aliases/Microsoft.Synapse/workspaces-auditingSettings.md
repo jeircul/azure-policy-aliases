@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/auditingSettings
+﻿# Microsoft.Synapse/workspaces/auditingSettings
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.isAzureMonitorTargetEnabled` | `Microsoft.Synapse/workspaces/auditingSettings/isAzureMonitorTargetEnabled` |
 | `properties.queueDelayMs` | `Microsoft.Synapse/workspaces/auditingSettings/queueDelayMs` |
 | `properties.isDevopsAuditEnabled` | `Microsoft.Synapse/workspaces/auditingSettings/isDevopsAuditEnabled` |
-

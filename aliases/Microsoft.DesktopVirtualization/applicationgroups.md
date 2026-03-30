@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/applicationgroups
+﻿# Microsoft.DesktopVirtualization/applicationgroups
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.migrationRequest.migrationPath` | `Microsoft.DesktopVirtualization/applicationGroups/migrationRequest.migrationPath` |
 | `properties.cloudPcResource` | `Microsoft.DesktopVirtualization/applicationGroups/cloudPcResource` |
 | `properties.showInFeed` | `Microsoft.DesktopVirtualization/applicationGroups/showInFeed` |
-

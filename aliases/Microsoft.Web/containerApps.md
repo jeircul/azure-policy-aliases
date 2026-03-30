@@ -1,4 +1,4 @@
-# Microsoft.Web/containerApps
+﻿# Microsoft.Web/containerApps
 
 | Default Path | Alias |
 |---|---|
@@ -86,4 +86,3 @@
 | `properties.template.dapr.components[*].metadata[*].name` | `Microsoft.Web/containerApps/template.dapr.components[*].metadata[*].name` |
 | `properties.template.dapr.components[*].metadata[*].value` | `Microsoft.Web/containerApps/template.dapr.components[*].metadata[*].value` |
 | `properties.template.dapr.components[*].metadata[*].secretRef` | `Microsoft.Web/containerApps/template.dapr.components[*].metadata[*].secretRef` |
-

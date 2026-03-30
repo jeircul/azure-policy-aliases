@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationServiceEnvironments/managedApis
+﻿# Microsoft.Logic/integrationServiceEnvironments/managedApis
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.deploymentParameters.contentLinkDefinition.contentHash` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentHash` |
 | `properties.deploymentParameters.contentLinkDefinition.contentHash.algorithm` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentHash.algorithm` |
 | `properties.deploymentParameters.contentLinkDefinition.contentHash.value` | `Microsoft.Logic/integrationServiceEnvironments/managedApis/deploymentParameters.contentLinkDefinition.contentHash.value` |
-

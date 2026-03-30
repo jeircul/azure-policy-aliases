@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments
+﻿# Microsoft.Synapse/workspaces/kustoPools/PrincipalAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.principalName` | `Microsoft.Synapse/workspaces/kustoPools/principalAssignments/principalName` |
 | `properties.provisioningState` | `Microsoft.Synapse/workspaces/kustoPools/principalAssignments/provisioningState` |
 | `properties.aadObjectId` | `Microsoft.Synapse/workspaces/kustoPools/principalAssignments/aadObjectId` |
-

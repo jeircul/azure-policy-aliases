@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts
+﻿# Microsoft.Logic/integrationAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -49,4 +49,3 @@
 | `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVault.type` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVault.type` |
 | `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyName` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyName` |
 | `properties.integrationServiceEnvironment.properties.encryptionConfiguration.encryptionKeyReference.keyVersion` | `Microsoft.Logic/integrationAccounts/integrationServiceEnvironment.encryptionConfiguration.encryptionKeyReference.keyVersion` |
-

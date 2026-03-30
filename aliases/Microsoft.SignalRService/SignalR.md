@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/SignalR
+﻿# Microsoft.SignalRService/SignalR
 
 | Default Path | Alias |
 |---|---|
@@ -122,4 +122,3 @@
 | `properties.applicationFirewall.clientConnectionCountRules[*].type` | `Microsoft.SignalRService/SignalR/applicationFirewall.clientConnectionCountRules[*].type` |
 | `properties.sharedPrivateLinkResources[*].properties.fqdns` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].fqdns` |
 | `properties.sharedPrivateLinkResources[*].properties.fqdns[*]` | `Microsoft.SignalRService/SignalR/sharedPrivateLinkResources[*].fqdns[*]` |
-

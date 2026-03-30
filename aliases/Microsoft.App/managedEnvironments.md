@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments
+﻿# Microsoft.App/managedEnvironments
 
 | Default Path | Alias |
 |---|---|
@@ -109,4 +109,3 @@
 | `properties.privateLinkDefaultDomain` | `Microsoft.App/managedEnvironments/privateLinkDefaultDomain` |
 | `properties.availabilityZones` | `Microsoft.App/managedEnvironments/availabilityZones` |
 | `properties.availabilityZones[*]` | `Microsoft.App/managedEnvironments/availabilityZones[*]` |
-

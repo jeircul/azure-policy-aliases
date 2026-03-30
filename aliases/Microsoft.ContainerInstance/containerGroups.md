@@ -1,4 +1,4 @@
-# Microsoft.ContainerInstance/containerGroups
+﻿# Microsoft.ContainerInstance/containerGroups
 
 | Default Path | Alias |
 |---|---|
@@ -253,4 +253,3 @@
 | `properties.identityAcls.acls[*]` | `Microsoft.ContainerInstance/containerGroups/identityAcls.acls[*]` |
 | `properties.identityAcls.acls[*].access` | `Microsoft.ContainerInstance/containerGroups/identityAcls.acls[*].access` |
 | `properties.identityAcls.acls[*].identity` | `Microsoft.ContainerInstance/containerGroups/identityAcls.acls[*].identity` |
-

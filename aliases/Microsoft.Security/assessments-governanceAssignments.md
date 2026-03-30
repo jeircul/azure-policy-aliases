@@ -1,4 +1,4 @@
-# Microsoft.Security/assessments/governanceAssignments
+﻿# Microsoft.Security/assessments/governanceAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.additionalData.ticketNumber` | `Microsoft.Security/assessments/governanceAssignments/additionalData.ticketNumber` |
 | `properties.additionalData.ticketLink` | `Microsoft.Security/assessments/governanceAssignments/additionalData.ticketLink` |
 | `properties.additionalData.ticketStatus` | `Microsoft.Security/assessments/governanceAssignments/additionalData.ticketStatus` |
-

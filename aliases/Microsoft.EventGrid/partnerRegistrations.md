@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerRegistrations
+﻿# Microsoft.EventGrid/partnerRegistrations
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.authorizedAzureSubscriptionIds[*]` | `Microsoft.EventGrid/partnerRegistrations/authorizedAzureSubscriptionIds[*]` |
 | `properties.authorizedAzureSubscriptionIds` | `Microsoft.EventGrid/partnerRegistrations/authorizedAzureSubscriptionIds` |
 | `properties.partnerRegistrationImmutableId` | `Microsoft.EventGrid/partnerRegistrations/partnerRegistrationImmutableId` |
-

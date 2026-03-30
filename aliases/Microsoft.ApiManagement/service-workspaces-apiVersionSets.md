@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/apiVersionSets
+﻿# Microsoft.ApiManagement/service/workspaces/apiVersionSets
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.versionHeaderName` | `Microsoft.ApiManagement/service/workspaces/apiVersionSets/versionHeaderName` |
 | `properties.displayName` | `Microsoft.ApiManagement/service/workspaces/apiVersionSets/displayName` |
 | `properties.versioningScheme` | `Microsoft.ApiManagement/service/workspaces/apiVersionSets/versioningScheme` |
-

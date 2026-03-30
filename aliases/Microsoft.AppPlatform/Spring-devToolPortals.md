@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/devToolPortals
+﻿# Microsoft.AppPlatform/Spring/devToolPortals
 
 | Default Path | Alias |
 |---|---|
@@ -37,4 +37,3 @@
 | `properties.components[*].instances[*]` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances[*]` |
 | `properties.components[*].instances[*].name` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances[*].name` |
 | `properties.components[*].instances[*].status` | `Microsoft.AppPlatform/Spring/DevToolPortals/components[*].instances[*].status` |
-

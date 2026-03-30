@@ -1,4 +1,4 @@
-# Microsoft.Security/standardAssignments
+﻿# Microsoft.Security/standardAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.metadata.createdOn` | `Microsoft.Security/standardAssignments/metadata.createdOn` |
 | `properties.metadata.lastUpdatedBy` | `Microsoft.Security/standardAssignments/metadata.lastUpdatedBy` |
 | `properties.metadata.lastUpdatedOn` | `Microsoft.Security/standardAssignments/metadata.lastUpdatedOn` |
-

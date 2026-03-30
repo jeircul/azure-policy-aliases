@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/servers/securityAlertPolicies
+﻿# Microsoft.DBforMySQL/servers/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.storageEndpoint` | `Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.storageEndpoint` |
 | `properties.storageAccountAccessKey` | `Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.DBforMySQL/servers/securityAlertPolicies/Default.retentionDays` |
-

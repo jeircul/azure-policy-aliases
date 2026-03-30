@@ -1,4 +1,4 @@
-# Microsoft.SqlVirtualMachine/SqlVirtualMachines
+﻿# Microsoft.SqlVirtualMachine/SqlVirtualMachines
 
 | Default Path | Alias |
 |---|---|
@@ -49,4 +49,3 @@
 | `properties.virtualMachineIdentitySettings.type` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/virtualMachineIdentitySettings.type` |
 | `properties.virtualMachineIdentitySettings.resourceId` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/virtualMachineIdentitySettings.resourceId` |
 | `properties.osType` | `Microsoft.SqlVirtualMachine/sqlVirtualMachines/osType` |
-

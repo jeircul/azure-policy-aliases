@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerNamespaces/eventChannels
+﻿# Microsoft.EventGrid/partnerNamespaces/eventChannels
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberGreaterThan.value` |
 | `properties.filter.advancedFilters[*].value` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.advancedFilters[*].NumberLessThan.value` |
 | `properties.filter.enableAdvancedFilteringOnArrays` | `Microsoft.EventGrid/partnerNamespaces/eventChannels/filter.enableAdvancedFilteringOnArrays` |
-

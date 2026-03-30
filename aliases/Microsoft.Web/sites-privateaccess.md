@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/privateaccess
+﻿# Microsoft.Web/sites/privateaccess
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.virtualNetworks[*].subnets[*]` | `Microsoft.Web/sites/privateAccess/virtualNetworks[*].subnets[*]` |
 | `properties.virtualNetworks[*].subnets[*].name` | `Microsoft.Web/sites/privateAccess/virtualNetworks[*].subnets[*].name` |
 | `properties.virtualNetworks[*].subnets[*].key` | `Microsoft.Web/sites/privateAccess/virtualNetworks[*].subnets[*].key` |
-

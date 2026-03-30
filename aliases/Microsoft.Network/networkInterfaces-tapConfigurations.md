@@ -1,4 +1,4 @@
-# Microsoft.Network/networkInterfaces/tapConfigurations
+﻿# Microsoft.Network/networkInterfaces/tapConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -339,4 +339,3 @@
 | `properties.virtualNetworkTap.properties.destinationNetworkInterfaceIPConfiguration.type` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationNetworkInterfaceIPConfiguration.type` |
 | `properties.virtualNetworkTap.properties.destinationNetworkInterfaceIPConfiguration.id` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationNetworkInterfaceIPConfiguration.id` |
 | `properties.virtualNetworkTap.properties.destinationLoadBalancerFrontEndIPConfiguration.id` | `Microsoft.Network/networkInterfaces/tapConfigurations/virtualNetworkTap.destinationLoadBalancerFrontEndIPConfiguration.id` |
-

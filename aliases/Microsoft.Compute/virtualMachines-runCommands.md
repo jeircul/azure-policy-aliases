@@ -1,4 +1,4 @@
-# Microsoft.Compute/virtualMachines/runCommands
+﻿# Microsoft.Compute/virtualMachines/runCommands
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.treatFailureAsDeploymentFailure` | `Microsoft.Compute/virtualMachines/runCommands/treatFailureAsDeploymentFailure` |
 | `properties.source.scriptShell` | `Microsoft.Compute/virtualMachines/runCommands/source.scriptShell` |
 | `properties.source.galleryScriptReferenceId` | `Microsoft.Compute/virtualMachines/runCommands/source.galleryScriptReferenceId` |
-

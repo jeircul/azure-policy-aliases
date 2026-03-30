@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/pipelines
+﻿# Microsoft.DataFactory/factories/pipelines
 
 | Default Path | Alias |
 |---|---|
@@ -2150,4 +2150,3 @@
 | `properties.activities[*]` | `Microsoft.DataFactory/factories/pipelines/activities[*].DatabricksJob` |
 | `properties.activities[*].typeProperties` | `Microsoft.DataFactory/factories/pipelines/activities[*].DatabricksJob.typeProperties` |
 | `properties.activities[*].typeProperties.jobParameters` | `Microsoft.DataFactory/factories/pipelines/activities[*].DatabricksJob.typeProperties.jobParameters` |
-

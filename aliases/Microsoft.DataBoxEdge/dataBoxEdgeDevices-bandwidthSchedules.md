@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules
+﻿# Microsoft.DataBoxEdge/dataBoxEdgeDevices/bandwidthSchedules
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.rateInMbps` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/rateInMbps` |
 | `properties.days[*]` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/days[*]` |
 | `properties.days` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/bandwidthSchedules/days` |
-

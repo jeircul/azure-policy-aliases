@@ -1,4 +1,4 @@
-# Microsoft.Relay/namespaces/privateEndpointConnections
+﻿# Microsoft.Relay/namespaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Relay/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
 | `properties.provisioningState` | `Microsoft.Relay/namespaces/privateEndpointConnections/provisioningState` |
-

@@ -1,4 +1,4 @@
-# microsoft.insights/dataCollectionRuleAssociations
+﻿# microsoft.insights/dataCollectionRuleAssociations
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.metadata.provisionedBy` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata.provisionedBy` |
 | `properties.metadata.provisionedByResourceId` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata.provisionedByResourceId` |
 | `properties.metadata.provisionedByImmutableId` | `Microsoft.Insights/dataCollectionRuleAssociations/metadata.provisionedByImmutableId` |
-

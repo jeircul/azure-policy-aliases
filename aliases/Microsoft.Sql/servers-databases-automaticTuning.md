@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/automaticTuning
+﻿# Microsoft.Sql/servers/databases/automaticTuning
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.options.forceLastGoodPlan.desiredState` | `Microsoft.Sql/servers/databases/automaticTuning/options.forceLastGoodPlan` |
 | `properties.actualState` | `Microsoft.Sql/servers/databases/automaticTuning/actualState` |
 | `properties.options` | `Microsoft.Sql/servers/databases/automaticTuning/options` |
-

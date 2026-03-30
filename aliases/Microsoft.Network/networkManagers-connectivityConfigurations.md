@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/connectivityConfigurations
+﻿# Microsoft.Network/networkManagers/connectivityConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.connectivityCapabilities.connectedGroupPrivateEndpointsScale` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities.connectedGroupPrivateEndpointsScale` |
 | `properties.connectivityCapabilities.connectedGroupAddressOverlap` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities.connectedGroupAddressOverlap` |
 | `properties.connectivityCapabilities.peeringEnforcement` | `Microsoft.Network/networkManagers/connectivityConfigurations/connectivityCapabilities.peeringEnforcement` |
-

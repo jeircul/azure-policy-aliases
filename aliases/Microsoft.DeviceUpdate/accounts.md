@@ -1,4 +1,4 @@
-# Microsoft.DeviceUpdate/accounts
+﻿# Microsoft.DeviceUpdate/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.encryption` | `Microsoft.DeviceUpdate/accounts/encryption` |
 | `properties.encryption.keyVaultKeyUri` | `Microsoft.DeviceUpdate/accounts/encryption.keyVaultKeyUri` |
 | `properties.encryption.userAssignedIdentity` | `Microsoft.DeviceUpdate/accounts/encryption.userAssignedIdentity` |
-

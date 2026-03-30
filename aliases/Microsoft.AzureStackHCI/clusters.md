@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/clusters
+﻿# Microsoft.AzureStackHCI/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -106,4 +106,3 @@
 | `properties.localAvailabilityZones[*].localAvailabilityZoneName` | `Microsoft.AzureStackHCI/clusters/localAvailabilityZones[*].localAvailabilityZoneName` |
 | `properties.localAvailabilityZones[*].nodes` | `Microsoft.AzureStackHCI/clusters/localAvailabilityZones[*].nodes` |
 | `properties.localAvailabilityZones[*].nodes[*]` | `Microsoft.AzureStackHCI/clusters/localAvailabilityZones[*].nodes[*]` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Authorization/locks
+﻿# Microsoft.Authorization/locks
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.owners[*].applicationId` | `Microsoft.Authorization/locks/owners[*].applicationId` |
 | `properties.owners[*]` | `Microsoft.Authorization/locks/owners[*]` |
 | `properties.owners` | `Microsoft.Authorization/locks/owners` |
-

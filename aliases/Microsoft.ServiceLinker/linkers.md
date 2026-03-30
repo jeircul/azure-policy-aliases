@@ -1,4 +1,4 @@
-# Microsoft.ServiceLinker/linkers
+﻿# Microsoft.ServiceLinker/linkers
 
 | Default Path | Alias |
 |---|---|
@@ -86,4 +86,3 @@
 | `properties.configurationInfo.action` | `Microsoft.ServiceLinker/linkers/configurationInfo.action` |
 | `properties.configurationInfo.customizedKeys` | `Microsoft.ServiceLinker/linkers/configurationInfo.customizedKeys` |
 | `properties.configurationInfo.additionalConfigurations` | `Microsoft.ServiceLinker/linkers/configurationInfo.additionalConfigurations` |
-

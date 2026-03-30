@@ -1,4 +1,4 @@
-# Microsoft.Security/alertsSuppressionRules
+﻿# Microsoft.Security/alertsSuppressionRules
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.suppressionAlertsScope.allOf` | `Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope.allOf` |
 | `properties.suppressionAlertsScope.allOf[*]` | `Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope.allOf[*]` |
 | `properties.suppressionAlertsScope.allOf[*].field` | `Microsoft.Security/alertsSuppressionRules/suppressionAlertsScope.allOf[*].field` |
-

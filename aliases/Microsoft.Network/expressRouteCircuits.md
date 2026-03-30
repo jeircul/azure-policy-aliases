@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRouteCircuits
+﻿# Microsoft.Network/expressRouteCircuits
 
 | Default Path | Alias |
 |---|---|
@@ -144,4 +144,3 @@
 | `properties.authorizations[*].properties.connectionResourceUri` | `Microsoft.Network/expressRouteCircuits/authorizations[*].connectionResourceUri` |
 | `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/expressRouteCircuits/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
 | `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/expressRouteCircuits/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
-

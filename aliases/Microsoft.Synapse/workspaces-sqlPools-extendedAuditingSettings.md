@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings
+﻿# Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.isStorageSecondaryKeyInUse` | `Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings/isStorageSecondaryKeyInUse` |
 | `properties.isAzureMonitorTargetEnabled` | `Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings/isAzureMonitorTargetEnabled` |
 | `properties.queueDelayMs` | `Microsoft.Synapse/workspaces/sqlPools/extendedAuditingSettings/queueDelayMs` |
-

@@ -1,4 +1,4 @@
-# Microsoft.StorageCache/caches/storageTargets
+﻿# Microsoft.StorageCache/caches/storageTargets
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.blobNfs.usageModel` | `Microsoft.StorageCache/caches/storageTargets/blobNfs.usageModel` |
 | `properties.state` | `Microsoft.StorageCache/caches/storageTargets/state` |
 | `properties.allocationPercentage` | `Microsoft.StorageCache/caches/storageTargets/allocationPercentage` |
-

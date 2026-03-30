@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/daprComponents
+﻿# Microsoft.App/managedEnvironments/daprComponents
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.serviceComponentBind[*].metadata` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata` |
 | `properties.serviceComponentBind[*].metadata.name` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata.name` |
 | `properties.serviceComponentBind[*].metadata.value` | `Microsoft.App/managedEnvironments/daprComponents/serviceComponentBind[*].metadata.value` |
-

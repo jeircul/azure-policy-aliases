@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/edgeDevices
+﻿# Microsoft.AzureStackHCI/edgeDevices
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.deviceConfiguration.nicDetails[*].defaultIsolationId` | `Microsoft.AzureStackHCI/edgeDevices/deviceConfiguration.nicDetails[*].defaultIsolationId` |
 | `properties.deviceConfiguration.deviceMetadata` | `Microsoft.AzureStackHCI/edgeDevices/deviceConfiguration.deviceMetadata` |
 | `properties.provisioningState` | `Microsoft.AzureStackHCI/edgeDevices/provisioningState` |
-

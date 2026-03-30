@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles
+﻿# Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.status` | `Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/status` |
 | `properties.provisioningState` | `Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/provisioningState` |
 | `properties.revision` | `Microsoft.AVS/privateClouds/workloadNetworks/portMirroringProfiles/revision` |
-

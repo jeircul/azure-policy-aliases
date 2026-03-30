@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/startStopSchedules
+﻿# Microsoft.Sql/managedInstances/startStopSchedules
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.scheduleList[*].stopTime` | `Microsoft.Sql/managedInstances/startStopSchedules/scheduleList[*].stopTime` |
 | `properties.nextRunAction` | `Microsoft.Sql/managedInstances/startStopSchedules/nextRunAction` |
 | `properties.nextExecutionTime` | `Microsoft.Sql/managedInstances/startStopSchedules/nextExecutionTime` |
-

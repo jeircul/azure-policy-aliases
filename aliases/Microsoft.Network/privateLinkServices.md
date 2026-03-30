@@ -1,4 +1,4 @@
-# Microsoft.Network/privateLinkServices
+﻿# Microsoft.Network/privateLinkServices
 
 | Default Path | Alias |
 |---|---|
@@ -1378,4 +1378,3 @@
 | `properties.destinationIPAddress` | `Microsoft.Network/privateLinkServices/destinationIPAddress` |
 | `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateLinkServices/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
 | `properties.accessMode` | `Microsoft.Network/privateLinkServices/accessMode` |
-

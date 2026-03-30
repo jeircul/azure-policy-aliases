@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/elasticpools
+﻿# Microsoft.Sql/servers/elasticpools
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.availabilityZone` | `Microsoft.Sql/servers/elasticPools/availabilityZone` |
 | `properties.perDatabaseSettings.autoPauseDelay` | `Microsoft.Sql/servers/elasticPools/perDatabaseSettings.autoPauseDelay` |
 | `properties.autoPauseDelay` | `Microsoft.Sql/servers/elasticPools/autoPauseDelay` |
-

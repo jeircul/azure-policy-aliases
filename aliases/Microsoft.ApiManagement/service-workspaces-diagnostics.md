@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/diagnostics
+﻿# Microsoft.ApiManagement/service/workspaces/diagnostics
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.verbosity` | `Microsoft.ApiManagement/service/workspaces/diagnostics/verbosity` |
 | `properties.operationNameFormat` | `Microsoft.ApiManagement/service/workspaces/diagnostics/operationNameFormat` |
 | `properties.metrics` | `Microsoft.ApiManagement/service/workspaces/diagnostics/metrics` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/advisors
+﻿# Microsoft.Sql/servers/advisors
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.recommendedActions[*].properties.linkedObjects` | `Microsoft.Sql/servers/advisors/recommendedActions[*].linkedObjects` |
 | `properties.recommendedActions[*].properties.linkedObjects[*]` | `Microsoft.Sql/servers/advisors/recommendedActions[*].linkedObjects[*]` |
 | `properties.recommendedActions[*].properties.details` | `Microsoft.Sql/servers/advisors/recommendedActions[*].details` |
-

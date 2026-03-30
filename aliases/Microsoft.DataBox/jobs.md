@@ -1,4 +1,4 @@
-# Microsoft.DataBox/jobs
+﻿# Microsoft.DataBox/jobs
 
 | Default Path | Alias |
 |---|---|
@@ -196,4 +196,3 @@
 | `properties.details.keyEncryptionKey.identityProperties.type` | `Microsoft.DataBox/jobs/details.keyEncryptionKey.identityProperties.type` |
 | `properties.details.keyEncryptionKey.identityProperties.userAssigned` | `Microsoft.DataBox/jobs/details.keyEncryptionKey.identityProperties.userAssigned` |
 | `properties.details.keyEncryptionKey.identityProperties.userAssigned.resourceId` | `Microsoft.DataBox/jobs/details.keyEncryptionKey.identityProperties.userAssigned.resourceId` |
-

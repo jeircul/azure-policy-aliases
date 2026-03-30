@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/dataBoxEdgeDevices/users
+﻿# Microsoft.DataBoxEdge/dataBoxEdgeDevices/users
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.shareAccessRights[*]` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/users/shareAccessRights[*]` |
 | `properties.shareAccessRights` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/users/shareAccessRights` |
 | `properties.userType` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/users/userType` |
-

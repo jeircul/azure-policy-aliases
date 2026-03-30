@@ -1,4 +1,4 @@
-# Microsoft.Network/trafficmanagerprofiles
+﻿# Microsoft.Network/trafficmanagerprofiles
 
 | Default Path | Alias |
 |---|---|
@@ -74,4 +74,3 @@
 | `properties.allowedEndpointRecordTypes[*]` | `Microsoft.Network/trafficmanagerprofiles/allowedEndpointRecordTypes[*]` |
 | `properties.endpoints[*].properties.alwaysServe` | `Microsoft.Network/trafficmanagerprofiles/endpoints[*].alwaysServe` |
 | `properties.recordType` | `Microsoft.Network/trafficmanagerprofiles/recordType` |
-

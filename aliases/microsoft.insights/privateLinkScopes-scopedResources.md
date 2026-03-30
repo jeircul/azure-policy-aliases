@@ -1,4 +1,4 @@
-# microsoft.insights/privateLinkScopes/scopedResources
+﻿# microsoft.insights/privateLinkScopes/scopedResources
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.provisioningState` | `Microsoft.Insights/privateLinkScopes/scopedResources/provisioningState` |
 | `properties.kind` | `Microsoft.Insights/privateLinkScopes/scopedResources/kind` |
 | `properties.subscriptionLocation` | `Microsoft.Insights/privateLinkScopes/scopedResources/subscriptionLocation` |
-

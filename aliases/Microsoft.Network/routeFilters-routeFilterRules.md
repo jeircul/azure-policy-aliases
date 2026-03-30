@@ -1,4 +1,4 @@
-# Microsoft.Network/routeFilters/routeFilterRules
+﻿# Microsoft.Network/routeFilters/routeFilterRules
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.communities[*]` | `Microsoft.Network/routeFilters/routeFilterRules/communities[*]` |
 | `properties.communities` | `Microsoft.Network/routeFilters/routeFilterRules/communities` |
 | `properties.provisioningState` | `Microsoft.Network/routeFilters/routeFilterRules/provisioningState` |
-

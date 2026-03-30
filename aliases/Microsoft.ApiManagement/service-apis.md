@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apis
+﻿# Microsoft.ApiManagement/service/apis
 
 | Default Path | Alias |
 |---|---|
@@ -58,4 +58,3 @@
 | `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods` |
 | `properties.authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` | `Microsoft.ApiManagement/service/apis/authenticationSettings.openidAuthenticationSettings[*].bearerTokenSendingMethods[*]` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/apis/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Resources/deployments
+﻿# Microsoft.Resources/deployments
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.templateLink.id` | `Microsoft.Resources/deployments/templateLink.id` |
 | `properties.templateLink.relativePath` | `Microsoft.Resources/deployments/templateLink.relativePath` |
 | `properties.templateLink.queryString` | `Microsoft.Resources/deployments/templateLink.queryString` |
-

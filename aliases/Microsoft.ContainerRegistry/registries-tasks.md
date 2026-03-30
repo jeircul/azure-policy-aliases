@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/tasks
+﻿# Microsoft.ContainerRegistry/registries/tasks
 
 | Default Path | Alias |
 |---|---|
@@ -87,4 +87,3 @@
 | `properties.step.values[*].isSecret` | `Microsoft.ContainerRegistry/registries/tasks/step.EncodedTask.values[*].isSecret` |
 | `properties.step` | `Microsoft.ContainerRegistry/registries/tasks/step.FileTask` |
 | `properties.credentials.sourceRegistry.identity` | `Microsoft.ContainerRegistry/registries/tasks/credentials.sourceRegistry.identity` |
-

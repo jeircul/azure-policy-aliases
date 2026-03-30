@@ -1,4 +1,4 @@
-# Microsoft.Kusto/Clusters/PrivateEndpointConnections
+﻿# Microsoft.Kusto/Clusters/PrivateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Kusto/clusters/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.groupId` | `Microsoft.Kusto/clusters/privateEndpointConnections/groupId` |
 | `properties.provisioningState` | `Microsoft.Kusto/clusters/privateEndpointConnections/provisioningState` |
-

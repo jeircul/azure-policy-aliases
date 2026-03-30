@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers
+﻿# Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.startTime` | `Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers/startTime` |
 | `properties.endTime` | `Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers/endTime` |
 | `properties.importance` | `Microsoft.Sql/servers/databases/workloadGroups/workloadClassifiers/importance` |
-

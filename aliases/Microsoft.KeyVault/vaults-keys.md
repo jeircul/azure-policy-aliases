@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/vaults/keys
+﻿# Microsoft.KeyVault/vaults/keys
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.rotationPolicy.lifetimeActions[*].action` | `Microsoft.KeyVault/vaults/keys/rotationPolicy.lifetimeActions[*].action` |
 | `properties.rotationPolicy.lifetimeActions[*].action.type` | `Microsoft.KeyVault/vaults/keys/rotationPolicy.lifetimeActions[*].action.type` |
 | `properties.attributes.exportable` | `Microsoft.KeyVault/vaults/keys/attributes.exportable` |
-

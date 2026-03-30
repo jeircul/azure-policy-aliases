@@ -1,4 +1,4 @@
-# Microsoft.App/connectedenvironments/daprcomponents
+﻿# Microsoft.App/connectedenvironments/daprcomponents
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.serviceComponentBind[*].metadata.value` | `Microsoft.App/connectedEnvironments/daprComponents/serviceComponentBind[*].metadata.value` |
 | `properties.provisioningState` | `Microsoft.App/connectedEnvironments/daprComponents/provisioningState` |
 | `properties.deploymentErrors` | `Microsoft.App/connectedEnvironments/daprComponents/deploymentErrors` |
-

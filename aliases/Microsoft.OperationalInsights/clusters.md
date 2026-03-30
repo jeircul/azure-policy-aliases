@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/clusters
+﻿# Microsoft.OperationalInsights/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.replication.provisioningState` | `Microsoft.OperationalInsights/clusters/replication.provisioningState` |
 | `properties.replication.createdDate` | `Microsoft.OperationalInsights/clusters/replication.createdDate` |
 | `properties.replication.lastModifiedDate` | `Microsoft.OperationalInsights/clusters/replication.lastModifiedDate` |
-

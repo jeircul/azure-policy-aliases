@@ -1,4 +1,4 @@
-# Microsoft.Datadog/monitors/singleSignOnConfigurations
+﻿# Microsoft.Datadog/monitors/singleSignOnConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.singleSignOnState` | `Microsoft.Datadog/monitors/singleSignOnConfigurations/singleSignOnState` |
 | `properties.enterpriseAppId` | `Microsoft.Datadog/monitors/singleSignOnConfigurations/enterpriseAppId` |
 | `properties.singleSignOnUrl` | `Microsoft.Datadog/monitors/singleSignOnConfigurations/singleSignOnUrl` |
-

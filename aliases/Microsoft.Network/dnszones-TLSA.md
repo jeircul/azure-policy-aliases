@@ -1,4 +1,4 @@
-# Microsoft.Network/dnszones/TLSA
+﻿# Microsoft.Network/dnszones/TLSA
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnsZones/TLSA/NAPTRRecords[*].replacement` |
 | `properties.trafficManagementProfile` | `Microsoft.Network/dnsZones/TLSA/trafficManagementProfile` |
 | `properties.trafficManagementProfile.id` | `Microsoft.Network/dnsZones/TLSA/trafficManagementProfile.id` |
-

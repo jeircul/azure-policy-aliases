@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/packages/archives
+﻿# Microsoft.ContainerRegistry/registries/packages/archives
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.repositoryEndpointPrefix` | `Microsoft.ContainerRegistry/registries/packages/archives/repositoryEndpointPrefix` |
 | `properties.repositoryEndpoint` | `Microsoft.ContainerRegistry/registries/packages/archives/repositoryEndpoint` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/packages/archives/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DataLakeAnalytics/accounts/computePolicies
+﻿# Microsoft.DataLakeAnalytics/accounts/computePolicies
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.objectType` | `Microsoft.DataLakeAnalytics/accounts/computePolicies/objectType` |
 | `properties.maxDegreeOfParallelismPerJob` | `Microsoft.DataLakeAnalytics/accounts/computePolicies/maxDegreeOfParallelismPerJob` |
 | `properties.minPriorityPerJob` | `Microsoft.DataLakeAnalytics/accounts/computePolicies/minPriorityPerJob` |
-

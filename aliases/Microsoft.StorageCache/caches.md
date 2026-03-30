@@ -1,4 +1,4 @@
-# Microsoft.StorageCache/caches
+﻿# Microsoft.StorageCache/caches
 
 | Default Path | Alias |
 |---|---|
@@ -95,4 +95,3 @@
 | `properties.spaceAllocation[*]` | `Microsoft.StorageCache/caches/spaceAllocation[*]` |
 | `properties.spaceAllocation[*].name` | `Microsoft.StorageCache/caches/spaceAllocation[*].name` |
 | `properties.spaceAllocation[*].allocationPercentage` | `Microsoft.StorageCache/caches/spaceAllocation[*].allocationPercentage` |
-

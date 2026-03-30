@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/jobSchedules
+﻿# Microsoft.Automation/automationAccounts/jobSchedules
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.runbook` | `Microsoft.Automation/automationAccounts/jobSchedules/runbook` |
 | `properties.runOn` | `Microsoft.Automation/automationAccounts/jobSchedules/runOn` |
 | `properties.parameters` | `Microsoft.Automation/automationAccounts/jobSchedules/parameters` |
-

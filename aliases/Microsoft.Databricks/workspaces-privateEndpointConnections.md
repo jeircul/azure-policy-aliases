@@ -1,4 +1,4 @@
-# Microsoft.Databricks/workspaces/privateEndpointConnections
+﻿# Microsoft.Databricks/workspaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.groupIds` | `Microsoft.Databricks/workspaces/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Databricks/workspaces/privateEndpointConnections/groupIds[*]` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Databricks/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

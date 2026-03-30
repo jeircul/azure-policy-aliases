@@ -1,4 +1,4 @@
-# Microsoft.Network/privateEndpoints
+﻿# Microsoft.Network/privateEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -498,4 +498,3 @@
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/privateEndpoints/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
 | `properties.networkInterfaces[*].properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/privateEndpoints/networkInterfaces[*].defaultOutboundConnectivityEnabled` |
 | `properties.ipVersionType` | `Microsoft.Network/privateEndpoints/ipVersionType` |
-

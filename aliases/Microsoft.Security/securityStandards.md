@@ -1,4 +1,4 @@
-# Microsoft.Security/securityStandards
+﻿# Microsoft.Security/securityStandards
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.metadata.createdOn` | `Microsoft.Security/securityStandards/metadata.createdOn` |
 | `properties.metadata.lastUpdatedBy` | `Microsoft.Security/securityStandards/metadata.lastUpdatedBy` |
 | `properties.metadata.lastUpdatedOn` | `Microsoft.Security/securityStandards/metadata.lastUpdatedOn` |
-

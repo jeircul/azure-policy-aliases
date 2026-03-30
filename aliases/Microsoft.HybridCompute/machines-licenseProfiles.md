@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/machines/licenseProfiles
+﻿# Microsoft.HybridCompute/machines/licenseProfiles
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.productProfile.productFeatures[*].error.details[*]` | `Microsoft.HybridCompute/machines/licenseProfiles/productProfile.productFeatures[*].error.details[*]` |
 | `properties.productProfile.productFeatures[*].error.additionalInfo` | `Microsoft.HybridCompute/machines/licenseProfiles/productProfile.productFeatures[*].error.additionalInfo` |
 | `properties.productProfile.productFeatures[*].error.additionalInfo[*]` | `Microsoft.HybridCompute/machines/licenseProfiles/productProfile.productFeatures[*].error.additionalInfo[*]` |
-

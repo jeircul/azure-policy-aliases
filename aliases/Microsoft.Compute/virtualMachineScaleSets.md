@@ -1,4 +1,4 @@
-# Microsoft.Compute/virtualMachineScaleSets
+﻿# Microsoft.Compute/virtualMachineScaleSets
 
 | Default Path | Alias |
 |---|---|
@@ -396,4 +396,3 @@
 | `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.imds.mode` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.imds.mode` |
 | `properties.virtualMachineProfile.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` | `Microsoft.Compute/virtualMachineScaleSets/virtualMachineProfile.securityProfile.proxyAgentSettings.imds.inVMAccessControlProfileReferenceId` |
 | `properties.additionalCapabilities.enableFips1403Encryption` | `Microsoft.Compute/virtualMachineScaleSets/additionalCapabilities.enableFips1403Encryption` |
-

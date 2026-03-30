@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/agentPools
+﻿# Microsoft.ContainerRegistry/registries/agentPools
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.os` | `Microsoft.ContainerRegistry/registries/agentPools/os` |
 | `properties.virtualNetworkSubnetResourceId` | `Microsoft.ContainerRegistry/registries/agentPools/virtualNetworkSubnetResourceId` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/agentPools/provisioningState` |
-

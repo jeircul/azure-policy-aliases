@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/hosts
+﻿# Microsoft.ConnectedVMwarevSphere/hosts
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/hosts/statuses[*].lastUpdatedAt` |
 | `properties.customResourceName` | `Microsoft.ConnectedVMwarevSphere/hosts/customResourceName` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/hosts/provisioningState` |
-

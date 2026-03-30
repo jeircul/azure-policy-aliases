@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/flexibleServers/configurations
+﻿# Microsoft.DBforMySQL/flexibleServers/configurations
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.isDynamicConfig` | `Microsoft.DBForMySql/flexibleServers/configurations/isDynamicConfig` |
 | `properties.currentValue` | `Microsoft.DBforMySQL/flexibleServers/configurations/currentValue` |
 | `properties.documentationLink` | `Microsoft.DBforMySQL/flexibleServers/configurations/documentationLink` |
-

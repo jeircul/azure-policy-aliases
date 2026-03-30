@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/scalingplans/personalSchedules
+﻿# Microsoft.DesktopVirtualization/scalingplans/personalSchedules
 
 | Default Path | Alias |
 |---|---|
@@ -37,4 +37,3 @@
 | `properties.offPeakMinutesToWaitOnDisconnect` | `Microsoft.DesktopVirtualization/scalingPlans/personalSchedules/offPeakMinutesToWaitOnDisconnect` |
 | `properties.offPeakActionOnLogoff` | `Microsoft.DesktopVirtualization/scalingPlans/personalSchedules/offPeakActionOnLogoff` |
 | `properties.offPeakMinutesToWaitOnLogoff` | `Microsoft.DesktopVirtualization/scalingPlans/personalSchedules/offPeakMinutesToWaitOnLogoff` |
-

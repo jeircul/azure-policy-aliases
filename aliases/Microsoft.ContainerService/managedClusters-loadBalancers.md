@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/loadBalancers
+﻿# Microsoft.ContainerService/managedClusters/loadBalancers
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.nodeSelector.matchExpressions[*].values` | `Microsoft.ContainerService/managedClusters/loadBalancers/nodeSelector.matchExpressions[*].values` |
 | `properties.nodeSelector.matchExpressions[*].values[*]` | `Microsoft.ContainerService/managedClusters/loadBalancers/nodeSelector.matchExpressions[*].values[*]` |
 | `properties.provisioningState` | `Microsoft.ContainerService/managedClusters/loadBalancers/provisioningState` |
-

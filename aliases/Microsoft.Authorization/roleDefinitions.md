@@ -1,4 +1,4 @@
-# Microsoft.Authorization/roleDefinitions
+﻿# Microsoft.Authorization/roleDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.updatedBy` | `Microsoft.Authorization/roleDefinitions/updatedBy` |
 | `properties.permissions[*].condition` | `Microsoft.Authorization/roleDefinitions/permissions[*].condition` |
 | `properties.permissions[*].conditionVersion` | `Microsoft.Authorization/roleDefinitions/permissions[*].conditionVersion` |
-

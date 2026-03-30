@@ -1,4 +1,4 @@
-# Microsoft.AppConfiguration/configurationStores/keyValues
+﻿# Microsoft.AppConfiguration/configurationStores/keyValues
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.lastModified` | `Microsoft.AppConfiguration/configurationStores/keyValues/lastModified` |
 | `properties.locked` | `Microsoft.AppConfiguration/configurationStores/keyValues/locked` |
 | `properties.tags` | `Microsoft.AppConfiguration/configurationStores/keyValues/tags` |
-

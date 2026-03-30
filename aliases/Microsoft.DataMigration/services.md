@@ -1,4 +1,4 @@
-# Microsoft.DataMigration/services
+﻿# Microsoft.DataMigration/services
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.virtualNicId` | `Microsoft.DataMigration/services/virtualNicId` |
 | `properties.autoStopDelay` | `Microsoft.DataMigration/services/autoStopDelay` |
 | `properties.deleteResourcesOnStop` | `Microsoft.DataMigration/services/deleteResourcesOnStop` |
-

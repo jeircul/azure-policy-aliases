@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/SignalR/customDomains
+﻿# Microsoft.SignalRService/SignalR/customDomains
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.domainName` | `Microsoft.SignalRService/signalR/customDomains/domainName` |
 | `properties.customCertificate` | `Microsoft.SignalRService/signalR/customDomains/customCertificate` |
 | `properties.customCertificate.id` | `Microsoft.SignalRService/signalR/customDomains/customCertificate.id` |
-

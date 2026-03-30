@@ -1,4 +1,4 @@
-# Microsoft.Kusto/clusters/databases/principalassignments
+﻿# Microsoft.Kusto/clusters/databases/principalassignments
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.principalName` | `Microsoft.Kusto/clusters/databases/principalAssignments/principalName` |
 | `properties.provisioningState` | `Microsoft.Kusto/clusters/databases/principalAssignments/provisioningState` |
 | `properties.aadObjectId` | `Microsoft.Kusto/clusters/databases/principalAssignments/aadObjectId` |
-

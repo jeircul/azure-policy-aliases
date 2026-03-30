@@ -1,4 +1,4 @@
-# Microsoft.Security/assessmentMetadata
+﻿# Microsoft.Security/assessmentMetadata
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.tactics[*]` | `Microsoft.Security/assessmentMetadata/tactics[*]` |
 | `properties.techniques` | `Microsoft.Security/assessmentMetadata/techniques` |
 | `properties.techniques[*]` | `Microsoft.Security/assessmentMetadata/techniques[*]` |
-

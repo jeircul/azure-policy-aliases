@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/jobAgents/targetGroups
+﻿# Microsoft.Sql/servers/jobAgents/targetGroups
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.members[*].elasticPoolName` | `Microsoft.Sql/servers/jobAgents/targetGroups/members[*].elasticPoolName` |
 | `properties.members[*].shardMapName` | `Microsoft.Sql/servers/jobAgents/targetGroups/members[*].shardMapName` |
 | `properties.members[*].refreshCredential` | `Microsoft.Sql/servers/jobAgents/targetGroups/members[*].refreshCredential` |
-

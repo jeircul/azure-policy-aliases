@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/capacityPools/volumes
+﻿# Microsoft.NetApp/netAppAccounts/capacityPools/volumes
 
 | Default Path | Alias |
 |---|---|
@@ -115,4 +115,3 @@
 | `properties.originatingResourceId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/originatingResourceId` |
 | `properties.dataProtection.backup.backupVaultId` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/dataProtection.backup.backupVaultId` |
 | `properties.coolAccessRetrievalPolicy` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/coolAccessRetrievalPolicy` |
-

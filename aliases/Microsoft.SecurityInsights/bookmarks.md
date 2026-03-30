@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/bookmarks
+﻿# Microsoft.SecurityInsights/bookmarks
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.eventTime` | `Microsoft.SecurityInsights/bookmarks/eventTime` |
 | `properties.queryStartTime` | `Microsoft.SecurityInsights/bookmarks/queryStartTime` |
 | `properties.queryEndTime` | `Microsoft.SecurityInsights/bookmarks/queryEndTime` |
-

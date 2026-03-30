@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/globalReachConnections
+﻿# Microsoft.AVS/privateClouds/globalReachConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.circuitConnectionStatus` | `Microsoft.AVS/privateClouds/globalReachConnections/circuitConnectionStatus` |
 | `properties.peerExpressRouteCircuit` | `Microsoft.AVS/privateClouds/globalReachConnections/peerExpressRouteCircuit` |
 | `properties.expressRouteId` | `Microsoft.AVS/privateClouds/globalReachConnections/expressRouteId` |
-

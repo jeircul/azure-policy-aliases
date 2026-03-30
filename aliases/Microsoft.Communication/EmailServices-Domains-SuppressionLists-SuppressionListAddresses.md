@@ -1,4 +1,4 @@
-# Microsoft.Communication/EmailServices/Domains/SuppressionLists/SuppressionListAddresses
+﻿# Microsoft.Communication/EmailServices/Domains/SuppressionLists/SuppressionListAddresses
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.notes` | `Microsoft.Communication/emailServices/domains/suppressionLists/suppressionListAddresses/notes` |
 | `properties.lastModified` | `Microsoft.Communication/emailServices/domains/suppressionLists/suppressionListAddresses/lastModified` |
 | `properties.dataLocation` | `Microsoft.Communication/emailServices/domains/suppressionLists/suppressionListAddresses/dataLocation` |
-

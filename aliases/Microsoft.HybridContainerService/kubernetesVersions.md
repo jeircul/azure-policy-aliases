@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/kubernetesVersions
+﻿# Microsoft.HybridContainerService/kubernetesVersions
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.values[*].capabilities.supportPlan[*]` | `Microsoft.HybridContainerService/kubernetesVersions/values[*].capabilities.supportPlan[*]` |
 | `properties.values[*].isPreview` | `Microsoft.HybridContainerService/kubernetesVersions/values[*].isPreview` |
 | `properties.values[*].patchVersions` | `Microsoft.HybridContainerService/kubernetesVersions/values[*].patchVersions` |
-

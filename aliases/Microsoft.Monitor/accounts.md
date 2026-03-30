@@ -1,4 +1,4 @@
-# Microsoft.Monitor/accounts
+﻿# Microsoft.Monitor/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Monitor/accounts/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.Monitor/accounts/privateEndpointConnections[*].provisioningState` |
 | `properties.publicNetworkAccess` | `Microsoft.Monitor/accounts/publicNetworkAccess` |
-

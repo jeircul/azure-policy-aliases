@@ -1,4 +1,4 @@
-# Microsoft.Compute/galleries/applications
+﻿# Microsoft.Compute/galleries/applications
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.customActions[*].parameters[*].type` | `Microsoft.Compute/galleries/applications/customActions[*].parameters[*].type` |
 | `properties.customActions[*].parameters[*].defaultValue` | `Microsoft.Compute/galleries/applications/customActions[*].parameters[*].defaultValue` |
 | `properties.customActions[*].parameters[*].description` | `Microsoft.Compute/galleries/applications/customActions[*].parameters[*].description` |
-

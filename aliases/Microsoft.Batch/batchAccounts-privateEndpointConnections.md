@@ -1,4 +1,4 @@
-# Microsoft.Batch/batchAccounts/privateEndpointConnections
+﻿# Microsoft.Batch/batchAccounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.groupIds` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/groupIds[*]` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Batch/batchAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

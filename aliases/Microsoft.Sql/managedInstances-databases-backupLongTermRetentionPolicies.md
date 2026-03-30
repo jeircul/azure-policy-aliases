@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies
+﻿# Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.yearlyRetention` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/yearlyRetention` |
 | `properties.weekOfYear` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/weekOfYear` |
 | `properties.backupStorageAccessTier` | `Microsoft.Sql/managedInstances/databases/backupLongTermRetentionPolicies/backupStorageAccessTier` |
-

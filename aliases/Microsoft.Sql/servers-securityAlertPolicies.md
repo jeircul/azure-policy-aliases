@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/securityAlertPolicies
+﻿# Microsoft.Sql/servers/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.storageAccountAccessKey` | `Microsoft.Sql/servers/securityAlertPolicies/Default.storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.Sql/servers/securityAlertPolicies/Default.retentionDays` |
 | `properties.creationTime` | `Microsoft.Sql/servers/securityAlertPolicies/Default.creationTime` |
-

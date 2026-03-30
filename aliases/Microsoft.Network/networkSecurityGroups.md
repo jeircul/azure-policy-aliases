@@ -1,4 +1,4 @@
-# Microsoft.Network/networkSecurityGroups
+﻿# Microsoft.Network/networkSecurityGroups
 
 | Default Path | Alias |
 |---|---|
@@ -843,4 +843,3 @@
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/networkSecurityGroups/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

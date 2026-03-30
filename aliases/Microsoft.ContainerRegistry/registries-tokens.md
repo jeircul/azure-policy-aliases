@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/tokens
+﻿# Microsoft.ContainerRegistry/registries/tokens
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.credentials.activeDirectoryObject.objectId` | `Microsoft.ContainerRegistry/registries/tokens/credentials.activeDirectoryObject.objectId` |
 | `properties.credentials.activeDirectoryObject.tenantId` | `Microsoft.ContainerRegistry/registries/tokens/credentials.activeDirectoryObject.tenantId` |
 | `properties.credentials.activeDirectoryObject` | `Microsoft.ContainerRegistry/registries/tokens/credentials.activeDirectoryObject` |
-

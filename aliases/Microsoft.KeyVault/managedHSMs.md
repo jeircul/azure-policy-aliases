@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/managedHSMs
+﻿# Microsoft.KeyVault/managedHSMs
 
 | Default Path | Alias |
 |---|---|
@@ -48,4 +48,3 @@
 | `properties.networkAcls.serviceTags` | `Microsoft.KeyVault/managedHSMs/networkAcls.serviceTags` |
 | `properties.networkAcls.serviceTags[*]` | `Microsoft.KeyVault/managedHSMs/networkAcls.serviceTags[*]` |
 | `properties.networkAcls.serviceTags[*].tag` | `Microsoft.KeyVault/managedHSMs/networkAcls.serviceTags[*].tag` |
-

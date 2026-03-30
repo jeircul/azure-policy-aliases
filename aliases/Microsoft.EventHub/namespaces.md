@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces
+﻿# Microsoft.EventHub/namespaces
 
 | Default Path | Alias |
 |---|---|
@@ -99,4 +99,3 @@
 | `properties.geoDataReplication.locations[*].locationName` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].locationName` |
 | `properties.geoDataReplication.locations[*].roleType` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].roleType` |
 | `properties.geoDataReplication.locations[*].clusterArmId` | `Microsoft.EventHub/namespaces/geoDataReplication.locations[*].clusterArmId` |
-

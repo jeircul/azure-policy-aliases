@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/syncAgents
+﻿# Microsoft.Sql/servers/syncAgents
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.isUpToDate` | `Microsoft.Sql/servers/syncAgents/isUpToDate` |
 | `properties.expiryTime` | `Microsoft.Sql/servers/syncAgents/expiryTime` |
 | `properties.version` | `Microsoft.Sql/servers/syncAgents/version` |
-

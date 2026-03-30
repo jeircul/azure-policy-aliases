@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/appattachpackages
+﻿# Microsoft.DesktopVirtualization/appattachpackages
 
 | Default Path | Alias |
 |---|---|
@@ -46,4 +46,3 @@
 | `properties.packageOwnerName` | `Microsoft.DesktopVirtualization/appAttachPackages/packageOwnerName` |
 | `properties.packageLookbackUrl` | `Microsoft.DesktopVirtualization/appAttachPackages/packageLookbackUrl` |
 | `properties.customData` | `Microsoft.DesktopVirtualization/appAttachPackages/customData` |
-

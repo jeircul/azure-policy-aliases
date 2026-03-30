@@ -1,4 +1,4 @@
-# Microsoft.BotService/botServices/privateEndpointConnections
+﻿# Microsoft.BotService/botServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.BotService/botServices/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.BotService/botServices/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.BotService/botServices/privateEndpointConnections/groupIds[*]` |
-

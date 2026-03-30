@@ -1,4 +1,4 @@
-# Microsoft.AppConfiguration/configurationStores
+﻿# Microsoft.AppConfiguration/configurationStores
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.managedOnBehalfOfConfiguration.moboBrokerResources[*].id` | `Microsoft.AppConfiguration/configurationStores/managedOnBehalfOfConfiguration.moboBrokerResources[*].id` |
 | `properties.azureFrontDoor` | `Microsoft.AppConfiguration/configurationStores/azureFrontDoor` |
 | `properties.azureFrontDoor.resourceId` | `Microsoft.AppConfiguration/configurationStores/azureFrontDoor.resourceId` |
-

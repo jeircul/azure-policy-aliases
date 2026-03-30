@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces/savedSearches
+﻿# Microsoft.OperationalInsights/workspaces/savedSearches
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.tags[*].value` | `Microsoft.OperationalInsights/workspaces/savedSearches/tags[*].value` |
 | `properties.functionAlias` | `Microsoft.OperationalInsights/workspaces/savedSearches/functionAlias` |
 | `properties.functionParameters` | `Microsoft.OperationalInsights/workspaces/savedSearches/functionParameters` |
-

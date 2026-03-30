@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/workloadNetworks/dnsServices
+﻿# Microsoft.AVS/privateClouds/workloadNetworks/dnsServices
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.status` | `Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/status` |
 | `properties.provisioningState` | `Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/provisioningState` |
 | `properties.revision` | `Microsoft.AVS/privateClouds/workloadNetworks/dnsServices/revision` |
-

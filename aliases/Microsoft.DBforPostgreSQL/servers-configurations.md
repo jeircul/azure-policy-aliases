@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/servers/configurations
+﻿# Microsoft.DBforPostgreSQL/servers/configurations
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.allowedValues` | `Microsoft.DBforPostgreSQL/servers/configurations/allowedValues` |
 | `properties.source` | `Microsoft.DBforPostgreSQL/servers/configurations/source` |
 | `properties.value` | `Microsoft.DBforPostgreSQL/servers/configurations/value` |
-

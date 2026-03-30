@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/notifications
+﻿# Microsoft.ApiManagement/service/notifications
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.recipients.users[*]` | `Microsoft.ApiManagement/service/notifications/RequestPublisherNotificationMessage.recipients.users[*]` |
 | `properties.recipients.users` | `Microsoft.ApiManagement/service/notifications/RequestPublisherNotificationMessage.recipients.users` |
 | `properties.recipients` | `Microsoft.ApiManagement/service/notifications/RequestPublisherNotificationMessage.recipients` |
-

@@ -1,4 +1,4 @@
-# Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules
+﻿# Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.modifiedTime` | `Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/modifiedTime` |
 | `properties.createdTime` | `Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/createdTime` |
 | `properties.revision` | `Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules/revision` |
-

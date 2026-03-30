@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlAdministrators
+﻿# Microsoft.Synapse/workspaces/sqlAdministrators
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.login` | `Microsoft.Synapse/workspaces/sqlAdministrators/login` |
 | `properties.administratorType` | `Microsoft.Synapse/workspaces/sqlAdministrators/administratorType` |
 | `properties.sid` | `Microsoft.Synapse/workspaces/sqlAdministrators/sid` |
-

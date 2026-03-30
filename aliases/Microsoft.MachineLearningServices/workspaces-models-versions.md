@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/models/versions
+﻿# Microsoft.MachineLearningServices/workspaces/models/versions
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.intellectualProperty` | `Microsoft.MachineLearningServices/workspaces/models/versions/intellectualProperty` |
 | `properties.intellectualProperty.protectionLevel` | `Microsoft.MachineLearningServices/workspaces/models/versions/intellectualProperty.protectionLevel` |
 | `properties.intellectualProperty.publisher` | `Microsoft.MachineLearningServices/workspaces/models/versions/intellectualProperty.publisher` |
-

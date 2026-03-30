@@ -1,4 +1,4 @@
-# Microsoft.BotService/botServices/connections
+﻿# Microsoft.BotService/botServices/connections
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.provisioningState` | `Microsoft.BotService/botServices/Connections/provisioningState` |
 | `properties.id` | `Microsoft.BotService/botServices/Connections/id` |
 | `properties.name` | `Microsoft.BotService/botServices/Connections/name` |
-

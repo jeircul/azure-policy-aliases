@@ -1,4 +1,4 @@
-# Microsoft.Authorization/policySetDefinitions/versions
+﻿# Microsoft.Authorization/policySetDefinitions/versions
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.policyDefinitionGroups[*].description` | `Microsoft.Authorization/policySetDefinitions/versions/policyDefinitionGroups[*].description` |
 | `properties.policyDefinitionGroups[*].additionalMetadataId` | `Microsoft.Authorization/policySetDefinitions/versions/policyDefinitionGroups[*].additionalMetadataId` |
 | `properties.version` | `Microsoft.Authorization/policySetDefinitions/versions/version` |
-

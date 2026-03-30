@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/credentialSets
+﻿# Microsoft.ContainerRegistry/registries/credentialSets
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.authCredentials[*].credentialHealth.errorMessage` | `Microsoft.ContainerRegistry/registries/credentialSets/authCredentials[*].credentialHealth.errorMessage` |
 | `properties.creationDate` | `Microsoft.ContainerRegistry/registries/credentialSets/creationDate` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/credentialSets/provisioningState` |
-

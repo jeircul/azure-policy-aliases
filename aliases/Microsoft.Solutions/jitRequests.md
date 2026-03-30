@@ -1,4 +1,4 @@
-# Microsoft.Solutions/jitRequests
+﻿# Microsoft.Solutions/jitRequests
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.updatedBy.puid` | `Microsoft.Solutions/jitRequests/updatedBy.puid` |
 | `properties.updatedBy.applicationId` | `Microsoft.Solutions/jitRequests/updatedBy.applicationId` |
 | `properties.updatedBy` | `Microsoft.Solutions/jitRequests/updatedBy` |
-

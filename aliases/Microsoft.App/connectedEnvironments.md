@@ -1,4 +1,4 @@
-# Microsoft.App/connectedEnvironments
+﻿# Microsoft.App/connectedEnvironments
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.customDomainConfiguration.certificateKeyVaultProperties` | `Microsoft.App/connectedEnvironments/customDomainConfiguration.certificateKeyVaultProperties` |
 | `properties.customDomainConfiguration.certificateKeyVaultProperties.identity` | `Microsoft.App/connectedEnvironments/customDomainConfiguration.certificateKeyVaultProperties.identity` |
 | `properties.customDomainConfiguration.certificateKeyVaultProperties.keyVaultUrl` | `Microsoft.App/connectedEnvironments/customDomainConfiguration.certificateKeyVaultProperties.keyVaultUrl` |
-

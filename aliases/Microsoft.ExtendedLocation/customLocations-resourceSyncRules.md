@@ -1,4 +1,4 @@
-# Microsoft.ExtendedLocation/customLocations/resourceSyncRules
+﻿# Microsoft.ExtendedLocation/customLocations/resourceSyncRules
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.selector.matchExpressions[*].values[*]` | `Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchExpressions[*].values[*]` |
 | `properties.selector.matchLabels` | `Microsoft.ExtendedLocation/customLocations/resourceSyncRules/selector.matchLabels` |
 | `properties.targetResourceGroup` | `Microsoft.ExtendedLocation/customLocations/resourceSyncRules/targetResourceGroup` |
-

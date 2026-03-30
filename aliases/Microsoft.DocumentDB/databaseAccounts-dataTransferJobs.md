@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/dataTransferJobs
+﻿# Microsoft.DocumentDB/databaseAccounts/dataTransferJobs
 
 | Default Path | Alias |
 |---|---|
@@ -58,4 +58,3 @@
 | `properties.source.connectionStringKeyVaultUri` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/source.CosmosDBMongoVCore.connectionStringKeyVaultUri` |
 | `properties.destination.hostName` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore.hostName` |
 | `properties.destination.connectionStringKeyVaultUri` | `Microsoft.DocumentDB/databaseAccounts/dataTransferJobs/destination.CosmosDBMongoVCore.connectionStringKeyVaultUri` |
-

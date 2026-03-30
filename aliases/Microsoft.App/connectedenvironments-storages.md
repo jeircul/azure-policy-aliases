@@ -1,4 +1,4 @@
-# Microsoft.App/connectedenvironments/storages
+﻿# Microsoft.App/connectedenvironments/storages
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.smb.accessMode` | `Microsoft.App/connectedEnvironments/storages/smb.accessMode` |
 | `properties.provisioningState` | `Microsoft.App/connectedEnvironments/storages/provisioningState` |
 | `properties.deploymentErrors` | `Microsoft.App/connectedEnvironments/storages/deploymentErrors` |
-

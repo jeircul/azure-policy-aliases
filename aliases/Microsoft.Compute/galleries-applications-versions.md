@@ -1,4 +1,4 @@
-# Microsoft.Compute/galleries/applications/versions
+﻿# Microsoft.Compute/galleries/applications/versions
 
 | Default Path | Alias |
 |---|---|
@@ -86,4 +86,3 @@
 | `properties.publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.targetRegions[*].additionalReplicaSets[*].regionalReplicaCount` |
 | `properties.publishingProfile.settings.scriptBehaviorAfterReboot` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.settings.scriptBehaviorAfterReboot` |
 | `properties.publishingProfile.storageAccountStrategy` | `Microsoft.Compute/galleries/applications/versions/publishingProfile.storageAccountStrategy` |
-

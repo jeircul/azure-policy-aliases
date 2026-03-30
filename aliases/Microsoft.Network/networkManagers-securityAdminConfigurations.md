@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/securityAdminConfigurations
+﻿# Microsoft.Network/networkManagers/securityAdminConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.applyOnNetworkIntentPolicyBasedServices[*]` | `Microsoft.Network/networkManagers/securityAdminConfigurations/applyOnNetworkIntentPolicyBasedServices[*]` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/resourceGuid` |
 | `properties.networkGroupAddressSpaceAggregationOption` | `Microsoft.Network/networkManagers/securityAdminConfigurations/networkGroupAddressSpaceAggregationOption` |
-

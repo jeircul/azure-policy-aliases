@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/dtc
+﻿# Microsoft.Sql/managedInstances/dtc
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.provisioningState` | `Microsoft.Sql/managedInstances/dtc/provisioningState` |
 | `properties.securitySettings.xaTransactionsDefaultTimeout` | `Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsDefaultTimeout` |
 | `properties.securitySettings.xaTransactionsMaximumTimeout` | `Microsoft.Sql/managedInstances/dtc/securitySettings.xaTransactionsMaximumTimeout` |
-

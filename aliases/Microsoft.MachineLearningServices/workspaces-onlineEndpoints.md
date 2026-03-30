@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/onlineEndpoints
+﻿# Microsoft.MachineLearningServices/workspaces/onlineEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `sku.size` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/sku.size` |
 | `sku.family` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/sku.family` |
 | `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/sku.capacity` |
-

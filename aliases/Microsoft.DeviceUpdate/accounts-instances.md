@@ -1,4 +1,4 @@
-# Microsoft.DeviceUpdate/accounts/instances
+﻿# Microsoft.DeviceUpdate/accounts/instances
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.diagnosticStorageProperties.authenticationType` | `Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties.authenticationType` |
 | `properties.diagnosticStorageProperties.connectionString` | `Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties.connectionString` |
 | `properties.diagnosticStorageProperties.resourceId` | `Microsoft.DeviceUpdate/accounts/instances/diagnosticStorageProperties.resourceId` |
-

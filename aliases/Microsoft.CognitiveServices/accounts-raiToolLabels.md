@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/raiToolLabels
+﻿# Microsoft.CognitiveServices/accounts/raiToolLabels
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.projectScopes[*]` | `Microsoft.CognitiveServices/accounts/raiToolLabels/projectScopes[*]` |
 | `properties.projectScopes[*].project` | `Microsoft.CognitiveServices/accounts/raiToolLabels/projectScopes[*].project` |
 | `properties.projectScopes[*].labelValues` | `Microsoft.CognitiveServices/accounts/raiToolLabels/projectScopes[*].labelValues` |
-

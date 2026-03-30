@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints
+﻿# Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.isReserved` | `Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/isReserved` |
 | `properties.privateLinkResourceId` | `Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/privateLinkResourceId` |
 | `properties.provisioningState` | `Microsoft.DataFactory/factories/managedVirtualNetworks/managedPrivateEndpoints/provisioningState` |
-

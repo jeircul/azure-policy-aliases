@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/auditingSettings
+﻿# Microsoft.Sql/servers/databases/auditingSettings
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/auditingSettings/default.queueDelayMs` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/auditingSettings/queueDelayMs` |
 | `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/databases/auditingSettings/isManagedIdentityInUse` |
-

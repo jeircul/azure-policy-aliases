@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/projects/applications
+﻿# Microsoft.CognitiveServices/accounts/projects/applications
 
 | Default Path | Alias |
 |---|---|
@@ -38,4 +38,3 @@
 | `properties.trafficRoutingPolicy.rules[*].trafficPercentage` | `Microsoft.CognitiveServices/accounts/projects/applications/trafficRoutingPolicy.rules[*].trafficPercentage` |
 | `properties.provisioningState` | `Microsoft.CognitiveServices/accounts/projects/applications/provisioningState` |
 | `properties.isEnabled` | `Microsoft.CognitiveServices/accounts/projects/applications/isEnabled` |
-

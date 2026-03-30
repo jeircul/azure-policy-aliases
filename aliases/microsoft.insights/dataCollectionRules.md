@@ -1,4 +1,4 @@
-# microsoft.insights/dataCollectionRules
+﻿# microsoft.insights/dataCollectionRules
 
 | Default Path | Alias |
 |---|---|
@@ -168,4 +168,3 @@
 | `properties.destinations.azureDataExplorer[*].ingestionUri` | `Microsoft.Insights/dataCollectionRules/destinations.azureDataExplorer[*].ingestionUri` |
 | `properties.destinations.azureDataExplorer[*].name` | `Microsoft.Insights/dataCollectionRules/destinations.azureDataExplorer[*].name` |
 | `properties.dataFlows[*].captureOverflow` | `Microsoft.Insights/dataCollectionRules/dataFlows[*].captureOverflow` |
-

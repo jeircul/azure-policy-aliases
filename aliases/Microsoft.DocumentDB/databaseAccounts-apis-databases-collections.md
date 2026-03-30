@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/apis/databases/collections
+﻿# Microsoft.DocumentDB/databaseAccounts/apis/databases/collections
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.indexes[*].options` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].options` |
 | `properties.indexes[*].options.expireAfterSeconds` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].options.expireAfterSeconds` |
 | `properties.indexes[*].options.unique` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/collections/indexes[*].options.unique` |
-

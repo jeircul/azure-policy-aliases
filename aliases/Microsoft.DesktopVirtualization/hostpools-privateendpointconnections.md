@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/hostpools/privateendpointconnections
+﻿# Microsoft.DesktopVirtualization/hostpools/privateendpointconnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections/groupIds[*]` |
-

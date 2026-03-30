@@ -1,4 +1,4 @@
-# Microsoft.Network/dnsResolverDomainLists
+﻿# Microsoft.Network/dnsResolverDomainLists
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.provisioningState` | `Microsoft.Network/dnsResolverDomainLists/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/dnsResolverDomainLists/resourceGuid` |
 | `properties.domainsUrl` | `Microsoft.Network/dnsResolverDomainLists/domainsUrl` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Workloads/monitors/providerInstances
+﻿# Microsoft.Workloads/monitors/providerInstances
 
 | Default Path | Alias |
 |---|---|
@@ -96,4 +96,3 @@
 | `properties.providerSettings.dbSslCertificateUri` | `Microsoft.Workloads/monitors/providerInstances/providerSettings.SapHana.dbSslCertificateUri` |
 | `properties.providerSettings.sslHostNameInCertificate` | `Microsoft.Workloads/monitors/providerInstances/providerSettings.SapHana.sslHostNameInCertificate` |
 | `properties.providerSettings.providerType` | `Microsoft.Workloads/monitors/providerInstances/providerSettings.providerType` |
-

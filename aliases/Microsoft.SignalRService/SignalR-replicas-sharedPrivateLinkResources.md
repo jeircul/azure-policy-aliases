@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/SignalR/replicas/sharedPrivateLinkResources
+﻿# Microsoft.SignalRService/SignalR/replicas/sharedPrivateLinkResources
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.status` | `Microsoft.SignalRService/signalR/replicas/sharedPrivateLinkResources/status` |
 | `properties.fqdns` | `Microsoft.SignalRService/signalR/replicas/sharedPrivateLinkResources/fqdns` |
 | `properties.fqdns[*]` | `Microsoft.SignalRService/signalR/replicas/sharedPrivateLinkResources/fqdns[*]` |
-

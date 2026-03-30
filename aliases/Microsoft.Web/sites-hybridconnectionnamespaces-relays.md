@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/hybridconnectionnamespaces/relays
+﻿# Microsoft.Web/sites/hybridconnectionnamespaces/relays
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.sendKeyName` | `Microsoft.Web/sites/hybridconnectionnamespaces/relays/sendKeyName` |
 | `properties.sendKeyValue` | `Microsoft.Web/sites/hybridconnectionnamespaces/relays/sendKeyValue` |
 | `properties.serviceBusSuffix` | `Microsoft.Web/sites/hybridconnectionnamespaces/relays/serviceBusSuffix` |
-

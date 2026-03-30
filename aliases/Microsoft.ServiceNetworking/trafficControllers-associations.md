@@ -1,4 +1,4 @@
-# Microsoft.ServiceNetworking/trafficControllers/associations
+﻿# Microsoft.ServiceNetworking/trafficControllers/associations
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.subnet` | `Microsoft.ServiceNetworking/trafficControllers/associations/subnet` |
 | `properties.subnet.id` | `Microsoft.ServiceNetworking/trafficControllers/associations/subnet.id` |
 | `properties.provisioningState` | `Microsoft.ServiceNetworking/trafficControllers/associations/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.PowerBIDedicated/capacities
+﻿# Microsoft.PowerBIDedicated/capacities
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.administration.members[*]` | `Microsoft.PowerBIDedicated/capacities/administration.members[*]` |
 | `properties.state` | `Microsoft.PowerBIDedicated/capacities/state` |
 | `properties.provisioningState` | `Microsoft.PowerBIDedicated/capacities/provisioningState` |
-

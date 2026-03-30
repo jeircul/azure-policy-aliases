@@ -1,4 +1,4 @@
-# Microsoft.Web/connectionGateways
+﻿# Microsoft.Web/connectionGateways
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.machineName` | `Microsoft.Web/connectionGateways/machineName` |
 | `properties.status` | `Microsoft.Web/connectionGateways/status` |
 | `properties.backendUri` | `Microsoft.Web/connectionGateways/backendUri` |
-

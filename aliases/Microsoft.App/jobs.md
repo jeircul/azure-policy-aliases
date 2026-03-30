@@ -1,4 +1,4 @@
-# Microsoft.App/jobs
+﻿# Microsoft.App/jobs
 
 | Default Path | Alias |
 |---|---|
@@ -132,4 +132,3 @@
 | `properties.runningState` | `Microsoft.App/jobs/runningState` |
 | `properties.template.initContainers[*].resources.gpu` | `Microsoft.App/jobs/template.initContainers[*].resources.gpu` |
 | `properties.template.containers[*].resources.gpu` | `Microsoft.App/jobs/template.containers[*].resources.gpu` |
-

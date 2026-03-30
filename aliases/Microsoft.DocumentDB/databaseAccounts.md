@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts
+﻿# Microsoft.DocumentDB/databaseAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -143,4 +143,3 @@
 | `properties.enablePerRegionPerPartitionAutoscale` | `Microsoft.DocumentDB/databaseAccounts/enablePerRegionPerPartitionAutoscale` |
 | `properties.capacityMode` | `Microsoft.DocumentDB/databaseAccounts/capacityMode` |
 | `properties.enableAllVersionsAndDeletesChangeFeed` | `Microsoft.DocumentDB/databaseAccounts/enableAllVersionsAndDeletesChangeFeed` |
-

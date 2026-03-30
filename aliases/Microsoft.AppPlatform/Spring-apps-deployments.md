@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/apps/deployments
+﻿# Microsoft.AppPlatform/Spring/apps/deployments
 
 | Default Path | Alias |
 |---|---|
@@ -158,4 +158,3 @@
 | `properties.deploymentSettings.apms[*]` | `Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.apms[*]` |
 | `properties.deploymentSettings.apms[*].resourceId` | `Microsoft.AppPlatform/Spring/apps/deployments/deploymentSettings.apms[*].resourceId` |
 | `properties.source.serverVersion` | `Microsoft.AppPlatform/Spring/apps/deployments/source.War.serverVersion` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings
+﻿# Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
 | `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/resource.instantMaximumThroughput` |
 | `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/throughputSettings/resource.softAllowedMaximumThroughput` |
-

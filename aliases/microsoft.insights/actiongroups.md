@@ -1,4 +1,4 @@
-# microsoft.insights/actiongroups
+﻿# microsoft.insights/actiongroups
 
 | Default Path | Alias |
 |---|---|
@@ -89,4 +89,3 @@
 | `properties.logicAppReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/logicAppReceivers[*].managedIdentity` |
 | `properties.azureFunctionReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/azureFunctionReceivers[*].managedIdentity` |
 | `properties.eventHubReceivers[*].managedIdentity` | `Microsoft.Insights/actionGroups/eventHubReceivers[*].managedIdentity` |
-

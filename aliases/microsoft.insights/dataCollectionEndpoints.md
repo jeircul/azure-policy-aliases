@@ -1,4 +1,4 @@
-# microsoft.insights/dataCollectionEndpoints
+﻿# microsoft.insights/dataCollectionEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.metadata.provisionedBy` | `Microsoft.Insights/dataCollectionEndpoints/metadata.provisionedBy` |
 | `properties.metadata.provisionedByResourceId` | `Microsoft.Insights/dataCollectionEndpoints/metadata.provisionedByResourceId` |
 | `properties.metadata.provisionedByImmutableId` | `Microsoft.Insights/dataCollectionEndpoints/metadata.provisionedByImmutableId` |
-

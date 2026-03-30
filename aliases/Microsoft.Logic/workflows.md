@@ -1,4 +1,4 @@
-# Microsoft.Logic/workflows
+﻿# Microsoft.Logic/workflows
 
 | Default Path | Alias |
 |---|---|
@@ -80,4 +80,3 @@
 | `properties.accessControl.workflowManagement.allowedCallerIpAddresses[*].addressRange` | `Microsoft.Logic/workflows/accessControl.workflowManagement.allowedCallerIpAddresses[*].addressRange` |
 | `properties.accessControl.workflowManagement.openAuthenticationPolicies` | `Microsoft.Logic/workflows/accessControl.workflowManagement.openAuthenticationPolicies` |
 | `properties.accessControl.workflowManagement.openAuthenticationPolicies.policies` | `Microsoft.Logic/workflows/accessControl.workflowManagement.openAuthenticationPolicies.policies` |
-

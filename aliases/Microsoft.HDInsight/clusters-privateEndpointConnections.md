@@ -1,4 +1,4 @@
-# Microsoft.HDInsight/clusters/privateEndpointConnections
+﻿# Microsoft.HDInsight/clusters/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HDInsight/clusters/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.linkIdentifier` | `Microsoft.HDInsight/clusters/privateEndpointConnections/linkIdentifier` |
 | `properties.provisioningState` | `Microsoft.HDInsight/clusters/privateEndpointConnections/provisioningState` |
-

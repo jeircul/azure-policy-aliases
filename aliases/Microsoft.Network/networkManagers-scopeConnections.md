@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/scopeConnections
+﻿# Microsoft.Network/networkManagers/scopeConnections
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.resourceId` | `Microsoft.Network/networkManagers/scopeConnections/resourceId` |
 | `properties.connectionState` | `Microsoft.Network/networkManagers/scopeConnections/connectionState` |
 | `properties.description` | `Microsoft.Network/networkManagers/scopeConnections/description` |
-

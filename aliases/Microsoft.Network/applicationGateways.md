@@ -1,4 +1,4 @@
-# Microsoft.Network/applicationGateways
+﻿# Microsoft.Network/applicationGateways
 
 | Default Path | Alias |
 |---|---|
@@ -1914,4 +1914,3 @@
 | `properties.entraJWTValidationConfigs[*].properties.provisioningState` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].provisioningState` |
 | `properties.entraJWTValidationConfigs[*].name` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].name` |
 | `properties.entraJWTValidationConfigs[*].etag` | `Microsoft.Network/applicationGateways/entraJWTValidationConfigs[*].etag` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Compute/capacityReservationGroups/capacityReservations
+﻿# Microsoft.Compute/capacityReservationGroups/capacityReservations
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.scheduleProfile` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/scheduleProfile` |
 | `properties.scheduleProfile.start` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/scheduleProfile.start` |
 | `properties.scheduleProfile.end` | `Microsoft.Compute/capacityReservationGroups/capacityReservations/scheduleProfile.end` |
-

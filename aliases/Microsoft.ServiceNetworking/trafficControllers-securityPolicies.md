@@ -1,4 +1,4 @@
-# Microsoft.ServiceNetworking/trafficControllers/securityPolicies
+﻿# Microsoft.ServiceNetworking/trafficControllers/securityPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.ipAccessRulesPolicy.rules[*].sourceAddressPrefixes` | `Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].sourceAddressPrefixes` |
 | `properties.ipAccessRulesPolicy.rules[*].sourceAddressPrefixes[*]` | `Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].sourceAddressPrefixes[*]` |
 | `properties.ipAccessRulesPolicy.rules[*].action` | `Microsoft.ServiceNetworking/trafficControllers/securityPolicies/ipAccessRulesPolicy.rules[*].action` |
-

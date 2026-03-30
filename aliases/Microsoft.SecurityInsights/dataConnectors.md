@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/dataConnectors
+﻿# Microsoft.SecurityInsights/dataConnectors
 
 | Default Path | Alias |
 |---|---|
@@ -45,4 +45,3 @@
 | `properties.dataTypes.microsoftEmergingThreatFeed` | `Microsoft.SecurityInsights/dataConnectors/MicrosoftThreatIntelligence.dataTypes.microsoftEmergingThreatFeed` |
 | `properties.dataTypes.microsoftEmergingThreatFeed.state` | `Microsoft.SecurityInsights/dataConnectors/MicrosoftThreatIntelligence.dataTypes.microsoftEmergingThreatFeed.state` |
 | `properties.dataTypes.microsoftEmergingThreatFeed.lookbackPeriod` | `Microsoft.SecurityInsights/dataConnectors/MicrosoftThreatIntelligence.dataTypes.microsoftEmergingThreatFeed.lookbackPeriod` |
-

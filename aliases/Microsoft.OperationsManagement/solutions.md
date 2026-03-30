@@ -1,4 +1,4 @@
-# Microsoft.OperationsManagement/solutions
+﻿# Microsoft.OperationsManagement/solutions
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.containedResources` | `Microsoft.OperationsManagement/solutions/containedResources` |
 | `properties.referencedResources[*]` | `Microsoft.OperationsManagement/solutions/referencedResources[*]` |
 | `properties.referencedResources` | `Microsoft.OperationsManagement/solutions/referencedResources` |
-

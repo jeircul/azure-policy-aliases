@@ -1,4 +1,4 @@
-# Microsoft.Portal/userSettings
+﻿# Microsoft.Portal/userSettings
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.terminalSettings.fontSize` | `Microsoft.Portal/userSettings/terminalSettings.fontSize` |
 | `properties.terminalSettings.fontStyle` | `Microsoft.Portal/userSettings/terminalSettings.fontStyle` |
 | `properties.preferredShellType` | `Microsoft.Portal/userSettings/preferredShellType` |
-

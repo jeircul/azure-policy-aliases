@@ -1,4 +1,4 @@
-# Microsoft.Network/loadBalancers/backendAddressPools
+﻿# Microsoft.Network/loadBalancers/backendAddressPools
 
 | Default Path | Alias |
 |---|---|
@@ -112,4 +112,3 @@
 | `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].location` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].location` |
 | `properties.backendIPConfigurations[*].properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].applicationSecurityGroups[*].tags` |
 | `properties.backendIPConfigurations[*].properties.publicIPAddress.extendedLocation` | `Microsoft.Network/loadBalancers/backendAddressPools/backendIPConfigurations[*].publicIPAddress.extendedLocation` |
-

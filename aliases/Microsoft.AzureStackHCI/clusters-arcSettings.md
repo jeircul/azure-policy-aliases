@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/clusters/arcSettings
+﻿# Microsoft.AzureStackHCI/clusters/arcSettings
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.defaultExtensions[*].category` | `Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions[*].category` |
 | `properties.defaultExtensions[*].consentTime` | `Microsoft.AzureStackHCI/clusters/arcSettings/defaultExtensions[*].consentTime` |
 | `properties.perNodeDetails[*].arcNodeServicePrincipalObjectId` | `Microsoft.AzureStackHCI/clusters/arcSettings/perNodeDetails[*].arcNodeServicePrincipalObjectId` |
-

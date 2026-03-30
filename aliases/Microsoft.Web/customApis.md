@@ -1,4 +1,4 @@
-# Microsoft.Web/customApis
+﻿# Microsoft.Web/customApis
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.wsdlDefinition.service` | `Microsoft.Web/customApis/wsdlDefinition.service` |
 | `properties.wsdlDefinition.importMethod` | `Microsoft.Web/customApis/wsdlDefinition.importMethod` |
 | `properties.wsdlDefinition` | `Microsoft.Web/customApis/wsdlDefinition` |
-

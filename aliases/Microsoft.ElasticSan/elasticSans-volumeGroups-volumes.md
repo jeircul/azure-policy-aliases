@@ -1,4 +1,4 @@
-# Microsoft.ElasticSan/elasticSans/volumeGroups/volumes
+﻿# Microsoft.ElasticSan/elasticSans/volumeGroups/volumes
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.managedBy` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/managedBy` |
 | `properties.managedBy.resourceId` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/managedBy.resourceId` |
 | `properties.provisioningState` | `Microsoft.ElasticSan/elasticSans/volumegroups/volumes/provisioningState` |
-

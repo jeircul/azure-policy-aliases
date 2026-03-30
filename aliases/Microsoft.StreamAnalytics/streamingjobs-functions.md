@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/streamingjobs/functions
+﻿# Microsoft.StreamAnalytics/streamingjobs/functions
 
 | Default Path | Alias |
 |---|---|
@@ -77,4 +77,3 @@
 | `properties.properties.binding.properties.inputRequestName` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-MachineLearningServices.inputRequestName` |
 | `properties.properties.binding.properties.outputResponseName` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-MachineLearningServices.outputResponseName` |
 | `properties.properties.binding.properties.updateMode` | `Microsoft.StreamAnalytics/streamingjobs/functions/binding.Microsoft-StreamAnalytics-CLRUdf.updateMode` |
-

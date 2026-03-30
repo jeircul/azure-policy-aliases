@@ -1,4 +1,4 @@
-# Microsoft.ElasticSan/elasticSans
+﻿# Microsoft.ElasticSan/elasticSans
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.ElasticSan/elasticSans/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.ElasticSan/elasticSans/privateEndpointConnections[*].groupIds[*]` |
 | `properties.publicNetworkAccess` | `Microsoft.ElasticSan/elasticSans/publicNetworkAccess` |
-

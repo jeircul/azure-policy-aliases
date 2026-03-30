@@ -1,4 +1,4 @@
-# Microsoft.Security/privateLinks/privateEndpointConnections
+﻿# Microsoft.Security/privateLinks/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Security/privateLinks/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Security/privateLinks/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.Security/privateLinks/privateEndpointConnections/provisioningState` |
-

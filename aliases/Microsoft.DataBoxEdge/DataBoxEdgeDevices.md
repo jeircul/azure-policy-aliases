@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/DataBoxEdgeDevices
+﻿# Microsoft.DataBoxEdge/DataBoxEdgeDevices
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.configuredRoleTypes[*]` | `Microsoft.DataboxEdge/DataBoxEdgeDevices/configuredRoleTypes[*]` |
 | `properties.configuredRoleTypes` | `Microsoft.DataboxEdge/DataBoxEdgeDevices/configuredRoleTypes` |
 | `properties.nodeCount` | `Microsoft.DataboxEdge/DataBoxEdgeDevices/nodeCount` |
-

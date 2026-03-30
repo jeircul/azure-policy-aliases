@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/data
+﻿# Microsoft.MachineLearningServices/workspaces/data
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.latestVersion` | `Microsoft.MachineLearningServices/workspaces/data/latestVersion` |
 | `properties.nextVersion` | `Microsoft.MachineLearningServices/workspaces/data/nextVersion` |
 | `properties.dataType` | `Microsoft.MachineLearningServices/workspaces/data/dataType` |
-

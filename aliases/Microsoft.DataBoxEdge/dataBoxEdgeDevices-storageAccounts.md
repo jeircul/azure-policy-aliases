@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts
+﻿# Microsoft.DataBoxEdge/dataBoxEdgeDevices/storageAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.storageAccountCredentialId` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/storageAccountCredentialId` |
 | `properties.blobEndpoint` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/blobEndpoint` |
 | `properties.containerCount` | `Microsoft.DataboxEdge/dataBoxEdgeDevices/storageAccounts/containerCount` |
-

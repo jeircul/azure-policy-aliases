@@ -1,4 +1,4 @@
-# Microsoft.Portal/dashboards
+﻿# Microsoft.Portal/dashboards
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.lenses[*].parts[*].metadata.settings.content.subtitle` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.subtitle` |
 | `properties.lenses[*].parts[*].metadata.settings.content.markdownSource` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.markdownSource` |
 | `properties.lenses[*].parts[*].metadata.settings.content.markdownUri` | `Microsoft.Portal/dashboards/lenses[*].parts[*].metadata.Extension-HubsExtension-PartType-MarkdownPart.settings.content.markdownUri` |
-

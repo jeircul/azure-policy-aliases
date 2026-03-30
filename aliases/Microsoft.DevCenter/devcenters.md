@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/devcenters
+﻿# Microsoft.DevCenter/devcenters
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.devBoxProvisioningSettings.installAzureMonitorAgentEnableStatus` | `Microsoft.DevCenter/devcenters/devBoxProvisioningSettings.installAzureMonitorAgentEnableStatus` |
 | `properties.restrictedResourceTypes` | `Microsoft.DevCenter/devcenters/restrictedResourceTypes` |
 | `properties.restrictedResourceTypes[*]` | `Microsoft.DevCenter/devcenters/restrictedResourceTypes[*]` |
-

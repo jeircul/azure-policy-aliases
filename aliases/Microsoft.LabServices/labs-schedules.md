@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labs/schedules
+﻿# Microsoft.LabServices/labs/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.timeZoneId` | `Microsoft.LabServices/labs/schedules/timeZoneId` |
 | `properties.notes` | `Microsoft.LabServices/labs/schedules/notes` |
 | `properties.provisioningState` | `Microsoft.LabServices/labs/schedules/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/privateEndpointConnections
+﻿# Microsoft.ContainerRegistry/registries/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/privateEndpointConnections/provisioningState` |
-

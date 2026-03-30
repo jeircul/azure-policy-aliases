@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems
+﻿# Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems
 
 | Default Path | Alias |
 |---|---|
@@ -101,4 +101,3 @@
 | `properties.providerSpecificDetails.targetVmSecurityProfile.targetVmConfidentialEncryption` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.InMageRcm.targetVmSecurityProfile.targetVmConfidentialEncryption` |
 | `properties.providerSpecificDetails.targetVmSecurityProfile.targetVmConfidentialEncryption` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.HyperVReplicaAzure.targetVmSecurityProfile.targetVmConfidentialEncryption` |
 | `properties.providerSpecificDetails.protectionClusterId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationProtectionContainers/replicationProtectedItems/providerSpecificDetails.A2A.protectionClusterId` |
-

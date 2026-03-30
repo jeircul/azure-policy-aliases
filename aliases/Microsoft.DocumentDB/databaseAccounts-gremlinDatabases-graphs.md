@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs
+﻿# Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.resource.indexingPolicy.fullTextIndexes` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.fullTextIndexes` |
 | `properties.resource.indexingPolicy.fullTextIndexes[*]` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.fullTextIndexes[*]` |
 | `properties.resource.indexingPolicy.fullTextIndexes[*].path` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/graphs/resource.indexingPolicy.fullTextIndexes[*].path` |
-

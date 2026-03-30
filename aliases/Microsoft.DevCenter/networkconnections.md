@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/networkconnections
+﻿# Microsoft.DevCenter/networkconnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.healthCheckStatus` | `Microsoft.DevCenter/networkConnections/healthCheckStatus` |
 | `properties.networkingResourceGroupName` | `Microsoft.DevCenter/networkConnections/networkingResourceGroupName` |
 | `properties.domainJoinType` | `Microsoft.DevCenter/networkConnections/domainJoinType` |
-

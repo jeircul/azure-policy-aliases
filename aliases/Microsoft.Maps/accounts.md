@@ -1,4 +1,4 @@
-# Microsoft.Maps/accounts
+﻿# Microsoft.Maps/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.locations` | `Microsoft.Maps/accounts/locations` |
 | `properties.locations[*]` | `Microsoft.Maps/accounts/locations[*]` |
 | `properties.locations[*].locationName` | `Microsoft.Maps/accounts/locations[*].locationName` |
-

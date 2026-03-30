@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/gateways
+﻿# Microsoft.HybridCompute/gateways
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.gatewayEndpoint` | `Microsoft.HybridCompute/gateways/gatewayEndpoint` |
 | `properties.allowedFeatures` | `Microsoft.HybridCompute/gateways/allowedFeatures` |
 | `properties.allowedFeatures[*]` | `Microsoft.HybridCompute/gateways/allowedFeatures[*]` |
-

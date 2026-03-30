@@ -1,4 +1,4 @@
-# Microsoft.AAD/DomainServices
+﻿# Microsoft.AAD/DomainServices
 
 | Default Path | Alias |
 |---|---|
@@ -93,4 +93,3 @@
 | `properties.replicaSets[*].healthAlerts[*].resolutionUri` | `Microsoft.AAD/domainServices/replicaSets[*].healthAlerts[*].resolutionUri` |
 | `properties.domainSecuritySettings.kerberosRc4Encryption` | `Microsoft.AAD/domainServices/domainSecuritySettings.kerberosRc4Encryption` |
 | `properties.domainSecuritySettings.kerberosArmoring` | `Microsoft.AAD/domainServices/domainSecuritySettings.kerberosArmoring` |
-

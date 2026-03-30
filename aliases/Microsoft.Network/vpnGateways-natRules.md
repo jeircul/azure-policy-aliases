@@ -1,4 +1,4 @@
-# Microsoft.Network/vpnGateways/natRules
+﻿# Microsoft.Network/vpnGateways/natRules
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.ingressVpnSiteLinkConnections[*].id` | `Microsoft.Network/vpnGateways/natRules/ingressVpnSiteLinkConnections[*].id` |
 | `properties.internalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules/internalMappings[*].portRange` |
 | `properties.externalMappings[*].portRange` | `Microsoft.Network/vpnGateways/natRules/externalMappings[*].portRange` |
-

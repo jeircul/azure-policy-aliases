@@ -1,4 +1,4 @@
-# Microsoft.Network/privateDnsZones/CNAME
+﻿# Microsoft.Network/privateDnsZones/CNAME
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords` |
 | `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords[*].value` |
 | `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/CNAME/txtRecords[*].value[*]` |
-

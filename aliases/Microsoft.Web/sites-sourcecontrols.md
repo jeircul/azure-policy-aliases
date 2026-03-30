@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/sourcecontrols
+﻿# Microsoft.Web/sites/sourcecontrols
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.gitHubActionConfiguration.containerConfiguration.password` | `Microsoft.Web/sites/sourcecontrols/gitHubActionConfiguration.containerConfiguration.password` |
 | `properties.gitHubActionConfiguration.isLinux` | `Microsoft.Web/sites/sourcecontrols/gitHubActionConfiguration.isLinux` |
 | `properties.gitHubActionConfiguration.generateWorkflowFile` | `Microsoft.Web/sites/sourcecontrols/gitHubActionConfiguration.generateWorkflowFile` |
-

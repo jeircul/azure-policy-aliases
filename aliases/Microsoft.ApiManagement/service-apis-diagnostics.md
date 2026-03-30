@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apis/diagnostics
+﻿# Microsoft.ApiManagement/service/apis/diagnostics
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.backend.response.dataMasking.headers[*].mode` | `Microsoft.ApiManagement/service/apis/diagnostics/backend.response.dataMasking.headers[*].mode` |
 | `properties.operationNameFormat` | `Microsoft.ApiManagement/service/apis/diagnostics/operationNameFormat` |
 | `properties.metrics` | `Microsoft.ApiManagement/service/apis/diagnostics/metrics` |
-

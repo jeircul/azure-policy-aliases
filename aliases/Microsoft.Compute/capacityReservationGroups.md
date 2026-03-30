@@ -1,4 +1,4 @@
-# Microsoft.Compute/capacityReservationGroups
+﻿# Microsoft.Compute/capacityReservationGroups
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.sharingProfile.subscriptionIds[*]` | `Microsoft.Compute/capacityReservationGroups/sharingProfile.subscriptionIds[*]` |
 | `properties.sharingProfile.subscriptionIds[*].id` | `Microsoft.Compute/capacityReservationGroups/sharingProfile.subscriptionIds[*].id` |
 | `properties.reservationType` | `Microsoft.Compute/capacityReservationGroups/reservationType` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings
+﻿# Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
 | `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.instantMaximumThroughput` |
 | `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/throughputSettings/resource.softAllowedMaximumThroughput` |
-

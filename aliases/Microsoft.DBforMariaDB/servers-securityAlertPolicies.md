@@ -1,4 +1,4 @@
-# Microsoft.DBforMariaDB/servers/securityAlertPolicies
+﻿# Microsoft.DBforMariaDB/servers/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.storageEndpoint` | `Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.storageEndpoint` |
 | `properties.storageAccountAccessKey` | `Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.DBforMariaDB/servers/securityAlertPolicies/Default.retentionDays` |
-

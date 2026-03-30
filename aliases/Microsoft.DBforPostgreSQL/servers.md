@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/servers
+﻿# Microsoft.DBforPostgreSQL/servers
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.minimalTlsVersion` | `Microsoft.DBforPostgreSQL/servers/minimalTlsVersion` |
 | `properties.infrastructureEncryption` | `Microsoft.DBforPostgreSQL/servers/infrastructureEncryption` |
 | `properties.publicNetworkAccess` | `Microsoft.DBforPostgreSQL/servers/publicNetworkAccess` |
-

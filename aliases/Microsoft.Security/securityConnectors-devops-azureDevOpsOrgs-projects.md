@@ -1,4 +1,4 @@
-# Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects
+﻿# Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.actionableRemediation.branchConfiguration.branchNames[*]` | `Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/actionableRemediation.branchConfiguration.branchNames[*]` |
 | `properties.actionableRemediation.branchConfiguration.annotateDefaultBranch` | `Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/actionableRemediation.branchConfiguration.annotateDefaultBranch` |
 | `properties.actionableRemediation.inheritFromParentState` | `Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/actionableRemediation.inheritFromParentState` |
-

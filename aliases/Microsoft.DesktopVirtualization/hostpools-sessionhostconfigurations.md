@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/hostpools/sessionhostconfigurations
+﻿# Microsoft.DesktopVirtualization/hostpools/sessionhostconfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.bootDiagnosticsInfo` | `Microsoft.DesktopVirtualization/hostPools/sessionHostConfigurations/bootDiagnosticsInfo` |
 | `properties.bootDiagnosticsInfo.enabled` | `Microsoft.DesktopVirtualization/hostPools/sessionHostConfigurations/bootDiagnosticsInfo.enabled` |
 | `properties.bootDiagnosticsInfo.storageUri` | `Microsoft.DesktopVirtualization/hostPools/sessionHostConfigurations/bootDiagnosticsInfo.storageUri` |
-

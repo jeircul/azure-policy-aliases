@@ -1,22 +1,20 @@
-# 📋 Azure Policy Aliases
+﻿# 📋 Azure Policy Aliases
 ![Update Aliases](https://github.com/jeircul/azure-policy-aliases/actions/workflows/update-aliases.yml/badge.svg)
 
 🎯 This repository contains all available resource property aliases for easy reference when creating Policy definitions.
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 333 | 📦 **Resource Types**: 5697
+✨ **Total Providers**: 331 | 📦 **Resource Types**: 5689
 
 ---
 ## 🔷 Microsoft.AAD
 
 - [Microsoft.AAD/DomainServices](aliases/Microsoft.AAD/DomainServices.md)
 
-
 ## 🔷 microsoft.aadiam
 
 - [microsoft.aadiam/diagnosticSettings](aliases/microsoft.aadiam/diagnosticSettings.md)
-
 
 ## 🔷 Microsoft.AlertsManagement
 
@@ -25,11 +23,9 @@
 - [Microsoft.AlertsManagement/prometheusRuleGroups](aliases/Microsoft.AlertsManagement/prometheusRuleGroups.md)
 - [Microsoft.AlertsManagement/tenantActivityLogAlerts](aliases/Microsoft.AlertsManagement/tenantActivityLogAlerts.md)
 
-
 ## 🔷 Microsoft.AnalysisServices
 
 - [Microsoft.AnalysisServices/servers](aliases/Microsoft.AnalysisServices/servers.md)
-
 
 ## 🔷 Microsoft.ApiManagement
 
@@ -120,7 +116,6 @@
 - [Microsoft.ApiManagement/service/workspaces/diagnostics](aliases/Microsoft.ApiManagement/service-workspaces-diagnostics.md)
 - [Microsoft.ApiManagement/service/workspaces/loggers](aliases/Microsoft.ApiManagement/service-workspaces-loggers.md)
 
-
 ## 🔷 Microsoft.App
 
 - [Microsoft.App/managedEnvironments](aliases/Microsoft.App/managedEnvironments.md)
@@ -145,7 +140,6 @@
 - [Microsoft.App/managedenvironments/httprouteconfigs](aliases/Microsoft.App/managedenvironments-httprouteconfigs.md)
 - [Microsoft.App/managedenvironments/maintenanceconfigurations](aliases/Microsoft.App/managedenvironments-maintenanceconfigurations.md)
 
-
 ## 🔷 Microsoft.AppConfiguration
 
 - [Microsoft.AppConfiguration/configurationStores](aliases/Microsoft.AppConfiguration/configurationStores.md)
@@ -153,7 +147,6 @@
 - [Microsoft.AppConfiguration/configurationStores/snapshots](aliases/Microsoft.AppConfiguration/configurationStores-snapshots.md)
 - [Microsoft.AppConfiguration/configurationStores/keyValues](aliases/Microsoft.AppConfiguration/configurationStores-keyValues.md)
 - [Microsoft.AppConfiguration/configurationStores/privateEndpointConnections](aliases/Microsoft.AppConfiguration/configurationStores-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.AppPlatform
 
@@ -173,12 +166,10 @@
 - [Microsoft.AppPlatform/Spring/gateways](aliases/Microsoft.AppPlatform/Spring-gateways.md)
 - [Microsoft.AppPlatform/Spring/storages](aliases/Microsoft.AppPlatform/Spring-storages.md)
 
-
 ## 🔷 Microsoft.Attestation
 
 - [Microsoft.Attestation/attestationProviders](aliases/Microsoft.Attestation/attestationProviders.md)
 - [Microsoft.Attestation/attestationProviders/privateEndpointConnections](aliases/Microsoft.Attestation/attestationProviders-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.Authorization
 
@@ -196,13 +187,11 @@
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
 - [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
 
-
 ## 🔷 Microsoft.Automanage
 
 - [Microsoft.Automanage/configurationProfileAssignments](aliases/Microsoft.Automanage/configurationProfileAssignments.md)
 - [Microsoft.Automanage/configurationProfiles](aliases/Microsoft.Automanage/configurationProfiles.md)
 - [Microsoft.Automanage/configurationProfiles/versions](aliases/Microsoft.Automanage/configurationProfiles-versions.md)
-
 
 ## 🔷 Microsoft.Automation
 
@@ -231,7 +220,6 @@
 - [Microsoft.Automation/automationAccounts/python3Packages](aliases/Microsoft.Automation/automationAccounts-python3Packages.md)
 - [Microsoft.Automation/automationAccounts/sourceControls](aliases/Microsoft.Automation/automationAccounts-sourceControls.md)
 
-
 ## 🔷 Microsoft.AVS
 
 - [Microsoft.AVS/privateClouds](aliases/Microsoft.AVS/privateClouds.md)
@@ -248,12 +236,10 @@
 - [Microsoft.AVS/privateClouds/workloadNetworks/segments](aliases/Microsoft.AVS/privateClouds-workloadNetworks-segments.md)
 - [Microsoft.AVS/privateClouds/workloadNetworks/vmGroups](aliases/Microsoft.AVS/privateClouds-workloadNetworks-vmGroups.md)
 
-
 ## 🔷 Microsoft.AzureActiveDirectory
 
 - [Microsoft.AzureActiveDirectory/guestUsages](aliases/Microsoft.AzureActiveDirectory/guestUsages.md)
 - [Microsoft.AzureActiveDirectory/b2cDirectories](aliases/Microsoft.AzureActiveDirectory/b2cDirectories.md)
-
 
 ## 🔷 Microsoft.AzureArcData
 
@@ -266,11 +252,9 @@
 - [Microsoft.AzureArcData/SqlServerInstances/AvailabilityGroups](aliases/Microsoft.AzureArcData/SqlServerInstances-AvailabilityGroups.md)
 - [Microsoft.AzureArcData/PostgresInstances](aliases/Microsoft.AzureArcData/PostgresInstances.md)
 
-
 ## 🔷 Microsoft.AzureFleet
 
 - [Microsoft.AzureFleet/fleets](aliases/Microsoft.AzureFleet/fleets.md)
-
 
 ## 🔷 Microsoft.AzureStackHCI
 
@@ -290,7 +274,6 @@
 - [Microsoft.AzureStackHCI/virtualHardDisks](aliases/Microsoft.AzureStackHCI/virtualHardDisks.md)
 - [Microsoft.AzureStackHCI/virtualMachineInstances](aliases/Microsoft.AzureStackHCI/virtualMachineInstances.md)
 
-
 ## 🔷 Microsoft.Batch
 
 - [Microsoft.Batch/batchAccounts](aliases/Microsoft.Batch/batchAccounts.md)
@@ -300,13 +283,11 @@
 - [Microsoft.Batch/batchAccounts/applications/versions](aliases/Microsoft.Batch/batchAccounts-applications-versions.md)
 - [Microsoft.Batch/batchAccounts/privateEndpointConnections](aliases/Microsoft.Batch/batchAccounts-privateEndpointConnections.md)
 
-
 ## 🔷 Microsoft.Blueprint
 
 - [Microsoft.Blueprint/blueprints](aliases/Microsoft.Blueprint/blueprints.md)
 - [Microsoft.Blueprint/blueprints/versions](aliases/Microsoft.Blueprint/blueprints-versions.md)
 - [Microsoft.Blueprint/blueprintAssignments](aliases/Microsoft.Blueprint/blueprintAssignments.md)
-
 
 ## 🔷 Microsoft.BotService
 
@@ -315,7 +296,6 @@
 - [Microsoft.BotService/botServices/connections](aliases/Microsoft.BotService/botServices-connections.md)
 - [Microsoft.BotService/botServices/privateEndpointConnections](aliases/Microsoft.BotService/botServices-privateEndpointConnections.md)
 - [Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.BotService/botServices-networkSecurityPerimeterConfigurations.md)
-
 
 ## 🔷 Microsoft.Cache
 
@@ -330,12 +310,9 @@
 - [Microsoft.Cache/redis/accessPolicies](aliases/Microsoft.Cache/redis-accessPolicies.md)
 - [Microsoft.Cache/redis/accessPolicyAssignments](aliases/Microsoft.Cache/redis-accessPolicyAssignments.md)
 
-
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
-
 
 ## 🔷 Microsoft.Cdn
 
@@ -354,24 +331,20 @@
 - [Microsoft.Cdn/profiles/secrets](aliases/Microsoft.Cdn/profiles-secrets.md)
 - [Microsoft.Cdn/profiles/securitypolicies](aliases/Microsoft.Cdn/profiles-securitypolicies.md)
 
-
 ## 🔷 Microsoft.CertificateRegistration
 
 - [Microsoft.CertificateRegistration/certificateOrders](aliases/Microsoft.CertificateRegistration/certificateOrders.md)
 - [Microsoft.CertificateRegistration/certificateOrders/certificates](aliases/Microsoft.CertificateRegistration/certificateOrders-certificates.md)
-
 
 ## 🔷 Microsoft.ChangeSafety
 
 - [Microsoft.ChangeSafety/changerecords](aliases/Microsoft.ChangeSafety/changerecords.md)
 - [Microsoft.ChangeSafety/changerecords/stageprogressions](aliases/Microsoft.ChangeSafety/changerecords-stageprogressions.md)
 
-
 ## 🔷 Microsoft.Chaos
 
 - [Microsoft.Chaos/experiments](aliases/Microsoft.Chaos/experiments.md)
 - [Microsoft.Chaos/targets/capabilities](aliases/Microsoft.Chaos/targets-capabilities.md)
-
 
 ## 🔷 Microsoft.CognitiveServices
 
@@ -395,7 +368,6 @@
 - [Microsoft.CognitiveServices/accounts/raiTopics](aliases/Microsoft.CognitiveServices/accounts-raiTopics.md)
 - [Microsoft.CognitiveServices/accounts/projects/applications/agentdeployments](aliases/Microsoft.CognitiveServices/accounts-projects-applications-agentdeployments.md)
 
-
 ## 🔷 Microsoft.Communication
 
 - [Microsoft.Communication/CommunicationServices](aliases/Microsoft.Communication/CommunicationServices.md)
@@ -405,7 +377,6 @@
 - [Microsoft.Communication/EmailServices/Domains/SuppressionLists](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists.md)
 - [Microsoft.Communication/EmailServices/Domains/SenderUsernames](aliases/Microsoft.Communication/EmailServices-Domains-SenderUsernames.md)
 - [Microsoft.Communication/EmailServices/Domains/SuppressionLists/SuppressionListAddresses](aliases/Microsoft.Communication/EmailServices-Domains-SuppressionLists-SuppressionListAddresses.md)
-
 
 ## 🔷 Microsoft.Compute
 
@@ -441,7 +412,6 @@
 - [Microsoft.Compute/virtualMachineScaleSets/virtualMachines/runCommands](aliases/Microsoft.Compute/virtualMachineScaleSets-virtualMachines-runCommands.md)
 - [Microsoft.Compute/diskAccesses/privateEndpointConnections](aliases/Microsoft.Compute/diskAccesses-privateEndpointConnections.md)
 
-
 ## 🔷 Microsoft.ConnectedVMwarevSphere
 
 - [Microsoft.ConnectedVMwarevSphere/VCenters](aliases/Microsoft.ConnectedVMwarevSphere/VCenters.md)
@@ -457,18 +427,15 @@
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-extensions.md)
 - [Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents](aliases/Microsoft.ConnectedVMwarevSphere/virtualmachines-guestagents.md)
 
-
 ## 🔷 Microsoft.Consumption
 
 - [Microsoft.Consumption/Budgets](aliases/Microsoft.Consumption/Budgets.md)
-
 
 ## 🔷 Microsoft.ContainerInstance
 
 - [Microsoft.ContainerInstance/containerGroups](aliases/Microsoft.ContainerInstance/containerGroups.md)
 - [Microsoft.ContainerInstance/containerGroupProfiles](aliases/Microsoft.ContainerInstance/containerGroupProfiles.md)
 - [Microsoft.ContainerInstance/nGroups](aliases/Microsoft.ContainerInstance/nGroups.md)
-
 
 ## 🔷 Microsoft.ContainerRegistry
 
@@ -491,7 +458,6 @@
 - [Microsoft.ContainerRegistry/registries/buildTasks](aliases/Microsoft.ContainerRegistry/registries-buildTasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
 
-
 ## 🔷 Microsoft.ContainerService
 
 - [Microsoft.ContainerService/deploymentSafeguards](aliases/Microsoft.ContainerService/deploymentSafeguards.md)
@@ -513,7 +479,6 @@
 - [Microsoft.ContainerService/managedClusters/agentPools/machines](aliases/Microsoft.ContainerService/managedClusters-agentPools-machines.md)
 - [Microsoft.ContainerService/managedClusters/namespaces](aliases/Microsoft.ContainerService/managedClusters-namespaces.md)
 
-
 ## 🔷 Microsoft.CostManagement
 
 - [Microsoft.CostManagement/Alerts](aliases/Microsoft.CostManagement/Alerts.md)
@@ -521,12 +486,10 @@
 - [Microsoft.CostManagement/Views](aliases/Microsoft.CostManagement/Views.md)
 - [Microsoft.CostManagement/ScheduledActions](aliases/Microsoft.CostManagement/ScheduledActions.md)
 
-
 ## 🔷 Microsoft.CustomProviders
 
 - [Microsoft.CustomProviders/resourceProviders](aliases/Microsoft.CustomProviders/resourceProviders.md)
 - [Microsoft.CustomProviders/associations](aliases/Microsoft.CustomProviders/associations.md)
-
 
 ## 🔷 Microsoft.Dashboard
 
@@ -536,11 +499,9 @@
 - [Microsoft.Dashboard/grafana/integrationFabrics](aliases/Microsoft.Dashboard/grafana-integrationFabrics.md)
 - [Microsoft.Dashboard/dashboards](aliases/Microsoft.Dashboard/dashboards.md)
 
-
 ## 🔷 Microsoft.DataBox
 
 - [Microsoft.DataBox/jobs](aliases/Microsoft.DataBox/jobs.md)
-
 
 ## 🔷 Microsoft.DataBoxEdge
 
@@ -555,7 +516,6 @@
 - [Microsoft.DataBoxEdge/dataBoxEdgeDevices/roles](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-roles.md)
 - [Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers](aliases/Microsoft.DataBoxEdge/dataBoxEdgeDevices-triggers.md)
 
-
 ## 🔷 Microsoft.Databricks
 
 - [Microsoft.Databricks/workspaces](aliases/Microsoft.Databricks/workspaces.md)
@@ -563,13 +523,11 @@
 - [Microsoft.Databricks/workspaces/virtualNetworkPeerings](aliases/Microsoft.Databricks/workspaces-virtualNetworkPeerings.md)
 - [Microsoft.Databricks/workspaces/privateEndpointConnections](aliases/Microsoft.Databricks/workspaces-privateEndpointConnections.md)
 
-
 ## 🔷 Microsoft.Datadog
 
 - [Microsoft.Datadog/monitors](aliases/Microsoft.Datadog/monitors.md)
 - [Microsoft.Datadog/monitors/tagRules](aliases/Microsoft.Datadog/monitors-tagRules.md)
 - [Microsoft.Datadog/monitors/singleSignOnConfigurations](aliases/Microsoft.Datadog/monitors-singleSignOnConfigurations.md)
-
 
 ## 🔷 Microsoft.DataFactory
 
@@ -586,7 +544,6 @@
 - [Microsoft.DataFactory/factories/adfcdcs](aliases/Microsoft.DataFactory/factories-adfcdcs.md)
 - [Microsoft.DataFactory/factories/credentials](aliases/Microsoft.DataFactory/factories-credentials.md)
 
-
 ## 🔷 Microsoft.DataLakeAnalytics
 
 - [Microsoft.DataLakeAnalytics/accounts](aliases/Microsoft.DataLakeAnalytics/accounts.md)
@@ -595,14 +552,12 @@
 - [Microsoft.DataLakeAnalytics/accounts/computePolicies](aliases/Microsoft.DataLakeAnalytics/accounts-computePolicies.md)
 - [Microsoft.DataLakeAnalytics/accounts/firewallRules](aliases/Microsoft.DataLakeAnalytics/accounts-firewallRules.md)
 
-
 ## 🔷 Microsoft.DataLakeStore
 
 - [Microsoft.DataLakeStore/accounts](aliases/Microsoft.DataLakeStore/accounts.md)
 - [Microsoft.DataLakeStore/accounts/firewallRules](aliases/Microsoft.DataLakeStore/accounts-firewallRules.md)
 - [Microsoft.DataLakeStore/accounts/trustedIdProviders](aliases/Microsoft.DataLakeStore/accounts-trustedIdProviders.md)
 - [Microsoft.DataLakeStore/accounts/virtualNetworkRules](aliases/Microsoft.DataLakeStore/accounts-virtualNetworkRules.md)
-
 
 ## 🔷 Microsoft.DataMigration
 
@@ -615,7 +570,6 @@
 - [Microsoft.DataMigration/services/projects/tasks](aliases/Microsoft.DataMigration/services-projects-tasks.md)
 - [Microsoft.DataMigration/services/serviceTasks](aliases/Microsoft.DataMigration/services-serviceTasks.md)
 
-
 ## 🔷 Microsoft.DataProtection
 
 - [Microsoft.DataProtection/BackupVaults](aliases/Microsoft.DataProtection/BackupVaults.md)
@@ -623,14 +577,12 @@
 - [Microsoft.DataProtection/backupVaults/backupPolicies](aliases/Microsoft.DataProtection/backupVaults-backupPolicies.md)
 - [Microsoft.DataProtection/backupVaults/backupResourceGuardProxies](aliases/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies.md)
 
-
 ## 🔷 Microsoft.DataShare
 
 - [Microsoft.DataShare/accounts](aliases/Microsoft.DataShare/accounts.md)
 - [Microsoft.DataShare/accounts/shares](aliases/Microsoft.DataShare/accounts-shares.md)
 - [Microsoft.DataShare/accounts/shares/invitations](aliases/Microsoft.DataShare/accounts-shares-invitations.md)
 - [Microsoft.DataShare/accounts/sharesubscriptions](aliases/Microsoft.DataShare/accounts-sharesubscriptions.md)
-
 
 ## 🔷 Microsoft.DBforMariaDB
 
@@ -642,7 +594,6 @@
 - [Microsoft.DBforMariaDB/servers/databases](aliases/Microsoft.DBforMariaDB/servers-databases.md)
 - [Microsoft.DBforMariaDB/servers/firewallRules](aliases/Microsoft.DBforMariaDB/servers-firewallRules.md)
 - [Microsoft.DBforMariaDB/servers/securityAlertPolicies](aliases/Microsoft.DBforMariaDB/servers-securityAlertPolicies.md)
-
 
 ## 🔷 Microsoft.DBforMySQL
 
@@ -662,7 +613,6 @@
 - [Microsoft.DBforMySQL/flexibleServers/administrators](aliases/Microsoft.DBforMySQL/flexibleServers-administrators.md)
 - [Microsoft.DBforMySQL/flexibleServers/privateEndpointConnections](aliases/Microsoft.DBforMySQL/flexibleServers-privateEndpointConnections.md)
 - [Microsoft.DBforMySQL/flexibleServers/advancedThreatProtectionSettings](aliases/Microsoft.DBforMySQL/flexibleServers-advancedThreatProtectionSettings.md)
-
 
 ## 🔷 Microsoft.DBforPostgreSQL
 
@@ -686,7 +636,6 @@
 - [Microsoft.DBforPostgreSQL/flexibleServers/privateEndpointConnections](aliases/Microsoft.DBforPostgreSQL/flexibleServers-privateEndpointConnections.md)
 - [Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints](aliases/Microsoft.DBforPostgreSQL/flexibleServers-virtualendpoints.md)
 
-
 ## 🔷 Microsoft.DesktopVirtualization
 
 - [Microsoft.DesktopVirtualization/workspaces](aliases/Microsoft.DesktopVirtualization/workspaces.md)
@@ -705,7 +654,6 @@
 - [Microsoft.DesktopVirtualization/hostpools/sessionhostconfigurations](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhostconfigurations.md)
 - [Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements](aliases/Microsoft.DesktopVirtualization/hostpools-sessionhostmanagements.md)
 
-
 ## 🔷 Microsoft.DevCenter
 
 - [Microsoft.DevCenter/devcenters](aliases/Microsoft.DevCenter/devcenters.md)
@@ -722,7 +670,6 @@
 - [Microsoft.DevCenter/devcenters/devboxdefinitions](aliases/Microsoft.DevCenter/devcenters-devboxdefinitions.md)
 - [Microsoft.DevCenter/projects/pools/schedules](aliases/Microsoft.DevCenter/projects-pools-schedules.md)
 
-
 ## 🔷 Microsoft.Devices
 
 - [Microsoft.Devices/IotHubs](aliases/Microsoft.Devices/IotHubs.md)
@@ -732,7 +679,6 @@
 - [Microsoft.Devices/provisioningServices/certificates](aliases/Microsoft.Devices/provisioningServices-certificates.md)
 - [Microsoft.Devices/provisioningServices/privateEndpointConnections](aliases/Microsoft.Devices/provisioningServices-privateEndpointConnections.md)
 
-
 ## 🔷 Microsoft.DeviceUpdate
 
 - [Microsoft.DeviceUpdate/accounts](aliases/Microsoft.DeviceUpdate/accounts.md)
@@ -740,11 +686,9 @@
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnections](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnections.md)
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies.md)
 
-
 ## 🔷 Microsoft.DevOpsInfrastructure
 
 - [Microsoft.DevOpsInfrastructure/pools](aliases/Microsoft.DevOpsInfrastructure/pools.md)
-
 
 ## 🔷 Microsoft.DevTestLab
 
@@ -767,12 +711,10 @@
 - [Microsoft.DevTestLab/labs/virtualMachines/schedules](aliases/Microsoft.DevTestLab/labs-virtualMachines-schedules.md)
 - [Microsoft.DevTestLab/labs/virtualNetworks](aliases/Microsoft.DevTestLab/labs-virtualNetworks.md)
 
-
 ## 🔷 Microsoft.DigitalTwins
 
 - [Microsoft.DigitalTwins/digitalTwinsInstances](aliases/Microsoft.DigitalTwins/digitalTwinsInstances.md)
 - [Microsoft.DigitalTwins/digitalTwinsInstances/endpoints](aliases/Microsoft.DigitalTwins/digitalTwinsInstances-endpoints.md)
-
 
 ## 🔷 Microsoft.DocumentDB
 
@@ -838,12 +780,10 @@
 - [Microsoft.DocumentDB/fleets/fleetspaces/fleetspaceAccounts](aliases/Microsoft.DocumentDB/fleets-fleetspaces-fleetspaceAccounts.md)
 - [Microsoft.DocumentDB/mongoClusters/users](aliases/Microsoft.DocumentDB/mongoClusters-users.md)
 
-
 ## 🔷 Microsoft.DomainRegistration
 
 - [Microsoft.DomainRegistration/domains](aliases/Microsoft.DomainRegistration/domains.md)
 - [Microsoft.DomainRegistration/domains/domainOwnershipIdentifiers](aliases/Microsoft.DomainRegistration/domains-domainOwnershipIdentifiers.md)
-
 
 ## 🔷 Microsoft.DurableTask
 
@@ -851,12 +791,10 @@
 - [Microsoft.DurableTask/schedulers/retentionpolicies](aliases/Microsoft.DurableTask/schedulers-retentionpolicies.md)
 - [Microsoft.DurableTask/schedulers](aliases/Microsoft.DurableTask/schedulers.md)
 
-
 ## 🔷 Microsoft.EdgeOrder
 
 - [Microsoft.EdgeOrder/addresses](aliases/Microsoft.EdgeOrder/addresses.md)
 - [Microsoft.EdgeOrder/orderItems](aliases/Microsoft.EdgeOrder/orderItems.md)
-
 
 ## 🔷 Microsoft.ElasticSan
 
@@ -864,7 +802,6 @@
 - [Microsoft.ElasticSan/elasticSans/volumeGroups](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups.md)
 - [Microsoft.ElasticSan/elasticSans/volumeGroups/volumes](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups-volumes.md)
 - [Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots](aliases/Microsoft.ElasticSan/elasticSans-volumeGroups-snapshots.md)
-
 
 ## 🔷 Microsoft.EventGrid
 
@@ -896,7 +833,6 @@
 - [Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections](aliases/Microsoft.EventGrid/partnerNamespaces-privateEndpointConnections.md)
 - [Microsoft.EventGrid/topics/eventSubscriptions](aliases/Microsoft.EventGrid/topics-eventSubscriptions.md)
 
-
 ## 🔷 Microsoft.EventHub
 
 - [Microsoft.EventHub/namespaces](aliases/Microsoft.EventHub/namespaces.md)
@@ -913,37 +849,30 @@
 - [Microsoft.EventHub/namespaces/virtualNetworkRules](aliases/Microsoft.EventHub/namespaces-virtualNetworkRules.md)
 - [Microsoft.EventHub/namespaces/schemagroups](aliases/Microsoft.EventHub/namespaces-schemagroups.md)
 
-
 ## 🔷 Microsoft.ExtendedLocation
 
 - [Microsoft.ExtendedLocation/customLocations](aliases/Microsoft.ExtendedLocation/customLocations.md)
 - [Microsoft.ExtendedLocation/customLocations/resourceSyncRules](aliases/Microsoft.ExtendedLocation/customLocations-resourceSyncRules.md)
 
-
 ## 🔷 Microsoft.Fabric
 
 - [Microsoft.Fabric/capacities](aliases/Microsoft.Fabric/capacities.md)
-
 
 ## 🔷 Microsoft.Features
 
 - [Microsoft.Features/featureProviders/subscriptionFeatureRegistrations](aliases/Microsoft.Features/featureProviders-subscriptionFeatureRegistrations.md)
 
-
 ## 🔷 Microsoft.FileShares
 
 - [Microsoft.FileShares/fileShares](aliases/Microsoft.FileShares/fileShares.md)
-
 
 ## 🔷 Microsoft.FluidRelay
 
 - [Microsoft.FluidRelay/fluidRelayServers](aliases/Microsoft.FluidRelay/fluidRelayServers.md)
 
-
 ## 🔷 Microsoft.GuestConfiguration
 
 - [Microsoft.GuestConfiguration/guestConfigurationAssignments](aliases/Microsoft.GuestConfiguration/guestConfigurationAssignments.md)
-
 
 ## 🔷 Microsoft.HDInsight
 
@@ -951,11 +880,9 @@
 - [Microsoft.HDInsight/clusters/applications](aliases/Microsoft.HDInsight/clusters-applications.md)
 - [Microsoft.HDInsight/clusters/privateEndpointConnections](aliases/Microsoft.HDInsight/clusters-privateEndpointConnections.md)
 
-
 ## 🔷 Microsoft.HealthBot
 
 - [Microsoft.HealthBot/healthBots](aliases/Microsoft.HealthBot/healthBots.md)
-
 
 ## 🔷 Microsoft.HealthcareApis
 
@@ -968,12 +895,10 @@
 - [Microsoft.HealthcareApis/workspaces/dicomservices](aliases/Microsoft.HealthcareApis/workspaces-dicomservices.md)
 - [Microsoft.HealthcareApis/workspaces/fhirservices](aliases/Microsoft.HealthcareApis/workspaces-fhirservices.md)
 
-
 ## 🔷 Microsoft.HealthDataAIServices
 
 - [Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/deidServices-privateEndpointConnections.md)
 - [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
-
 
 ## 🔷 Microsoft.HybridCompute
 
@@ -985,7 +910,6 @@
 - [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
 - [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
 - [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
-
 
 ## 🔷 Microsoft.HybridContainerService
 
@@ -999,7 +923,6 @@
 - [Microsoft.HybridContainerService/storageSpaces](aliases/Microsoft.HybridContainerService/storageSpaces.md)
 - [Microsoft.HybridContainerService/provisionedClusterInstances/agentPools](aliases/Microsoft.HybridContainerService/provisionedClusterInstances-agentPools.md)
 - [Microsoft.HybridContainerService/provisionedClusterInstances/hybridIdentityMetadata](aliases/Microsoft.HybridContainerService/provisionedClusterInstances-hybridIdentityMetadata.md)
-
 
 ## 🔷 microsoft.insights
 
@@ -1029,12 +952,10 @@
 - [microsoft.insights/privateLinkScopes/privateEndpointConnections](aliases/microsoft.insights/privateLinkScopes-privateEndpointConnections.md)
 - [microsoft.insights/privateLinkScopes/scopedResources](aliases/microsoft.insights/privateLinkScopes-scopedResources.md)
 
-
 ## 🔷 Microsoft.IoTCentral
 
 - [Microsoft.IoTCentral/IoTApps](aliases/Microsoft.IoTCentral/IoTApps.md)
 - [Microsoft.IoTCentral/IoTApps/privateEndpointConnections](aliases/Microsoft.IoTCentral/IoTApps-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.KeyVault
 
@@ -1047,11 +968,9 @@
 - [Microsoft.KeyVault/managedHSMs/privateEndpointConnections](aliases/Microsoft.KeyVault/managedHSMs-privateEndpointConnections.md)
 - [Microsoft.KeyVault/vaults/networkSecurityPerimeterConfigurations](aliases/Microsoft.KeyVault/vaults-networkSecurityPerimeterConfigurations.md)
 
-
 ## 🔷 Microsoft.Kubernetes
 
 - [Microsoft.Kubernetes/connectedClusters](aliases/Microsoft.Kubernetes/connectedClusters.md)
-
 
 ## 🔷 Microsoft.KubernetesConfiguration
 
@@ -1060,7 +979,6 @@
 - [Microsoft.KubernetesConfiguration/fluxConfigurations](aliases/Microsoft.KubernetesConfiguration/fluxConfigurations.md)
 - [Microsoft.KubernetesConfiguration/privateLinkScopes](aliases/Microsoft.KubernetesConfiguration/privateLinkScopes.md)
 - [Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections](aliases/Microsoft.KubernetesConfiguration/privateLinkScopes-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.Kusto
 
@@ -1073,7 +991,6 @@
 - [Microsoft.Kusto/clusters/databases/principalassignments](aliases/Microsoft.Kusto/clusters-databases-principalassignments.md)
 - [Microsoft.Kusto/clusters/managedPrivateEndpoints](aliases/Microsoft.Kusto/clusters-managedPrivateEndpoints.md)
 - [Microsoft.Kusto/Clusters/PrivateEndpointConnections](aliases/Microsoft.Kusto/Clusters-PrivateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.LabServices
 
@@ -1088,14 +1005,12 @@
 - [Microsoft.LabServices/labs/schedules](aliases/Microsoft.LabServices/labs-schedules.md)
 - [Microsoft.LabServices/labs/users](aliases/Microsoft.LabServices/labs-users.md)
 
-
 ## 🔷 Microsoft.LoadTestService
 
 - [Microsoft.LoadTestService/loadTestMappings](aliases/Microsoft.LoadTestService/loadTestMappings.md)
 - [Microsoft.LoadTestService/loadTestProfileMappings](aliases/Microsoft.LoadTestService/loadTestProfileMappings.md)
 - [Microsoft.LoadTestService/loadtests](aliases/Microsoft.LoadTestService/loadtests.md)
 - [Microsoft.LoadTestService/playwrightWorkspaces](aliases/Microsoft.LoadTestService/playwrightWorkspaces.md)
-
 
 ## 🔷 Microsoft.Logic
 
@@ -1113,7 +1028,6 @@
 - [Microsoft.Logic/integrationAccounts/sessions](aliases/Microsoft.Logic/integrationAccounts-sessions.md)
 - [Microsoft.Logic/workflows/accessKeys](aliases/Microsoft.Logic/workflows-accessKeys.md)
 - [Microsoft.Logic/integrationAccounts/rosettaNetProcessConfigurations](aliases/Microsoft.Logic/integrationAccounts-rosettaNetProcessConfigurations.md)
-
 
 ## 🔷 Microsoft.MachineLearningServices
 
@@ -1152,35 +1066,29 @@
 - [Microsoft.MachineLearningServices/workspaces/connections/raiBlocklists/raiBlocklistItems](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiBlocklists-raiBlocklistItems.md)
 - [Microsoft.MachineLearningServices/workspaces/connections/raiPolicies](aliases/Microsoft.MachineLearningServices/workspaces-connections-raiPolicies.md)
 
-
 ## 🔷 Microsoft.Maintenance
 
 - [Microsoft.Maintenance/maintenanceConfigurations](aliases/Microsoft.Maintenance/maintenanceConfigurations.md)
 - [Microsoft.Maintenance/configurationAssignments](aliases/Microsoft.Maintenance/configurationAssignments.md)
 - [Microsoft.Maintenance/applyUpdates](aliases/Microsoft.Maintenance/applyUpdates.md)
 
-
 ## 🔷 Microsoft.ManagedIdentity
 
 - [Microsoft.ManagedIdentity/userAssignedIdentities](aliases/Microsoft.ManagedIdentity/userAssignedIdentities.md)
 - [Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials](aliases/Microsoft.ManagedIdentity/userAssignedIdentities-federatedIdentityCredentials.md)
-
 
 ## 🔷 Microsoft.ManagedServices
 
 - [Microsoft.ManagedServices/registrationDefinitions](aliases/Microsoft.ManagedServices/registrationDefinitions.md)
 - [Microsoft.ManagedServices/registrationAssignments](aliases/Microsoft.ManagedServices/registrationAssignments.md)
 
-
 ## 🔷 Microsoft.Management
 
 - [Microsoft.Management/managementGroups](aliases/Microsoft.Management/managementGroups.md)
 
-
 ## 🔷 Microsoft.Maps
 
 - [Microsoft.Maps/accounts](aliases/Microsoft.Maps/accounts.md)
-
 
 ## 🔷 Microsoft.Migrate
 
@@ -1198,11 +1106,9 @@
 - [Microsoft.Migrate/moveCollections/moveResources](aliases/Microsoft.Migrate/moveCollections-moveResources.md)
 - [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
 
-
 ## 🔷 Microsoft.Monitor
 
 - [Microsoft.Monitor/accounts](aliases/Microsoft.Monitor/accounts.md)
-
 
 ## 🔷 Microsoft.NetApp
 
@@ -1216,7 +1122,6 @@
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
-
 
 ## 🔷 Microsoft.Network
 
@@ -1368,7 +1273,6 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
 
-
 ## 🔷 Microsoft.NetworkCloud
 
 - [Microsoft.NetworkCloud/virtualMachines](aliases/Microsoft.NetworkCloud/virtualMachines.md)
@@ -1389,7 +1293,6 @@
 - [Microsoft.NetworkCloud/kubernetesClusters/agentPools](aliases/Microsoft.NetworkCloud/kubernetesClusters-agentPools.md)
 - [Microsoft.NetworkCloud/clusters/bmcKeySets](aliases/Microsoft.NetworkCloud/clusters-bmcKeySets.md)
 
-
 ## 🔷 Microsoft.NotificationHubs
 
 - [Microsoft.NotificationHubs/namespaces](aliases/Microsoft.NotificationHubs/namespaces.md)
@@ -1397,7 +1300,6 @@
 - [Microsoft.NotificationHubs/Namespaces/AuthorizationRules](aliases/Microsoft.NotificationHubs/Namespaces-AuthorizationRules.md)
 - [Microsoft.NotificationHubs/namespaces/notificationHubs/authorizationRules](aliases/Microsoft.NotificationHubs/namespaces-notificationHubs-authorizationRules.md)
 - [Microsoft.NotificationHubs/namespaces/privateEndpointConnections](aliases/Microsoft.NotificationHubs/namespaces-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.OffAzure
 
@@ -1408,7 +1310,6 @@
 - [Microsoft.OffAzure/HyperVSites/hosts](aliases/Microsoft.OffAzure/HyperVSites-hosts.md)
 - [Microsoft.OffAzure/MasterSites/privateEndpointConnections](aliases/Microsoft.OffAzure/MasterSites-privateEndpointConnections.md)
 - [Microsoft.OffAzure/VMwareSites/vcenters](aliases/Microsoft.OffAzure/VMwareSites-vcenters.md)
-
 
 ## 🔷 Microsoft.OperationalInsights
 
@@ -1425,17 +1326,14 @@
 - [Microsoft.OperationalInsights/workspaces/savedSearches](aliases/Microsoft.OperationalInsights/workspaces-savedSearches.md)
 - [Microsoft.OperationalInsights/querypacks/queries](aliases/Microsoft.OperationalInsights/querypacks-queries.md)
 
-
 ## 🔷 Microsoft.OperationsManagement
 
 - [Microsoft.OperationsManagement/solutions](aliases/Microsoft.OperationsManagement/solutions.md)
-
 
 ## 🔷 Microsoft.PolicyInsights
 
 - [Microsoft.PolicyInsights/remediations](aliases/Microsoft.PolicyInsights/remediations.md)
 - [Microsoft.PolicyInsights/attestations](aliases/Microsoft.PolicyInsights/attestations.md)
-
 
 ## 🔷 Microsoft.Portal
 
@@ -1444,23 +1342,19 @@
 - [Microsoft.Portal/consoles](aliases/Microsoft.Portal/consoles.md)
 - [Microsoft.Portal/userSettings](aliases/Microsoft.Portal/userSettings.md)
 
-
 ## 🔷 Microsoft.PowerBI
 
 - [Microsoft.PowerBI/workspaceCollections](aliases/Microsoft.PowerBI/workspaceCollections.md)
 
-
 ## 🔷 Microsoft.PowerBIDedicated
 
 - [Microsoft.PowerBIDedicated/capacities](aliases/Microsoft.PowerBIDedicated/capacities.md)
-
 
 ## 🔷 Microsoft.Purview
 
 - [Microsoft.Purview/accounts](aliases/Microsoft.Purview/accounts.md)
 - [Microsoft.Purview/accounts/kafkaConfigurations](aliases/Microsoft.Purview/accounts-kafkaConfigurations.md)
 - [Microsoft.Purview/accounts/privateEndpointConnections](aliases/Microsoft.Purview/accounts-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.RecoveryServices
 
@@ -1490,11 +1384,9 @@
 - [Microsoft.RecoveryServices/Vaults/privateEndpointConnections](aliases/Microsoft.RecoveryServices/Vaults-privateEndpointConnections.md)
 - [Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems/recoveryPoints](aliases/Microsoft.RecoveryServices/Vaults-backupFabrics-protectionContainers-protectedItems-recoveryPoints.md)
 
-
 ## 🔷 Microsoft.RedHatOpenShift
 
 - [Microsoft.RedHatOpenShift/OpenShiftClusters](aliases/Microsoft.RedHatOpenShift/OpenShiftClusters.md)
-
 
 ## 🔷 Microsoft.Relay
 
@@ -1507,7 +1399,6 @@
 - [Microsoft.Relay/namespaces/wcfrelays/authorizationrules](aliases/Microsoft.Relay/namespaces-wcfrelays-authorizationrules.md)
 - [Microsoft.Relay/namespaces/networkrulesets](aliases/Microsoft.Relay/namespaces-networkrulesets.md)
 
-
 ## 🔷 Microsoft.Resources
 
 - [Microsoft.Resources/deploymentScripts](aliases/Microsoft.Resources/deploymentScripts.md)
@@ -1518,12 +1409,10 @@
 - [Microsoft.Resources/tags](aliases/Microsoft.Resources/tags.md)
 - [Microsoft.Resources/links](aliases/Microsoft.Resources/links.md)
 
-
 ## 🔷 Microsoft.SaaS
 
 - [Microsoft.SaaS/saasresources](aliases/Microsoft.SaaS/saasresources.md)
 - [Microsoft.SaaS/resources](aliases/Microsoft.SaaS/resources.md)
-
 
 ## 🔷 Microsoft.Search
 
@@ -1531,7 +1420,6 @@
 - [Microsoft.Search/searchServices/sharedPrivateLinkResources](aliases/Microsoft.Search/searchServices-sharedPrivateLinkResources.md)
 - [Microsoft.Search/searchServices/privateEndpointConnections](aliases/Microsoft.Search/searchServices-privateEndpointConnections.md)
 - [Microsoft.Search/searchServices/networkSecurityPerimeterConfigurations](aliases/Microsoft.Search/searchServices-networkSecurityPerimeterConfigurations.md)
-
 
 ## 🔷 Microsoft.Security
 
@@ -1570,7 +1458,6 @@
 - [Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects](aliases/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs-projects.md)
 - [Microsoft.Security/securityConnectors/devops/azureDevOpsOrgs/projects/repos](aliases/Microsoft.Security/securityConnectors-devops-azureDevOpsOrgs-projects-repos.md)
 
-
 ## 🔷 Microsoft.SecurityInsights
 
 - [Microsoft.SecurityInsights/alertRules](aliases/Microsoft.SecurityInsights/alertRules.md)
@@ -1588,11 +1475,9 @@
 - [Microsoft.SecurityInsights/incidents/relations](aliases/Microsoft.SecurityInsights/incidents-relations.md)
 - [Microsoft.SecurityInsights/threatintelligence/indicators](aliases/Microsoft.SecurityInsights/threatintelligence-indicators.md)
 
-
 ## 🔷 Microsoft.SerialConsole
 
 - [Microsoft.SerialConsole/consoleServices](aliases/Microsoft.SerialConsole/consoleServices.md)
-
 
 ## 🔷 Microsoft.ServiceBus
 
@@ -1608,7 +1493,6 @@
 - [Microsoft.ServiceBus/namespaces/messagingPlan](aliases/Microsoft.ServiceBus/namespaces-messagingPlan.md)
 - [Microsoft.ServiceBus/namespaces/virtualNetworkRules](aliases/Microsoft.ServiceBus/namespaces-virtualNetworkRules.md)
 
-
 ## 🔷 Microsoft.ServiceFabric
 
 - [Microsoft.ServiceFabric/clusters](aliases/Microsoft.ServiceFabric/clusters.md)
@@ -1623,7 +1507,6 @@
 - [Microsoft.ServiceFabric/managedclusters/applications](aliases/Microsoft.ServiceFabric/managedclusters-applications.md)
 - [Microsoft.ServiceFabric/managedclusters/applications/services](aliases/Microsoft.ServiceFabric/managedclusters-applications-services.md)
 
-
 ## 🔷 Microsoft.ServiceLinker
 
 - [Microsoft.ServiceLinker/dryruns](aliases/Microsoft.ServiceLinker/dryruns.md)
@@ -1631,14 +1514,12 @@
 - [Microsoft.ServiceLinker/locations/dryruns](aliases/Microsoft.ServiceLinker/locations-dryruns.md)
 - [Microsoft.ServiceLinker/locations/connectors](aliases/Microsoft.ServiceLinker/locations-connectors.md)
 
-
 ## 🔷 Microsoft.ServiceNetworking
 
 - [Microsoft.ServiceNetworking/trafficControllers](aliases/Microsoft.ServiceNetworking/trafficControllers.md)
 - [Microsoft.ServiceNetworking/trafficControllers/frontends](aliases/Microsoft.ServiceNetworking/trafficControllers-frontends.md)
 - [Microsoft.ServiceNetworking/trafficControllers/associations](aliases/Microsoft.ServiceNetworking/trafficControllers-associations.md)
 - [Microsoft.ServiceNetworking/trafficControllers/securityPolicies](aliases/Microsoft.ServiceNetworking/trafficControllers-securityPolicies.md)
-
 
 ## 🔷 Microsoft.SignalRService
 
@@ -1658,7 +1539,6 @@
 - [Microsoft.SignalRService/WebPubSub/customCertificates](aliases/Microsoft.SignalRService/WebPubSub-customCertificates.md)
 - [Microsoft.SignalRService/WebPubSub/replicas/sharedPrivateLinkResources](aliases/Microsoft.SignalRService/WebPubSub-replicas-sharedPrivateLinkResources.md)
 
-
 ## 🔷 Microsoft.Singularity
 
 - [Microsoft.Singularity/accounts](aliases/Microsoft.Singularity/accounts.md)
@@ -1667,13 +1547,11 @@
 - [Microsoft.Singularity/accounts/groupPolicies](aliases/Microsoft.Singularity/accounts-groupPolicies.md)
 - [Microsoft.Singularity/accounts/jobs](aliases/Microsoft.Singularity/accounts-jobs.md)
 
-
 ## 🔷 Microsoft.Solutions
 
 - [Microsoft.Solutions/applications](aliases/Microsoft.Solutions/applications.md)
 - [Microsoft.Solutions/applicationDefinitions](aliases/Microsoft.Solutions/applicationDefinitions.md)
 - [Microsoft.Solutions/jitRequests](aliases/Microsoft.Solutions/jitRequests.md)
-
 
 ## 🔷 Microsoft.Sql
 
@@ -1770,13 +1648,11 @@
 - [Microsoft.Sql/managedInstances/serverConfigurationOptions](aliases/Microsoft.Sql/managedInstances-serverConfigurationOptions.md)
 - [Microsoft.Sql/servers/networkSecurityPerimeterConfigurations](aliases/Microsoft.Sql/servers-networkSecurityPerimeterConfigurations.md)
 
-
 ## 🔷 Microsoft.SqlVirtualMachine
 
 - [Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups](aliases/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups.md)
 - [Microsoft.SqlVirtualMachine/SqlVirtualMachines](aliases/Microsoft.SqlVirtualMachine/SqlVirtualMachines.md)
 - [Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners](aliases/Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups-AvailabilityGroupListeners.md)
-
 
 ## 🔷 Microsoft.Storage
 
@@ -1798,12 +1674,10 @@
 - [Microsoft.Storage/storageAccounts/localusers](aliases/Microsoft.Storage/storageAccounts-localusers.md)
 - [Microsoft.Storage/storageAccounts/networkSecurityPerimeterConfigurations](aliases/Microsoft.Storage/storageAccounts-networkSecurityPerimeterConfigurations.md)
 
-
 ## 🔷 Microsoft.StorageCache
 
 - [Microsoft.StorageCache/caches](aliases/Microsoft.StorageCache/caches.md)
 - [Microsoft.StorageCache/caches/storageTargets](aliases/Microsoft.StorageCache/caches-storageTargets.md)
-
 
 ## 🔷 Microsoft.StorageMover
 
@@ -1813,7 +1687,6 @@
 - [Microsoft.StorageMover/storageMovers/agents](aliases/Microsoft.StorageMover/storageMovers-agents.md)
 - [Microsoft.StorageMover/storageMovers/projects/jobDefinitions](aliases/Microsoft.StorageMover/storageMovers-projects-jobDefinitions.md)
 
-
 ## 🔷 Microsoft.StorageSync
 
 - [Microsoft.StorageSync/storageSyncServices](aliases/Microsoft.StorageSync/storageSyncServices.md)
@@ -1822,7 +1695,6 @@
 - [Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints](aliases/Microsoft.StorageSync/storageSyncServices-syncGroups-serverEndpoints.md)
 - [Microsoft.StorageSync/storageSyncServices/registeredServers](aliases/Microsoft.StorageSync/storageSyncServices-registeredServers.md)
 - [Microsoft.StorageSync/storageSyncServices/privateEndpointConnections](aliases/Microsoft.StorageSync/storageSyncServices-privateEndpointConnections.md)
-
 
 ## 🔷 Microsoft.StreamAnalytics
 
@@ -1834,12 +1706,10 @@
 - [Microsoft.StreamAnalytics/streamingjobs/outputs](aliases/Microsoft.StreamAnalytics/streamingjobs-outputs.md)
 - [Microsoft.StreamAnalytics/streamingjobs/transformations](aliases/Microsoft.StreamAnalytics/streamingjobs-transformations.md)
 
-
 ## 🔷 Microsoft.Subscription
 
 - [Microsoft.Subscription/SubscriptionDefinitions](aliases/Microsoft.Subscription/SubscriptionDefinitions.md)
 - [Microsoft.Subscription/aliases](aliases/Microsoft.Subscription/aliases.md)
-
 
 ## 🔷 Microsoft.Synapse
 
@@ -1881,22 +1751,18 @@
 - [Microsoft.Synapse/workspaces/azureADOnlyAuthentications](aliases/Microsoft.Synapse/workspaces-azureADOnlyAuthentications.md)
 - [Microsoft.Synapse/workspaces/dedicatedSQLminimalTlsSettings](aliases/Microsoft.Synapse/workspaces-dedicatedSQLminimalTlsSettings.md)
 
-
 ## 🔷 Microsoft.VideoIndexer
 
 - [Microsoft.VideoIndexer/accounts/privateEndpointConnections](aliases/Microsoft.VideoIndexer/accounts-privateEndpointConnections.md)
 - [Microsoft.VideoIndexer/accounts](aliases/Microsoft.VideoIndexer/accounts.md)
 
-
 ## 🔷 Microsoft.VirtualMachineImages
 
 - [Microsoft.VirtualMachineImages/imageTemplates](aliases/Microsoft.VirtualMachineImages/imageTemplates.md)
 
-
 ## 🔷 microsoft.visualstudio
 
 - [microsoft.visualstudio/account/project](aliases/microsoft.visualstudio/account-project.md)
-
 
 ## 🔷 Microsoft.Web
 
@@ -1957,7 +1823,6 @@
 - [Microsoft.Web/sites/sitecontainers](aliases/Microsoft.Web/sites-sitecontainers.md)
 - [Microsoft.Web/sites/slots/sitecontainers](aliases/Microsoft.Web/sites-slots-sitecontainers.md)
 
-
 ## 🔷 Microsoft.Workloads
 
 - [Microsoft.Workloads/sapVirtualInstances](aliases/Microsoft.Workloads/sapVirtualInstances.md)
@@ -1969,6 +1834,4 @@
 - [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
 - [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
 - [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
-
-
 

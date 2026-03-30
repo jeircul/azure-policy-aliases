@@ -1,4 +1,4 @@
-# Microsoft.Web/hostingEnvironments/privateEndpointConnections
+﻿# Microsoft.Web/hostingEnvironments/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateEndpoint.id` | `Microsoft.Web/hostingEnvironments/privateEndpointConnections/privateEndpoint.id` |
 | `properties.ipAddresses` | `Microsoft.Web/hostingEnvironments/privateEndpointConnections/ipAddresses` |
 | `properties.ipAddresses[*]` | `Microsoft.Web/hostingEnvironments/privateEndpointConnections/ipAddresses[*]` |
-

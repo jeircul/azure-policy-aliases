@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/hostpools/msixpackages
+﻿# Microsoft.DesktopVirtualization/hostpools/msixpackages
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.packageApplications[*].iconImageName` | `Microsoft.DesktopVirtualization/hostPools/msixPackages/packageApplications[*].iconImageName` |
 | `properties.packageApplications[*].rawIcon` | `Microsoft.DesktopVirtualization/hostPools/msixPackages/packageApplications[*].rawIcon` |
 | `properties.packageApplications[*].rawPng` | `Microsoft.DesktopVirtualization/hostPools/msixPackages/packageApplications[*].rawPng` |
-

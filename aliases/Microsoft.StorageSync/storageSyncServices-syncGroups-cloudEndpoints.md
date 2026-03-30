@@ -1,4 +1,4 @@
-# Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints
+﻿# Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.provisioningState` | `Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/provisioningState` |
 | `properties.lastWorkflowId` | `Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/lastWorkflowId` |
 | `properties.azureFileShareName` | `Microsoft.StorageSync/storageSyncServices/syncGroups/cloudEndpoints/azureFileShareName` |
-

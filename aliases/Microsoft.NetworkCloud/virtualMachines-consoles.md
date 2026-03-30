@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/virtualMachines/consoles
+﻿# Microsoft.NetworkCloud/virtualMachines/consoles
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.sshPublicKey` | `Microsoft.NetworkCloud/virtualMachines/consoles/sshPublicKey` |
 | `properties.sshPublicKey.keyData` | `Microsoft.NetworkCloud/virtualMachines/consoles/sshPublicKey.keyData` |
 | `properties.virtualMachineAccessId` | `Microsoft.NetworkCloud/virtualMachines/consoles/virtualMachineAccessId` |
-

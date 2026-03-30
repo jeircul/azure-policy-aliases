@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/featuresets
+﻿# Microsoft.MachineLearningServices/workspaces/featuresets
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.latestVersion` | `Microsoft.MachineLearningServices/workspaces/featuresets/latestVersion` |
 | `properties.nextVersion` | `Microsoft.MachineLearningServices/workspaces/featuresets/nextVersion` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/featuresets/provisioningState` |
-

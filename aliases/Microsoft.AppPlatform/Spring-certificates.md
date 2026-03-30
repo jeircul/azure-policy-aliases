@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/certificates
+﻿# Microsoft.AppPlatform/Spring/certificates
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.type` | `Microsoft.AppPlatform/Spring/certificates/type` |
 | `properties.provisioningState` | `Microsoft.AppPlatform/Spring/certificates/provisioningState` |
 | `properties.autoSync` | `Microsoft.AppPlatform/Spring/certificates/KeyVaultCertificate.autoSync` |
-

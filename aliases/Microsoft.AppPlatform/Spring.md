@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring
+﻿# Microsoft.AppPlatform/Spring
 
 | Default Path | Alias |
 |---|---|
@@ -129,4 +129,3 @@
 | `properties.maintenanceScheduleConfiguration.frequency` | `Microsoft.AppPlatform/Spring/maintenanceScheduleConfiguration.frequency` |
 | `properties.vnetAddons.privateStorageAccess` | `Microsoft.AppPlatform/Spring/vnetAddons.privateStorageAccess` |
 | `properties.vnetAddons.privateDnsZoneId` | `Microsoft.AppPlatform/Spring/vnetAddons.privateDnsZoneId` |
-

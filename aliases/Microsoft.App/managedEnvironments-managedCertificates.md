@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/managedCertificates
+﻿# Microsoft.App/managedEnvironments/managedCertificates
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.error` | `Microsoft.App/managedEnvironments/managedCertificates/error` |
 | `properties.domainControlValidation` | `Microsoft.App/managedEnvironments/managedCertificates/domainControlValidation` |
 | `properties.validationToken` | `Microsoft.App/managedEnvironments/managedCertificates/validationToken` |
-

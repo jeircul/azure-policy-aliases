@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/syncGroups/syncMembers
+﻿# Microsoft.Sql/servers/databases/syncGroups/syncMembers
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.syncMemberAzureDatabaseResourceId` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/syncMemberAzureDatabaseResourceId` |
 | `properties.usePrivateLinkConnection` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/usePrivateLinkConnection` |
 | `properties.privateEndpointName` | `Microsoft.Sql/servers/databases/syncGroups/syncMembers/privateEndpointName` |
-

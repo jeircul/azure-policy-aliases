@@ -1,4 +1,4 @@
-# Microsoft.Solutions/applications
+﻿# Microsoft.Solutions/applications
 
 | Default Path | Alias |
 |---|---|
@@ -53,4 +53,3 @@
 | `properties.updatedBy.oid` | `Microsoft.Solutions/applications/updatedBy.oid` |
 | `properties.updatedBy.puid` | `Microsoft.Solutions/applications/updatedBy.puid` |
 | `properties.updatedBy.applicationId` | `Microsoft.Solutions/applications/updatedBy.applicationId` |
-

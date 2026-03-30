@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs/routeTables
+﻿# Microsoft.Network/virtualHubs/routeTables
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.attachedConnections[*]` | `Microsoft.Network/virtualHubs/routeTables/attachedConnections[*]` |
 | `properties.attachedConnections` | `Microsoft.Network/virtualHubs/routeTables/attachedConnections` |
 | `properties.provisioningState` | `Microsoft.Network/virtualHubs/routeTables/provisioningState` |
-

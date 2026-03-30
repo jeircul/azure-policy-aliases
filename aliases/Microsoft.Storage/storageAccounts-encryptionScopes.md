@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/encryptionScopes
+﻿# Microsoft.Storage/storageAccounts/encryptionScopes
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.keyVaultProperties.currentVersionedKeyIdentifier` | `Microsoft.Storage/storageAccounts/encryptionScopes/keyVaultProperties.currentVersionedKeyIdentifier` |
 | `properties.keyVaultProperties.lastKeyRotationTimestamp` | `Microsoft.Storage/storageAccounts/encryptionScopes/keyVaultProperties.lastKeyRotationTimestamp` |
 | `properties.requireInfrastructureEncryption` | `Microsoft.Storage/storageAccounts/encryptionScopes/requireInfrastructureEncryption` |
-

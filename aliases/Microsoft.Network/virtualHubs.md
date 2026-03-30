@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs
+﻿# Microsoft.Network/virtualHubs
 
 | Default Path | Alias |
 |---|---|
@@ -557,4 +557,3 @@
 | `properties.routeMaps` | `Microsoft.Network/virtualHubs/routeMaps` |
 | `properties.routeMaps[*]` | `Microsoft.Network/virtualHubs/routeMaps[*]` |
 | `properties.routeMaps[*].id` | `Microsoft.Network/virtualHubs/routeMaps[*].id` |
-

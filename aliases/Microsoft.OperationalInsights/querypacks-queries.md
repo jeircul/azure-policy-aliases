@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/querypacks/queries
+﻿# Microsoft.OperationalInsights/querypacks/queries
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.related.solutions` | `Microsoft.OperationalInsights/queryPacks/queries/related.solutions` |
 | `properties.related.solutions[*]` | `Microsoft.OperationalInsights/queryPacks/queries/related.solutions[*]` |
 | `properties.tags` | `Microsoft.OperationalInsights/queryPacks/queries/tags` |
-

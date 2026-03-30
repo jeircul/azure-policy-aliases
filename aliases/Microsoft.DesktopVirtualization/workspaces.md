@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/workspaces
+﻿# Microsoft.DesktopVirtualization/workspaces
 
 | Default Path | Alias |
 |---|---|
@@ -37,4 +37,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections[*].groupIds[*]` |
-

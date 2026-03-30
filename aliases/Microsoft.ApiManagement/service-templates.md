@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/templates
+﻿# Microsoft.ApiManagement/service/templates
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.parameters[*].description` | `Microsoft.ApiManagement/service/templates/applicationApprovedNotificationMessage.parameters[*].description` |
 | `properties.parameters[*]` | `Microsoft.ApiManagement/service/templates/applicationApprovedNotificationMessage.parameters[*]` |
 | `properties.parameters` | `Microsoft.ApiManagement/service/templates/applicationApprovedNotificationMessage.parameters` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/copyJobs
+﻿# Microsoft.DocumentDB/databaseAccounts/copyJobs
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.error.error.additionalInfo` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.additionalInfo` |
 | `properties.error.error.additionalInfo[*]` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.additionalInfo[*]` |
 | `properties.error.error.additionalInfo[*].type` | `Microsoft.DocumentDB/databaseAccounts/copyJobs/error.error.additionalInfo[*].type` |
-

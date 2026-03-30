@@ -1,4 +1,4 @@
-# Microsoft.Network/privateDnsZones/PTR
+﻿# Microsoft.Network/privateDnsZones/PTR
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/PTR/txtRecords` |
 | `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/PTR/txtRecords[*].value` |
 | `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/PTR/txtRecords[*].value[*]` |
-

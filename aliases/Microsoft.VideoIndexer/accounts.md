@@ -1,4 +1,4 @@
-# Microsoft.VideoIndexer/accounts
+﻿# Microsoft.VideoIndexer/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.VideoIndexer/accounts/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.VideoIndexer/accounts/privateEndpointConnections[*].provisioningState` |
 | `properties.totalMinutesIndexed` | `Microsoft.VideoIndexer/accounts/totalMinutesIndexed` |
-

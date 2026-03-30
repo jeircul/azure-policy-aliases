@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/computes
+﻿# Microsoft.MachineLearningServices/workspaces/computes
 
 | Default Path | Alias |
 |---|---|
@@ -382,4 +382,3 @@
 | `properties.properties.osImageMetadata.osPatchingStatus.osPatchingErrors[*].error.additionalInfo` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.osPatchingErrors[*].error.additionalInfo` |
 | `properties.properties.osImageMetadata.osPatchingStatus.osPatchingErrors[*].error.additionalInfo[*]` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.osPatchingErrors[*].error.additionalInfo[*]` |
 | `properties.properties.osImageMetadata.osPatchingStatus.osPatchingErrors[*].error.additionalInfo[*].type` | `Microsoft.MachineLearningServices/workspaces/computes/osImageMetadata.osPatchingStatus.osPatchingErrors[*].error.additionalInfo[*].type` |
-

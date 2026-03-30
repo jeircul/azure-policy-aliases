@@ -1,4 +1,4 @@
-# Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots
+﻿# Microsoft.ElasticSan/elasticSans/volumeGroups/snapshots
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.provisioningState` | `Microsoft.ElasticSan/elasticSans/volumegroups/snapshots/provisioningState` |
 | `properties.sourceVolumeSizeGiB` | `Microsoft.ElasticSan/elasticSans/volumegroups/snapshots/sourceVolumeSizeGiB` |
 | `properties.volumeName` | `Microsoft.ElasticSan/elasticSans/volumegroups/snapshots/volumeName` |
-

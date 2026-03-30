@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies
+﻿# Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.applicationPrincipals` | `Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/applicationPrincipals` |
 | `properties.maskingLevel` | `Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/maskingLevel` |
 | `managedBy` | `Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/managedBy` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/workloadGroups
+﻿# Microsoft.Synapse/workspaces/sqlPools/workloadGroups
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.maxResourcePercentPerRequest` | `Microsoft.Synapse/workspaces/sqlPools/workloadGroups/maxResourcePercentPerRequest` |
 | `properties.importance` | `Microsoft.Synapse/workspaces/sqlPools/workloadGroups/importance` |
 | `properties.queryExecutionTimeout` | `Microsoft.Synapse/workspaces/sqlPools/workloadGroups/queryExecutionTimeout` |
-

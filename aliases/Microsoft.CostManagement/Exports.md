@@ -1,4 +1,4 @@
-# Microsoft.CostManagement/Exports
+﻿# Microsoft.CostManagement/Exports
 
 | Default Path | Alias |
 |---|---|
@@ -82,4 +82,3 @@
 | `properties.deliveryInfo.destination.microsoftFabricSettings.workspace` | `Microsoft.CostManagement/exports/deliveryInfo.destination.microsoftFabricSettings.workspace` |
 | `properties.deliveryInfo.destination.microsoftFabricSettings.lakehouse` | `Microsoft.CostManagement/exports/deliveryInfo.destination.microsoftFabricSettings.lakehouse` |
 | `properties.deliveryInfo.destination.microsoftFabricSettings.tableName` | `Microsoft.CostManagement/exports/deliveryInfo.destination.microsoftFabricSettings.tableName` |
-

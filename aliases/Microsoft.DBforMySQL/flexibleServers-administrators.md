@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/flexibleServers/administrators
+﻿# Microsoft.DBforMySQL/flexibleServers/administrators
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.sid` | `Microsoft.DBforMySQL/flexibleServers/administrators/sid` |
 | `properties.tenantId` | `Microsoft.DBforMySQL/flexibleServers/administrators/tenantId` |
 | `properties.identityResourceId` | `Microsoft.DBforMySQL/flexibleServers/administrators/identityResourceId` |
-

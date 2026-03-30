@@ -1,4 +1,4 @@
-# Microsoft.Relay/namespaces/hybridconnections
+﻿# Microsoft.Relay/namespaces/hybridconnections
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.listenerCount` | `Microsoft.Relay/namespaces/HybridConnections/listenerCount` |
 | `properties.requiresClientAuthorization` | `Microsoft.Relay/namespaces/HybridConnections/requiresClientAuthorization` |
 | `properties.userMetadata` | `Microsoft.Relay/namespaces/HybridConnections/userMetadata` |
-

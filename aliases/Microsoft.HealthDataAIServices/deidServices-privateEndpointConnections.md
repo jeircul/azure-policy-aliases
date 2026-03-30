@@ -1,4 +1,4 @@
-# Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections
+﻿# Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections/provisioningState` |
-

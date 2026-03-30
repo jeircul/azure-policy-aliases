@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/SqlManagedInstances/FailoverGroups
+﻿# Microsoft.AzureArcData/SqlManagedInstances/FailoverGroups
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.spec.partnerMirroringCert` | `Microsoft.AzureArcData/sqlManagedInstances/failoverGroups/spec.partnerMirroringCert` |
 | `properties.spec.partnerSyncMode` | `Microsoft.AzureArcData/sqlManagedInstances/failoverGroups/spec.partnerSyncMode` |
 | `properties.spec.role` | `Microsoft.AzureArcData/sqlManagedInstances/failoverGroups/spec.role` |
-

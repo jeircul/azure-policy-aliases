@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/schedules
+﻿# Microsoft.DevTestLab/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/schedules/uniqueIdentifier` |
 | `properties.notificationSettings.emailRecipient` | `Microsoft.DevTestLab/schedules/notificationSettings.emailRecipient` |
 | `properties.notificationSettings.notificationLocale` | `Microsoft.DevTestLab/schedules/notificationSettings.notificationLocale` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DomainRegistration/domains
+﻿# Microsoft.DomainRegistration/domains
 
 | Default Path | Alias |
 |---|---|
@@ -96,4 +96,3 @@
 | `properties.dnsZoneId` | `Microsoft.DomainRegistration/domains/dnsZoneId` |
 | `properties.targetDnsType` | `Microsoft.DomainRegistration/domains/targetDnsType` |
 | `properties.authCode` | `Microsoft.DomainRegistration/domains/authCode` |
-

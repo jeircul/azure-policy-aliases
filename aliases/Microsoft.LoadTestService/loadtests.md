@@ -1,4 +1,4 @@
-# Microsoft.LoadTestService/loadtests
+﻿# Microsoft.LoadTestService/loadtests
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.encryption.identity.type` | `Microsoft.LoadTestService/loadTests/encryption.identity.type` |
 | `properties.encryption.identity.resourceId` | `Microsoft.LoadTestService/loadTests/encryption.identity.resourceId` |
 | `properties.encryption.keyUrl` | `Microsoft.LoadTestService/loadTests/encryption.keyUrl` |
-

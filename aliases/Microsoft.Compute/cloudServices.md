@@ -1,4 +1,4 @@
-# Microsoft.Compute/cloudServices
+﻿# Microsoft.Compute/cloudServices
 
 | Default Path | Alias |
 |---|---|
@@ -63,4 +63,3 @@
 | `zones` | `Microsoft.Compute/cloudServices/zones` |
 | `zones[*]` | `Microsoft.Compute/cloudServices/zones[*]` |
 | `properties.osProfile.secrets[*].vaultCertificates[*].isBootstrapCertificate` | `Microsoft.Compute/cloudServices/osProfile.secrets[*].vaultCertificates[*].isBootstrapCertificate` |
-

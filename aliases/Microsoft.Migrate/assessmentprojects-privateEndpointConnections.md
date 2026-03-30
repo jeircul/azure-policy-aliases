@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentprojects/privateEndpointConnections
+﻿# Microsoft.Migrate/assessmentprojects/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Migrate/assessmentprojects/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

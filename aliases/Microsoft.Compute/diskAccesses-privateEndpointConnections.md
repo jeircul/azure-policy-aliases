@@ -1,4 +1,4 @@
-# Microsoft.Compute/diskAccesses/privateEndpointConnections
+﻿# Microsoft.Compute/diskAccesses/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Compute/diskAccesses/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Compute/diskAccesses/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.Compute/diskAccesses/privateEndpointConnections/provisioningState` |
-

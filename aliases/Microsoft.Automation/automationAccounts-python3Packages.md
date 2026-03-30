@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/python3Packages
+﻿# Microsoft.Automation/automationAccounts/python3Packages
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.contentLink.contentHash.algorithm` | `Microsoft.Automation/automationAccounts/python3Packages/contentLink.contentHash.algorithm` |
 | `properties.contentLink.contentHash.value` | `Microsoft.Automation/automationAccounts/python3Packages/contentLink.contentHash.value` |
 | `properties.contentLink.version` | `Microsoft.Automation/automationAccounts/python3Packages/contentLink.version` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Dashboard/grafana/managedPrivateEndpoints
+﻿# Microsoft.Dashboard/grafana/managedPrivateEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.connectionState.description` | `Microsoft.Dashboard/grafana/managedPrivateEndpoints/connectionState.description` |
 | `properties.privateLinkServiceUrl` | `Microsoft.Dashboard/grafana/managedPrivateEndpoints/privateLinkServiceUrl` |
 | `properties.privateLinkServicePrivateIP` | `Microsoft.Dashboard/grafana/managedPrivateEndpoints/privateLinkServicePrivateIP` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/extendedAuditingSettings
+﻿# Microsoft.Sql/servers/extendedAuditingSettings
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/extendedAuditingSettings/queueDelayMs` |
 | `properties.isDevopsAuditEnabled` | `Microsoft.Sql/servers/extendedAuditingSettings/isDevopsAuditEnabled` |
 | `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/extendedAuditingSettings/isManagedIdentityInUse` |
-

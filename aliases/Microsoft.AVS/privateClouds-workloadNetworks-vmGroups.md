@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/workloadNetworks/vmGroups
+﻿# Microsoft.AVS/privateClouds/workloadNetworks/vmGroups
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.status` | `Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/status` |
 | `properties.provisioningState` | `Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/provisioningState` |
 | `properties.revision` | `Microsoft.AVS/privateClouds/workloadNetworks/vmGroups/revision` |
-

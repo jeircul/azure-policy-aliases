@@ -1,4 +1,4 @@
-# Microsoft.Compute/disks
+﻿# Microsoft.Compute/disks
 
 | Default Path | Alias |
 |---|---|
@@ -109,4 +109,3 @@
 | `properties.creationData.instantAccessDurationMinutes` | `Microsoft.Compute/disks/creationData.instantAccessDurationMinutes` |
 | `properties.availabilityPolicy` | `Microsoft.Compute/disks/availabilityPolicy` |
 | `properties.availabilityPolicy.actionOnDiskDelay` | `Microsoft.Compute/disks/availabilityPolicy.actionOnDiskDelay` |
-

@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/featurestoreEntities
+﻿# Microsoft.MachineLearningServices/workspaces/featurestoreEntities
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.latestVersion` | `Microsoft.MachineLearningServices/workspaces/featurestoreEntities/latestVersion` |
 | `properties.nextVersion` | `Microsoft.MachineLearningServices/workspaces/featurestoreEntities/nextVersion` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/featurestoreEntities/provisioningState` |
-

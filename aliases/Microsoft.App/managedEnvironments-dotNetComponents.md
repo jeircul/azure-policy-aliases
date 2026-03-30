@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/dotNetComponents
+﻿# Microsoft.App/managedEnvironments/dotNetComponents
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.serviceBinds[*]` | `Microsoft.App/managedEnvironments/dotNetComponents/serviceBinds[*]` |
 | `properties.serviceBinds[*].name` | `Microsoft.App/managedEnvironments/dotNetComponents/serviceBinds[*].name` |
 | `properties.serviceBinds[*].serviceId` | `Microsoft.App/managedEnvironments/dotNetComponents/serviceBinds[*].serviceId` |
-

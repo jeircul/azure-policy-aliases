@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/securityUserConfigurations
+﻿# Microsoft.Network/networkManagers/securityUserConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.applyOnNetworkIntentPolicyBasedServices` | `Microsoft.Network/networkManagers/securityUserConfigurations/applyOnNetworkIntentPolicyBasedServices` |
 | `properties.applyOnNetworkIntentPolicyBasedServices[*]` | `Microsoft.Network/networkManagers/securityUserConfigurations/applyOnNetworkIntentPolicyBasedServices[*]` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityUserConfigurations/resourceGuid` |
-

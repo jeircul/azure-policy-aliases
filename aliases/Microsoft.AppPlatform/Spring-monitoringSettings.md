@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/monitoringSettings
+﻿# Microsoft.AppPlatform/Spring/monitoringSettings
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.appInsightsSamplingRate` | `Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsSamplingRate` |
 | `properties.appInsightsAgentVersions` | `Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsAgentVersions` |
 | `properties.appInsightsAgentVersions.java` | `Microsoft.AppPlatform/Spring/monitoringSettings/appInsightsAgentVersions.java` |
-

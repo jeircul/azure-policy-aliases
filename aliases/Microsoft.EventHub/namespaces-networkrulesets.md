@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces/networkrulesets
+﻿# Microsoft.EventHub/namespaces/networkrulesets
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.ipRules[*].action` | `Microsoft.EventHub/namespaces/networkRuleSets/ipRules[*].action` |
 | `properties.trustedServiceAccessEnabled` | `Microsoft.EventHub/namespaces/networkRuleSets/trustedServiceAccessEnabled` |
 | `properties.publicNetworkAccess` | `Microsoft.EventHub/namespaces/networkRuleSets/publicNetworkAccess` |
-

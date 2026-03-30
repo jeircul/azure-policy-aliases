@@ -1,4 +1,4 @@
-# Microsoft.StorageSync/storageSyncServices/registeredServers
+﻿# Microsoft.StorageSync/storageSyncServices/registeredServers
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.storageSyncServiceUid` | `Microsoft.StorageSync/storageSyncServices/registeredServers/storageSyncServiceUid` |
 | `properties.lastWorkflowId` | `Microsoft.StorageSync/storageSyncServices/registeredServers/lastWorkflowId` |
 | `properties.friendlyName` | `Microsoft.StorageSync/storageSyncServices/registeredServers/friendlyName` |
-

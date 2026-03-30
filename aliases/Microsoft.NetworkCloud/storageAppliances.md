@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/storageAppliances
+﻿# Microsoft.NetworkCloud/storageAppliances
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.remoteVendorManagementStatus` | `Microsoft.NetworkCloud/storageAppliances/remoteVendorManagementStatus` |
 | `properties.serialNumber` | `Microsoft.NetworkCloud/storageAppliances/serialNumber` |
 | `properties.storageApplianceSkuId` | `Microsoft.NetworkCloud/storageAppliances/storageApplianceSkuId` |
-

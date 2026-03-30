@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/incidents/comments
+﻿# Microsoft.SecurityInsights/incidents/comments
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.author.userPrincipalName` | `Microsoft.SecurityInsights/incidents/comments/author.userPrincipalName` |
 | `properties.author` | `Microsoft.SecurityInsights/incidents/comments/author` |
 | `properties.lastModifiedTimeUtc` | `Microsoft.SecurityInsights/incidents/comments/lastModifiedTimeUtc` |
-

@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/clusters/privateEndpoints
+﻿# Microsoft.StreamAnalytics/clusters/privateEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.manualPrivateLinkServiceConnections[*].properties.privateLinkServiceConnectionState.status` | `Microsoft.StreamAnalytics/clusters/privateEndpoints/manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.status` |
 | `properties.manualPrivateLinkServiceConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.StreamAnalytics/clusters/privateEndpoints/manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.manualPrivateLinkServiceConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.StreamAnalytics/clusters/privateEndpoints/manualPrivateLinkServiceConnections[*].privateLinkServiceConnectionState.actionsRequired` |
-

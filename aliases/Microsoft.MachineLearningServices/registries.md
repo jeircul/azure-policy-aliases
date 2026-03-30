@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/registries
+﻿# Microsoft.MachineLearningServices/registries
 
 | Default Path | Alias |
 |---|---|
@@ -80,4 +80,3 @@
 | `properties.syndicatedRegistries[*].syndicatedRegistryGuid` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*].syndicatedRegistryGuid` |
 | `properties.syndicatedRegistries[*].syndicatedRegistry` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*].syndicatedRegistry` |
 | `properties.syndicatedRegistries[*].syndicatedRegistry.registryId` | `Microsoft.MachineLearningServices/registries/syndicatedRegistries[*].syndicatedRegistry.registryId` |
-

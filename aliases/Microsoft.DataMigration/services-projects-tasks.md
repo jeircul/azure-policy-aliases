@@ -1,4 +1,4 @@
-# Microsoft.DataMigration/services/projects/tasks
+﻿# Microsoft.DataMigration/services/projects/tasks
 
 | Default Path | Alias |
 |---|---|
@@ -3588,4 +3588,3 @@
 | `properties.input.target.serverName` | `Microsoft.DataMigration/services/projects/tasks/Migrate-MongoDb.input.target.serverName` |
 | `properties.input.target.authentication` | `Microsoft.DataMigration/services/projects/tasks/Validate-MongoDb.input.target.authentication` |
 | `properties.input.target.authentication` | `Microsoft.DataMigration/services/projects/tasks/Migrate-MongoDb.input.target.authentication` |
-

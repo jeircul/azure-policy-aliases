@@ -1,4 +1,4 @@
-# Microsoft.AzureFleet/fleets
+﻿# Microsoft.AzureFleet/fleets
 
 | Default Path | Alias |
 |---|---|
@@ -80,4 +80,3 @@
 | `properties.spotPriorityProfile.maintain` | `Microsoft.AzureFleet/fleets/spotPriorityProfile.maintain` |
 | `properties.vmSizesProfile[*].rank` | `Microsoft.AzureFleet/fleets/vmSizesProfile[*].rank` |
 | `properties.computeProfile.platformFaultDomainCount` | `Microsoft.AzureFleet/fleets/computeProfile.platformFaultDomainCount` |
-

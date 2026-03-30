@@ -1,4 +1,4 @@
-# Microsoft.Network/dnszones/SRV
+﻿# Microsoft.Network/dnszones/SRV
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnszones/SRV/NAPTRRecords[*].replacement` |
 | `properties.trafficManagementProfile` | `Microsoft.Network/dnszones/SRV/trafficManagementProfile` |
 | `properties.trafficManagementProfile.id` | `Microsoft.Network/dnszones/SRV/trafficManagementProfile.id` |
-

@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/licenses
+﻿# Microsoft.HybridCompute/licenses
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.licenseDetails.volumeLicenseDetails[*]` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails[*]` |
 | `properties.licenseDetails.volumeLicenseDetails[*].programYear` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails[*].programYear` |
 | `properties.licenseDetails.volumeLicenseDetails[*].invoiceId` | `Microsoft.HybridCompute/licenses/licenseDetails.volumeLicenseDetails[*].invoiceId` |
-

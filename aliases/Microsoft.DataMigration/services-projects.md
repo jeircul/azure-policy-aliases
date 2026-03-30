@@ -1,4 +1,4 @@
-# Microsoft.DataMigration/services/projects
+﻿# Microsoft.DataMigration/services/projects
 
 | Default Path | Alias |
 |---|---|
@@ -122,4 +122,3 @@
 | `properties.azureAuthenticationInfo.appKey` | `Microsoft.DataMigration/services/projects/azureAuthenticationInfo.appKey` |
 | `properties.azureAuthenticationInfo.tenantId` | `Microsoft.DataMigration/services/projects/azureAuthenticationInfo.tenantId` |
 | `properties.azureAuthenticationInfo.ignoreAzurePermissions` | `Microsoft.DataMigration/services/projects/azureAuthenticationInfo.ignoreAzurePermissions` |
-

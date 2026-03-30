@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/clusters
+﻿# Microsoft.NetworkCloud/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -116,4 +116,3 @@
 | `properties.updateStrategy.thresholdType` | `Microsoft.NetworkCloud/clusters/updateStrategy.thresholdType` |
 | `properties.updateStrategy.thresholdValue` | `Microsoft.NetworkCloud/clusters/updateStrategy.thresholdValue` |
 | `properties.updateStrategy.waitTimeMinutes` | `Microsoft.NetworkCloud/clusters/updateStrategy.waitTimeMinutes` |
-

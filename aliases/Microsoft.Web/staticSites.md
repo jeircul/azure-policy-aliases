@@ -1,4 +1,4 @@
-# Microsoft.Web/staticSites
+﻿# Microsoft.Web/staticSites
 
 | Default Path | Alias |
 |---|---|
@@ -181,4 +181,3 @@
 | `properties.databaseConnections[*].configurationFiles[*].contents` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles[*].contents` |
 | `properties.databaseConnections[*].configurationFiles[*].type` | `Microsoft.Web/staticSites/databaseConnections[*].configurationFiles[*].type` |
 | `properties.databaseConnections[*].name` | `Microsoft.Web/staticSites/databaseConnections[*].name` |
-

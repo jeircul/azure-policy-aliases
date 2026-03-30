@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/certificates
+﻿# Microsoft.Logic/integrationAccounts/certificates
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.key.keyVersion` | `Microsoft.Logic/integrationAccounts/certificates/key.keyVersion` |
 | `properties.key` | `Microsoft.Logic/integrationAccounts/certificates/key` |
 | `properties.publicCertificate` | `Microsoft.Logic/integrationAccounts/certificates/publicCertificate` |
-

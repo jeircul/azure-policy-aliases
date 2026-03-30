@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/trunkedNetworks
+﻿# Microsoft.NetworkCloud/trunkedNetworks
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.virtualMachinesAssociatedIds[*]` | `Microsoft.NetworkCloud/trunkedNetworks/virtualMachinesAssociatedIds[*]` |
 | `properties.vlans` | `Microsoft.NetworkCloud/trunkedNetworks/vlans` |
 | `properties.vlans[*]` | `Microsoft.NetworkCloud/trunkedNetworks/vlans[*]` |
-

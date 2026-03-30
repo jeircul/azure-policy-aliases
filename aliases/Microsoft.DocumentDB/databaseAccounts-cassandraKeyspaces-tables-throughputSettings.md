@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings
+﻿# Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.resource.autoscaleSettings.targetMaxThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/resource.autoscaleSettings.targetMaxThroughput` |
 | `properties.resource.instantMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/resource.instantMaximumThroughput` |
 | `properties.resource.softAllowedMaximumThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/throughputSettings/resource.softAllowedMaximumThroughput` |
-

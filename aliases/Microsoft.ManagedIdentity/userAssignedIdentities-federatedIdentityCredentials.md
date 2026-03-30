@@ -1,4 +1,4 @@
-# Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials
+﻿# Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.claimsMatchingExpression` | `Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/claimsMatchingExpression` |
 | `properties.claimsMatchingExpression.value` | `Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/claimsMatchingExpression.value` |
 | `properties.claimsMatchingExpression.languageVersion` | `Microsoft.ManagedIdentity/userAssignedIdentities/federatedIdentityCredentials/claimsMatchingExpression.languageVersion` |
-

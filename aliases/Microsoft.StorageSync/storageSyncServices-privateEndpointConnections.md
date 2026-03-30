@@ -1,4 +1,4 @@
-# Microsoft.StorageSync/storageSyncServices/privateEndpointConnections
+﻿# Microsoft.StorageSync/storageSyncServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/provisioningState` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.StorageSync/storageSyncServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

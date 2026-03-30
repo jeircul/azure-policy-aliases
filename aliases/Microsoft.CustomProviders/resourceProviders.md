@@ -1,4 +1,4 @@
-# Microsoft.CustomProviders/resourceProviders
+﻿# Microsoft.CustomProviders/resourceProviders
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.validations[*]` | `Microsoft.CustomProviders/resourceProviders/validations[*]` |
 | `properties.validations` | `Microsoft.CustomProviders/resourceProviders/validations` |
 | `properties.provisioningState` | `Microsoft.CustomProviders/resourceProviders/provisioningState` |
-

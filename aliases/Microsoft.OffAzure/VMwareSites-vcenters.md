@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/VMwareSites/vcenters
+﻿# Microsoft.OffAzure/VMwareSites/vcenters
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.errors[*].summaryMessage` | `Microsoft.OffAzure/VMwareSites/vCenters/errors[*].summaryMessage` |
 | `properties.errors[*].source` | `Microsoft.OffAzure/VMwareSites/vCenters/errors[*].source` |
 | `properties.errors[*].messageParameters` | `Microsoft.OffAzure/VMwareSites/vCenters/errors[*].messageParameters` |
-

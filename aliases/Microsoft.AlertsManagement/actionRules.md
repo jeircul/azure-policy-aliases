@@ -1,4 +1,4 @@
-# Microsoft.AlertsManagement/actionRules
+﻿# Microsoft.AlertsManagement/actionRules
 
 | Default Path | Alias |
 |---|---|
@@ -114,4 +114,3 @@
 | `properties.actions[*].correlationInterval` | `Microsoft.AlertsManagement/actionRules/actions[*].CorrelateAlerts.correlationInterval` |
 | `properties.actions[*].priority` | `Microsoft.AlertsManagement/actionRules/actions[*].CorrelateAlerts.priority` |
 | `properties.actions[*].notificationsForCorrelatedAlerts` | `Microsoft.AlertsManagement/actionRules/actions[*].CorrelateAlerts.notificationsForCorrelatedAlerts` |
-

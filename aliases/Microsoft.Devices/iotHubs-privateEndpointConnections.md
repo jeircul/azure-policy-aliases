@@ -1,4 +1,4 @@
-# Microsoft.Devices/iotHubs/privateEndpointConnections
+﻿# Microsoft.Devices/iotHubs/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Devices/iotHubs/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

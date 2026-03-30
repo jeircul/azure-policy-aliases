@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/portalRevisions
+﻿# Microsoft.ApiManagement/service/portalRevisions
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.createdDateTime` | `Microsoft.ApiManagement/service/portalRevisions/createdDateTime` |
 | `properties.updatedDateTime` | `Microsoft.ApiManagement/service/portalRevisions/updatedDateTime` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/portalRevisions/provisioningState` |
-

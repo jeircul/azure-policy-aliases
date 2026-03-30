@@ -1,4 +1,4 @@
-# Microsoft.IoTCentral/IoTApps/privateEndpointConnections
+﻿# Microsoft.IoTCentral/IoTApps/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.IoTCentral/iotApps/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.IoTCentral/iotApps/privateEndpointConnections/provisioningState` |
-

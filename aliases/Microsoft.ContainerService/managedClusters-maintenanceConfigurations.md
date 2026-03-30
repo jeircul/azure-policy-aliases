@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/maintenanceConfigurations
+﻿# Microsoft.ContainerService/managedClusters/maintenanceConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.maintenanceWindow.notAllowedDates[*]` | `Microsoft.ContainerService/managedClusters/maintenanceConfigurations/maintenanceWindow.notAllowedDates[*]` |
 | `properties.maintenanceWindow.notAllowedDates[*].start` | `Microsoft.ContainerService/managedClusters/maintenanceConfigurations/maintenanceWindow.notAllowedDates[*].start` |
 | `properties.maintenanceWindow.notAllowedDates[*].end` | `Microsoft.ContainerService/managedClusters/maintenanceConfigurations/maintenanceWindow.notAllowedDates[*].end` |
-

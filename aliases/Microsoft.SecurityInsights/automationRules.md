@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/automationRules
+﻿# Microsoft.SecurityInsights/automationRules
 
 | Default Path | Alias |
 |---|---|
@@ -50,4 +50,3 @@
 | `properties.lastModifiedBy.name` | `Microsoft.SecurityInsights/automationRules/lastModifiedBy.name` |
 | `properties.lastModifiedBy.objectId` | `Microsoft.SecurityInsights/automationRules/lastModifiedBy.objectId` |
 | `properties.lastModifiedBy.userPrincipalName` | `Microsoft.SecurityInsights/automationRules/lastModifiedBy.userPrincipalName` |
-

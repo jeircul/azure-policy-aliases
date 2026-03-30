@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers
+﻿# Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers
 
 | Default Path | Alias |
 |---|---|
@@ -110,4 +110,3 @@
 | `properties.resource.dataMaskingPolicy.excludedPaths[*]` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.excludedPaths[*]` |
 | `properties.resource.dataMaskingPolicy.excludedPaths[*].path` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.excludedPaths[*].path` |
 | `properties.resource.dataMaskingPolicy.isPolicyEnabled` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/resource.dataMaskingPolicy.isPolicyEnabled` |
-

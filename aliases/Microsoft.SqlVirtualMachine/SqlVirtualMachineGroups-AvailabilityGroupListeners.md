@@ -1,4 +1,4 @@
-# Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners
+﻿# Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/AvailabilityGroupListeners
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.multiSubnetIpConfigurations[*].privateIpAddress.ipAddress` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].privateIpAddress.ipAddress` |
 | `properties.multiSubnetIpConfigurations[*].privateIpAddress.subnetResourceId` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].privateIpAddress.subnetResourceId` |
 | `properties.multiSubnetIpConfigurations[*].sqlVirtualMachineInstance` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/availabilityGroupListeners/multiSubnetIpConfigurations[*].sqlVirtualMachineInstance` |
-

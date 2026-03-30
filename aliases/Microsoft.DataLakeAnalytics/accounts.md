@@ -1,4 +1,4 @@
-# Microsoft.DataLakeAnalytics/accounts
+﻿# Microsoft.DataLakeAnalytics/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.endIpAddress` | `Microsoft.DataLakeAnalytics/accounts/endIpAddress` |
 | `properties.computePolicies[*].name` | `Microsoft.DataLakeAnalytics/accounts/computePolicies[*].name` |
 | `properties.firewallRules[*].name` | `Microsoft.DataLakeAnalytics/accounts/firewallRules[*].name` |
-

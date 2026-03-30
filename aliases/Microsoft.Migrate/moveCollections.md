@@ -1,4 +1,4 @@
-# Microsoft.Migrate/moveCollections
+﻿# Microsoft.Migrate/moveCollections
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.errors.properties.details[*].target` | `Microsoft.Migrate/moveCollections/errors.details[*].target` |
 | `properties.errors.properties.details[*].details` | `Microsoft.Migrate/moveCollections/errors.details[*].details` |
 | `properties.errors.properties.details[*].details[*]` | `Microsoft.Migrate/moveCollections/errors.details[*].details[*]` |
-

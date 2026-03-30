@@ -1,4 +1,4 @@
-# Microsoft.Authorization/roleManagementPolicies
+﻿# Microsoft.Authorization/roleManagementPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -153,4 +153,3 @@
 | `properties.effectiveRules[*].exceptionMembers[*].isBackup` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyExpirationRule.exceptionMembers[*].isBackup` |
 | `properties.effectiveRules[*].exceptionMembers[*].id` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyExpirationRule.exceptionMembers[*].id` |
 | `properties.effectiveRules[*].exceptionMembers[*].description` | `Microsoft.Authorization/roleManagementPolicies/effectiveRules[*].RoleManagementPolicyExpirationRule.exceptionMembers[*].description` |
-

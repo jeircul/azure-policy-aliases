@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/authorizationProviders/authorizations
+﻿# Microsoft.ApiManagement/service/authorizationProviders/authorizations
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.error.code` | `Microsoft.ApiManagement/service/authorizationProviders/authorizations/error.code` |
 | `properties.error.message` | `Microsoft.ApiManagement/service/authorizationProviders/authorizations/error.message` |
 | `properties.status` | `Microsoft.ApiManagement/service/authorizationProviders/authorizations/status` |
-

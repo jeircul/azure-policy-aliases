@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/rulesets/rules
+﻿# Microsoft.Cdn/profiles/rulesets/rules
 
 | Default Path | Alias |
 |---|---|
@@ -691,4 +691,3 @@
 | `properties.actions[*].parameters.parameterNameOverride[*]` | `Microsoft.Cdn/profiles/ruleSets/rules/actions[*].AfdUrlSigning.parameters.parameterNameOverride[*]` |
 | `properties.actions[*].parameters.typeName` | `Microsoft.Cdn/profiles/ruleSets/rules/actions[*].AfdUrlSigning.parameters.typeName` |
 | `properties.actions[*].parameters.keyGroupReference` | `Microsoft.Cdn/profiles/ruleSets/rules/actions[*].AfdUrlSigning.parameters.keyGroupReference` |
-

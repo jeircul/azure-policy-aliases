@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/origingroups
+﻿# Microsoft.Cdn/profiles/origingroups
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.provisioningState` | `Microsoft.Cdn/profiles/originGroups/provisioningState` |
 | `properties.deploymentStatus` | `Microsoft.Cdn/profiles/originGroups/deploymentStatus` |
 | `properties.profileName` | `Microsoft.Cdn/profiles/originGroups/profileName` |
-

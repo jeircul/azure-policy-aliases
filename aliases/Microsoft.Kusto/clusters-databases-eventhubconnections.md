@@ -1,4 +1,4 @@
-# Microsoft.Kusto/clusters/databases/eventhubconnections
+﻿# Microsoft.Kusto/clusters/databases/eventhubconnections
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.tableName` | `Microsoft.Kusto/clusters/databases/eventhubconnections/tableName` |
 | `properties.mappingRuleName` | `Microsoft.Kusto/clusters/databases/eventhubconnections/mappingRuleName` |
 | `properties.dataFormat` | `Microsoft.Kusto/clusters/databases/eventhubconnections/dataFormat` |
-

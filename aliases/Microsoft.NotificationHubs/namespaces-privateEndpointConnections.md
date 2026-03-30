@@ -1,4 +1,4 @@
-# Microsoft.NotificationHubs/namespaces/privateEndpointConnections
+﻿# Microsoft.NotificationHubs/namespaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.NotificationHubs/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.NotificationHubs/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.NotificationHubs/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

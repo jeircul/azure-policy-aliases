@@ -1,4 +1,4 @@
-# Microsoft.Resources/deploymentStacks
+﻿# Microsoft.Resources/deploymentStacks
 
 | Default Path | Alias |
 |---|---|
@@ -114,4 +114,3 @@
 | `properties.failedResources[*].error.additionalInfo` | `Microsoft.Resources/deploymentStacks/failedResources[*].error.additionalInfo` |
 | `properties.failedResources[*].error.additionalInfo[*]` | `Microsoft.Resources/deploymentStacks/failedResources[*].error.additionalInfo[*]` |
 | `properties.failedResources[*].error.additionalInfo[*].type` | `Microsoft.Resources/deploymentStacks/failedResources[*].error.additionalInfo[*].type` |
-

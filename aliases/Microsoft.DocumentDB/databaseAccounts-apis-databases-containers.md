@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/apis/databases/containers
+﻿# Microsoft.DocumentDB/databaseAccounts/apis/databases/containers
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.conflictResolutionPolicy.mode` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/conflictResolutionPolicy.mode` |
 | `properties.conflictResolutionPolicy.conflictResolutionPath` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/conflictResolutionPolicy.conflictResolutionPath` |
 | `properties.conflictResolutionPolicy.conflictResolutionProcedure` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/containers/conflictResolutionPolicy.conflictResolutionProcedure` |
-

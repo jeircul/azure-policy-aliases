@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections
+﻿# Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.EventGrid/partnerNamespaces/privateEndpointConnections/provisioningState` |
-

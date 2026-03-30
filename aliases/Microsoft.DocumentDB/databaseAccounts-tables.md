@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/tables
+﻿# Microsoft.DocumentDB/databaseAccounts/tables
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.createMode` |
 | `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/tables/resource.restoreParameters.restoreWithTtlDisabled` |
-

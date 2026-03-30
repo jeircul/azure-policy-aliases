@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/gateways
+﻿# Microsoft.ApiManagement/service/gateways
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.hostname` | `Microsoft.ApiManagement/service/gateways/hostnameConfigurations.hostname` |
 | `properties.certificateId` | `Microsoft.ApiManagement/service/gateways/hostnameConfigurations.certificateId` |
 | `properties.negotiateClientCertificate` | `Microsoft.ApiManagement/service/gateways/hostnameConfigurations.negotiateClientCertificate` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/kustoPools/attacheddatabaseconfigurations
+﻿# Microsoft.Synapse/workspaces/kustoPools/attacheddatabaseconfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.tableLevelSharingProperties.materializedViewsToInclude[*]` | `Microsoft.Synapse/workspaces/kustoPools/attachedDatabaseConfigurations/tableLevelSharingProperties.materializedViewsToInclude[*]` |
 | `properties.tableLevelSharingProperties.materializedViewsToExclude` | `Microsoft.Synapse/workspaces/kustoPools/attachedDatabaseConfigurations/tableLevelSharingProperties.materializedViewsToExclude` |
 | `properties.tableLevelSharingProperties.materializedViewsToExclude[*]` | `Microsoft.Synapse/workspaces/kustoPools/attachedDatabaseConfigurations/tableLevelSharingProperties.materializedViewsToExclude[*]` |
-

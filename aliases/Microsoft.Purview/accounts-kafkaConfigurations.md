@@ -1,4 +1,4 @@
-# Microsoft.Purview/accounts/kafkaConfigurations
+﻿# Microsoft.Purview/accounts/kafkaConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.eventStreamingState` | `Microsoft.Purview/accounts/kafkaConfigurations/eventStreamingState` |
 | `properties.eventStreamingType` | `Microsoft.Purview/accounts/kafkaConfigurations/eventStreamingType` |
 | `properties.eventHubPartitionId` | `Microsoft.Purview/accounts/kafkaConfigurations/eventHubPartitionId` |
-

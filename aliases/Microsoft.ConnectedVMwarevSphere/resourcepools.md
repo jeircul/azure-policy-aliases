@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/resourcepools
+﻿# Microsoft.ConnectedVMwarevSphere/resourcepools
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.statuses[*].severity` | `Microsoft.ConnectedVMwarevSphere/resourcePools/statuses[*].severity` |
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/resourcePools/statuses[*].lastUpdatedAt` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/resourcePools/provisioningState` |
-

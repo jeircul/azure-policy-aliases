@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/virtualmachines
+﻿# Microsoft.ConnectedVMwarevSphere/virtualmachines
 
 | Default Path | Alias |
 |---|---|
@@ -112,4 +112,3 @@
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/statuses[*].lastUpdatedAt` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/provisioningState` |
 | `properties.vmId` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/vmId` |
-

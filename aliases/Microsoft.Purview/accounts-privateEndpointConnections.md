@@ -1,4 +1,4 @@
-# Microsoft.Purview/accounts/privateEndpointConnections
+﻿# Microsoft.Purview/accounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Purview/accounts/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.Purview/accounts/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.provisioningState` | `Microsoft.Purview/accounts/privateEndpointConnections/provisioningState` |
-

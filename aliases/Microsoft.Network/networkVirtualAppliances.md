@@ -1,4 +1,4 @@
-# Microsoft.Network/networkVirtualAppliances
+﻿# Microsoft.Network/networkVirtualAppliances
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.nvaInterfaceConfigurations[*].type[*]` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].type[*]` |
 | `properties.nvaInterfaceConfigurations[*].name` | `Microsoft.Network/networkVirtualAppliances/nvaInterfaceConfigurations[*].name` |
 | `properties.privateIpAddress` | `Microsoft.Network/networkVirtualAppliances/privateIpAddress` |
-

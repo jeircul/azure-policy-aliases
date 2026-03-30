@@ -1,4 +1,4 @@
-# Microsoft.Network/privateLinkServices/privateEndpointConnections
+﻿# Microsoft.Network/privateLinkServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -93,4 +93,3 @@
 | `properties.privateEndpoint.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].location` |
 | `properties.privateEndpoint.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.applicationSecurityGroups[*].tags` |
 | `properties.privateEndpoint.properties.ipVersionType` | `Microsoft.Network/privateLinkServices/privateEndpointConnections/privateEndpoint.ipVersionType` |
-

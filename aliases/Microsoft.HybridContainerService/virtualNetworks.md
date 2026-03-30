@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/virtualNetworks
+﻿# Microsoft.HybridContainerService/virtualNetworks
 
 | Default Path | Alias |
 |---|---|
@@ -44,4 +44,3 @@
 | `properties.status.operationStatus.operationId` | `Microsoft.HybridContainerService/virtualNetworks/status.operationStatus.operationId` |
 | `properties.status.operationStatus.phase` | `Microsoft.HybridContainerService/virtualNetworks/status.operationStatus.phase` |
 | `properties.status.operationStatus.status` | `Microsoft.HybridContainerService/virtualNetworks/status.operationStatus.status` |
-

@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/l3Networks
+﻿# Microsoft.NetworkCloud/l3Networks
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.virtualMachinesAssociatedIds` | `Microsoft.NetworkCloud/l3Networks/virtualMachinesAssociatedIds` |
 | `properties.virtualMachinesAssociatedIds[*]` | `Microsoft.NetworkCloud/l3Networks/virtualMachinesAssociatedIds[*]` |
 | `properties.vlan` | `Microsoft.NetworkCloud/l3Networks/vlan` |
-

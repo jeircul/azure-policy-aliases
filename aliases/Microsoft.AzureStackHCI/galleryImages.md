@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/galleryImages
+﻿# Microsoft.AzureStackHCI/galleryImages
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.vmImageRepositoryCredentials` | `Microsoft.AzureStackHCI/galleryimages/vmImageRepositoryCredentials` |
 | `properties.vmImageRepositoryCredentials.username` | `Microsoft.AzureStackHCI/galleryimages/vmImageRepositoryCredentials.username` |
 | `properties.vmImageRepositoryCredentials.password` | `Microsoft.AzureStackHCI/galleryimages/vmImageRepositoryCredentials.password` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/gateways/configConnections
+﻿# Microsoft.ApiManagement/gateways/configConnections
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.defaultHostname` | `Microsoft.ApiManagement/gateways/configConnections/defaultHostname` |
 | `properties.hostnames` | `Microsoft.ApiManagement/gateways/configConnections/hostnames` |
 | `properties.hostnames[*]` | `Microsoft.ApiManagement/gateways/configConnections/hostnames[*]` |
-

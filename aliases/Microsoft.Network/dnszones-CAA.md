@@ -1,4 +1,4 @@
-# Microsoft.Network/dnszones/CAA
+﻿# Microsoft.Network/dnszones/CAA
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnsZones/CAA/NAPTRRecords[*].replacement` |
 | `properties.trafficManagementProfile` | `Microsoft.Network/dnsZones/CAA/trafficManagementProfile` |
 | `properties.trafficManagementProfile.id` | `Microsoft.Network/dnsZones/CAA/trafficManagementProfile.id` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/encryptionProtector
+﻿# Microsoft.Sql/managedInstances/encryptionProtector
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.uri` | `Microsoft.Sql/managedInstances/encryptionProtector/current.uri` |
 | `properties.thumbprint` | `Microsoft.Sql/managedInstances/encryptionProtector/current.thumbprint` |
 | `properties.autoRotationEnabled` | `Microsoft.Sql/managedInstances/encryptionProtector/autoRotationEnabled` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/sourceControls
+﻿# Microsoft.Automation/automationAccounts/sourceControls
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.publishRunbook` | `Microsoft.Automation/automationAccounts/sourceControls/publishRunbook` |
 | `properties.sourceType` | `Microsoft.Automation/automationAccounts/sourceControls/sourceType` |
 | `properties.description` | `Microsoft.Automation/automationAccounts/sourceControls/description` |
-

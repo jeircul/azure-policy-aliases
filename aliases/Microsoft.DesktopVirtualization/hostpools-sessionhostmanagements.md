@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements
+﻿# Microsoft.DesktopVirtualization/hostpools/sessionhostmanagements
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.update.maxVmsRemoved` | `Microsoft.DesktopVirtualization/hostPools/sessionHostManagements/update.maxVmsRemoved` |
 | `properties.update.logOffDelayMinutes` | `Microsoft.DesktopVirtualization/hostPools/sessionHostManagements/update.logOffDelayMinutes` |
 | `properties.update.logOffMessage` | `Microsoft.DesktopVirtualization/hostPools/sessionHostManagements/update.logOffMessage` |
-

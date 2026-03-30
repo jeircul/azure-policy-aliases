@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions
+﻿# Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.marketplaceSubscriptionStatus` | `Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions/marketplaceSubscriptionStatus` |
 | `properties.modelId` | `Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions/modelId` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/marketplaceSubscriptions/provisioningState` |
-

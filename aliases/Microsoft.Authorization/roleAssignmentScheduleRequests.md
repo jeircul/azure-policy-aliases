@@ -1,4 +1,4 @@
-# Microsoft.Authorization/roleAssignmentScheduleRequests
+﻿# Microsoft.Authorization/roleAssignmentScheduleRequests
 
 | Default Path | Alias |
 |---|---|
@@ -40,4 +40,3 @@
 | `properties.expandedProperties.principal.displayName` | `Microsoft.Authorization/roleAssignmentScheduleRequests/expandedProperties.principal.displayName` |
 | `properties.expandedProperties.principal.email` | `Microsoft.Authorization/roleAssignmentScheduleRequests/expandedProperties.principal.email` |
 | `properties.expandedProperties.principal.type` | `Microsoft.Authorization/roleAssignmentScheduleRequests/expandedProperties.principal.type` |
-

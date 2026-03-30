@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/managementPolicies
+﻿# Microsoft.Storage/storageAccounts/managementPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -109,4 +109,3 @@
 | `properties.policy.rules[*].definition.actions.version.tierToHot` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToHot` |
 | `properties.policy.rules[*].definition.actions.version.tierToHot.daysAfterCreationGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToHot.daysAfterCreationGreaterThan` |
 | `properties.policy.rules[*].definition.actions.version.tierToHot.daysAfterLastTierChangeGreaterThan` | `Microsoft.Storage/storageAccounts/managementPolicies/policy.rules[*].definition.actions.version.tierToHot.daysAfterLastTierChangeGreaterThan` |
-

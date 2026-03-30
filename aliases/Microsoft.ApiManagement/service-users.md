@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/users
+﻿# Microsoft.ApiManagement/service/users
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.identities[*].id` | `Microsoft.ApiManagement/service/users/identities[*].id` |
 | `properties.identities[*]` | `Microsoft.ApiManagement/service/users/identities[*]` |
 | `properties.identities` | `Microsoft.ApiManagement/service/users/identities` |
-

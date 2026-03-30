@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualNetworks/virtualNetworkPeerings
+﻿# Microsoft.Network/virtualNetworks/virtualNetworkPeerings
 
 | Default Path | Alias |
 |---|---|
@@ -66,4 +66,3 @@
 | `properties.remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualNetworks/virtualNetworkPeerings/remoteVirtualNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

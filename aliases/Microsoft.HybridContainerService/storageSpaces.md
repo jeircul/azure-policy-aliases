@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/storageSpaces
+﻿# Microsoft.HybridContainerService/storageSpaces
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.status.provisioningStatus.operationId` | `Microsoft.HybridContainerService/storageSpaces/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.phase` | `Microsoft.HybridContainerService/storageSpaces/status.provisioningStatus.phase` |
 | `properties.status.provisioningStatus.status` | `Microsoft.HybridContainerService/storageSpaces/status.provisioningStatus.status` |
-

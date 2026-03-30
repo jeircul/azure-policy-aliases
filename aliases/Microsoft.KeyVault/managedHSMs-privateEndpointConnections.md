@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/managedHSMs/privateEndpointConnections
+﻿# Microsoft.KeyVault/managedHSMs/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.KeyVault/managedHSMs/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.KeyVault/managedHSMs/privateEndpointConnections/provisioningState` |
-

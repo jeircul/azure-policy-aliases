@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/clusters
+﻿# Microsoft.ConnectedVMwarevSphere/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.networkIds` | `Microsoft.ConnectedVMwarevSphere/clusters/networkIds` |
 | `properties.networkIds[*]` | `Microsoft.ConnectedVMwarevSphere/clusters/networkIds[*]` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/clusters/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerTopics
+﻿# Microsoft.EventGrid/partnerTopics
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/partnerTopics/eventTypeInfo.kind` |
 | `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/partnerTopics/eventTypeInfo.inlineEventTypes` |
 | `properties.messageForActivation` | `Microsoft.EventGrid/partnerTopics/messageForActivation` |
-

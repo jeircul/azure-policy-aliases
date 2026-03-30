@@ -1,4 +1,4 @@
-# Microsoft.Dashboard/grafana/privateEndpointConnections
+﻿# Microsoft.Dashboard/grafana/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.groupIds` | `Microsoft.Dashboard/grafana/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Dashboard/grafana/privateEndpointConnections/groupIds[*]` |
 | `properties.provisioningState` | `Microsoft.Dashboard/grafana/privateEndpointConnections/provisioningState` |
-

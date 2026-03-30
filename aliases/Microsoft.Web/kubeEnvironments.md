@@ -1,4 +1,4 @@
-# Microsoft.Web/kubeEnvironments
+﻿# Microsoft.Web/kubeEnvironments
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.containerAppsConfiguration.controlPlaneSubnetResourceId` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.controlPlaneSubnetResourceId` |
 | `properties.containerAppsConfiguration.appSubnetResourceId` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.appSubnetResourceId` |
 | `properties.containerAppsConfiguration.dockerBridgeCidr` | `Microsoft.Web/kubeEnvironments/containerAppsConfiguration.dockerBridgeCidr` |
-

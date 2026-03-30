@@ -1,4 +1,4 @@
-# Microsoft.Cache/redis/accessPolicyAssignments
+﻿# Microsoft.Cache/redis/accessPolicyAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.objectId` | `Microsoft.Cache/redis/accessPolicyAssignments/objectId` |
 | `properties.objectIdAlias` | `Microsoft.Cache/redis/accessPolicyAssignments/objectIdAlias` |
 | `properties.accessPolicyName` | `Microsoft.Cache/redis/accessPolicyAssignments/accessPolicyName` |
-

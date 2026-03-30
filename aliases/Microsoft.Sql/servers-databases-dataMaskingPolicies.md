@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/dataMaskingPolicies
+﻿# Microsoft.Sql/servers/databases/dataMaskingPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.exemptPrincipals` | `Microsoft.Sql/servers/databases/dataMaskingPolicies/Default.exemptPrincipals` |
 | `properties.applicationPrincipals` | `Microsoft.Sql/servers/databases/dataMaskingPolicies/Default.applicationPrincipals` |
 | `properties.maskingLevel` | `Microsoft.Sql/servers/databases/dataMaskingPolicies/Default.maskingLevel` |
-

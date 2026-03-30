@@ -1,4 +1,4 @@
-# Microsoft.Fabric/capacities
+﻿# Microsoft.Fabric/capacities
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `sku` | `Microsoft.Fabric/capacities/sku` |
 | `sku.name` | `Microsoft.Fabric/capacities/sku.name` |
 | `sku.tier` | `Microsoft.Fabric/capacities/sku.tier` |
-

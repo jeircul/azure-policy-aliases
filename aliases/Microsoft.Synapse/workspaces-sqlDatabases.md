@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlDatabases
+﻿# Microsoft.Synapse/workspaces/sqlDatabases
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.dataRetention` | `Microsoft.Synapse/workspaces/sqlDatabases/dataRetention` |
 | `properties.dataRetention.retentionPeriod` | `Microsoft.Synapse/workspaces/sqlDatabases/dataRetention.retentionPeriod` |
 | `properties.dataRetention.dropRetentionPeriod` | `Microsoft.Synapse/workspaces/sqlDatabases/dataRetention.dropRetentionPeriod` |
-

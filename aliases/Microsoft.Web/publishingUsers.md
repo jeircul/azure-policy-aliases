@@ -1,4 +1,4 @@
-# Microsoft.Web/publishingUsers
+﻿# Microsoft.Web/publishingUsers
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.scmUri` | `Microsoft.Web/publishingUsers/scmUri` |
 | `properties.publishingPasswordHash` | `Microsoft.Web/publishingUsers/publishingPasswordHash` |
 | `properties.publishingPasswordHashSalt` | `Microsoft.Web/publishingUsers/publishingPasswordHashSalt` |
-

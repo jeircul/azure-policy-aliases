@@ -1,4 +1,4 @@
-# Microsoft.Security/locations/jitNetworkAccessPolicies
+﻿# Microsoft.Security/locations/jitNetworkAccessPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.virtualMachines[*].publicIpAddress` | `Microsoft.Security/locations/jitNetworkAccessPolicies/virtualMachines[*].publicIpAddress` |
 | `properties.requests[*].virtualMachines[*].ports[*].mappedPort` | `Microsoft.Security/locations/jitNetworkAccessPolicies/requests[*].virtualMachines[*].ports[*].mappedPort` |
 | `properties.requests[*].justification` | `Microsoft.Security/locations/jitNetworkAccessPolicies/requests[*].justification` |
-

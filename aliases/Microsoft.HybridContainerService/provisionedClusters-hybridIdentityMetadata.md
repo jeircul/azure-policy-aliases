@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata
+﻿# Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.identity.tenantId` | `Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata/identity.tenantId` |
 | `properties.identity.type` | `Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata/identity.type` |
 | `properties.provisioningState` | `Microsoft.HybridContainerService/provisionedClusters/hybridIdentityMetadata/provisioningState` |
-

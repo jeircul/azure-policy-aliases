@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualRouters
+﻿# Microsoft.Network/virtualRouters
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.peerings[*]` | `Microsoft.Network/virtualRouters/peerings[*]` |
 | `properties.peerings` | `Microsoft.Network/virtualRouters/peerings` |
 | `properties.provisioningState` | `Microsoft.Network/virtualRouters/provisioningState` |
-

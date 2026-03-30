@@ -1,4 +1,4 @@
-# Microsoft.ServiceNetworking/trafficControllers/frontends
+﻿# Microsoft.ServiceNetworking/trafficControllers/frontends
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.securityPolicyConfigurations.wafSecurityPolicy.id` | `Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.wafSecurityPolicy.id` |
 | `properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy` | `Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.ipAccessRulesSecurityPolicy` |
 | `properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id` | `Microsoft.ServiceNetworking/trafficControllers/frontends/securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id` |
-

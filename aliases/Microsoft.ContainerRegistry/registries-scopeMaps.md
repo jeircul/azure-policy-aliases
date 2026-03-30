@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/scopeMaps
+﻿# Microsoft.ContainerRegistry/registries/scopeMaps
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/scopeMaps/provisioningState` |
 | `properties.actions[*]` | `Microsoft.ContainerRegistry/registries/scopeMaps/actions[*]` |
 | `properties.actions` | `Microsoft.ContainerRegistry/registries/scopeMaps/actions` |
-

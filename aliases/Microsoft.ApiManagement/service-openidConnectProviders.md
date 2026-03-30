@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/openidConnectProviders
+﻿# Microsoft.ApiManagement/service/openidConnectProviders
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.clientSecret` | `Microsoft.ApiManagement/service/openidConnectProviders/clientSecret` |
 | `properties.useInTestConsole` | `Microsoft.ApiManagement/service/openidConnectProviders/useInTestConsole` |
 | `properties.useInApiDocumentation` | `Microsoft.ApiManagement/service/openidConnectProviders/useInApiDocumentation` |
-

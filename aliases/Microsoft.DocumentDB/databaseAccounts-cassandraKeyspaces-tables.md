@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables
+﻿# Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.resource.analyticalStorageTtl` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/resource.analyticalStorageTtl` |
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/options.autoscaleSettings.maxThroughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/tables/options.autoscaleSettings` |
-

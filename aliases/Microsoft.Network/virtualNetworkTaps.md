@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualNetworkTaps
+﻿# Microsoft.Network/virtualNetworkTaps
 
 | Default Path | Alias |
 |---|---|
@@ -933,4 +933,3 @@
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].location` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].location` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.applicationSecurityGroups[*].tags` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.applicationSecurityGroups[*].tags` |
 | `properties.destinationNetworkInterfaceIPConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/virtualNetworkTaps/destinationNetworkInterfaceIPConfiguration.publicIPAddress.extendedLocation` |
-

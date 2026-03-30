@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/devcenters/catalogs
+﻿# Microsoft.DevCenter/devcenters/catalogs
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.tags` | `Microsoft.DevCenter/devcenters/catalogs/tags` |
 | `properties.lastSyncStats.syncedCatalogItemTypes` | `Microsoft.DevCenter/devcenters/catalogs/lastSyncStats.syncedCatalogItemTypes` |
 | `properties.lastSyncStats.syncedCatalogItemTypes[*]` | `Microsoft.DevCenter/devcenters/catalogs/lastSyncStats.syncedCatalogItemTypes[*]` |
-

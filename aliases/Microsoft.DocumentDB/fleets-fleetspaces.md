@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/fleets/fleetspaces
+﻿# Microsoft.DocumentDB/fleets/fleetspaces
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.dataRegions[*]` | `Microsoft.DocumentDB/fleets/fleetspaces/dataRegions[*]` |
 | `properties.throughputPoolConfiguration.dedicatedRUs` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.dedicatedRUs` |
 | `properties.throughputPoolConfiguration.maxConsumableRUs` | `Microsoft.DocumentDB/fleets/fleetspaces/throughputPoolConfiguration.maxConsumableRUs` |
-

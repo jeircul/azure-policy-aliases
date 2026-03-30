@@ -1,4 +1,4 @@
-# Microsoft.ContainerInstance/containerGroupProfiles
+﻿# Microsoft.ContainerInstance/containerGroupProfiles
 
 | Default Path | Alias |
 |---|---|
@@ -162,4 +162,3 @@
 | `properties.registeredRevisions` | `Microsoft.ContainerInstance/containerGroupProfiles/registeredRevisions` |
 | `properties.registeredRevisions[*]` | `Microsoft.ContainerInstance/containerGroupProfiles/registeredRevisions[*]` |
 | `properties.useKrypton` | `Microsoft.ContainerInstance/containerGroupProfiles/useKrypton` |
-

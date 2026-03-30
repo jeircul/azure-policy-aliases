@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/costs
+﻿# Microsoft.DevTestLab/labs/costs
 
 | Default Path | Alias |
 |---|---|
@@ -40,4 +40,3 @@
 | `properties.createdDate` | `Microsoft.DevTestLab/labs/costs/createdDate` |
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/costs/provisioningState` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/costs/uniqueIdentifier` |
-

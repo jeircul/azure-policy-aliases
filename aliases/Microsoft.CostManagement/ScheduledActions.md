@@ -1,4 +1,4 @@
-# Microsoft.CostManagement/ScheduledActions
+﻿# Microsoft.CostManagement/ScheduledActions
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.notification.language` | `Microsoft.CostManagement/scheduledActions/notification.language` |
 | `properties.notification.regionalFormat` | `Microsoft.CostManagement/scheduledActions/notification.regionalFormat` |
 | `properties.notificationEmail` | `Microsoft.CostManagement/scheduledActions/notificationEmail` |
-

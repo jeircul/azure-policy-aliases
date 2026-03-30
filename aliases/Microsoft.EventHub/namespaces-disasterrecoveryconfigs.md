@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces/disasterrecoveryconfigs
+﻿# Microsoft.EventHub/namespaces/disasterrecoveryconfigs
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.alternateName` | `Microsoft.EventHub/namespaces/disasterrecoveryconfigs/alternateName` |
 | `properties.role` | `Microsoft.EventHub/namespaces/disasterrecoveryconfigs/role` |
 | `properties.pendingReplicationOperationsCount` | `Microsoft.EventHub/namespaces/disasterrecoveryconfigs/pendingReplicationOperationsCount` |
-

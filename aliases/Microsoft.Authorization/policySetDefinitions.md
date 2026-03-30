@@ -1,4 +1,4 @@
-# Microsoft.Authorization/policySetDefinitions
+﻿# Microsoft.Authorization/policySetDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.policyDefinitions[*].definitionVersion` | `Microsoft.Authorization/policySetDefinitions/policyDefinitions[*].definitionVersion` |
 | `properties.policyDefinitions[*].latestDefinitionVersion` | `Microsoft.Authorization/policySetDefinitions/policyDefinitions[*].latestDefinitionVersion` |
 | `properties.policyDefinitions[*].effectiveDefinitionVersion` | `Microsoft.Authorization/policySetDefinitions/policyDefinitions[*].effectiveDefinitionVersion` |
-

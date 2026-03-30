@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups
+﻿# Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.failureReason` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/failureReason` |
 | `properties.volumeName` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/volumeName` |
 | `properties.useExistingSnapshot` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups/useExistingSnapshot` |
-

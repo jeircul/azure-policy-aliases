@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/mongoClusters/privateEndpointConnections
+﻿# Microsoft.DocumentDB/mongoClusters/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.DocumentDB/mongoClusters/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DocumentDB/mongoClusters/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.DocumentDB/mongoClusters/privateEndpointConnections/provisioningState` |
-

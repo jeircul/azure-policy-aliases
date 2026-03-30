@@ -1,4 +1,4 @@
-# Microsoft.DigitalTwins/digitalTwinsInstances/endpoints
+﻿# Microsoft.DigitalTwins/digitalTwinsInstances/endpoints
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.entityPath` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/entityPath` |
 | `properties.authenticationType` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/authenticationType` |
 | `properties.deadLetterUri` | `Microsoft.DigitalTwins/digitalTwinsInstances/endpoints/deadLetterUri` |
-

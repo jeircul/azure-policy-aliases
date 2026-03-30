@@ -1,4 +1,4 @@
-# Microsoft.ServiceFabric/clusters/applications/services
+﻿# Microsoft.ServiceFabric/clusters/applications/services
 
 | Default Path | Alias |
 |---|---|
@@ -49,4 +49,3 @@
 | `properties.partitionDescription.Names[*]` | `Microsoft.ServiceFabric/clusters/applications/services/partitionDescription.Named.Names[*]` |
 | `properties.instanceCloseDelayDuration` | `Microsoft.ServiceFabric/clusters/applications/services/Stateless.instanceCloseDelayDuration` |
 | `properties.serviceDnsName` | `Microsoft.ServiceFabric/clusters/applications/services/serviceDnsName` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Security/standards
+﻿# Microsoft.Security/standards
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.components[*].key` | `Microsoft.Security/standards/components[*].key` |
 | `properties.supportedClouds` | `Microsoft.Security/standards/supportedClouds` |
 | `properties.supportedClouds[*]` | `Microsoft.Security/standards/supportedClouds[*]` |
-

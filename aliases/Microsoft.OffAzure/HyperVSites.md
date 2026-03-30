@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/HyperVSites
+﻿# Microsoft.OffAzure/HyperVSites
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.serviceEndpoint` | `Microsoft.OffAzure/HyperVSites/serviceEndpoint` |
 | `properties.discoverySolutionId` | `Microsoft.OffAzure/HyperVSites/discoverySolutionId` |
 | `properties.applianceName` | `Microsoft.OffAzure/HyperVSites/applianceName` |
-

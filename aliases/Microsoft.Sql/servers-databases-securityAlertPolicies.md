@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/securityAlertPolicies
+﻿# Microsoft.Sql/servers/databases/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.retentionDays` | `Microsoft.Sql/servers/databases/securityAlertPolicies/default.retentionDays` |
 | `properties.creationTime` | `Microsoft.Sql/servers/databases/securityAlertPolicies/default.creationTime` |
 | `properties.useServerDefault` | `Microsoft.Sql/servers/databases/securityAlertPolicies/default.useServerDefault` |
-

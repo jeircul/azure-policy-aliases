@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/securityAlertPolicies
+﻿# Microsoft.Synapse/workspaces/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.storageAccountAccessKey` | `Microsoft.Synapse/workspaces/securityAlertPolicies/storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.Synapse/workspaces/securityAlertPolicies/retentionDays` |
 | `properties.creationTime` | `Microsoft.Synapse/workspaces/securityAlertPolicies/creationTime` |
-

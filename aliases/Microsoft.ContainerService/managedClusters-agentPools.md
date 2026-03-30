@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/agentPools
+﻿# Microsoft.ContainerService/managedClusters/agentPools
 
 | Default Path | Alias |
 |---|---|
@@ -191,4 +191,3 @@
 | `properties.virtualMachinesProfile.scale.autoscale.size` | `Microsoft.ContainerService/managedClusters/agentPools/virtualMachinesProfile.scale.autoscale.size` |
 | `properties.virtualMachinesProfile.scale.autoscale.minCount` | `Microsoft.ContainerService/managedClusters/agentPools/virtualMachinesProfile.scale.autoscale.minCount` |
 | `properties.virtualMachinesProfile.scale.autoscale.maxCount` | `Microsoft.ContainerService/managedClusters/agentPools/virtualMachinesProfile.scale.autoscale.maxCount` |
-

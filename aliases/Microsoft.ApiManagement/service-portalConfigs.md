@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/portalConfigs
+﻿# Microsoft.ApiManagement/service/portalConfigs
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.csp.reportUri[*]` | `Microsoft.ApiManagement/service/portalconfigs/csp.reportUri[*]` |
 | `properties.csp.allowedSources` | `Microsoft.ApiManagement/service/portalconfigs/csp.allowedSources` |
 | `properties.csp.allowedSources[*]` | `Microsoft.ApiManagement/service/portalconfigs/csp.allowedSources[*]` |
-

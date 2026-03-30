@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/workspaces/fhirservices
+﻿# Microsoft.HealthcareApis/workspaces/fhirservices
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].audience` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].audience` |
 | `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions` |
 | `properties.authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions[*]` | `Microsoft.HealthcareApis/workspaces/fhirservices/authenticationConfiguration.smartIdentityProviders[*].applications[*].allowedDataActions[*]` |
-

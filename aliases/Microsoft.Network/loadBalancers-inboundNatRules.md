@@ -1,4 +1,4 @@
-# Microsoft.Network/loadBalancers/inboundNatRules
+﻿# Microsoft.Network/loadBalancers/inboundNatRules
 
 | Default Path | Alias |
 |---|---|
@@ -521,4 +521,3 @@
 | `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].location` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].location` |
 | `properties.backendIPConfiguration.properties.virtualNetworkTaps[*].tags` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.virtualNetworkTaps[*].tags` |
 | `properties.backendIPConfiguration.properties.publicIPAddress.extendedLocation` | `Microsoft.Network/loadBalancers/inboundNatRules/backendIPConfiguration.publicIPAddress.extendedLocation` |
-

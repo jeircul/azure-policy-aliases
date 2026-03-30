@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/virtualMachines
+﻿# Microsoft.DevTestLab/labs/virtualMachines
 
 | Default Path | Alias |
 |---|---|
@@ -179,4 +179,3 @@
 | `properties.scheduleParameters` | `Microsoft.DevTestLab/labs/virtualMachines/scheduleParameters` |
 | `properties.lastKnownPowerState` | `Microsoft.DevTestLab/labs/virtualMachines/lastKnownPowerState` |
 | `properties.artifacts[*].parameters[*].value` | `Microsoft.DevTestLab/labs/virtualMachines/artifacts[*].parameters[*].value` |
-

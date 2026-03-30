@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs
+﻿# Microsoft.RecoveryServices/Vaults/backupEncryptionConfigs
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.subscriptionId` | `Microsoft.RecoveryServices/vaults/backupEncryptionConfigs/subscriptionId` |
 | `properties.lastUpdateStatus` | `Microsoft.RecoveryServices/vaults/backupEncryptionConfigs/lastUpdateStatus` |
 | `properties.infrastructureEncryptionState` | `Microsoft.RecoveryServices/vaults/backupEncryptionConfigs/infrastructureEncryptionState` |
-

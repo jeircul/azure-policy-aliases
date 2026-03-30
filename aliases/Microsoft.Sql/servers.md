@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers
+﻿# Microsoft.Sql/servers
 
 | Default Path | Alias |
 |---|---|
@@ -41,4 +41,3 @@
 | `properties.isIPv6Enabled` | `Microsoft.Sql/servers/isIPv6Enabled` |
 | `properties.retentionDays` | `Microsoft.Sql/servers/retentionDays` |
 | `properties.createMode` | `Microsoft.Sql/servers/createMode` |
-

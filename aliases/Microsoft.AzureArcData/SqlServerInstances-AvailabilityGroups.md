@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/SqlServerInstances/AvailabilityGroups
+﻿# Microsoft.AzureArcData/SqlServerInstances/AvailabilityGroups
 
 | Default Path | Alias |
 |---|---|
@@ -65,4 +65,3 @@
 | `properties.databases.value[*].suspendReasonDescription` | `Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/databases.value[*].suspendReasonDescription` |
 | `properties.databases.nextLink` | `Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/databases.nextLink` |
 | `properties.provisioningState` | `Microsoft.AzureArcData/sqlServerInstances/availabilityGroups/provisioningState` |
-

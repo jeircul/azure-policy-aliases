@@ -1,4 +1,4 @@
-# Microsoft.Datadog/monitors
+﻿# Microsoft.Datadog/monitors
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.userInfo.phoneNumber` | `Microsoft.Datadog/monitors/userInfo.phoneNumber` |
 | `properties.liftrResourceCategory` | `Microsoft.Datadog/monitors/liftrResourceCategory` |
 | `properties.liftrResourcePreference` | `Microsoft.Datadog/monitors/liftrResourcePreference` |
-

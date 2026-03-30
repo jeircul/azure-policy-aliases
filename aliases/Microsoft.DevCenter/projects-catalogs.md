@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/projects/catalogs
+﻿# Microsoft.DevCenter/projects/catalogs
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.connectionState` | `Microsoft.DevCenter/projects/catalogs/connectionState` |
 | `properties.lastConnectionTime` | `Microsoft.DevCenter/projects/catalogs/lastConnectionTime` |
 | `properties.lastSyncTime` | `Microsoft.DevCenter/projects/catalogs/lastSyncTime` |
-

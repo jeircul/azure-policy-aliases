@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs
+﻿# Microsoft.DevTestLab/labs
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.networkSecurityGroupId` | `Microsoft.DevTestLab/labs/networkSecurityGroupId` |
 | `properties.extendedProperties.additionalProperties` | `Microsoft.DevTestLab/labs/extendedProperties.additionalProperties` |
 | `properties.extendedProperties` | `Microsoft.DevTestLab/labs/extendedProperties` |
-

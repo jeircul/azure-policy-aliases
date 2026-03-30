@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules
+﻿# Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.nextHop` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules/nextHop` |
 | `properties.nextHop.nextHopType` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules/nextHop.nextHopType` |
 | `properties.nextHop.nextHopAddress` | `Microsoft.Network/networkManagers/routingConfigurations/ruleCollections/rules/nextHop.nextHopAddress` |
-

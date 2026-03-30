@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/codes/versions
+﻿# Microsoft.MachineLearningServices/workspaces/codes/versions
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.autoDeleteSetting` | `Microsoft.MachineLearningServices/workspaces/codes/versions/autoDeleteSetting` |
 | `properties.autoDeleteSetting.condition` | `Microsoft.MachineLearningServices/workspaces/codes/versions/autoDeleteSetting.condition` |
 | `properties.autoDeleteSetting.value` | `Microsoft.MachineLearningServices/workspaces/codes/versions/autoDeleteSetting.value` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Security/governanceRules
+﻿# Microsoft.Security/governanceRules
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.metadata.createdOn` | `Microsoft.Security/governanceRules/metadata.createdOn` |
 | `properties.metadata.updatedBy` | `Microsoft.Security/governanceRules/metadata.updatedBy` |
 | `properties.metadata.updatedOn` | `Microsoft.Security/governanceRules/metadata.updatedOn` |
-

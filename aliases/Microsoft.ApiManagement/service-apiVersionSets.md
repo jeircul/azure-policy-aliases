@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apiVersionSets
+﻿# Microsoft.ApiManagement/service/apiVersionSets
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.description` | `Microsoft.ApiManagement/service/apiVersionSets/description` |
 | `properties.versionQueryName` | `Microsoft.ApiManagement/service/apiVersionSets/versionQueryName` |
 | `properties.versionHeaderName` | `Microsoft.ApiManagement/service/apiVersionSets/versionHeaderName` |
-

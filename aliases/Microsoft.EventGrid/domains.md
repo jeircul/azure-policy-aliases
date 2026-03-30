@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/domains
+﻿# Microsoft.EventGrid/domains
 
 | Default Path | Alias |
 |---|---|
@@ -53,4 +53,3 @@
 | `properties.eventTypeInfo` | `Microsoft.EventGrid/domains/eventTypeInfo` |
 | `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/domains/eventTypeInfo.kind` |
 | `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/domains/eventTypeInfo.inlineEventTypes` |
-

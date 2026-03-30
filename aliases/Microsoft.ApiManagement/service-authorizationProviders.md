@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/authorizationProviders
+﻿# Microsoft.ApiManagement/service/authorizationProviders
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.oauth2.grantTypes` | `Microsoft.ApiManagement/service/authorizationProviders/oauth2.grantTypes` |
 | `properties.oauth2.grantTypes.authorizationCode` | `Microsoft.ApiManagement/service/authorizationProviders/oauth2.grantTypes.authorizationCode` |
 | `properties.oauth2.grantTypes.clientCredentials` | `Microsoft.ApiManagement/service/authorizationProviders/oauth2.grantTypes.clientCredentials` |
-

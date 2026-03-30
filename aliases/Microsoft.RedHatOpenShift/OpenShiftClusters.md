@@ -1,4 +1,4 @@
-# Microsoft.RedHatOpenShift/OpenShiftClusters
+﻿# Microsoft.RedHatOpenShift/OpenShiftClusters
 
 | Default Path | Alias |
 |---|---|
@@ -41,4 +41,3 @@
 | `properties.workerProfiles[*].encryptionAtHost` | `Microsoft.RedHatOpenShift/openShiftClusters/workerProfiles[*].encryptionAtHost` |
 | `properties.workerProfiles[*].diskEncryptionSetId` | `Microsoft.RedHatOpenShift/openShiftClusters/workerProfiles[*].diskEncryptionSetId` |
 | `properties.clusterProfile.fipsValidatedModules` | `Microsoft.RedHatOpenShift/openShiftClusters/clusterProfile.fipsValidatedModules` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/nodeConfigurations
+﻿# Microsoft.Automation/automationAccounts/nodeConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.configuration` | `Microsoft.Automation/automationAccounts/nodeConfigurations/configuration` |
 | `properties.source` | `Microsoft.Automation/automationAccounts/nodeConfigurations/source` |
 | `properties.incrementNodeConfigurationBuild` | `Microsoft.Automation/automationAccounts/nodeConfigurations/incrementNodeConfigurationBuild` |
-

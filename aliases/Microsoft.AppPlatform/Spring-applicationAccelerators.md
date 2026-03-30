@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/applicationAccelerators
+﻿# Microsoft.AppPlatform/Spring/applicationAccelerators
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `sku.name` | `Microsoft.AppPlatform/Spring/applicationAccelerators/sku.name` |
 | `sku.tier` | `Microsoft.AppPlatform/Spring/applicationAccelerators/sku.tier` |
 | `sku.capacity` | `Microsoft.AppPlatform/Spring/applicationAccelerators/sku.capacity` |
-

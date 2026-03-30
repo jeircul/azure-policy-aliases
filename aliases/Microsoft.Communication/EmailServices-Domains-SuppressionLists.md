@@ -1,4 +1,4 @@
-# Microsoft.Communication/EmailServices/Domains/SuppressionLists
+﻿# Microsoft.Communication/EmailServices/Domains/SuppressionLists
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.lastUpdatedTimeStamp` | `Microsoft.Communication/emailServices/domains/suppressionLists/lastUpdatedTimeStamp` |
 | `properties.createdTimeStamp` | `Microsoft.Communication/emailServices/domains/suppressionLists/createdTimeStamp` |
 | `properties.dataLocation` | `Microsoft.Communication/emailServices/domains/suppressionLists/dataLocation` |
-

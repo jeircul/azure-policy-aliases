@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/apis/operations
+﻿# Microsoft.ApiManagement/service/workspaces/apis/operations
 
 | Default Path | Alias |
 |---|---|
@@ -97,4 +97,3 @@
 | `properties.displayName` | `Microsoft.ApiManagement/service/workspaces/apis/operations/displayName` |
 | `properties.method` | `Microsoft.ApiManagement/service/workspaces/apis/operations/method` |
 | `properties.urlTemplate` | `Microsoft.ApiManagement/service/workspaces/apis/operations/urlTemplate` |
-

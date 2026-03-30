@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/subscriptions
+﻿# Microsoft.ApiManagement/service/workspaces/subscriptions
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.primaryKey` | `Microsoft.ApiManagement/service/workspaces/subscriptions/primaryKey` |
 | `properties.secondaryKey` | `Microsoft.ApiManagement/service/workspaces/subscriptions/secondaryKey` |
 | `properties.allowTracing` | `Microsoft.ApiManagement/service/workspaces/subscriptions/allowTracing` |
-

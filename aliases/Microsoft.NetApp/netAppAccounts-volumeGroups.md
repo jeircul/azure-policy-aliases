@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/volumeGroups
+﻿# Microsoft.NetApp/netAppAccounts/volumeGroups
 
 | Default Path | Alias |
 |---|---|
@@ -119,4 +119,3 @@
 | `properties.volumes[*].zones` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].zones` |
 | `properties.volumes[*].zones[*]` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].zones[*]` |
 | `properties.volumes[*].properties.coolAccessRetrievalPolicy` | `Microsoft.NetApp/netAppAccounts/volumeGroups/volumes[*].coolAccessRetrievalPolicy` |
-

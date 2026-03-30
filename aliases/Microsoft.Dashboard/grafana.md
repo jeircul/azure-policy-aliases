@@ -1,4 +1,4 @@
-# Microsoft.Dashboard/grafana
+﻿# Microsoft.Dashboard/grafana
 
 | Default Path | Alias |
 |---|---|
@@ -63,4 +63,3 @@
 | `properties.grafanaConfigurations.users.editorsCanAdmin` | `Microsoft.Dashboard/grafana/grafanaConfigurations.users.editorsCanAdmin` |
 | `properties.grafanaConfigurations.unifiedAlertingScreenshots` | `Microsoft.Dashboard/grafana/grafanaConfigurations.unifiedAlertingScreenshots` |
 | `properties.grafanaConfigurations.unifiedAlertingScreenshots.captureEnabled` | `Microsoft.Dashboard/grafana/grafanaConfigurations.unifiedAlertingScreenshots.captureEnabled` |
-

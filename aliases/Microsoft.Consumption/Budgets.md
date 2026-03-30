@@ -1,4 +1,4 @@
-# Microsoft.Consumption/Budgets
+﻿# Microsoft.Consumption/Budgets
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.filter.tags.operator` | `Microsoft.Consumption/budgets/filter.tags.operator` |
 | `properties.filter.tags.values[*]` | `Microsoft.Consumption/budgets/filter.tags.values[*]` |
 | `properties.filter.tags.values` | `Microsoft.Consumption/budgets/filter.tags.values` |
-

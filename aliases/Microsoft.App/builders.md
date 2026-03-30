@@ -1,4 +1,4 @@
-# Microsoft.App/builders
+﻿# Microsoft.App/builders
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.containerRegistries[*]` | `Microsoft.App/builders/containerRegistries[*]` |
 | `properties.containerRegistries[*].containerRegistryServer` | `Microsoft.App/builders/containerRegistries[*].containerRegistryServer` |
 | `properties.containerRegistries[*].identityResourceId` | `Microsoft.App/builders/containerRegistries[*].identityResourceId` |
-

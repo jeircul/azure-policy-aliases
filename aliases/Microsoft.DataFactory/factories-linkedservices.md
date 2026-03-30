@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/linkedservices
+﻿# Microsoft.DataFactory/factories/linkedservices
 
 | Default Path | Alias |
 |---|---|
@@ -2222,4 +2222,3 @@
 | `properties.typeProperties.servicePrincipalEmbeddedCertPassword.type` | `Microsoft.DataFactory/factories/linkedservices/Office365.typeProperties.servicePrincipalEmbeddedCertPassword.type` |
 | `properties.typeProperties.credential.referenceName` | `Microsoft.DataFactory/factories/linkedservices/AzurePostgreSql.typeProperties.credential.referenceName` |
 | `properties.typeProperties.authentication` | `Microsoft.DataFactory/factories/linkedservices/AzureFunction.typeProperties.authentication` |
-

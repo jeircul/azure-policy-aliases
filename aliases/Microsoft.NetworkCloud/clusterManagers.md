@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/clusterManagers
+﻿# Microsoft.NetworkCloud/clusterManagers
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.managerExtendedLocation.type` | `Microsoft.NetworkCloud/clusterManagers/managerExtendedLocation.type` |
 | `properties.provisioningState` | `Microsoft.NetworkCloud/clusterManagers/provisioningState` |
 | `properties.vmSize` | `Microsoft.NetworkCloud/clusterManagers/vmSize` |
-

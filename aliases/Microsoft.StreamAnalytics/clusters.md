@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/clusters
+﻿# Microsoft.StreamAnalytics/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.provisioningState` | `Microsoft.StreamAnalytics/clusters/provisioningState` |
 | `properties.capacityAllocated` | `Microsoft.StreamAnalytics/clusters/capacityAllocated` |
 | `properties.capacityAssigned` | `Microsoft.StreamAnalytics/clusters/capacityAssigned` |
-

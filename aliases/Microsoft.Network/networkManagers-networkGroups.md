@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/networkGroups
+﻿# Microsoft.Network/networkManagers/networkGroups
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.conditionalMembership` | `Microsoft.Network/networkManagers/networkGroups/conditionalMembership` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/networkGroups/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/networkGroups/resourceGuid` |
-

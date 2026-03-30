@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentprojects/groups
+﻿# Microsoft.Migrate/assessmentprojects/groups
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.createdTimestamp` | `Microsoft.Migrate/assessmentprojects/groups/createdTimestamp` |
 | `properties.updatedTimestamp` | `Microsoft.Migrate/assessmentprojects/groups/updatedTimestamp` |
 | `properties.groupType` | `Microsoft.Migrate/assessmentProjects/groups/groupType` |
-

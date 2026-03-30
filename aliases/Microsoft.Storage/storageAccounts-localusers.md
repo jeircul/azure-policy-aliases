@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/localusers
+﻿# Microsoft.Storage/storageAccounts/localusers
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.extendedGroups` | `Microsoft.Storage/storageAccounts/localUsers/extendedGroups` |
 | `properties.extendedGroups[*]` | `Microsoft.Storage/storageAccounts/localUsers/extendedGroups[*]` |
 | `properties.isNFSv3Enabled` | `Microsoft.Storage/storageAccounts/localUsers/isNFSv3Enabled` |
-

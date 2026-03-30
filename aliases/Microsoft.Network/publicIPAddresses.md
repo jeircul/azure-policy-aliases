@@ -1,4 +1,4 @@
-# Microsoft.Network/publicIPAddresses
+﻿# Microsoft.Network/publicIPAddresses
 
 | Default Path | Alias |
 |---|---|
@@ -451,4 +451,3 @@
 | `properties.natGateway.properties.publicIpPrefixesV6[*].id` | `Microsoft.Network/publicIPAddresses/natGateway.publicIpPrefixesV6[*].id` |
 | `properties.natGateway.properties.sourceVirtualNetwork` | `Microsoft.Network/publicIPAddresses/natGateway.sourceVirtualNetwork` |
 | `properties.natGateway.properties.sourceVirtualNetwork.id` | `Microsoft.Network/publicIPAddresses/natGateway.sourceVirtualNetwork.id` |
-

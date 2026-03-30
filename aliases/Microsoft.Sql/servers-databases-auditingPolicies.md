@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/auditingPolicies
+﻿# Microsoft.Sql/servers/databases/auditingPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.storageAccountSecondaryKey` | `Microsoft.Sql/servers/databases/auditingPolicies/default.storageAccountSecondaryKey` |
 | `properties.storageAccountSubscriptionId` | `Microsoft.Sql/servers/databases/auditingPolicies/default.storageAccountSubscriptionId` |
 | `properties.storageTableEndpoint` | `Microsoft.Sql/servers/databases/auditingPolicies/default.storageTableEndpoint` |
-

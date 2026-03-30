@@ -1,4 +1,4 @@
-# Microsoft.Management/managementGroups
+﻿# Microsoft.Management/managementGroups
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.path[*].displayName` | `Microsoft.Management/managementGroups/path[*].displayName` |
 | `properties.path[*]` | `Microsoft.Management/managementGroups/path[*]` |
 | `properties.path` | `Microsoft.Management/managementGroups/path` |
-

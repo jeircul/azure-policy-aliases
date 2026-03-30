@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/watchers
+﻿# Microsoft.Automation/automationAccounts/watchers
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.lastModifiedTime` | `Microsoft.Automation/automationAccounts/watchers/lastModifiedTime` |
 | `properties.lastModifiedBy` | `Microsoft.Automation/automationAccounts/watchers/lastModifiedBy` |
 | `properties.description` | `Microsoft.Automation/automationAccounts/watchers/description` |
-

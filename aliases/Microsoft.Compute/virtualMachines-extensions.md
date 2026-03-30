@@ -1,4 +1,4 @@
-# Microsoft.Compute/virtualMachines/extensions
+﻿# Microsoft.Compute/virtualMachines/extensions
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.protectedSettingsFromKeyVault.sourceVault.id` | `Microsoft.Compute/virtualMachines/extensions/protectedSettingsFromKeyVault.sourceVault.id` |
 | `properties.provisionAfterExtensions` | `Microsoft.Compute/virtualMachines/extensions/provisionAfterExtensions` |
 | `properties.provisionAfterExtensions[*]` | `Microsoft.Compute/virtualMachines/extensions/provisionAfterExtensions[*]` |
-

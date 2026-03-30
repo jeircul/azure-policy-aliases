@@ -1,4 +1,4 @@
-# Microsoft.Web/connections
+﻿# Microsoft.Web/connections
 
 | Default Path | Alias |
 |---|---|
@@ -159,4 +159,3 @@
 | `properties.testLinks[*].method` | `Microsoft.Web/connections/testLinks[*].method` |
 | `properties.testLinks[*]` | `Microsoft.Web/connections/testLinks[*]` |
 | `properties.testLinks` | `Microsoft.Web/connections/testLinks` |
-

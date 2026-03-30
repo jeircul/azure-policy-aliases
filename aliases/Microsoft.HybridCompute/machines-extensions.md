@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/machines/extensions
+﻿# Microsoft.HybridCompute/machines/extensions
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.instanceView.status` | `Microsoft.HybridCompute/machines/extensions/instanceView.status` |
 | `properties.instanceView` | `Microsoft.HybridCompute/machines/extensions/instanceView` |
 | `properties.enableAutomaticUpgrade` | `Microsoft.HybridCompute/machines/extensions/enableAutomaticUpgrade` |
-

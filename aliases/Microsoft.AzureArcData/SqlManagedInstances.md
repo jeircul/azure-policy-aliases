@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/SqlManagedInstances
+﻿# Microsoft.AzureArcData/SqlManagedInstances
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.k8sRaw.spec.settings.network.forceencryption` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network.forceencryption` |
 | `properties.k8sRaw.spec.settings.network.tlsciphers` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network.tlsciphers` |
 | `properties.k8sRaw.spec.settings.network.tlsprotocols` | `Microsoft.AzureArcData/sqlManagedInstances/k8sRaw.spec.settings.network.tlsprotocols` |
-

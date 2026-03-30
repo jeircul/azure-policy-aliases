@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories
+﻿# Microsoft.DataFactory/factories
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.repoConfiguration.clientSecret.byoaSecretAkvUrl` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.clientSecret.byoaSecretAkvUrl` |
 | `properties.repoConfiguration.clientSecret.byoaSecretName` | `Microsoft.DataFactory/factories/repoConfiguration.FactoryGitHubConfiguration.clientSecret.byoaSecretName` |
 | `properties.repoConfiguration.disablePublish` | `Microsoft.DataFactory/factories/repoConfiguration.disablePublish` |
-

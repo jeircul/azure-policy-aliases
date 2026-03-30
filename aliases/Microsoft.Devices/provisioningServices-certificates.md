@@ -1,4 +1,4 @@
-# Microsoft.Devices/provisioningServices/certificates
+﻿# Microsoft.Devices/provisioningServices/certificates
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.isVerified` | `Microsoft.Devices/provisioningServices/certificates/isVerified` |
 | `properties.created` | `Microsoft.Devices/provisioningServices/certificates/created` |
 | `properties.updated` | `Microsoft.Devices/provisioningServices/certificates/updated` |
-

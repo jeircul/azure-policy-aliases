@@ -1,4 +1,4 @@
-# Microsoft.Security/customRecommendations
+﻿# Microsoft.Security/customRecommendations
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.description` | `Microsoft.Security/customRecommendations/description` |
 | `properties.remediationDescription` | `Microsoft.Security/customRecommendations/remediationDescription` |
 | `properties.assessmentKey` | `Microsoft.Security/customRecommendations/assessmentKey` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/firewallPolicies
+﻿# Microsoft.Network/firewallPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -103,4 +103,3 @@
 | `properties.explicitProxy.pacFile` | `Microsoft.Network/firewallPolicies/explicitProxy.pacFile` |
 | `properties.size` | `Microsoft.Network/firewallPolicies/size` |
 | `properties.intrusionDetection.profile` | `Microsoft.Network/firewallPolicies/intrusionDetection.profile` |
-

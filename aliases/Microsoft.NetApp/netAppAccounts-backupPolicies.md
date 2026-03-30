@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/backupPolicies
+﻿# Microsoft.NetApp/netAppAccounts/backupPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.volumeBackups[*].backupsCount` | `Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].backupsCount` |
 | `properties.volumeBackups[*].policyEnabled` | `Microsoft.NetApp/netAppAccounts/backupPolicies/volumeBackups[*].policyEnabled` |
 | `properties.backupPolicyId` | `Microsoft.NetApp/netAppAccounts/backupPolicies/backupPolicyId` |
-

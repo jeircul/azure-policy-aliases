@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/servers/privateEndpointConnections
+﻿# Microsoft.DBforPostgreSQL/servers/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.DBforPostgreSQL/servers/privateEndpointConnections/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/SqlServerInstances
+﻿# Microsoft.AzureArcData/SqlServerInstances
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.upgradeLockedUntil` | `Microsoft.AzureArcData/sqlServerInstances/upgradeLockedUntil` |
 | `properties.monitoring` | `Microsoft.AzureArcData/sqlServerInstances/monitoring` |
 | `properties.monitoring.enabled` | `Microsoft.AzureArcData/sqlServerInstances/monitoring.enabled` |
-

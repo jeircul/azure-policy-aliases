@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/runbooks
+﻿# Microsoft.Automation/automationAccounts/runbooks
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.publishContentLink.contentHash.value` | `Microsoft.Automation/automationAccounts/runbooks/publishContentLink.contentHash.value` |
 | `properties.draft.draftContentLink.contentHash.value` | `Microsoft.Automation/automationAccounts/runbooks/draft.draftContentLink.contentHash.value` |
 | `properties.runtimeEnvironment` | `Microsoft.Automation/automationAccounts/runbooks/runtimeEnvironment` |
-

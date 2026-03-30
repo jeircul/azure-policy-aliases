@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/raiTopics
+﻿# Microsoft.CognitiveServices/accounts/raiTopics
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.failedReason` | `Microsoft.CognitiveServices/accounts/raitopics/failedReason` |
 | `properties.createdAt` | `Microsoft.CognitiveServices/accounts/raitopics/createdAt` |
 | `properties.lastModifiedAt` | `Microsoft.CognitiveServices/accounts/raitopics/lastModifiedAt` |
-

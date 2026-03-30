@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/flexibleServers
+﻿# Microsoft.DBforMySQL/flexibleServers
 
 | Default Path | Alias |
 |---|---|
@@ -85,4 +85,3 @@
 | `properties.importSourceProperties.storageUrl` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.storageUrl` |
 | `properties.importSourceProperties.sasToken` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.sasToken` |
 | `properties.importSourceProperties.dataDirPath` | `Microsoft.DBforMySQL/flexibleServers/importSourceProperties.dataDirPath` |
-

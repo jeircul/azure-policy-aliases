@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub/customCertificates
+﻿# Microsoft.SignalRService/WebPubSub/customCertificates
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.keyVaultBaseUri` | `Microsoft.SignalRService/webPubSub/customCertificates/keyVaultBaseUri` |
 | `properties.keyVaultSecretName` | `Microsoft.SignalRService/webPubSub/customCertificates/keyVaultSecretName` |
 | `properties.keyVaultSecretVersion` | `Microsoft.SignalRService/webPubSub/customCertificates/keyVaultSecretVersion` |
-

@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/projects/capabilityhosts
+﻿# Microsoft.CognitiveServices/accounts/projects/capabilityhosts
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.threadStorageConnections` | `Microsoft.CognitiveServices/accounts/projects/capabilityHosts/threadStorageConnections` |
 | `properties.threadStorageConnections[*]` | `Microsoft.CognitiveServices/accounts/projects/capabilityHosts/threadStorageConnections[*]` |
 | `properties.provisioningState` | `Microsoft.CognitiveServices/accounts/projects/capabilityHosts/provisioningState` |
-

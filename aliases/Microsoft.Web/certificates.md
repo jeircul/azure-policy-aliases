@@ -1,4 +1,4 @@
-# Microsoft.Web/certificates
+﻿# Microsoft.Web/certificates
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.serverFarmId` | `Microsoft.Web/certificates/serverFarmId` |
 | `properties.canonicalName` | `Microsoft.Web/certificates/canonicalName` |
 | `properties.domainValidationMethod` | `Microsoft.Web/certificates/domainValidationMethod` |
-

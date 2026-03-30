@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apis/issues
+﻿# Microsoft.ApiManagement/service/apis/issues
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.createdDate` | `Microsoft.ApiManagement/service/apis/issues/createdDate` |
 | `properties.state` | `Microsoft.ApiManagement/service/apis/issues/state` |
 | `properties.apiId` | `Microsoft.ApiManagement/service/apis/issues/apiId` |
-

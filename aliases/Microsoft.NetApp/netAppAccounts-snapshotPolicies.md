@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/snapshotPolicies
+﻿# Microsoft.NetApp/netAppAccounts/snapshotPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.monthlySchedule.usedBytes` | `Microsoft.NetApp/netAppAccounts/snapshotPolicies/monthlySchedule.usedBytes` |
 | `properties.enabled` | `Microsoft.NetApp/netAppAccounts/snapshotPolicies/enabled` |
 | `properties.provisioningState` | `Microsoft.NetApp/netAppAccounts/snapshotPolicies/provisioningState` |
-

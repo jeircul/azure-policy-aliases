@@ -1,4 +1,4 @@
-# microsoft.insights/components/pricingPlans
+﻿# microsoft.insights/components/pricingPlans
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.stopSendNotificationWhenHitThreshold` | `microsoft.insights/components/pricingPlans/stopSendNotificationWhenHitThreshold` |
 | `properties.stopSendNotificationWhenHitCap` | `microsoft.insights/components/pricingPlans/stopSendNotificationWhenHitCap` |
 | `properties.maxHistoryCap` | `microsoft.insights/components/pricingPlans/maxHistoryCap` |
-

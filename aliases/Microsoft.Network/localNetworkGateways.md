@@ -1,4 +1,4 @@
-# Microsoft.Network/localNetworkGateways
+﻿# Microsoft.Network/localNetworkGateways
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/localNetworkGateways/localNetworkAddressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

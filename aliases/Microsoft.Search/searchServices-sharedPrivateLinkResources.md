@@ -1,4 +1,4 @@
-# Microsoft.Search/searchServices/sharedPrivateLinkResources
+﻿# Microsoft.Search/searchServices/sharedPrivateLinkResources
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.resourceRegion` | `Microsoft.Search/searchServices/sharedPrivateLinkResources/resourceRegion` |
 | `properties.status` | `Microsoft.Search/searchServices/sharedPrivateLinkResources/status` |
 | `properties.provisioningState` | `Microsoft.Search/searchServices/sharedPrivateLinkResources/provisioningState` |
-

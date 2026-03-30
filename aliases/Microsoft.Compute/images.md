@@ -1,4 +1,4 @@
-# Microsoft.Compute/images
+﻿# Microsoft.Compute/images
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.storageProfile.osDisk.diskEncryptionSet` | `Microsoft.Compute/images/storageProfile.osDisk.diskEncryptionSet` |
 | `properties.storageProfile.dataDisks[*].diskEncryptionSet.id` | `Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet.id` |
 | `properties.storageProfile.dataDisks[*].diskEncryptionSet` | `Microsoft.Compute/images/storageProfile.dataDisks[*].diskEncryptionSet` |
-

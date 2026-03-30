@@ -1,4 +1,4 @@
-# Microsoft.Network/vpnSites
+﻿# Microsoft.Network/vpnSites
 
 | Default Path | Alias |
 |---|---|
@@ -55,4 +55,3 @@
 | `properties.addressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/vpnSites/addressSpace.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

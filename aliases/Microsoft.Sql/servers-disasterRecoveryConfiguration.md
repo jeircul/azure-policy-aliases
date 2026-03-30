@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/disasterRecoveryConfiguration
+﻿# Microsoft.Sql/servers/disasterRecoveryConfiguration
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.logicalServerName` | `Microsoft.Sql/servers/disasterRecoveryConfiguration/logicalServerName` |
 | `properties.partnerLogicalServerName` | `Microsoft.Sql/servers/disasterRecoveryConfiguration/partnerLogicalServerName` |
 | `properties.role` | `Microsoft.Sql/servers/disasterRecoveryConfiguration/role` |
-

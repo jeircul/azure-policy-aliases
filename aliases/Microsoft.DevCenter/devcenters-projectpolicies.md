@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/devcenters/projectpolicies
+﻿# Microsoft.DevCenter/devcenters/projectpolicies
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.DevCenter/devcenters/projectPolicies/provisioningState` |
 | `properties.resourcePolicies[*].action` | `Microsoft.DevCenter/devcenters/projectPolicies/resourcePolicies[*].action` |
 | `properties.resourcePolicies[*].resourceType` | `Microsoft.DevCenter/devcenters/projectPolicies/resourcePolicies[*].resourceType` |
-

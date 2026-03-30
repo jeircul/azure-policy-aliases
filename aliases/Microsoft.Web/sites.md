@@ -1,4 +1,4 @@
-# Microsoft.Web/sites
+﻿# Microsoft.Web/sites
 
 | Default Path | Alias |
 |---|---|
@@ -383,4 +383,3 @@
 | `properties.sshEnabled` | `Microsoft.Web/sites/sshEnabled` |
 | `properties.functionAppConfig.siteUpdateStrategy` | `Microsoft.Web/sites/functionAppConfig.siteUpdateStrategy` |
 | `properties.functionAppConfig.siteUpdateStrategy.type` | `Microsoft.Web/sites/functionAppConfig.siteUpdateStrategy.type` |
-

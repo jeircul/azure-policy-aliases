@@ -1,4 +1,4 @@
-# Microsoft.ServiceFabric/clusters
+﻿# Microsoft.ServiceFabric/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -122,4 +122,3 @@
 | `properties.notifications[*].notificationTargets[*].notificationChannel` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].notificationChannel` |
 | `properties.notifications[*].notificationTargets[*].receivers` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].receivers` |
 | `properties.notifications[*].notificationTargets[*].receivers[*]` | `Microsoft.ServiceFabric/clusters/notifications[*].notificationTargets[*].receivers[*]` |
-

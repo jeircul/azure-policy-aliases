@@ -1,4 +1,4 @@
-# Microsoft.Singularity/accounts
+﻿# Microsoft.Singularity/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.locations[*].isZoneRedundant` | `Microsoft.Singularity/accounts/locations[*].isZoneRedundant` |
 | `properties.networkSettings` | `Microsoft.Singularity/accounts/networkSettings` |
 | `properties.networkSettings.subnetId` | `Microsoft.Singularity/accounts/networkSettings.subnetId` |
-

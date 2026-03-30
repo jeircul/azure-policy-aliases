@@ -1,4 +1,4 @@
-# microsoft.insights/components/proactiveDetectionConfigs
+﻿# microsoft.insights/components/proactiveDetectionConfigs
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.ruleDefinitions.IsInPreview` | `Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.IsInPreview` |
 | `properties.ruleDefinitions.SupportsEmailNotifications` | `Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions.SupportsEmailNotifications` |
 | `properties.ruleDefinitions` | `Microsoft.Insights/Components/ProactiveDetectionConfigs/RuleDefinitions` |
-

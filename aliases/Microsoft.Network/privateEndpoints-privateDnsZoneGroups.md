@@ -1,4 +1,4 @@
-# Microsoft.Network/privateEndpoints/privateDnsZoneGroups
+﻿# Microsoft.Network/privateEndpoints/privateDnsZoneGroups
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.privateDnsZoneConfigs[*].type` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].type` |
 | `properties.privateDnsZoneConfigs[*].etag` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].etag` |
 | `properties.privateDnsZoneConfigs[*].properties.provisioningState` | `Microsoft.Network/privateEndpoints/privateDnsZoneGroups/privateDnsZoneConfigs[*].provisioningState` |
-

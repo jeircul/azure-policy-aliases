@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/outboundRules
+﻿# Microsoft.MachineLearningServices/workspaces/outboundRules
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.parentRuleNames[*]` | `Microsoft.MachineLearningServices/workspaces/outboundRules/parentRuleNames[*]` |
 | `properties.fqdns` | `Microsoft.MachineLearningServices/workspaces/outboundRules/PrivateEndpoint.fqdns` |
 | `properties.fqdns[*]` | `Microsoft.MachineLearningServices/workspaces/outboundRules/PrivateEndpoint.fqdns[*]` |
-

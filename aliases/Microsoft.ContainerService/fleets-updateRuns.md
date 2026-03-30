@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/fleets/updateRuns
+﻿# Microsoft.ContainerService/fleets/updateRuns
 
 | Default Path | Alias |
 |---|---|
@@ -172,4 +172,3 @@
 | `properties.status.stages[*].afterGates[*].displayName` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterGates[*].displayName` |
 | `properties.status.stages[*].afterGates[*].gateId` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterGates[*].gateId` |
 | `properties.status.stages[*].afterGates[*].status` | `Microsoft.ContainerService/fleets/updateRuns/status.stages[*].afterGates[*].status` |
-

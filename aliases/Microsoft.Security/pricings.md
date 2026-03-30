@@ -1,4 +1,4 @@
-# Microsoft.Security/pricings
+﻿# Microsoft.Security/pricings
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.inherited` | `Microsoft.Security/pricings/inherited` |
 | `properties.inheritedFrom` | `Microsoft.Security/pricings/inheritedFrom` |
 | `properties.resourcesCoverageStatus` | `Microsoft.Security/pricings/resourcesCoverageStatus` |
-

@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/managedHSMs/keys
+﻿# Microsoft.KeyVault/managedHSMs/keys
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.rotationPolicy.lifetimeActions[*].trigger.timeBeforeExpiry` | `Microsoft.KeyVault/managedHSMs/keys/rotationPolicy.lifetimeActions[*].trigger.timeBeforeExpiry` |
 | `properties.rotationPolicy.lifetimeActions[*].action` | `Microsoft.KeyVault/managedHSMs/keys/rotationPolicy.lifetimeActions[*].action` |
 | `properties.rotationPolicy.lifetimeActions[*].action.type` | `Microsoft.KeyVault/managedHSMs/keys/rotationPolicy.lifetimeActions[*].action.type` |
-

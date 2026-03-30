@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/logicalNetworks
+﻿# Microsoft.AzureStackHCI/logicalNetworks
 
 | Default Path | Alias |
 |---|---|
@@ -44,4 +44,3 @@
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/logicalNetworks/status.provisioningStatus.status` |
 | `properties.subnets[*].properties.networkSecurityGroup` | `Microsoft.AzureStackHCI/logicalNetworks/subnets[*].networkSecurityGroup` |
 | `properties.subnets[*].properties.networkSecurityGroup.id` | `Microsoft.AzureStackHCI/logicalNetworks/subnets[*].networkSecurityGroup.id` |
-

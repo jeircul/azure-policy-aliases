@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets
+﻿# Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.userListStatus[*].status` | `Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets/userListStatus[*].status` |
 | `properties.userListStatus[*].statusMessage` | `Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets/userListStatus[*].statusMessage` |
 | `properties.userList[*].userPrincipalName` | `Microsoft.NetworkCloud/clusters/bareMetalMachineKeySets/userList[*].userPrincipalName` |
-

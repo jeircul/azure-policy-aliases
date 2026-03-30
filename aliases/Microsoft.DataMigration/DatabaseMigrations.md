@@ -1,4 +1,4 @@
-# Microsoft.DataMigration/DatabaseMigrations
+﻿# Microsoft.DataMigration/DatabaseMigrations
 
 | Default Path | Alias |
 |---|---|
@@ -66,4 +66,3 @@
 | `properties.migrationFailureError.code` | `Microsoft.DataMigration/databaseMigrations/migrationFailureError.code` |
 | `properties.migrationFailureError.message` | `Microsoft.DataMigration/databaseMigrations/migrationFailureError.message` |
 | `properties.provisioningError` | `Microsoft.DataMigration/databaseMigrations/provisioningError` |
-

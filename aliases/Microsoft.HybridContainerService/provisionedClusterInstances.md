@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/provisionedClusterInstances
+﻿# Microsoft.HybridContainerService/provisionedClusterInstances
 
 | Default Path | Alias |
 |---|---|
@@ -79,4 +79,3 @@
 | `properties.autoScalerProfile` | `Microsoft.HybridContainerService/provisionedClusterInstances/autoScalerProfile` |
 | `properties.autoScalerProfile.expander` | `Microsoft.HybridContainerService/provisionedClusterInstances/autoScalerProfile.expander` |
 | `properties.agentPoolProfiles[*].gpuCountPerNode` | `Microsoft.HybridContainerService/provisionedClusterInstances/agentPoolProfiles[*].gpuCountPerNode` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Dashboard/grafana/integrationFabrics
+﻿# Microsoft.Dashboard/grafana/integrationFabrics
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.dataSourceResourceId` | `Microsoft.Dashboard/grafana/integrationFabrics/dataSourceResourceId` |
 | `properties.scenarios` | `Microsoft.Dashboard/grafana/integrationFabrics/scenarios` |
 | `properties.scenarios[*]` | `Microsoft.Dashboard/grafana/integrationFabrics/scenarios[*]` |
-

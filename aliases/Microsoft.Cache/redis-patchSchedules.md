@@ -1,4 +1,4 @@
-# Microsoft.Cache/redis/patchSchedules
+﻿# Microsoft.Cache/redis/patchSchedules
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.scheduleEntries[*].maintenanceWindow` | `Microsoft.Cache/redis/patchSchedules/default.scheduleEntries[*].maintenanceWindow` |
 | `properties.scheduleEntries[*]` | `Microsoft.Cache/redis/patchSchedules/default.scheduleEntries[*]` |
 | `properties.scheduleEntries` | `Microsoft.Cache/redis/patchSchedules/default.scheduleEntries` |
-

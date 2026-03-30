@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/provisionedClusters
+﻿# Microsoft.HybridContainerService/provisionedClusters
 
 | Default Path | Alias |
 |---|---|
@@ -146,4 +146,3 @@
 | `properties.status.provisioningStatus.operationId` | `Microsoft.HybridContainerService/provisionedClusters/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.phase` | `Microsoft.HybridContainerService/provisionedClusters/status.provisioningStatus.phase` |
 | `properties.status.provisioningStatus.status` | `Microsoft.HybridContainerService/provisionedClusters/status.provisioningStatus.status` |
-

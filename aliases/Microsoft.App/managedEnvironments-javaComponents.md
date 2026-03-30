@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/javaComponents
+﻿# Microsoft.App/managedEnvironments/javaComponents
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.scale` | `Microsoft.App/managedEnvironments/javaComponents/scale` |
 | `properties.scale.minReplicas` | `Microsoft.App/managedEnvironments/javaComponents/scale.minReplicas` |
 | `properties.scale.maxReplicas` | `Microsoft.App/managedEnvironments/javaComponents/scale.maxReplicas` |
-

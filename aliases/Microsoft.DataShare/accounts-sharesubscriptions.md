@@ -1,4 +1,4 @@
-# Microsoft.DataShare/accounts/sharesubscriptions
+﻿# Microsoft.DataShare/accounts/sharesubscriptions
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.userName` | `Microsoft.DataShare/accounts/sharesubscriptions/userName` |
 | `properties.sourceShareLocation` | `Microsoft.DataShare/accounts/sharesubscriptions/sourceShareLocation` |
 | `properties.expirationDate` | `Microsoft.DataShare/accounts/shareSubscriptions/expirationDate` |
-

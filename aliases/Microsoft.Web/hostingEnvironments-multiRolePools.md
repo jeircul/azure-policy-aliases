@@ -1,4 +1,4 @@
-# Microsoft.Web/hostingEnvironments/multiRolePools
+﻿# Microsoft.Web/hostingEnvironments/multiRolePools
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `sku.capabilities[*].value` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.capabilities[*].value` |
 | `sku.capabilities[*].reason` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.capabilities[*].reason` |
 | `sku.skuCapacity.elasticMaximum` | `Microsoft.Web/hostingEnvironments/multiRolePools/sku.skuCapacity.elasticMaximum` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Compute/availabilitySets
+﻿# Microsoft.Compute/availabilitySets
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.scheduledEventsApiVersion` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.scheduledEventsAdditionalPublishingTargets.eventGridAndResourceGraph.scheduledEventsApiVersion` |
 | `properties.scheduledEventsPolicy.allInstancesDown` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.allInstancesDown` |
 | `properties.scheduledEventsPolicy.allInstancesDown.automaticallyApprove` | `Microsoft.Compute/availabilitySets/scheduledEventsPolicy.allInstancesDown.automaticallyApprove` |
-

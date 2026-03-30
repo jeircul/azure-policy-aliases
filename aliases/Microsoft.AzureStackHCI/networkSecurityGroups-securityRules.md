@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/networkSecurityGroups/securityRules
+﻿# Microsoft.AzureStackHCI/networkSecurityGroups/securityRules
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.priority` | `Microsoft.AzureStackHCI/networkSecurityGroups/securityRules/priority` |
 | `properties.direction` | `Microsoft.AzureStackHCI/networkSecurityGroups/securityRules/direction` |
 | `properties.provisioningState` | `Microsoft.AzureStackHCI/networkSecurityGroups/securityRules/provisioningState` |
-

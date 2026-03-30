@@ -1,4 +1,4 @@
-# Microsoft.App/managedenvironments/privateendpointconnections
+﻿# Microsoft.App/managedenvironments/privateendpointconnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.App/managedEnvironments/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.App/managedEnvironments/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.App/managedEnvironments/privateEndpointConnections/provisioningState` |
-

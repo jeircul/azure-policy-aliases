@@ -1,4 +1,4 @@
-# Microsoft.Compute/virtualMachines
+﻿# Microsoft.Compute/virtualMachines
 
 | Default Path | Alias |
 |---|---|
@@ -295,4 +295,3 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachines/networkProfile.networkInterfaceConfigurations[*].tags` |
 | `properties.securityProfile.proxyAgentSettings.addProxyAgentExtension` | `Microsoft.Compute/virtualMachines/securityProfile.proxyAgentSettings.addProxyAgentExtension` |
 | `properties.additionalCapabilities.enableFips1403Encryption` | `Microsoft.Compute/virtualMachines/additionalCapabilities.enableFips1403Encryption` |
-

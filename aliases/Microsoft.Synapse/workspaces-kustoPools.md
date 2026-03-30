@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/kustoPools
+﻿# Microsoft.Synapse/workspaces/kustoPools
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.languageExtensions.value` | `Microsoft.Synapse/workspaces/kustoPools/languageExtensions.value` |
 | `properties.languageExtensions.value[*]` | `Microsoft.Synapse/workspaces/kustoPools/languageExtensions.value[*]` |
 | `properties.languageExtensions.value[*].languageExtensionName` | `Microsoft.Synapse/workspaces/kustoPools/languageExtensions.value[*].languageExtensionName` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/namedValues
+﻿# Microsoft.ApiManagement/service/namedValues
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.keyVault` | `Microsoft.ApiManagement/service/namedValues/keyVault` |
 | `properties.keyVault.secretIdentifier` | `Microsoft.ApiManagement/service/namedValues/keyVault.secretIdentifier` |
 | `properties.keyVault.identityClientId` | `Microsoft.ApiManagement/service/namedValues/keyVault.identityClientId` |
-

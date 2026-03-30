@@ -1,4 +1,4 @@
-# Microsoft.Network/frontDoors/rulesEngines
+﻿# Microsoft.Network/frontDoors/rulesEngines
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.rules[*].action.routeConfigurationOverride.customFragment` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration.customFragment` |
 | `properties.rules[*].action.routeConfigurationOverride.customQueryString` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration.customQueryString` |
 | `properties.rules[*].action.routeConfigurationOverride` | `Microsoft.Network/frontDoors/rulesEngines/rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration` |
-

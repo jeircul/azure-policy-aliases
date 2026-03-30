@@ -1,4 +1,4 @@
-# Microsoft.Chaos/targets/capabilities
+﻿# Microsoft.Chaos/targets/capabilities
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.parametersSchema` | `Microsoft.Chaos/targets/capabilities/parametersSchema` |
 | `properties.urn` | `Microsoft.Chaos/targets/capabilities/urn` |
 | `properties.provisioningState` | `Microsoft.Chaos/targets/capabilities/provisioningState` |
-

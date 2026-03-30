@@ -1,4 +1,4 @@
-# Microsoft.Network/dnsForwardingRulesets
+﻿# Microsoft.Network/dnsForwardingRulesets
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.dnsResolverOutboundEndpoints[*].id` | `Microsoft.Network/dnsForwardingRulesets/dnsResolverOutboundEndpoints[*].id` |
 | `properties.provisioningState` | `Microsoft.Network/dnsForwardingRulesets/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/dnsForwardingRulesets/resourceGuid` |
-

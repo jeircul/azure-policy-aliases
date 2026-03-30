@@ -1,4 +1,4 @@
-# Microsoft.Databricks/workspaces
+﻿# Microsoft.Databricks/workspaces
 
 | Default Path | Alias |
 |---|---|
@@ -135,4 +135,3 @@
 | `properties.accessConnector.identityType` | `Microsoft.Databricks/workspaces/accessConnector.identityType` |
 | `properties.accessConnector.userAssignedIdentityId` | `Microsoft.Databricks/workspaces/accessConnector.userAssignedIdentityId` |
 | `properties.defaultStorageFirewall` | `Microsoft.Databricks/workspaces/defaultStorageFirewall` |
-

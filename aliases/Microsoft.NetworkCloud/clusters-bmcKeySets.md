@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/clusters/bmcKeySets
+﻿# Microsoft.NetworkCloud/clusters/bmcKeySets
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.userListStatus[*].status` | `Microsoft.NetworkCloud/clusters/bmcKeySets/userListStatus[*].status` |
 | `properties.userListStatus[*].statusMessage` | `Microsoft.NetworkCloud/clusters/bmcKeySets/userListStatus[*].statusMessage` |
 | `properties.userList[*].userPrincipalName` | `Microsoft.NetworkCloud/clusters/bmcKeySets/userList[*].userPrincipalName` |
-

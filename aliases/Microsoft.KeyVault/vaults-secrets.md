@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/vaults/secrets
+﻿# Microsoft.KeyVault/vaults/secrets
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.secretUri` | `Microsoft.Keyvault/vaults/secrets/secretUri` |
 | `properties.secretUriWithVersion` | `Microsoft.Keyvault/vaults/secrets/secretUriWithVersion` |
 | `properties.value` | `Microsoft.KeyVault/vaults/secrets/value` |
-

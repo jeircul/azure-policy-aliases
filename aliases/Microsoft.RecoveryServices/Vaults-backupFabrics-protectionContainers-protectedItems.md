@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems
+﻿# Microsoft.RecoveryServices/Vaults/backupFabrics/protectionContainers/protectedItems
 
 | Default Path | Alias |
 |---|---|
@@ -191,4 +191,3 @@
 | `properties.nodesList[*].sourceResourceId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/nodesList[*].sourceResourceId` |
 | `properties.nodesList[*].sourceResourceId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/AzureVmWorkloadProtectedItem.nodesList[*].sourceResourceId` |
 | `properties.vaultId` | `Microsoft.RecoveryServices/vaults/backupFabrics/protectionContainers/protectedItems/vaultId` |
-

@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections
+﻿# Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.HybridCompute/privateLinkScopes/privateEndpointConnections/groupIds[*]` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/ddosProtectionPlans
+﻿# Microsoft.Network/ddosProtectionPlans
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.publicIpAddresses` | `Microsoft.Network/ddosProtectionPlans/publicIpAddresses` |
 | `properties.publicIpAddresses[*]` | `Microsoft.Network/ddosProtectionPlans/publicIpAddresses[*]` |
 | `properties.publicIpAddresses[*].id` | `Microsoft.Network/ddosProtectionPlans/publicIpAddresses[*].id` |
-

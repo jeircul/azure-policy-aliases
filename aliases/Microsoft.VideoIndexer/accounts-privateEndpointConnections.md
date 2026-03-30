@@ -1,4 +1,4 @@
-# Microsoft.VideoIndexer/accounts/privateEndpointConnections
+﻿# Microsoft.VideoIndexer/accounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.VideoIndexer/accounts/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.VideoIndexer/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.VideoIndexer/accounts/privateEndpointConnections/provisioningState` |
-

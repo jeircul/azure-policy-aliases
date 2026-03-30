@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces/dataExports
+﻿# Microsoft.OperationalInsights/workspaces/dataExports
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.enable` | `Microsoft.OperationalInsights/workspaces/dataExports/enable` |
 | `properties.createdDate` | `Microsoft.OperationalInsights/workspaces/dataExports/createdDate` |
 | `properties.lastModifiedDate` | `Microsoft.OperationalInsights/workspaces/dataExports/lastModifiedDate` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Workloads/sapVirtualInstances
+﻿# Microsoft.Workloads/sapVirtualInstances
 
 | Default Path | Alias |
 |---|---|
@@ -462,4 +462,3 @@
 | `properties.configuration.infrastructureConfiguration.customResourceNames.virtualMachine.dataDiskNames` | `Microsoft.Workloads/sapVirtualInstances/configuration.DeploymentWithOSConfig.infrastructureConfiguration.SingleServer.customResourceNames.FullResourceName.virtualMachine.dataDiskNames` |
 | `properties.configuration.infrastructureConfiguration.customResourceNames.virtualMachine.dataDiskNames` | `Microsoft.Workloads/sapVirtualInstances/configuration.Deployment.infrastructureConfiguration.SingleServer.customResourceNames.FullResourceName.virtualMachine.dataDiskNames` |
 | `properties.configuration.managedRgStorageAccountName` | `Microsoft.Workloads/sapVirtualInstances/configuration.Discovery.managedRgStorageAccountName` |
-

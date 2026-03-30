@@ -1,4 +1,4 @@
-# Microsoft.ExtendedLocation/customLocations
+﻿# Microsoft.ExtendedLocation/customLocations
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.hostType` | `Microsoft.ExtendedLocation/customLocations/hostType` |
 | `properties.namespace` | `Microsoft.ExtendedLocation/customLocations/namespace` |
 | `properties.provisioningState` | `Microsoft.ExtendedLocation/customLocations/provisioningState` |
-

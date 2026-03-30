@@ -1,4 +1,4 @@
-# Microsoft.Search/searchServices
+﻿# Microsoft.Search/searchServices
 
 | Default Path | Alias |
 |---|---|
@@ -86,4 +86,3 @@
 | `properties.sharedPrivateLinkResources[*].systemData.lastModifiedByType` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.lastModifiedByType` |
 | `properties.sharedPrivateLinkResources[*].systemData.lastModifiedAt` | `Microsoft.Search/searchServices/sharedPrivateLinkResources[*].systemData.lastModifiedAt` |
 | `properties.serviceUpgradedAt` | `Microsoft.Search/searchServices/serviceUpgradedAt` |
-

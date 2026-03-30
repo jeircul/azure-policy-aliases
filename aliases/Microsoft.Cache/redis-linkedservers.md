@@ -1,4 +1,4 @@
-# Microsoft.Cache/redis/linkedservers
+﻿# Microsoft.Cache/redis/linkedservers
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.serverRole` | `Microsoft.Cache/redis/linkedservers/serverRole` |
 | `properties.geoReplicatedPrimaryHostName` | `Microsoft.Cache/Redis/linkedServers/geoReplicatedPrimaryHostName` |
 | `properties.primaryHostName` | `Microsoft.Cache/Redis/linkedServers/primaryHostName` |
-

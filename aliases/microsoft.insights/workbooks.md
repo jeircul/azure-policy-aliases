@@ -1,4 +1,4 @@
-# microsoft.insights/workbooks
+﻿# microsoft.insights/workbooks
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.storageUri` | `microsoft.insights/workbooks/storageUri` |
 | `properties.description` | `microsoft.insights/workbooks/description` |
 | `properties.revision` | `microsoft.insights/workbooks/revision` |
-

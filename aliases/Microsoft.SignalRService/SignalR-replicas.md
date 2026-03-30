@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/SignalR/replicas
+﻿# Microsoft.SignalRService/SignalR/replicas
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.SignalRService/signalR/replicas/provisioningState` |
 | `properties.regionEndpointEnabled` | `Microsoft.SignalRService/signalR/replicas/regionEndpointEnabled` |
 | `properties.resourceStopped` | `Microsoft.SignalRService/signalR/replicas/resourceStopped` |
-

@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/l2Networks
+﻿# Microsoft.NetworkCloud/l2Networks
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.provisioningState` | `Microsoft.NetworkCloud/l2Networks/provisioningState` |
 | `properties.virtualMachinesAssociatedIds` | `Microsoft.NetworkCloud/l2Networks/virtualMachinesAssociatedIds` |
 | `properties.virtualMachinesAssociatedIds[*]` | `Microsoft.NetworkCloud/l2Networks/virtualMachinesAssociatedIds[*]` |
-

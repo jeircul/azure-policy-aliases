@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions
+﻿# Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.roles[*]` | `Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/roles[*]` |
 | `properties.roles[*].db` | `Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/roles[*].db` |
 | `properties.roles[*].role` | `Microsoft.DocumentDB/databaseAccounts/mongodbRoleDefinitions/roles[*].role` |
-

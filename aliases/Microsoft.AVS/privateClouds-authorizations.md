@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/authorizations
+﻿# Microsoft.AVS/privateClouds/authorizations
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.expressRouteAuthorizationId` | `Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationId` |
 | `properties.expressRouteAuthorizationKey` | `Microsoft.AVS/privateClouds/authorizations/expressRouteAuthorizationKey` |
 | `properties.expressRouteId` | `Microsoft.AVS/privateClouds/authorizations/expressRouteId` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/privateDnsZones/virtualNetworkLinks
+﻿# Microsoft.Network/privateDnsZones/virtualNetworkLinks
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.virtualNetworkLinkState` | `Microsoft.Network/privateDnsZones/virtualNetworkLinks/virtualNetworkLinkState` |
 | `properties.provisioningState` | `Microsoft.Network/privateDnsZones/virtualNetworkLinks/provisioningState` |
 | `properties.resolutionPolicy` | `Microsoft.Network/privateDnsZones/virtualNetworkLinks/resolutionPolicy` |
-

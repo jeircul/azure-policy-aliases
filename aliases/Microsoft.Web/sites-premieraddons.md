@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/premieraddons
+﻿# Microsoft.Web/sites/premieraddons
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.tags` | `Microsoft.Web/sites/premieraddons/tags` |
 | `properties.marketplacePublisher` | `Microsoft.Web/sites/premieraddons/marketplacePublisher` |
 | `properties.marketplaceOffer` | `Microsoft.Web/sites/premieraddons/marketplaceOffer` |
-

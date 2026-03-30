@@ -1,4 +1,4 @@
-# Microsoft.Network/networkSecurityPerimeters/profiles/accessRules
+﻿# Microsoft.Network/networkSecurityPerimeters/profiles/accessRules
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.phoneNumbers[*]` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/phoneNumbers[*]` |
 | `properties.serviceTags` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/serviceTags` |
 | `properties.serviceTags[*]` | `Microsoft.Network/networkSecurityPerimeters/profiles/accessRules/serviceTags[*]` |
-

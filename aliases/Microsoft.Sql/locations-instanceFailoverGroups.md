@@ -1,4 +1,4 @@
-# Microsoft.Sql/locations/instanceFailoverGroups
+﻿# Microsoft.Sql/locations/instanceFailoverGroups
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.managedInstancePairs[*]` | `Microsoft.Sql/locations/instanceFailoverGroups/managedInstancePairs[*]` |
 | `properties.managedInstancePairs` | `Microsoft.Sql/locations/instanceFailoverGroups/managedInstancePairs` |
 | `properties.secondaryType` | `Microsoft.Sql/locations/instanceFailoverGroups/secondaryType` |
-

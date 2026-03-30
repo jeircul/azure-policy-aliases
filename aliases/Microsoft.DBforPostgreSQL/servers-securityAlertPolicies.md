@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/servers/securityAlertPolicies
+﻿# Microsoft.DBforPostgreSQL/servers/securityAlertPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.storageEndpoint` | `Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.storageEndpoint` |
 | `properties.storageAccountAccessKey` | `Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.storageAccountAccessKey` |
 | `properties.retentionDays` | `Microsoft.DBforPostgreSQL/servers/securityAlertPolicies/Default.retentionDays` |
-

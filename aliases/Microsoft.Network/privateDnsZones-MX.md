@@ -1,4 +1,4 @@
-# Microsoft.Network/privateDnsZones/MX
+﻿# Microsoft.Network/privateDnsZones/MX
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/MX/txtRecords` |
 | `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/MX/txtRecords[*].value` |
 | `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/MX/txtRecords[*].value[*]` |
-

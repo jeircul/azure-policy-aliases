@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/devcenters/devboxdefinitions
+﻿# Microsoft.DevCenter/devcenters/devboxdefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.activeImageReference.sku` | `Microsoft.DevCenter/devcenters/devboxdefinitions/activeImageReference.sku` |
 | `properties.hibernateSupport` | `Microsoft.DevCenter/devcenters/devboxdefinitions/hibernateSupport` |
 | `properties.validationStatus` | `Microsoft.DevCenter/devcenters/devboxdefinitions/validationStatus` |
-

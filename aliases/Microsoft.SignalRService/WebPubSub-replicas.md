@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub/replicas
+﻿# Microsoft.SignalRService/WebPubSub/replicas
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.SignalRService/webPubSub/replicas/provisioningState` |
 | `properties.regionEndpointEnabled` | `Microsoft.SignalRService/webPubSub/replicas/regionEndpointEnabled` |
 | `properties.resourceStopped` | `Microsoft.SignalRService/webPubSub/replicas/resourceStopped` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts
+﻿# Microsoft.Storage/storageAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -183,4 +183,3 @@
 | `properties.primaryEndpoints.ipv6Endpoints.internetEndpoints.dfs` | `Microsoft.Storage/storageAccounts/primaryEndpoints.ipv6Endpoints.internetEndpoints.dfs` |
 | `properties.geoPriorityReplicationStatus` | `Microsoft.Storage/storageAccounts/geoPriorityReplicationStatus` |
 | `properties.geoPriorityReplicationStatus.isBlobEnabled` | `Microsoft.Storage/storageAccounts/geoPriorityReplicationStatus.isBlobEnabled` |
-

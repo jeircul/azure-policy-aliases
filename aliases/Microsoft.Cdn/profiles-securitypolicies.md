@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/securitypolicies
+﻿# Microsoft.Cdn/profiles/securitypolicies
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.parameters.type` | `Microsoft.Cdn/profiles/securityPolicies/parameters.type` |
 | `properties.profileName` | `Microsoft.Cdn/profiles/securityPolicies/profileName` |
 | `properties.parameters.associations[*].domains[*].isActive` | `Microsoft.Cdn/profiles/securityPolicies/parameters.WebApplicationFirewall.associations[*].domains[*].isActive` |
-

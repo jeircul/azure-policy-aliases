@@ -1,4 +1,4 @@
-# Microsoft.Security/securityContacts
+﻿# Microsoft.Security/securityContacts
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.notificationsSources[*].minimalRiskLevel` | `Microsoft.Security/securityContacts/notificationsSources[*].AttackPath.minimalRiskLevel` |
 | `properties.notificationsSources[*].minimalSeverity` | `Microsoft.Security/securityContacts/notificationsSources[*].Alert.minimalSeverity` |
 | `properties.notificationsSources[*].sourceType` | `Microsoft.Security/securityContacts/notificationsSources[*].sourceType` |
-

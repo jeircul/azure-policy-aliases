@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers
+﻿# Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.startTime` | `Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers/startTime` |
 | `properties.endTime` | `Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers/endTime` |
 | `properties.importance` | `Microsoft.Synapse/workspaces/sqlPools/workloadGroups/workloadClassifiers/importance` |
-

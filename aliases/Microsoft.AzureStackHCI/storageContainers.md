@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/storageContainers
+﻿# Microsoft.AzureStackHCI/storageContainers
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.status.provisioningStatus` | `Microsoft.AzureStackHCI/storagecontainers/status.provisioningStatus` |
 | `properties.status.provisioningStatus.operationId` | `Microsoft.AzureStackHCI/storagecontainers/status.provisioningStatus.operationId` |
 | `properties.status.provisioningStatus.status` | `Microsoft.AzureStackHCI/storagecontainers/status.provisioningStatus.status` |
-

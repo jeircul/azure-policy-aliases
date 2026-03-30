@@ -1,4 +1,4 @@
-# microsoft.insights/logprofiles
+﻿# microsoft.insights/logprofiles
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.retentionPolicy` | `Microsoft.Insights/logProfiles/retentionPolicy` |
 | `properties.retentionPolicy.enabled` | `Microsoft.Insights/logProfiles/retentionPolicy.enabled` |
 | `properties.retentionPolicy.days` | `Microsoft.Insights/logProfiles/retentionPolicy.days` |
-

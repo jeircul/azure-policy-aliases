@@ -1,4 +1,4 @@
-# Microsoft.Network/vpnServerConfigurations
+﻿# Microsoft.Network/vpnServerConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -128,4 +128,3 @@
 | `properties.configurationPolicyGroups[*].etag` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].etag` |
 | `properties.configurationPolicyGroups[*].name` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].name` |
 | `properties.configurationPolicyGroups[*].type` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups[*].type` |
-

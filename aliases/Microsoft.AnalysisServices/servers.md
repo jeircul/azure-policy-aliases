@@ -1,4 +1,4 @@
-# Microsoft.AnalysisServices/servers
+﻿# Microsoft.AnalysisServices/servers
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `sku.tier` | `Microsoft.AnalysisServices/servers/sku.tier` |
 | `sku.capacity` | `Microsoft.AnalysisServices/servers/sku.capacity` |
 | `sku` | `Microsoft.AnalysisServices/servers/sku` |
-

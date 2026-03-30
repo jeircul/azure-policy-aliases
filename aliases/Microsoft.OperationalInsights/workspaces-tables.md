@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces/tables
+﻿# Microsoft.OperationalInsights/workspaces/tables
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.resultStatistics.scannedGb` | `Microsoft.OperationalInsights/workspaces/tables/resultStatistics.scannedGb` |
 | `properties.retentionInDaysAsDefault` | `Microsoft.OperationalInsights/workspaces/tables/retentionInDaysAsDefault` |
 | `properties.totalRetentionInDaysAsDefault` | `Microsoft.OperationalInsights/workspaces/tables/totalRetentionInDaysAsDefault` |
-

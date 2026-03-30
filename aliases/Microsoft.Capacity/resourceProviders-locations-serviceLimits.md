@@ -1,4 +1,4 @@
-# Microsoft.Capacity/resourceProviders/locations/serviceLimits
+﻿# Microsoft.Capacity/resourceProviders/locations/serviceLimits
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.name.localizedValue` | `Microsoft.Capacity/resourceProviders/locations/serviceLimits/name.localizedValue` |
 | `properties.resourceType` | `Microsoft.Capacity/resourceProviders/locations/serviceLimits/resourceType` |
 | `properties.quotaPeriod` | `Microsoft.Capacity/resourceProviders/locations/serviceLimits/quotaPeriod` |
-

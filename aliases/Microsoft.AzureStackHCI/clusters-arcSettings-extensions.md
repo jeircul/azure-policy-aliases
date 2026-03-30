@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/clusters/arcSettings/extensions
+﻿# Microsoft.AzureStackHCI/clusters/arcSettings/extensions
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.perNodeExtensionDetails[*].instanceView.status.message` | `Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails[*].instanceView.status.message` |
 | `properties.perNodeExtensionDetails[*].instanceView.status.time` | `Microsoft.AzureStackHCI/clusters/arcSettings/extensions/perNodeExtensionDetails[*].instanceView.status.time` |
 | `properties.managedBy` | `Microsoft.AzureStackHCI/clusters/arcSettings/extensions/managedBy` |
-

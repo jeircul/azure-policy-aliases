@@ -1,4 +1,4 @@
-# Microsoft.ServiceFabric/managedclusters/nodetypes
+﻿# Microsoft.ServiceFabric/managedclusters/nodetypes
 
 | Default Path | Alias |
 |---|---|
@@ -95,4 +95,3 @@
 | `properties.evictionPolicy` | `Microsoft.ServiceFabric/managedClusters/nodeTypes/evictionPolicy` |
 | `properties.frontendConfigurations[*].applicationGatewayBackendAddressPoolId` | `Microsoft.ServiceFabric/managedClusters/nodeTypes/frontendConfigurations[*].applicationGatewayBackendAddressPoolId` |
 | `properties.vmImageResourceId` | `Microsoft.ServiceFabric/managedClusters/nodeTypes/vmImageResourceId` |
-

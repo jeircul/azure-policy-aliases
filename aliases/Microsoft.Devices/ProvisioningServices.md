@@ -1,4 +1,4 @@
-# Microsoft.Devices/ProvisioningServices
+﻿# Microsoft.Devices/ProvisioningServices
 
 | Default Path | Alias |
 |---|---|
@@ -58,4 +58,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Devices/provisioningServices/privateEndpointConnections[*].systemData.lastModifiedAt` |
 | `properties.enableDataResidency` | `Microsoft.Devices/provisioningServices/enableDataResidency` |
-

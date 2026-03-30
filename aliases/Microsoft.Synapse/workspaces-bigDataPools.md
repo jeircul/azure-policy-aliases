@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/bigDataPools
+﻿# Microsoft.Synapse/workspaces/bigDataPools
 
 | Default Path | Alias |
 |---|---|
@@ -45,4 +45,3 @@
 | `properties.dynamicExecutorAllocation.minExecutors` | `Microsoft.Synapse/workspaces/bigDataPools/dynamicExecutorAllocation.minExecutors` |
 | `properties.dynamicExecutorAllocation.maxExecutors` | `Microsoft.Synapse/workspaces/bigDataPools/dynamicExecutorAllocation.maxExecutors` |
 | `properties.isAutotuneEnabled` | `Microsoft.Synapse/workspaces/bigDataPools/isAutotuneEnabled` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apis/releases
+﻿# Microsoft.ApiManagement/service/apis/releases
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.createdDateTime` | `Microsoft.ApiManagement/service/apis/releases/createdDateTime` |
 | `properties.updatedDateTime` | `Microsoft.ApiManagement/service/apis/releases/updatedDateTime` |
 | `properties.notes` | `Microsoft.ApiManagement/service/apis/releases/notes` |
-

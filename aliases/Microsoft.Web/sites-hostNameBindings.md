@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/hostNameBindings
+﻿# Microsoft.Web/sites/hostNameBindings
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.sslState` | `Microsoft.Web/sites/hostNameBindings/sslState` |
 | `properties.thumbprint` | `Microsoft.Web/sites/hostNameBindings/thumbprint` |
 | `properties.virtualIP` | `Microsoft.Web/sites/hostNameBindings/virtualIP` |
-

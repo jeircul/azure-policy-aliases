@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentprojects/vmwarecollectors
+﻿# Microsoft.Migrate/assessmentprojects/vmwarecollectors
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.agentProperties.spnDetails.tenantId` | `Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails.tenantId` |
 | `properties.agentProperties.spnDetails` | `Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties.spnDetails` |
 | `properties.agentProperties` | `Microsoft.Migrate/assessmentprojects/vmwarecollectors/agentProperties` |
-

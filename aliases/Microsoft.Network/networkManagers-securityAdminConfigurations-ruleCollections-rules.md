@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules
+﻿# Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Default.resourceGuid` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityAdminConfigurations/ruleCollections/rules/Custom.resourceGuid` |
-

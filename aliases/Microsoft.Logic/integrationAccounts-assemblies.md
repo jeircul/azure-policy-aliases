@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/assemblies
+﻿# Microsoft.Logic/integrationAccounts/assemblies
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.changedTime` | `Microsoft.Logic/integrationAccounts/assemblies/changedTime` |
 | `properties.metadata` | `Microsoft.Logic/integrationAccounts/assemblies/metadata` |
 | `properties.contentLink.contentHash.value` | `Microsoft.Logic/integrationAccounts/assemblies/contentLink.contentHash.value` |
-

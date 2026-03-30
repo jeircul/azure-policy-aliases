@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/virtualMachines
+﻿# Microsoft.NetworkCloud/virtualMachines
 
 | Default Path | Alias |
 |---|---|
@@ -58,4 +58,3 @@
 | `properties.vmImageRepositoryCredentials.username` | `Microsoft.NetworkCloud/virtualMachines/vmImageRepositoryCredentials.username` |
 | `properties.volumes` | `Microsoft.NetworkCloud/virtualMachines/volumes` |
 | `properties.volumes[*]` | `Microsoft.NetworkCloud/virtualMachines/volumes[*]` |
-

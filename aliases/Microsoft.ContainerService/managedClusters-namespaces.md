@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/namespaces
+﻿# Microsoft.ContainerService/managedClusters/namespaces
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.defaultNetworkPolicy.egress` | `Microsoft.ContainerService/managedClusters/namespaces/defaultNetworkPolicy.egress` |
 | `properties.adoptionPolicy` | `Microsoft.ContainerService/managedClusters/namespaces/adoptionPolicy` |
 | `properties.deletePolicy` | `Microsoft.ContainerService/managedClusters/namespaces/deletePolicy` |
-

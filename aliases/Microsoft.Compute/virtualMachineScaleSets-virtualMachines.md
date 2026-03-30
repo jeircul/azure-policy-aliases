@@ -1,4 +1,4 @@
-# Microsoft.Compute/virtualMachineScaleSets/virtualMachines
+﻿# Microsoft.Compute/virtualMachineScaleSets/virtualMachines
 
 | Default Path | Alias |
 |---|---|
@@ -302,4 +302,3 @@
 | `properties.networkProfile.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfile.networkInterfaceConfigurations[*].tags` |
 | `properties.networkProfileConfiguration.networkInterfaceConfigurations[*].tags` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/networkProfileConfiguration.networkInterfaceConfigurations[*].tags` |
 | `properties.additionalCapabilities.enableFips1403Encryption` | `Microsoft.Compute/virtualMachineScaleSets/virtualmachines/additionalCapabilities.enableFips1403Encryption` |
-

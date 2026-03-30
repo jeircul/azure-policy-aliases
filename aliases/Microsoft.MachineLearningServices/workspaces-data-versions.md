@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/data/versions
+﻿# Microsoft.MachineLearningServices/workspaces/data/versions
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.intellectualProperty.protectionLevel` | `Microsoft.MachineLearningServices/workspaces/data/versions/intellectualProperty.protectionLevel` |
 | `properties.intellectualProperty.publisher` | `Microsoft.MachineLearningServices/workspaces/data/versions/intellectualProperty.publisher` |
 | `properties.stage` | `Microsoft.MachineLearningServices/workspaces/data/versions/stage` |
-

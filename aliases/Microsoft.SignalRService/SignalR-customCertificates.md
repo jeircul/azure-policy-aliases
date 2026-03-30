@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/SignalR/customCertificates
+﻿# Microsoft.SignalRService/SignalR/customCertificates
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.keyVaultBaseUri` | `Microsoft.SignalRService/signalR/customCertificates/keyVaultBaseUri` |
 | `properties.keyVaultSecretName` | `Microsoft.SignalRService/signalR/customCertificates/keyVaultSecretName` |
 | `properties.keyVaultSecretVersion` | `Microsoft.SignalRService/signalR/customCertificates/keyVaultSecretVersion` |
-

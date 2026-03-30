@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/notificationChannels
+﻿# Microsoft.DevTestLab/labs/notificationChannels
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/notificationChannels/uniqueIdentifier` |
 | `properties.emailRecipient` | `Microsoft.DevTestLab/labs/notificationChannels/emailRecipient` |
 | `properties.notificationLocale` | `Microsoft.DevTestLab/labs/notificationChannels/notificationLocale` |
-

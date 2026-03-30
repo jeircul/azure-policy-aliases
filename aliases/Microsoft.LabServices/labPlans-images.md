@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labPlans/images
+﻿# Microsoft.LabServices/labPlans/images
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.availableRegions` | `Microsoft.LabServices/labPlans/images/availableRegions` |
 | `properties.availableRegions[*]` | `Microsoft.LabServices/labPlans/images/availableRegions[*]` |
 | `properties.osState` | `Microsoft.LabServices/labPlans/images/osState` |
-

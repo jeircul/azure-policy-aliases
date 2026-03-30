@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/maps
+﻿# Microsoft.Logic/integrationAccounts/maps
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.parametersSchema.ref` | `Microsoft.Logic/integrationAccounts/maps/parametersSchema.ref` |
 | `properties.parametersSchema` | `Microsoft.Logic/integrationAccounts/maps/parametersSchema` |
 | `properties.contentLink.contentHash.value` | `Microsoft.Logic/integrationAccounts/maps/contentLink.contentHash.value` |
-

@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/vaults/privateEndpointConnections
+﻿# Microsoft.KeyVault/vaults/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
 | `properties.provisioningState` | `Microsoft.KeyVault/vaults/privateEndpointConnections/provisioningState` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.KeyVault/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

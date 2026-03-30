@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualNetworks
+﻿# Microsoft.Network/virtualNetworks
 
 | Default Path | Alias |
 |---|---|
@@ -887,4 +887,3 @@
 | `properties.defaultPublicNatGateway` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway` |
 | `properties.defaultPublicNatGateway.id` | `Microsoft.Network/virtualnetworks/defaultPublicNatGateway.id` |
 | `properties.flowLogs[*].properties.recordTypes` | `Microsoft.Network/virtualnetworks/flowLogs[*].recordTypes` |
-

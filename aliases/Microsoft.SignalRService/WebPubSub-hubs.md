@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub/hubs
+﻿# Microsoft.SignalRService/WebPubSub/hubs
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.eventListeners[*].endpoint.eventHubName` | `Microsoft.SignalRService/webPubSub/hubs/eventListeners[*].endpoint.EventHub.eventHubName` |
 | `properties.eventListeners[*].endpoint.type` | `Microsoft.SignalRService/webPubSub/hubs/eventListeners[*].endpoint.type` |
 | `properties.webSocketKeepAliveIntervalInSeconds` | `Microsoft.SignalRService/webPubSub/hubs/webSocketKeepAliveIntervalInSeconds` |
-

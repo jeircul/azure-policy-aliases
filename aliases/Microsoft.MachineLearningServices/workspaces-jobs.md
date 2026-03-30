@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/jobs
+﻿# Microsoft.MachineLearningServices/workspaces/jobs
 
 | Default Path | Alias |
 |---|---|
@@ -715,4 +715,3 @@
 | `properties.resources.dockerArgsList` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.resources.dockerArgsList` |
 | `properties.resources.dockerArgsList[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/Command.resources.dockerArgsList[*]` |
 | `properties.resources.dockerArgsList[*]` | `Microsoft.MachineLearningServices/workspaces/jobs/AutoML.resources.dockerArgsList[*]` |
-

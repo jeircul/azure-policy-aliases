@@ -1,4 +1,4 @@
-# Microsoft.StorageMover/storageMovers/endpoints
+﻿# Microsoft.StorageMover/storageMovers/endpoints
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.credentials.passwordUri` | `Microsoft.StorageMover/storageMovers/endpoints/SmbMount.credentials.passwordUri` |
 | `properties.credentials.type` | `Microsoft.StorageMover/storageMovers/endpoints/SmbMount.credentials.type` |
 | `properties.fileShareName` | `Microsoft.StorageMover/storageMovers/endpoints/AzureStorageSmbFileShare.fileShareName` |
-

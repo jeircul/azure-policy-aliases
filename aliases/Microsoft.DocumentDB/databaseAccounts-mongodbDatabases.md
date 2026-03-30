@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/mongodbDatabases
+﻿# Microsoft.DocumentDB/databaseAccounts/mongodbDatabases
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/resource.createMode` |
 | `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/mongodbDatabases/resource.restoreParameters.restoreWithTtlDisabled` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/servers/administrators
+﻿# Microsoft.DBforMySQL/servers/administrators
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.login` | `Microsoft.DBForMySQL/servers/Administrators/login` |
 | `properties.sid` | `Microsoft.DBForMySQL/servers/Administrators/sid` |
 | `properties.tenantId` | `Microsoft.DBForMySQL/servers/Administrators/tenantId` |
-

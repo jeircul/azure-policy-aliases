@@ -1,4 +1,4 @@
-# Microsoft.Security/privateLinks
+﻿# Microsoft.Security/privateLinks
 
 | Default Path | Alias |
 |---|---|
@@ -41,4 +41,3 @@
 | `properties.privateLinkResources[*].properties.requiredMembers[*]` | `Microsoft.Security/privateLinks/privateLinkResources[*].requiredMembers[*]` |
 | `properties.privateLinkResources[*].properties.requiredZoneNames` | `Microsoft.Security/privateLinks/privateLinkResources[*].requiredZoneNames` |
 | `properties.privateLinkResources[*].properties.requiredZoneNames[*]` | `Microsoft.Security/privateLinks/privateLinkResources[*].requiredZoneNames[*]` |
-

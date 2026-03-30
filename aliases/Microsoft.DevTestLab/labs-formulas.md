@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/formulas
+﻿# Microsoft.DevTestLab/labs/formulas
 
 | Default Path | Alias |
 |---|---|
@@ -192,4 +192,3 @@
 | `properties.formulaContent.properties.scheduleParameters` | `Microsoft.DevTestLab/labs/formulas/formulaContent.scheduleParameters` |
 | `properties.formulaContent.properties.lastKnownPowerState` | `Microsoft.DevTestLab/labs/formulas/formulaContent.lastKnownPowerState` |
 | `properties.formulaContent.properties.artifacts[*].parameters[*].value` | `Microsoft.DevTestLab/labs/formulas/formulaContent.artifacts[*].parameters[*].value` |
-

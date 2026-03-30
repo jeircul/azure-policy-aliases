@@ -1,4 +1,4 @@
-# Microsoft.PolicyInsights/attestations
+﻿# Microsoft.PolicyInsights/attestations
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.provisioningState` | `Microsoft.PolicyInsights/attestations/provisioningState` |
 | `properties.lastComplianceStateChangeAt` | `Microsoft.PolicyInsights/attestations/lastComplianceStateChangeAt` |
 | `properties.assessmentDate` | `Microsoft.PolicyInsights/attestations/assessmentDate` |
-

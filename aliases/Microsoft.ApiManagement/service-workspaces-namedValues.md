@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/namedValues
+﻿# Microsoft.ApiManagement/service/workspaces/namedValues
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.keyVault` | `Microsoft.ApiManagement/service/workspaces/namedValues/keyVault` |
 | `properties.keyVault.secretIdentifier` | `Microsoft.ApiManagement/service/workspaces/namedValues/keyVault.secretIdentifier` |
 | `properties.keyVault.identityClientId` | `Microsoft.ApiManagement/service/workspaces/namedValues/keyVault.identityClientId` |
-

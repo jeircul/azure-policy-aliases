@@ -1,4 +1,4 @@
-# Microsoft.Relay/namespaces/wcfrelays
+﻿# Microsoft.Relay/namespaces/wcfrelays
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.requiresTransportSecurity` | `Microsoft.Relay/namespaces/WcfRelays/requiresTransportSecurity` |
 | `properties.isDynamic` | `Microsoft.Relay/namespaces/WcfRelays/isDynamic` |
 | `properties.userMetadata` | `Microsoft.Relay/namespaces/WcfRelays/userMetadata` |
-

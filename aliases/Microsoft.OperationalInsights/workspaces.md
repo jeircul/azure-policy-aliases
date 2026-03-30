@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces
+﻿# Microsoft.OperationalInsights/workspaces
 
 | Default Path | Alias |
 |---|---|
@@ -71,4 +71,3 @@
 | `properties.failover` | `Microsoft.OperationalInsights/workspaces/failover` |
 | `properties.failover.state` | `Microsoft.OperationalInsights/workspaces/failover.state` |
 | `properties.failover.lastModifiedDate` | `Microsoft.OperationalInsights/workspaces/failover.lastModifiedDate` |
-

@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerDestinations
+﻿# Microsoft.EventGrid/partnerDestinations
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.activationState` | `Microsoft.EventGrid/partnerDestinations/activationState` |
 | `properties.endpointBaseUrl` | `Microsoft.EventGrid/partnerDestinations/endpointBaseUrl` |
 | `properties.messageForActivation` | `Microsoft.EventGrid/partnerDestinations/messageForActivation` |
-

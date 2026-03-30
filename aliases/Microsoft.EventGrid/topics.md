@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/topics
+﻿# Microsoft.EventGrid/topics
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.eventTypeInfo.kind` | `Microsoft.EventGrid/topics/eventTypeInfo.kind` |
 | `properties.eventTypeInfo.inlineEventTypes` | `Microsoft.EventGrid/topics/eventTypeInfo.inlineEventTypes` |
 | `properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/topics/minimumTlsVersionAllowed` |
-

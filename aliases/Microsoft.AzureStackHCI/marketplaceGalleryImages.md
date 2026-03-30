@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/marketplaceGalleryImages
+﻿# Microsoft.AzureStackHCI/marketplaceGalleryImages
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.status.downloadStatus.downloadSizeInMB` | `Microsoft.AzureStackHCI/marketplacegalleryimages/status.downloadStatus.downloadSizeInMB` |
 | `properties.status.progressPercentage` | `Microsoft.AzureStackHCI/marketplacegalleryimages/status.progressPercentage` |
 | `properties.containerId` | `Microsoft.AzureStackHCI/marketplacegalleryimages/containerId` |
-

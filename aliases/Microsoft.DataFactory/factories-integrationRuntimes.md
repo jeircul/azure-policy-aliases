@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/integrationRuntimes
+﻿# Microsoft.DataFactory/factories/integrationRuntimes
 
 | Default Path | Alias |
 |---|---|
@@ -154,4 +154,3 @@
 | `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.timeToLive` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.timeToLive` |
 | `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfPipelineNodes` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfPipelineNodes` |
 | `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfExternalNodes` | `Microsoft.DataFactory/factories/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties.numberOfExternalNodes` |
-

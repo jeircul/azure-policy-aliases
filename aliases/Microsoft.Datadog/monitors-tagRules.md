@@ -1,4 +1,4 @@
-# Microsoft.Datadog/monitors/tagRules
+﻿# Microsoft.Datadog/monitors/tagRules
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.metricRules.filteringTags[*].name` | `Microsoft.Datadog/monitors/tagRules/metricRules.filteringTags[*].name` |
 | `properties.metricRules.filteringTags[*].value` | `Microsoft.Datadog/monitors/tagRules/metricRules.filteringTags[*].value` |
 | `properties.metricRules.filteringTags[*].action` | `Microsoft.Datadog/monitors/tagRules/metricRules.filteringTags[*].action` |
-

@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations
+﻿# Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.resourceIdentityResolutionType` | `Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/resourceIdentityResolutionType` |
 | `properties.fhirServiceResourceId` | `Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/fhirServiceResourceId` |
 | `properties.fhirMapping` | `Microsoft.HealthcareApis/workspaces/iotconnectors/fhirdestinations/fhirMapping` |
-

@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/components/versions
+﻿# Microsoft.MachineLearningServices/workspaces/components/versions
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.autoDeleteSetting.condition` | `Microsoft.MachineLearningServices/workspaces/components/versions/autoDeleteSetting.condition` |
 | `properties.autoDeleteSetting.value` | `Microsoft.MachineLearningServices/workspaces/components/versions/autoDeleteSetting.value` |
 | `properties.stage` | `Microsoft.MachineLearningServices/workspaces/components/versions/stage` |
-

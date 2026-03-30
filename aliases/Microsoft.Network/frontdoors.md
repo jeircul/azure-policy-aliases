@@ -1,4 +1,4 @@
-# Microsoft.Network/frontdoors
+﻿# Microsoft.Network/frontdoors
 
 | Default Path | Alias |
 |---|---|
@@ -200,4 +200,3 @@
 | `properties.routingRules[*].properties.routeConfiguration` | `Microsoft.Network/frontDoors/routingRules[*].routeConfiguration.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration` |
 | `properties.rulesEngines[*].properties.rules[*].action.routeConfigurationOverride` | `Microsoft.Network/frontDoors/rulesEngines[*].rules[*].action.routeConfigurationOverride.#Microsoft-Azure-FrontDoor-Models-FrontdoorRedirectConfiguration` |
 | `properties.extendedProperties` | `Microsoft.Network/frontDoors/extendedProperties` |
-

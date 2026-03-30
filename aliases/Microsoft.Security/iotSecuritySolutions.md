@@ -1,4 +1,4 @@
-# Microsoft.Security/iotSecuritySolutions
+﻿# Microsoft.Security/iotSecuritySolutions
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.additionalWorkspaces[*].type` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].type` |
 | `properties.additionalWorkspaces[*].dataTypes` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].dataTypes` |
 | `properties.additionalWorkspaces[*].dataTypes[*]` | `Microsoft.Security/iotSecuritySolutions/additionalWorkspaces[*].dataTypes[*]` |
-

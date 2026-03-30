@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts
+﻿# Microsoft.Automation/automationAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.publicNetworkAccess` | `Microsoft.Automation/automationAccounts/publicNetworkAccess` |
 | `properties.encryption.identity.userAssignedIdentity` | `Microsoft.Automation/automationAccounts/encryption.identity.userAssignedIdentity` |
 | `properties.disableLocalAuth` | `Microsoft.Automation/automationAccounts/disableLocalAuth` |
-

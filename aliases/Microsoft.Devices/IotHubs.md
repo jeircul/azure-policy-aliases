@@ -1,4 +1,4 @@
-# Microsoft.Devices/IotHubs
+﻿# Microsoft.Devices/IotHubs
 
 | Default Path | Alias |
 |---|---|
@@ -153,4 +153,3 @@
 | `properties.allowedFqdnList` | `Microsoft.Devices/IotHubs/allowedFqdnList` |
 | `properties.allowedFqdnList[*]` | `Microsoft.Devices/IotHubs/allowedFqdnList[*]` |
 | `properties.enableDataResidency` | `Microsoft.Devices/IotHubs/enableDataResidency` |
-

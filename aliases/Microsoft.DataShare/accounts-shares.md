@@ -1,4 +1,4 @@
-# Microsoft.DataShare/accounts/shares
+﻿# Microsoft.DataShare/accounts/shares
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.terms` | `Microsoft.DataShare/accounts/shares/terms` |
 | `properties.userEmail` | `Microsoft.DataShare/accounts/shares/userEmail` |
 | `properties.userName` | `Microsoft.DataShare/accounts/shares/userName` |
-

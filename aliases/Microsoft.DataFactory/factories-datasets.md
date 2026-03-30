@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/datasets
+﻿# Microsoft.DataFactory/factories/datasets
 
 | Default Path | Alias |
 |---|---|
@@ -281,4 +281,3 @@
 | `properties.typeProperties.location` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location` |
 | `properties.typeProperties.location.type` | `Microsoft.DataFactory/factories/datasets/Iceberg.typeProperties.location.type` |
 | `properties.typeProperties.valueType` | `Microsoft.DataFactory/factories/datasets/ServiceNowV2Object.typeProperties.valueType` |
-

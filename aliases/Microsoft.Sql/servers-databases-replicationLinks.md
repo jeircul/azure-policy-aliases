@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/replicationLinks
+﻿# Microsoft.Sql/servers/databases/replicationLinks
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.replicationState` | `Microsoft.Sql/servers/databases/replicationLinks/replicationState` |
 | `properties.isTerminationAllowed` | `Microsoft.Sql/servers/databases/replicationLinks/isTerminationAllowed` |
 | `properties.linkType` | `Microsoft.Sql/servers/databases/replicationLinks/linkType` |
-

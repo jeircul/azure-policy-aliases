@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/bookmarks/relations
+﻿# Microsoft.SecurityInsights/bookmarks/relations
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.relatedResourceName` | `Microsoft.SecurityInsights/bookmarks/relations/relatedResourceName` |
 | `properties.relatedResourceType` | `Microsoft.SecurityInsights/bookmarks/relations/relatedResourceType` |
 | `properties.relatedResourceKind` | `Microsoft.SecurityInsights/bookmarks/relations/relatedResourceKind` |
-

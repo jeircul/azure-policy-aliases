@@ -1,4 +1,4 @@
-# Microsoft.KeyVault/vaults
+﻿# Microsoft.KeyVault/vaults
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.privateEndpointConnections[*].id` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].id` |
 | `properties.privateEndpointConnections[*].etag` | `Microsoft.KeyVault/vaults/privateEndpointConnections[*].etag` |
 | `properties.publicNetworkAccess` | `Microsoft.KeyVault/vaults/publicNetworkAccess` |
-

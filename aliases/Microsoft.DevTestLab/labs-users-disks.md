@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/users/disks
+﻿# Microsoft.DevTestLab/labs/users/disks
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.managedDiskId` | `Microsoft.DevTestLab/labs/users/disks/managedDiskId` |
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/users/disks/provisioningState` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/users/disks/uniqueIdentifier` |
-

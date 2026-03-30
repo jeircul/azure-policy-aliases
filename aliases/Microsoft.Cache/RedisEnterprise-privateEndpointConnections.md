@@ -1,4 +1,4 @@
-# Microsoft.Cache/RedisEnterprise/privateEndpointConnections
+﻿# Microsoft.Cache/RedisEnterprise/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.Cache/redisEnterprise/privateEndpointConnections/provisioningState` |
-

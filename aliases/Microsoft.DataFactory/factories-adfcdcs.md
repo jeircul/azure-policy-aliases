@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/adfcdcs
+﻿# Microsoft.DataFactory/factories/adfcdcs
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.policy.recurrence.interval` | `Microsoft.DataFactory/factories/adfcdcs/policy.recurrence.interval` |
 | `properties.allowVNetOverride` | `Microsoft.DataFactory/factories/adfcdcs/allowVNetOverride` |
 | `properties.status` | `Microsoft.DataFactory/factories/adfcdcs/status` |
-

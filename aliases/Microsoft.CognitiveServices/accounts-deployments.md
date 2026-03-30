@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/deployments
+﻿# Microsoft.CognitiveServices/accounts/deployments
 
 | Default Path | Alias |
 |---|---|
@@ -71,4 +71,3 @@
 | `properties.spilloverDeploymentName` | `Microsoft.CognitiveServices/accounts/deployments/spilloverDeploymentName` |
 | `properties.serviceTier` | `Microsoft.CognitiveServices/accounts/deployments/serviceTier` |
 | `properties.deploymentState` | `Microsoft.CognitiveServices/accounts/deployments/deploymentState` |
-

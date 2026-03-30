@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders
+﻿# Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders
 
 | Default Path | Alias |
 |---|---|
@@ -78,4 +78,3 @@
 | `properties.returnTrackingInfo[*].trackingUrl` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/returnTrackingInfo[*].trackingUrl` |
 | `properties.currentStatus.additionalOrderDetails` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/currentStatus.additionalOrderDetails` |
 | `properties.orderHistory[*].additionalOrderDetails` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/orders/orderHistory[*].additionalOrderDetails` |
-

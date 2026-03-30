@@ -1,4 +1,4 @@
-# Microsoft.SaaS/saasresources
+﻿# Microsoft.SaaS/saasresources
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.publisherTestEnvironment` | `Microsoft.SaaS/saasresources/publisherTestEnvironment` |
 | `properties.saasSubscriptionId` | `Microsoft.SaaS/saasresources/saasSubscriptionId` |
 | `properties.saasSessionId` | `Microsoft.SaaS/saasresources/saasSessionId` |
-

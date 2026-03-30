@@ -1,4 +1,4 @@
-# Microsoft.KubernetesConfiguration/fluxConfigurations
+﻿# Microsoft.KubernetesConfiguration/fluxConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -111,4 +111,3 @@
 | `properties.ociRepository.tlsConfig.caCertificate` | `Microsoft.KubernetesConfiguration/fluxConfigurations/ociRepository.tlsConfig.caCertificate` |
 | `properties.ociRepository.localAuthRef` | `Microsoft.KubernetesConfiguration/fluxConfigurations/ociRepository.localAuthRef` |
 | `properties.gitRepository.provider` | `Microsoft.KubernetesConfiguration/fluxConfigurations/gitRepository.provider` |
-

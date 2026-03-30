@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/products
+﻿# Microsoft.ApiManagement/service/products
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.approvalRequired` | `Microsoft.ApiManagement/service/products/approvalRequired` |
 | `properties.subscriptionsLimit` | `Microsoft.ApiManagement/service/products/subscriptionsLimit` |
 | `properties.state` | `Microsoft.ApiManagement/service/products/state` |
-

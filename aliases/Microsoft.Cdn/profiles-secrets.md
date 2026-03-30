@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/secrets
+﻿# Microsoft.Cdn/profiles/secrets
 
 | Default Path | Alias |
 |---|---|
@@ -40,4 +40,3 @@
 | `properties.parameters.expirationDate` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.expirationDate` |
 | `properties.parameters.expirationDate` | `Microsoft.Cdn/profiles/secrets/parameters.MtlsCertificateChain.expirationDate` |
 | `properties.parameters.thumbprint` | `Microsoft.Cdn/profiles/secrets/parameters.AzureFirstPartyManagedCertificate.thumbprint` |
-

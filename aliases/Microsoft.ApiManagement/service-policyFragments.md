@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/policyFragments
+﻿# Microsoft.ApiManagement/service/policyFragments
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.description` | `Microsoft.ApiManagement/service/policyFragments/description` |
 | `properties.format` | `Microsoft.ApiManagement/service/policyFragments/format` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/policyFragments/provisioningState` |
-

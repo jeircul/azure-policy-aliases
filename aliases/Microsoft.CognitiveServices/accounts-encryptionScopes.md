@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/encryptionScopes
+﻿# Microsoft.CognitiveServices/accounts/encryptionScopes
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.keySource` | `Microsoft.CognitiveServices/accounts/encryptionScopes/keySource` |
 | `properties.provisioningState` | `Microsoft.CognitiveServices/accounts/encryptionScopes/provisioningState` |
 | `properties.state` | `Microsoft.CognitiveServices/accounts/encryptionScopes/state` |
-

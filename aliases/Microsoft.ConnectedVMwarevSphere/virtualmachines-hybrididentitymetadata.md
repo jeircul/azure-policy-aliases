@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/virtualmachines/hybrididentitymetadata
+﻿# Microsoft.ConnectedVMwarevSphere/virtualmachines/hybrididentitymetadata
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.identity.tenantId` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/hybridIdentityMetadata/identity.tenantId` |
 | `properties.identity.type` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/hybridIdentityMetadata/identity.type` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/hybridIdentityMetadata/provisioningState` |
-

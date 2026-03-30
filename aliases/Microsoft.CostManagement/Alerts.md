@@ -1,4 +1,4 @@
-# Microsoft.CostManagement/Alerts
+﻿# Microsoft.CostManagement/Alerts
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.details.enrollmentStartDate` | `Microsoft.CostManagement/alerts/details.enrollmentStartDate` |
 | `properties.details.enrollmentEndDate` | `Microsoft.CostManagement/alerts/details.enrollmentEndDate` |
 | `properties.details.invoicingThreshold` | `Microsoft.CostManagement/alerts/details.invoicingThreshold` |
-

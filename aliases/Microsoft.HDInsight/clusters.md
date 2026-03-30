@@ -1,4 +1,4 @@
-# Microsoft.HDInsight/clusters
+﻿# Microsoft.HDInsight/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -120,4 +120,3 @@
 | `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.privateIPAllocationMethod` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].privateIPAllocationMethod` |
 | `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.subnet` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].subnet` |
 | `properties.privateLinkConfigurations[*].properties.ipConfigurations[*].properties.subnet.id` | `Microsoft.HDInsight/clusters/privateLinkConfigurations[*].ipConfigurations[*].subnet.id` |
-

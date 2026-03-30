@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/streamingjobs/transformations
+﻿# Microsoft.StreamAnalytics/streamingjobs/transformations
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.etag` | `Microsoft.StreamAnalytics/streamingjobs/transformations/etag` |
 | `properties.validStreamingUnits` | `Microsoft.StreamAnalytics/streamingjobs/transformations/validStreamingUnits` |
 | `properties.validStreamingUnits[*]` | `Microsoft.StreamAnalytics/streamingjobs/transformations/validStreamingUnits[*]` |
-

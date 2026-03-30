@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedclustersnapshots
+﻿# Microsoft.ContainerService/managedclustersnapshots
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.managedClusterPropertiesReadOnly.networkProfile.networkMode` | `Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.networkMode` |
 | `properties.managedClusterPropertiesReadOnly.networkProfile.loadBalancerSku` | `Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.loadBalancerSku` |
 | `properties.managedClusterPropertiesReadOnly.networkProfile.networkPluginMode` | `Microsoft.ContainerService/managedclustersnapshots/managedClusterPropertiesReadOnly.networkProfile.networkPluginMode` |
-

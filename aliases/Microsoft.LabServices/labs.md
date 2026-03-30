@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labs
+﻿# Microsoft.LabServices/labs
 
 | Default Path | Alias |
 |---|---|
@@ -58,4 +58,3 @@
 | `properties.networkProfile.loadBalancerId` | `Microsoft.LabServices/labs/networkProfile.loadBalancerId` |
 | `properties.networkProfile.publicIpId` | `Microsoft.LabServices/labs/networkProfile.publicIpId` |
 | `properties.state` | `Microsoft.LabServices/labs/state` |
-

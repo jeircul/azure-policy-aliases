@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/fileServices
+﻿# Microsoft.Storage/storageAccounts/fileServices
 
 | Default Path | Alias |
 |---|---|
@@ -52,4 +52,3 @@
 | `properties.protocolSettings.nfs` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.nfs` |
 | `properties.protocolSettings.nfs.encryptionInTransit` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.nfs.encryptionInTransit` |
 | `properties.protocolSettings.nfs.encryptionInTransit.required` | `Microsoft.Storage/storageAccounts/fileServices/protocolSettings.nfs.encryptionInTransit.required` |
-

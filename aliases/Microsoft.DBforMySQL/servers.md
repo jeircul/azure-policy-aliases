@@ -1,4 +1,4 @@
-# Microsoft.DBforMySQL/servers
+﻿# Microsoft.DBforMySQL/servers
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.minimalTlsVersion` | `Microsoft.DBforMySQL/servers/minimalTlsVersion` |
 | `properties.infrastructureEncryption` | `Microsoft.DBforMySQL/servers/infrastructureEncryption` |
 | `properties.publicNetworkAccess` | `Microsoft.DBforMySQL/servers/publicNetworkAccess` |
-

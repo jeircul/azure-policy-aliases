@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/credentials
+﻿# Microsoft.DataFactory/factories/credentials
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.description` | `Microsoft.DataFactory/factories/credentials/description` |
 | `properties.annotations` | `Microsoft.DataFactory/factories/credentials/annotations` |
 | `properties.annotations[*]` | `Microsoft.DataFactory/factories/credentials/annotations[*]` |
-

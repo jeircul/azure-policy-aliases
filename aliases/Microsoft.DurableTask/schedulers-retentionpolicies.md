@@ -1,4 +1,4 @@
-# Microsoft.DurableTask/schedulers/retentionpolicies
+﻿# Microsoft.DurableTask/schedulers/retentionpolicies
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.retentionPolicies[*]` | `Microsoft.DurableTask/schedulers/retentionPolicies/retentionPolicies[*]` |
 | `properties.retentionPolicies[*].retentionPeriodInDays` | `Microsoft.DurableTask/schedulers/retentionPolicies/retentionPolicies[*].retentionPeriodInDays` |
 | `properties.retentionPolicies[*].orchestrationState` | `Microsoft.DurableTask/schedulers/retentionPolicies/retentionPolicies[*].orchestrationState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.CertificateRegistration/certificateOrders
+﻿# Microsoft.CertificateRegistration/certificateOrders
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.contact.nameFirst` | `Microsoft.CertificateRegistration/certificateOrders/contact.nameFirst` |
 | `properties.contact.nameLast` | `Microsoft.CertificateRegistration/certificateOrders/contact.nameLast` |
 | `properties.contact.phone` | `Microsoft.CertificateRegistration/certificateOrders/contact.phone` |
-

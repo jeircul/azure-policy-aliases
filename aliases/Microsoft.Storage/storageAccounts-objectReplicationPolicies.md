@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/objectReplicationPolicies
+﻿# Microsoft.Storage/storageAccounts/objectReplicationPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.metrics.enabled` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/metrics.enabled` |
 | `properties.priorityReplication` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/priorityReplication` |
 | `properties.priorityReplication.enabled` | `Microsoft.Storage/storageAccounts/objectReplicationPolicies/priorityReplication.enabled` |
-

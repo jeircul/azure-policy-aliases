@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/subscriptions
+﻿# Microsoft.ApiManagement/service/subscriptions
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.allowTracing` | `Microsoft.ApiManagement/service/subscriptions/allowTracing` |
 | `properties.userId` | `Microsoft.ApiManagement/service/subscriptions/userId` |
 | `properties.productId` | `Microsoft.ApiManagement/service/subscriptions/productId` |
-

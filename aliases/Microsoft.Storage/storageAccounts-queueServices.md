@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/queueServices
+﻿# Microsoft.Storage/storageAccounts/queueServices
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.cors.corsRules[*].exposedHeaders[*]` | `Microsoft.Storage/storageAccounts/queueServices/cors.corsRules[*].exposedHeaders[*]` |
 | `properties.cors.corsRules[*].allowedHeaders` | `Microsoft.Storage/storageAccounts/queueServices/cors.corsRules[*].allowedHeaders` |
 | `properties.cors.corsRules[*].allowedHeaders[*]` | `Microsoft.Storage/storageAccounts/queueServices/cors.corsRules[*].allowedHeaders[*]` |
-

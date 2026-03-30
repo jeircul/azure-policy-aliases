@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/schemas
+﻿# Microsoft.ApiManagement/service/schemas
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.description` | `Microsoft.ApiManagement/service/schemas/description` |
 | `properties.value` | `Microsoft.ApiManagement/service/schemas/value` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/schemas/provisioningState` |
-

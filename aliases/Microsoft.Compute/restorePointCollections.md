@@ -1,4 +1,4 @@
-# Microsoft.Compute/restorePointCollections
+﻿# Microsoft.Compute/restorePointCollections
 
 | Default Path | Alias |
 |---|---|
@@ -162,4 +162,3 @@
 | `properties.restorePoints[*].properties.sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/restorePointCollections/restorePoints[*].sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` |
 | `properties.restorePoints[*].properties.instantAccessDurationMinutes` | `Microsoft.Compute/restorePointCollections/restorePoints[*].instantAccessDurationMinutes` |
 | `properties.instantAccess` | `Microsoft.Compute/restorePointCollections/instantAccess` |
-

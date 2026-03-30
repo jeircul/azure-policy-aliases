@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/origingroups/origins
+﻿# Microsoft.Cdn/profiles/origingroups/origins
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.deploymentStatus` | `Microsoft.Cdn/profiles/originGroups/origins/deploymentStatus` |
 | `properties.originGroupName` | `Microsoft.Cdn/profiles/originGroups/origins/originGroupName` |
 | `properties.enforceCertificateNameCheck` | `Microsoft.Cdn/profiles/originGroups/origins/enforceCertificateNameCheck` |
-

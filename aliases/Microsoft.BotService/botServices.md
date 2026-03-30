@@ -1,4 +1,4 @@
-# Microsoft.BotService/botServices
+﻿# Microsoft.BotService/botServices
 
 | Default Path | Alias |
 |---|---|
@@ -126,4 +126,3 @@
 | `properties.networkSecurityPerimeterConfigurations[*].properties.profile.diagnosticSettingsVersion` | `Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations[*].profile.diagnosticSettingsVersion` |
 | `properties.networkSecurityPerimeterConfigurations[*].properties.profile.enabledLogCategories` | `Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations[*].profile.enabledLogCategories` |
 | `properties.networkSecurityPerimeterConfigurations[*].properties.profile.enabledLogCategories[*]` | `Microsoft.BotService/botServices/networkSecurityPerimeterConfigurations[*].profile.enabledLogCategories[*]` |
-

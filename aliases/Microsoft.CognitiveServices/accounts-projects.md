@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/projects
+﻿# Microsoft.CognitiveServices/accounts/projects
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.description` | `Microsoft.CognitiveServices/accounts/projects/description` |
 | `properties.endpoints` | `Microsoft.CognitiveServices/accounts/projects/endpoints` |
 | `properties.isDefault` | `Microsoft.CognitiveServices/accounts/projects/isDefault` |
-

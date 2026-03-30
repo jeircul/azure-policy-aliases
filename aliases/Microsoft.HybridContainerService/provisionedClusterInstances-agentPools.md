@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/provisionedClusterInstances/agentPools
+﻿# Microsoft.HybridContainerService/provisionedClusterInstances/agentPools
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.status.readyReplicas[*].kubernetesVersion` | `Microsoft.HybridContainerService/provisionedClusterInstances/agentPools/status.readyReplicas[*].kubernetesVersion` |
 | `properties.gpuCountPerNode` | `Microsoft.HybridContainerService/provisionedClusterInstances/agentPools/gpuCountPerNode` |
 | `properties.status.readyReplicas[*].gpuCountPerNode` | `Microsoft.HybridContainerService/provisionedClusterInstances/agentPools/status.readyReplicas[*].gpuCountPerNode` |
-

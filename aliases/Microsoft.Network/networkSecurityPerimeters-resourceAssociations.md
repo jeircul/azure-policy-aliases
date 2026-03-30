@@ -1,4 +1,4 @@
-# Microsoft.Network/networkSecurityPerimeters/resourceAssociations
+﻿# Microsoft.Network/networkSecurityPerimeters/resourceAssociations
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.profile.id` | `Microsoft.Network/networkSecurityPerimeters/resourceAssociations/profile.id` |
 | `properties.accessMode` | `Microsoft.Network/networkSecurityPerimeters/resourceAssociations/accessMode` |
 | `properties.hasProvisioningIssues` | `Microsoft.Network/networkSecurityPerimeters/resourceAssociations/hasProvisioningIssues` |
-

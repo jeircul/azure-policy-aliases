@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/apps/domains
+﻿# Microsoft.AppPlatform/Spring/apps/domains
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.appName` | `Microsoft.AppPlatform/Spring/apps/domains/appName` |
 | `properties.certName` | `Microsoft.AppPlatform/Spring/apps/domains/certName` |
 | `properties.provisioningState` | `Microsoft.AppPlatform/Spring/apps/domains/provisioningState` |
-

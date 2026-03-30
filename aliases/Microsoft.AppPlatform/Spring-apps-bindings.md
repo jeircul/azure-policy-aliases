@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/apps/bindings
+﻿# Microsoft.AppPlatform/Spring/apps/bindings
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.generatedProperties` | `Microsoft.AppPlatform/Spring/apps/bindings/generatedProperties` |
 | `properties.createdAt` | `Microsoft.AppPlatform/Spring/apps/bindings/createdAt` |
 | `properties.updatedAt` | `Microsoft.AppPlatform/Spring/apps/bindings/updatedAt` |
-

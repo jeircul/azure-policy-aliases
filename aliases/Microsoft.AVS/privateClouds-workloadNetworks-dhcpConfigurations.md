@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations
+﻿# Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.segments[*]` | `Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/segments[*]` |
 | `properties.provisioningState` | `Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/provisioningState` |
 | `properties.revision` | `Microsoft.AVS/privateClouds/workloadNetworks/dhcpConfigurations/revision` |
-

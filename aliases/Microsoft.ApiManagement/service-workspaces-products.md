@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/products
+﻿# Microsoft.ApiManagement/service/workspaces/products
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.subscriptionsLimit` | `Microsoft.ApiManagement/service/workspaces/products/subscriptionsLimit` |
 | `properties.state` | `Microsoft.ApiManagement/service/workspaces/products/state` |
 | `properties.displayName` | `Microsoft.ApiManagement/service/workspaces/products/displayName` |
-

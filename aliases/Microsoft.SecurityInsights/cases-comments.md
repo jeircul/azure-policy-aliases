@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/cases/comments
+﻿# Microsoft.SecurityInsights/cases/comments
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.userInfo.name` | `Microsoft.SecurityInsights/cases/comments/userInfo.name` |
 | `properties.userInfo.objectId` | `Microsoft.SecurityInsights/cases/comments/userInfo.objectId` |
 | `properties.userInfo` | `Microsoft.SecurityInsights/cases/comments/userInfo` |
-

@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/VMwareSites
+﻿# Microsoft.OffAzure/VMwareSites
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.serviceEndpoint` | `Microsoft.OffAzure/VMwareSites/serviceEndpoint` |
 | `properties.discoverySolutionId` | `Microsoft.OffAzure/VMwareSites/discoverySolutionId` |
 | `properties.applianceName` | `Microsoft.OffAzure/VMwareSites/applianceName` |
-

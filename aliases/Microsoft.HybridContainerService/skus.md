@@ -1,4 +1,4 @@
-# Microsoft.HybridContainerService/skus
+﻿# Microsoft.HybridContainerService/skus
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.values[*].name` | `Microsoft.HybridContainerService/skus/values[*].name` |
 | `properties.values[*].tier` | `Microsoft.HybridContainerService/skus/values[*].tier` |
 | `properties.values[*].size` | `Microsoft.HybridContainerService/skus/values[*].size` |
-

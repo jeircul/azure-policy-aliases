@@ -1,4 +1,4 @@
-# Microsoft.Web/sourceControls
+﻿# Microsoft.Web/sourceControls
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.tokenSecret` | `Microsoft.Web/sourceControls/tokenSecret` |
 | `properties.refreshToken` | `Microsoft.Web/sourceControls/refreshToken` |
 | `properties.expirationTime` | `Microsoft.Web/sourceControls/expirationTime` |
-

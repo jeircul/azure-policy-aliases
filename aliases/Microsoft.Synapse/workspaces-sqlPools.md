@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools
+﻿# Microsoft.Synapse/workspaces/sqlPools
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.autoPauseTimer` | `Microsoft.Synapse/workspaces/sqlPools/autoPauseTimer` |
 | `properties.autoResume` | `Microsoft.Synapse/workspaces/sqlPools/autoResume` |
 | `properties.sourceDatabaseDeletionDate` | `Microsoft.Synapse/workspaces/sqlPools/sourceDatabaseDeletionDate` |
-

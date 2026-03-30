@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles
+﻿# Microsoft.Cdn/profiles
 
 | Default Path | Alias |
 |---|---|
@@ -22,4 +22,3 @@
 | `properties.logScrubbing.scrubbingRules[*].selectorMatchOperator` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].selectorMatchOperator` |
 | `properties.logScrubbing.scrubbingRules[*].selector` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].selector` |
 | `properties.logScrubbing.scrubbingRules[*].state` | `Microsoft.Cdn/profiles/logScrubbing.scrubbingRules[*].state` |
-

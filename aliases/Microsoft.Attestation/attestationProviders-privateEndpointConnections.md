@@ -1,4 +1,4 @@
-# Microsoft.Attestation/attestationProviders/privateEndpointConnections
+﻿# Microsoft.Attestation/attestationProviders/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Attestation/attestationProviders/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.Attestation/attestationProviders/privateEndpointConnections/provisioningState` |
-

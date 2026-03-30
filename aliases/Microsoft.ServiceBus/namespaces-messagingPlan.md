@@ -1,4 +1,4 @@
-# Microsoft.ServiceBus/namespaces/messagingPlan
+﻿# Microsoft.ServiceBus/namespaces/messagingPlan
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.selectedEventHubUnit` | `Microsoft.ServiceBus/namespaces/messagingPlan/selectedEventHubUnit` |
 | `properties.updatedAt` | `Microsoft.ServiceBus/namespaces/messagingPlan/updatedAt` |
 | `properties.revision` | `Microsoft.ServiceBus/namespaces/messagingPlan/revision` |
-

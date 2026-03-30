@@ -1,4 +1,4 @@
-# Microsoft.EdgeOrder/addresses
+﻿# Microsoft.EdgeOrder/addresses
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.contactDetails.emailList` | `Microsoft.EdgeOrder/addresses/contactDetails.emailList` |
 | `properties.contactDetails.emailList[*]` | `Microsoft.EdgeOrder/addresses/contactDetails.emailList[*]` |
 | `properties.addressValidationStatus` | `Microsoft.EdgeOrder/addresses/addressValidationStatus` |
-

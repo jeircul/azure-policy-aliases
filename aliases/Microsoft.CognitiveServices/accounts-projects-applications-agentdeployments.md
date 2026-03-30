@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/projects/applications/agentdeployments
+﻿# Microsoft.CognitiveServices/accounts/projects/applications/agentdeployments
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.agents[*].agentVersion` | `Microsoft.CognitiveServices/accounts/projects/applications/agentDeployments/agents[*].agentVersion` |
 | `properties.deploymentType` | `Microsoft.CognitiveServices/accounts/projects/applications/agentDeployments/deploymentType` |
 | `properties.provisioningState` | `Microsoft.CognitiveServices/accounts/projects/applications/agentDeployments/provisioningState` |
-

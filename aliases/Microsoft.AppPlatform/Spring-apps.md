@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/apps
+﻿# Microsoft.AppPlatform/Spring/apps
 
 | Default Path | Alias |
 |---|---|
@@ -52,4 +52,3 @@
 | `properties.secrets[*].value` | `Microsoft.AppPlatform/Spring/apps/secrets[*].value` |
 | `properties.workloadProfileName` | `Microsoft.AppPlatform/Spring/apps/workloadProfileName` |
 | `properties.testEndpointAuthState` | `Microsoft.AppPlatform/Spring/apps/testEndpointAuthState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/firewallPolicies/ruleCollectionGroups
+﻿# Microsoft.Network/firewallPolicies/ruleCollectionGroups
 
 | Default Path | Alias |
 |---|---|
@@ -132,4 +132,3 @@
 | `properties.ruleCollections[*].rules[*].httpHeadersToInsert[*].headerValue` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollections[*].FirewallPolicyFilterRuleCollection.rules[*].ApplicationRule.httpHeadersToInsert[*].headerValue` |
 | `properties.ruleCollections[*].rules[*].httpHeadersToInsert[*].headerValue` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/ruleCollections[*].FirewallPolicyNatRuleCollection.rules[*].ApplicationRule.httpHeadersToInsert[*].headerValue` |
 | `properties.size` | `Microsoft.Network/firewallPolicies/ruleCollectionGroups/size` |
-

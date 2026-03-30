@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/gateways
+﻿# Microsoft.ApiManagement/gateways
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `sku` | `Microsoft.ApiManagement/gateways/sku` |
 | `sku.name` | `Microsoft.ApiManagement/gateways/sku.name` |
 | `sku.capacity` | `Microsoft.ApiManagement/gateways/sku.capacity` |
-

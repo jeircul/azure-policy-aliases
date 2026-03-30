@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/buildTasks/steps
+﻿# Microsoft.ContainerRegistry/registries/buildTasks/steps
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.baseImageDependencies[*].tag` | `Microsoft.ContainerRegistry/registries/buildTasks/steps/Docker.baseImageDependencies[*].tag` |
 | `properties.baseImageDependencies[*].digest` | `Microsoft.ContainerRegistry/registries/buildTasks/steps/Docker.baseImageDependencies[*].digest` |
 | `properties.baseImageTrigger` | `Microsoft.ContainerRegistry/registries/buildTasks/steps/Docker.baseImageTrigger` |
-

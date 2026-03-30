@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/MasterSites
+﻿# Microsoft.OffAzure/MasterSites
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.OffAzure/MasterSites/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.OffAzure/MasterSites/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.OffAzure/MasterSites/privateEndpointConnections[*].systemData.lastModifiedAt` |
-

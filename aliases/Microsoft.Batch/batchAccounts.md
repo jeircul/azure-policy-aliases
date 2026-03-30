@@ -1,4 +1,4 @@
-# Microsoft.Batch/batchAccounts
+﻿# Microsoft.Batch/batchAccounts
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.networkProfile.nodeManagementAccess.ipRules[*]` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules[*]` |
 | `properties.networkProfile.nodeManagementAccess.ipRules[*].action` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules[*].action` |
 | `properties.networkProfile.nodeManagementAccess.ipRules[*].value` | `Microsoft.Batch/batchAccounts/networkProfile.nodeManagementAccess.ipRules[*].value` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Cache/redisEnterprise
+﻿# Microsoft.Cache/redisEnterprise
 
 | Default Path | Alias |
 |---|---|
@@ -40,4 +40,3 @@
 | `properties.highAvailability` | `Microsoft.Cache/redisEnterprise/highAvailability` |
 | `properties.redundancyMode` | `Microsoft.Cache/redisEnterprise/redundancyMode` |
 | `properties.publicNetworkAccess` | `Microsoft.Cache/redisEnterprise/publicNetworkAccess` |
-

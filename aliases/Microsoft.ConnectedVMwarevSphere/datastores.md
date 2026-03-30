@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/datastores
+﻿# Microsoft.ConnectedVMwarevSphere/datastores
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/datastores/statuses[*].lastUpdatedAt` |
 | `properties.customResourceName` | `Microsoft.ConnectedVMwarevSphere/datastores/customResourceName` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/datastores/provisioningState` |
-

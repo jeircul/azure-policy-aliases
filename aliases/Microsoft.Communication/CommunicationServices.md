@@ -1,4 +1,4 @@
-# Microsoft.Communication/CommunicationServices
+﻿# Microsoft.Communication/CommunicationServices
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.linkedDomains[*]` | `Microsoft.Communication/communicationServices/linkedDomains[*]` |
 | `properties.publicNetworkAccess` | `Microsoft.Communication/communicationServices/publicNetworkAccess` |
 | `properties.disableLocalAuth` | `Microsoft.Communication/communicationServices/disableLocalAuth` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules
+﻿# Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.prefixSize` | `Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules/prefixSize` |
 | `properties.suffixSize` | `Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules/suffixSize` |
 | `properties.replacementString` | `Microsoft.Synapse/workspaces/sqlPools/dataMaskingPolicies/rules/replacementString` |
-

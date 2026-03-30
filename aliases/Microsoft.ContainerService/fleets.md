@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/fleets
+﻿# Microsoft.ContainerService/fleets
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.status.lastOperationError.additionalInfo` | `Microsoft.ContainerService/fleets/status.lastOperationError.additionalInfo` |
 | `properties.status.lastOperationError.additionalInfo[*]` | `Microsoft.ContainerService/fleets/status.lastOperationError.additionalInfo[*]` |
 | `properties.status.lastOperationError.additionalInfo[*].type` | `Microsoft.ContainerService/fleets/status.lastOperationError.additionalInfo[*].type` |
-

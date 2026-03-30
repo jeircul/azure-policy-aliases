@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents
+﻿# Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.ipTraffic.destinationPorts[*]` | `Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents/ipTraffic.destinationPorts[*]` |
 | `properties.ipTraffic.protocols` | `Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents/ipTraffic.protocols` |
 | `properties.ipTraffic.protocols[*]` | `Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents/ipTraffic.protocols[*]` |
-

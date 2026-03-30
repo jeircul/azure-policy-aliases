@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/racks
+﻿# Microsoft.NetworkCloud/racks
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.rackLocation` | `Microsoft.NetworkCloud/racks/rackLocation` |
 | `properties.rackSerialNumber` | `Microsoft.NetworkCloud/racks/rackSerialNumber` |
 | `properties.rackSkuId` | `Microsoft.NetworkCloud/racks/rackSkuId` |
-

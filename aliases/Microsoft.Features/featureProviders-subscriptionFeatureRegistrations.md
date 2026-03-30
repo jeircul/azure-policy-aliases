@@ -1,4 +1,4 @@
-# Microsoft.Features/featureProviders/subscriptionFeatureRegistrations
+﻿# Microsoft.Features/featureProviders/subscriptionFeatureRegistrations
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.approvalType` | `Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/approvalType` |
 | `properties.shouldFeatureDisplayInPortal` | `Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/shouldFeatureDisplayInPortal` |
 | `properties.description` | `Microsoft.Features/featureProviders/subscriptionFeatureRegistrations/description` |
-

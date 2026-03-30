@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/configurationServices
+﻿# Microsoft.AppPlatform/Spring/configurationServices
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.settings.gitProperty.repositories[*].gitImplementation` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].gitImplementation` |
 | `properties.settings.gitProperty.repositories[*].caCertResourceId` | `Microsoft.AppPlatform/Spring/configurationServices/settings.gitProperty.repositories[*].caCertResourceId` |
 | `properties.settings.refreshIntervalInSeconds` | `Microsoft.AppPlatform/Spring/configurationServices/settings.refreshIntervalInSeconds` |
-

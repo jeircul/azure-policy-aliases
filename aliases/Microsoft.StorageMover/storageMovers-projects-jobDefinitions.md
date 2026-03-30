@@ -1,4 +1,4 @@
-# Microsoft.StorageMover/storageMovers/projects/jobDefinitions
+﻿# Microsoft.StorageMover/storageMovers/projects/jobDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.agentName` | `Microsoft.StorageMover/storageMovers/projects/jobDefinitions/agentName` |
 | `properties.agentResourceId` | `Microsoft.StorageMover/storageMovers/projects/jobDefinitions/agentResourceId` |
 | `properties.provisioningState` | `Microsoft.StorageMover/storageMovers/projects/jobDefinitions/provisioningState` |
-

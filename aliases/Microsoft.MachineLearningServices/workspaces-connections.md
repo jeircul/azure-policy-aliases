@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/connections
+﻿# Microsoft.MachineLearningServices/workspaces/connections
 
 | Default Path | Alias |
 |---|---|
@@ -52,4 +52,3 @@
 | `properties.peRequirement` | `Microsoft.MachineLearningServices/workspaces/connections/peRequirement` |
 | `properties.peStatus` | `Microsoft.MachineLearningServices/workspaces/connections/peStatus` |
 | `properties.useWorkspaceManagedIdentity` | `Microsoft.MachineLearningServices/workspaces/connections/useWorkspaceManagedIdentity` |
-

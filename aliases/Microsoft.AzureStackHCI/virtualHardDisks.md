@@ -1,4 +1,4 @@
-# Microsoft.AzureStackHCI/virtualHardDisks
+﻿# Microsoft.AzureStackHCI/virtualHardDisks
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.status.uploadStatus.progressPercentage` | `Microsoft.AzureStackHCI/virtualharddisks/status.uploadStatus.progressPercentage` |
 | `properties.status.uploadStatus.errorCode` | `Microsoft.AzureStackHCI/virtualharddisks/status.uploadStatus.errorCode` |
 | `properties.status.uploadStatus.errorMessage` | `Microsoft.AzureStackHCI/virtualharddisks/status.uploadStatus.errorMessage` |
-

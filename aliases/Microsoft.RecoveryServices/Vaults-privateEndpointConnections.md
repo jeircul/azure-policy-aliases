@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/Vaults/privateEndpointConnections
+﻿# Microsoft.RecoveryServices/Vaults/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.groupIds` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/groupIds[*]` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.RecoveryServices/vaults/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

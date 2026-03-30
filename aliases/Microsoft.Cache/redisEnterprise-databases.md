@@ -1,4 +1,4 @@
-# Microsoft.Cache/redisEnterprise/databases
+﻿# Microsoft.Cache/redisEnterprise/databases
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.redisVersion` | `Microsoft.Cache/redisEnterprise/databases/redisVersion` |
 | `properties.deferUpgrade` | `Microsoft.Cache/redisEnterprise/databases/deferUpgrade` |
 | `properties.accessKeysAuthentication` | `Microsoft.Cache/redisEnterprise/databases/accessKeysAuthentication` |
-

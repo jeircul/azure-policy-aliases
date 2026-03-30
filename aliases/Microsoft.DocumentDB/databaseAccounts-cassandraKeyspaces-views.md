@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views
+﻿# Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.options.throughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options.throughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options.autoscaleSettings` |
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/cassandraKeyspaces/views/options.autoscaleSettings.maxThroughput` |
-

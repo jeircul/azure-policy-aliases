@@ -1,4 +1,4 @@
-# Microsoft.Compute/galleries/images/versions
+﻿# Microsoft.Compute/galleries/images/versions
 
 | Default Path | Alias |
 |---|---|
@@ -127,4 +127,3 @@
 | `properties.validationsProfile.platformAttributes[*].name` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].name` |
 | `properties.validationsProfile.platformAttributes[*].value` | `Microsoft.Compute/galleries/images/versions/validationsProfile.platformAttributes[*].value` |
 | `properties.publishingProfile.storageAccountStrategy` | `Microsoft.Compute/galleries/images/versions/publishingProfile.storageAccountStrategy` |
-

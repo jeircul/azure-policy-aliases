@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents
+﻿# Microsoft.ConnectedVMwarevSphere/virtualmachines/guestagents
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.statuses[*].severity` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses[*].severity` |
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/statuses[*].lastUpdatedAt` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/guestAgents/provisioningState` |
-

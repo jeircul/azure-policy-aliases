@@ -1,4 +1,4 @@
-# Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints
+﻿# Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.offlineDataTransferShareName` | `Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/offlineDataTransferShareName` |
 | `properties.initialDownloadPolicy` | `Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/initialDownloadPolicy` |
 | `properties.localCacheMode` | `Microsoft.StorageSync/storageSyncServices/syncGroups/serverEndpoints/localCacheMode` |
-

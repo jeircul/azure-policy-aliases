@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRouteCrossConnections/peerings
+﻿# Microsoft.Network/expressRouteCrossConnections/peerings
 
 | Default Path | Alias |
 |---|---|
@@ -149,4 +149,3 @@
 | `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationId` | `Microsoft.Network/expressRouteCrossConnections/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationId` |
 | `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].signature` | `Microsoft.Network/expressRouteCrossConnections/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].signature` |
 | `properties.ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationState` | `Microsoft.Network/expressRouteCrossConnections/peerings/ipv6PeeringConfig.microsoftPeeringConfig.advertisedPublicPrefixInfo[*].validationState` |
-

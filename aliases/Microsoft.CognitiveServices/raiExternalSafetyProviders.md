@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/raiExternalSafetyProviders
+﻿# Microsoft.CognitiveServices/raiExternalSafetyProviders
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.keyVaultUri` | `Microsoft.CognitiveServices/raiExternalSafetyProviders/keyVaultUri` |
 | `properties.createdAt` | `Microsoft.CognitiveServices/raiExternalSafetyProviders/createdAt` |
 | `properties.lastModifiedAt` | `Microsoft.CognitiveServices/raiExternalSafetyProviders/lastModifiedAt` |
-

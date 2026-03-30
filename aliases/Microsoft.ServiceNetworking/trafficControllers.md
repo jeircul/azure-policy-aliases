@@ -1,4 +1,4 @@
-# Microsoft.ServiceNetworking/trafficControllers
+﻿# Microsoft.ServiceNetworking/trafficControllers
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.securityPolicyConfigurations.wafSecurityPolicy.id` | `Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.wafSecurityPolicy.id` |
 | `properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy` | `Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.ipAccessRulesSecurityPolicy` |
 | `properties.securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id` | `Microsoft.ServiceNetworking/trafficControllers/securityPolicyConfigurations.ipAccessRulesSecurityPolicy.id` |
-

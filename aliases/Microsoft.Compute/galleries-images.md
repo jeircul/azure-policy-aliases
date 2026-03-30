@@ -1,4 +1,4 @@
-# Microsoft.Compute/galleries/images
+﻿# Microsoft.Compute/galleries/images
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.architecture` | `Microsoft.Compute/galleries/images/architecture` |
 | `properties.features[*].startsAtVersion` | `Microsoft.Compute/galleries/images/features[*].startsAtVersion` |
 | `properties.allowUpdateImage` | `Microsoft.Compute/galleries/images/allowUpdateImage` |
-

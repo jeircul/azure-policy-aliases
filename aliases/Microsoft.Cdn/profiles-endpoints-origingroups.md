@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/endpoints/origingroups
+﻿# Microsoft.Cdn/profiles/endpoints/origingroups
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.responseBasedOriginErrorDetectionSettings.httpErrorRanges[*].end` | `Microsoft.Cdn/profiles/endpoints/originGroups/responseBasedOriginErrorDetectionSettings.httpErrorRanges[*].end` |
 | `properties.resourceState` | `Microsoft.Cdn/profiles/endpoints/originGroups/resourceState` |
 | `properties.provisioningState` | `Microsoft.Cdn/profiles/endpoints/originGroups/provisioningState` |
-

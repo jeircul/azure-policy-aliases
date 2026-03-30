@@ -1,4 +1,4 @@
-# Microsoft.Web/hostingEnvironments/workerPools
+﻿# Microsoft.Web/hostingEnvironments/workerPools
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `sku.capabilities[*].reason` | `Microsoft.Web/hostingEnvironments/workerPools/sku.capabilities[*].reason` |
 | `sku.capabilities[*].value` | `Microsoft.Web/hostingEnvironments/workerPools/sku.capabilities[*].value` |
 | `sku.skuCapacity.elasticMaximum` | `Microsoft.Web/hostingEnvironments/workerPools/sku.skuCapacity.elasticMaximum` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups
+﻿# Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.p2SConnectionConfigurations[*]` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2SConnectionConfigurations[*]` |
 | `properties.p2SConnectionConfigurations[*].id` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/p2SConnectionConfigurations[*].id` |
 | `properties.provisioningState` | `Microsoft.Network/vpnServerConfigurations/configurationPolicyGroups/provisioningState` |
-

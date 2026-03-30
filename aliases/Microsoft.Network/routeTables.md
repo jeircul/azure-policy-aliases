@@ -1,4 +1,4 @@
-# Microsoft.Network/routeTables
+﻿# Microsoft.Network/routeTables
 
 | Default Path | Alias |
 |---|---|
@@ -474,4 +474,3 @@
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnets[*].properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/routeTables/subnets[*].ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

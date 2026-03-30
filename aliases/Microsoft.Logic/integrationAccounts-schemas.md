@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/schemas
+﻿# Microsoft.Logic/integrationAccounts/schemas
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.documentName` | `Microsoft.Logic/integrationAccounts/schemas/documentName` |
 | `properties.fileName` | `Microsoft.Logic/integrationAccounts/schemas/fileName` |
 | `properties.contentLink.contentHash.value` | `Microsoft.Logic/integrationAccounts/schemas/contentLink.contentHash.value` |
-

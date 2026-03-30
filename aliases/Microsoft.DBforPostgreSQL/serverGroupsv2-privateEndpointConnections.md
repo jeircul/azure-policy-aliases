@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections
+﻿# Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.DBforPostgreSQL/serverGroupsv2/privateEndpointConnections/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/clusters/datastores
+﻿# Microsoft.AVS/privateClouds/clusters/datastores
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.diskPoolVolume.mountOption` | `Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.mountOption` |
 | `properties.diskPoolVolume.path` | `Microsoft.AVS/privateClouds/clusters/datastores/diskPoolVolume.path` |
 | `properties.status` | `Microsoft.AVS/privateClouds/clusters/datastores/status` |
-

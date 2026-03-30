@@ -1,4 +1,4 @@
-# Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers
+﻿# Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.sourceInfo.startTime` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/PeriodicTimerEvent.sourceInfo.startTime` |
 | `properties.sourceInfo.schedule` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/PeriodicTimerEvent.sourceInfo.schedule` |
 | `properties.sourceInfo.topic` | `Microsoft.DataBoxEdge/dataBoxEdgeDevices/triggers/PeriodicTimerEvent.sourceInfo.topic` |
-

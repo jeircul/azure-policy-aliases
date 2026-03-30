@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/systemTopics
+﻿# Microsoft.EventGrid/systemTopics
 
 | Default Path | Alias |
 |---|---|
@@ -41,4 +41,3 @@
 | `properties.topicType` | `Microsoft.EventGrid/systemTopics/topicType` |
 | `properties.metricResourceId` | `Microsoft.EventGrid/systemTopics/metricResourceId` |
 | `properties.provisioningState` | `Microsoft.EventGrid/systemTopics/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/jobAgents/jobs/steps
+﻿# Microsoft.Sql/servers/jobAgents/jobs/steps
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.executionOptions.retryIntervalBackoffMultiplier` | `Microsoft.Sql/servers/jobAgents/jobs/steps/executionOptions.retryIntervalBackoffMultiplier` |
 | `properties.executionOptions` | `Microsoft.Sql/servers/jobAgents/jobs/steps/executionOptions` |
 | `properties.action.value` | `Microsoft.Sql/servers/jobAgents/jobs/steps/action.value` |
-

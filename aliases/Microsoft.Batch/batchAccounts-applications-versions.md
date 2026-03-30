@@ -1,4 +1,4 @@
-# Microsoft.Batch/batchAccounts/applications/versions
+﻿# Microsoft.Batch/batchAccounts/applications/versions
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.storageUrl` | `Microsoft.Batch/batchAccounts/applications/versions/storageUrl` |
 | `properties.storageUrlExpiry` | `Microsoft.Batch/batchAccounts/applications/versions/storageUrlExpiry` |
 | `properties.lastActivationTime` | `Microsoft.Batch/batchAccounts/applications/versions/lastActivationTime` |
-

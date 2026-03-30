@@ -1,4 +1,4 @@
-# Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies
+﻿# Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.outboundPolicy.circuitBreakerPolicy.consecutiveErrors` | `Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies/outboundPolicy.circuitBreakerPolicy.consecutiveErrors` |
 | `properties.outboundPolicy.circuitBreakerPolicy.timeoutInSeconds` | `Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies/outboundPolicy.circuitBreakerPolicy.timeoutInSeconds` |
 | `properties.outboundPolicy.circuitBreakerPolicy.intervalInSeconds` | `Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies/outboundPolicy.circuitBreakerPolicy.intervalInSeconds` |
-

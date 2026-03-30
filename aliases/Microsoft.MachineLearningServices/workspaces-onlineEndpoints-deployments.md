@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments
+﻿# Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments
 
 | Default Path | Alias |
 |---|---|
@@ -90,4 +90,3 @@
 | `properties.dataCollector.requestLogging.captureHeaders` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.requestLogging.captureHeaders` |
 | `properties.dataCollector.requestLogging.captureHeaders[*]` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.requestLogging.captureHeaders[*]` |
 | `properties.dataCollector.rollingRate` | `Microsoft.MachineLearningServices/workspaces/onlineEndpoints/deployments/dataCollector.rollingRate` |
-

@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/configServers
+﻿# Microsoft.AppPlatform/Spring/configServers
 
 | Default Path | Alias |
 |---|---|
@@ -42,4 +42,3 @@
 | `properties.instances[*]` | `Microsoft.AppPlatform/Spring/configServers/instances[*]` |
 | `properties.instances[*].name` | `Microsoft.AppPlatform/Spring/configServers/instances[*].name` |
 | `properties.instances[*].status` | `Microsoft.AppPlatform/Spring/configServers/instances[*].status` |
-

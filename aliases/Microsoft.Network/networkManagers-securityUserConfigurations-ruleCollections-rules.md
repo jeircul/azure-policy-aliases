@@ -1,4 +1,4 @@
-# Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules
+﻿# Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.direction` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/direction` |
 | `properties.provisioningState` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/provisioningState` |
 | `properties.resourceGuid` | `Microsoft.Network/networkManagers/securityUserConfigurations/ruleCollections/rules/resourceGuid` |
-

@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/streamingjobs/inputs
+﻿# Microsoft.StreamAnalytics/streamingjobs/inputs
 
 | Default Path | Alias |
 |---|---|
@@ -127,4 +127,3 @@
 | `properties.datasource.properties.prefetchCount` | `Microsoft.StreamAnalytics/streamingjobs/inputs/Stream.datasource.Microsoft-ServiceBus-EventHub.prefetchCount` |
 | `properties.watermarkSettings` | `Microsoft.StreamAnalytics/streamingjobs/inputs/watermarkSettings` |
 | `properties.watermarkSettings.watermarkMode` | `Microsoft.StreamAnalytics/streamingjobs/inputs/watermarkSettings.watermarkMode` |
-

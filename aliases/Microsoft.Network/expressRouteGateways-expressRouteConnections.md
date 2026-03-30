@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRouteGateways/expressRouteConnections
+﻿# Microsoft.Network/expressRouteGateways/expressRouteConnections
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.inboundRouteMap.id` |
 | `properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.outboundRouteMap` |
 | `properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections/routingConfiguration.outboundRouteMap.id` |
-

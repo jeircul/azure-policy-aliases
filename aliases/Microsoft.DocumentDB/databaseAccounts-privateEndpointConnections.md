@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections
+﻿# Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState` | `Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.groupId` | `Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/groupId` |
 | `properties.provisioningState` | `Microsoft.DocumentDB/databaseAccounts/privateEndpointConnections/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/virtualMachines/schedules
+﻿# Microsoft.DevTestLab/labs/virtualMachines/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/virtualMachines/schedules/uniqueIdentifier` |
 | `properties.notificationSettings.emailRecipient` | `Microsoft.DevTestLab/labs/virtualMachines/schedules/notificationSettings.emailRecipient` |
 | `properties.notificationSettings.notificationLocale` | `Microsoft.DevTestLab/labs/virtualMachines/schedules/notificationSettings.notificationLocale` |
-

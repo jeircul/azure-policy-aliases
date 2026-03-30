@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/slots/hostNameBindings
+﻿# Microsoft.Web/sites/slots/hostNameBindings
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.sslState` | `Microsoft.Web/sites/slots/hostNameBindings/sslState` |
 | `properties.thumbprint` | `Microsoft.Web/sites/slots/hostNameBindings/thumbprint` |
 | `properties.virtualIP` | `Microsoft.Web/sites/slots/hostNameBindings/virtualIP` |
-

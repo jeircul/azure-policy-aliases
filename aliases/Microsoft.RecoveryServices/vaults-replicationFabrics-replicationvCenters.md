@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters
+﻿# Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.ipAddress` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters/ipAddress` |
 | `properties.port` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters/port` |
 | `properties.runAsAccountId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/replicationvCenters/runAsAccountId` |
-

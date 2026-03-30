@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/failoverGroups
+﻿# Microsoft.Sql/servers/failoverGroups
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.databases` | `Microsoft.Sql/servers/failoverGroups/databases` |
 | `properties.readOnlyEndpoint.targetServer` | `Microsoft.Sql/servers/failoverGroups/readOnlyEndpoint.targetServer` |
 | `properties.secondaryType` | `Microsoft.Sql/servers/failoverGroups/secondaryType` |
-

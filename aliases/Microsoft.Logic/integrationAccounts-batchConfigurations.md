@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/batchConfigurations
+﻿# Microsoft.Logic/integrationAccounts/batchConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.createdTime` | `Microsoft.Logic/integrationAccounts/batchConfigurations/createdTime` |
 | `properties.changedTime` | `Microsoft.Logic/integrationAccounts/batchConfigurations/changedTime` |
 | `properties.metadata` | `Microsoft.Logic/integrationAccounts/batchConfigurations/metadata` |
-

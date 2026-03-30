@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/domains/topics/eventSubscriptions
+﻿# Microsoft.EventGrid/domains/topics/eventSubscriptions
 
 | Default Path | Alias |
 |---|---|
@@ -264,4 +264,3 @@
 | `properties.deliveryWithResourceIdentity.destination.properties.description` | `Microsoft.EventGrid/domains/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.description` |
 | `properties.deliveryWithResourceIdentity.destination.properties.actionGroups` | `Microsoft.EventGrid/domains/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.actionGroups` |
 | `properties.deliveryWithResourceIdentity.destination.properties.actionGroups[*]` | `Microsoft.EventGrid/domains/topics/eventSubscriptions/deliveryWithResourceIdentity.destination.MonitorAlert.actionGroups[*]` |
-

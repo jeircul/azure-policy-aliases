@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/kubernetesClusters
+﻿# Microsoft.NetworkCloud/kubernetesClusters
 
 | Default Path | Alias |
 |---|---|
@@ -168,4 +168,3 @@
 | `properties.nodes[*].taints[*].value` | `Microsoft.NetworkCloud/kubernetesClusters/nodes[*].taints[*].value` |
 | `properties.nodes[*].vmSkuName` | `Microsoft.NetworkCloud/kubernetesClusters/nodes[*].vmSkuName` |
 | `properties.provisioningState` | `Microsoft.NetworkCloud/kubernetesClusters/provisioningState` |
-

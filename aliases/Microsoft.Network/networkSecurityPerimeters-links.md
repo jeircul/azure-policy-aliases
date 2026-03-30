@@ -1,4 +1,4 @@
-# Microsoft.Network/networkSecurityPerimeters/links
+﻿# Microsoft.Network/networkSecurityPerimeters/links
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.remoteOutboundProfiles[*]` | `Microsoft.Network/networkSecurityPerimeters/links/remoteOutboundProfiles[*]` |
 | `properties.description` | `Microsoft.Network/networkSecurityPerimeters/links/description` |
 | `properties.status` | `Microsoft.Network/networkSecurityPerimeters/links/status` |
-

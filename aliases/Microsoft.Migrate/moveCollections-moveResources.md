@@ -1,4 +1,4 @@
-# Microsoft.Migrate/moveCollections/moveResources
+﻿# Microsoft.Migrate/moveCollections/moveResources
 
 | Default Path | Alias |
 |---|---|
@@ -211,4 +211,3 @@
 | `properties.sourceResourceSettings.sku` | `Microsoft.Migrate/moveCollections/moveResources/sourceResourceSettings.Microsoft-Network-loadBalancers.sku` |
 | `properties.sourceResourceSettings.zones` | `Microsoft.Migrate/moveCollections/moveResources/sourceResourceSettings.Microsoft-Network-loadBalancers.zones` |
 | `properties.sourceResourceSettings.zoneRedundant` | `Microsoft.Migrate/moveCollections/moveResources/sourceResourceSettings.Microsoft-Sql-servers-elasticPools.zoneRedundant` |
-

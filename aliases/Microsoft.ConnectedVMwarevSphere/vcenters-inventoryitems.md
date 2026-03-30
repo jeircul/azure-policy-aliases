@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems
+﻿# Microsoft.ConnectedVMwarevSphere/vcenters/inventoryitems
 
 | Default Path | Alias |
 |---|---|
@@ -38,4 +38,3 @@
 | `properties.moRefId` | `Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/moRefId` |
 | `properties.moName` | `Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/moName` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/vcenters/inventoryItems/provisioningState` |
-

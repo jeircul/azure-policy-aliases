@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerConfigurations
+﻿# Microsoft.EventGrid/partnerConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.partnerAuthorization.authorizedPartnersList[*].partnerName` | `Microsoft.EventGrid/partnerConfigurations/partnerAuthorization.authorizedPartnersList[*].partnerName` |
 | `properties.partnerAuthorization.authorizedPartnersList[*].authorizationExpirationTimeInUtc` | `Microsoft.EventGrid/partnerConfigurations/partnerAuthorization.authorizedPartnersList[*].authorizationExpirationTimeInUtc` |
 | `properties.provisioningState` | `Microsoft.EventGrid/partnerConfigurations/provisioningState` |
-

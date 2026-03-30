@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/connections
+﻿# Microsoft.CognitiveServices/accounts/connections
 
 | Default Path | Alias |
 |---|---|
@@ -49,4 +49,3 @@
 | `properties.sharedUserList[*]` | `Microsoft.CognitiveServices/accounts/connections/sharedUserList[*]` |
 | `properties.target` | `Microsoft.CognitiveServices/accounts/connections/target` |
 | `properties.useWorkspaceManagedIdentity` | `Microsoft.CognitiveServices/accounts/connections/useWorkspaceManagedIdentity` |
-

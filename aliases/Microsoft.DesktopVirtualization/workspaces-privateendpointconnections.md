@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/workspaces/privateendpointconnections
+﻿# Microsoft.DesktopVirtualization/workspaces/privateendpointconnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.DesktopVirtualization/workspaces/privateEndpointConnections/groupIds[*]` |
-

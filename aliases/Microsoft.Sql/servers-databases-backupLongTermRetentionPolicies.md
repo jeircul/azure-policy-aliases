@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies
+﻿# Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.backupStorageAccessTier` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/backupStorageAccessTier` |
 | `properties.timeBasedImmutability` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/timeBasedImmutability` |
 | `properties.timeBasedImmutabilityMode` | `Microsoft.Sql/servers/databases/backupLongTermRetentionPolicies/timeBasedImmutabilityMode` |
-

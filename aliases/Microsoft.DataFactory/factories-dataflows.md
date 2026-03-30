@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/dataflows
+﻿# Microsoft.DataFactory/factories/dataflows
 
 | Default Path | Alias |
 |---|---|
@@ -160,4 +160,3 @@
 | `properties.typeProperties.scriptLines` | `Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.scriptLines` |
 | `properties.typeProperties.scriptLines[*]` | `Microsoft.DataFactory/factories/dataflows/Flowlet.typeProperties.scriptLines[*]` |
 | `properties.typeProperties.scriptLines[*]` | `Microsoft.DataFactory/factories/dataflows/MappingDataFlow.typeProperties.scriptLines[*]` |
-

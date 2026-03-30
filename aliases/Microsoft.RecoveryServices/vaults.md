@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults
+﻿# Microsoft.RecoveryServices/vaults
 
 | Default Path | Alias |
 |---|---|
@@ -84,4 +84,3 @@
 | `properties.bcdrSecurityLevel` | `Microsoft.RecoveryServices/vaults/bcdrSecurityLevel` |
 | `properties.resourceGuardOperationRequests` | `Microsoft.RecoveryServices/vaults/resourceGuardOperationRequests` |
 | `properties.resourceGuardOperationRequests[*]` | `Microsoft.RecoveryServices/vaults/resourceGuardOperationRequests[*]` |
-

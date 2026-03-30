@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labAccounts/labs
+﻿# Microsoft.LabServices/labAccounts/labs
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.latestOperationResult.httpMethod` | `Microsoft.LabServices/labAccounts/labs/latestOperationResult.httpMethod` |
 | `properties.latestOperationResult.operationUrl` | `Microsoft.LabServices/labAccounts/labs/latestOperationResult.operationUrl` |
 | `properties.latestOperationResult` | `Microsoft.LabServices/labAccounts/labs/latestOperationResult` |
-

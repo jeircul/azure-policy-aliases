@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/namespaces/topicSpaces
+﻿# Microsoft.EventGrid/namespaces/topicSpaces
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.topicTemplates` | `Microsoft.EventGrid/namespaces/topicSpaces/topicTemplates` |
 | `properties.topicTemplates[*]` | `Microsoft.EventGrid/namespaces/topicSpaces/topicTemplates[*]` |
 | `properties.provisioningState` | `Microsoft.EventGrid/namespaces/topicSpaces/provisioningState` |
-

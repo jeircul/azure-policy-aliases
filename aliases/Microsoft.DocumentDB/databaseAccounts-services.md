@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/services
+﻿# Microsoft.DocumentDB/databaseAccounts/services
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.serviceType` | `Microsoft.DocumentDB/databaseAccounts/services/serviceType` |
 | `properties.status` | `Microsoft.DocumentDB/databaseAccounts/services/status` |
 | `properties.dedicatedGatewayType` | `Microsoft.DocumentDB/databaseAccounts/services/SqlDedicatedGateway.dedicatedGatewayType` |
-

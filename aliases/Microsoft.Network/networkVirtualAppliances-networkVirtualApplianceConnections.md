@@ -1,4 +1,4 @@
-# Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections
+﻿# Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections
 
 | Default Path | Alias |
 |---|---|
@@ -35,4 +35,3 @@
 | `properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections/routingConfiguration.inboundRouteMap.id` |
 | `properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections/routingConfiguration.outboundRouteMap` |
 | `properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/networkVirtualAppliances/networkVirtualApplianceConnections/routingConfiguration.outboundRouteMap.id` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/backends
+﻿# Microsoft.ApiManagement/service/backends
 
 | Default Path | Alias |
 |---|---|
@@ -63,4 +63,3 @@
 | `properties.circuitBreaker.rules[*].acceptRetryAfter` | `Microsoft.ApiManagement/service/backends/circuitBreaker.rules[*].acceptRetryAfter` |
 | `properties.pool.services[*].weight` | `Microsoft.ApiManagement/service/backends/pool.services[*].weight` |
 | `properties.pool.services[*].priority` | `Microsoft.ApiManagement/service/backends/pool.services[*].priority` |
-

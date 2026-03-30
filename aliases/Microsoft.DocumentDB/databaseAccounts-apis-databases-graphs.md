@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs
+﻿# Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.conflictResolutionPolicy.mode` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/conflictResolutionPolicy.mode` |
 | `properties.conflictResolutionPolicy.conflictResolutionPath` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/conflictResolutionPolicy.conflictResolutionPath` |
 | `properties.conflictResolutionPolicy.conflictResolutionProcedure` | `Microsoft.DocumentDB/databaseAccounts/apis/databases/graphs/conflictResolutionPolicy.conflictResolutionProcedure` |
-

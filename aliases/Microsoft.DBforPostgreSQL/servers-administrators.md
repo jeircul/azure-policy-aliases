@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/servers/administrators
+﻿# Microsoft.DBforPostgreSQL/servers/administrators
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.login` | `Microsoft.DBForPostgreSQL/servers/Administrators/login` |
 | `properties.sid` | `Microsoft.DBForPostgreSQL/servers/Administrators/sid` |
 | `properties.tenantId` | `Microsoft.DBForPostgreSQL/servers/Administrators/tenantId` |
-

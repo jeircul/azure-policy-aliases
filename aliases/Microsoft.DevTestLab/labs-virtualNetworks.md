@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/virtualNetworks
+﻿# Microsoft.DevTestLab/labs/virtualNetworks
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.subnetOverrides[*].virtualNetworkPoolName` | `Microsoft.DevTestLab/labs/virtualNetworks/subnetOverrides[*].virtualNetworkPoolName` |
 | `properties.createdDate` | `Microsoft.DevTestLab/labs/virtualNetworks/createdDate` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/virtualNetworks/uniqueIdentifier` |
-

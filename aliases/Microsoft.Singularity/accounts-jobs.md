@@ -1,4 +1,4 @@
-# Microsoft.Singularity/accounts/jobs
+﻿# Microsoft.Singularity/accounts/jobs
 
 | Default Path | Alias |
 |---|---|
@@ -134,4 +134,3 @@
 | `properties.containerImage` | `Microsoft.Singularity/accounts/jobs/containerImage.Custom` |
 | `properties.containerImage` | `Microsoft.Singularity/accounts/jobs/containerImage` |
 | `properties.suspendOnIdleTime` | `Microsoft.Singularity/accounts/jobs/suspendOnIdleTime` |
-

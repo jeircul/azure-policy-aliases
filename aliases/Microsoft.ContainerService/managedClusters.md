@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters
+﻿# Microsoft.ContainerService/managedClusters
 
 | Default Path | Alias |
 |---|---|
@@ -563,4 +563,3 @@
 | `properties.securityProfile.kubernetesResourceObjectEncryptionProfile.infrastructureEncryption` | `Microsoft.ContainerService/managedClusters/securityProfile.kubernetesResourceObjectEncryptionProfile.infrastructureEncryption` |
 | `properties.ingressProfile.gatewayAPI` | `Microsoft.ContainerService/managedClusters/ingressProfile.gatewayAPI` |
 | `properties.ingressProfile.gatewayAPI.installation` | `Microsoft.ContainerService/managedClusters/ingressProfile.gatewayAPI.installation` |
-

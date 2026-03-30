@@ -1,4 +1,4 @@
-# microsoft.aadiam/diagnosticSettings
+﻿# microsoft.aadiam/diagnosticSettings
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.logs[*].retentionPolicy` | `microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy` |
 | `properties.logs[*].retentionPolicy.enabled` | `microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.enabled` |
 | `properties.logs[*].retentionPolicy.days` | `microsoft.aadiam/diagnosticSettings/logs[*].retentionPolicy.days` |
-

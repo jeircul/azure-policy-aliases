@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/storageTaskAssignments
+﻿# Microsoft.Storage/storageAccounts/storageTaskAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -37,4 +37,3 @@
 | `properties.runStatus.taskId` | `Microsoft.Storage/storageAccounts/storageTaskAssignments/runStatus.taskId` |
 | `properties.runStatus.taskVersion` | `Microsoft.Storage/storageAccounts/storageTaskAssignments/runStatus.taskVersion` |
 | `properties.runStatus.runResult` | `Microsoft.Storage/storageAccounts/storageTaskAssignments/runStatus.runResult` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ElasticSan/elasticSans/volumeGroups
+﻿# Microsoft.ElasticSan/elasticSans/volumeGroups
 
 | Default Path | Alias |
 |---|---|
@@ -35,4 +35,3 @@
 | `properties.encryptionProperties.keyVaultProperties.currentVersionedKeyExpirationTimestamp` | `Microsoft.ElasticSan/elasticSans/volumeGroups/encryptionProperties.keyVaultProperties.currentVersionedKeyExpirationTimestamp` |
 | `properties.encryptionProperties.identity` | `Microsoft.ElasticSan/elasticSans/volumeGroups/encryptionProperties.identity` |
 | `properties.encryptionProperties.identity.userAssignedIdentity` | `Microsoft.ElasticSan/elasticSans/volumeGroups/encryptionProperties.identity.userAssignedIdentity` |
-

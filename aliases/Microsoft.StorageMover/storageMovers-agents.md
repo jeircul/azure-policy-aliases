@@ -1,4 +1,4 @@
-# Microsoft.StorageMover/storageMovers/agents
+﻿# Microsoft.StorageMover/storageMovers/agents
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.errorDetails.code` | `Microsoft.StorageMover/storageMovers/agents/errorDetails.code` |
 | `properties.errorDetails.message` | `Microsoft.StorageMover/storageMovers/agents/errorDetails.message` |
 | `properties.provisioningState` | `Microsoft.StorageMover/storageMovers/agents/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/applicationLiveViews
+﻿# Microsoft.AppPlatform/Spring/applicationLiveViews
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.components[*].instances[*]` | `Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances[*]` |
 | `properties.components[*].instances[*].name` | `Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances[*].name` |
 | `properties.components[*].instances[*].status` | `Microsoft.AppPlatform/Spring/applicationLiveViews/components[*].instances[*].status` |
-

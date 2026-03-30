@@ -1,4 +1,4 @@
-# Microsoft.Kusto/clusters/databases
+﻿# Microsoft.Kusto/clusters/databases
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.statistics.size` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.statistics.size` |
 | `properties.softDeletePeriod` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.softDeletePeriod` |
 | `properties.hotCachePeriod` | `Microsoft.Kusto/clusters/databases/ReadOnlyFollowing.hotCachePeriod` |
-

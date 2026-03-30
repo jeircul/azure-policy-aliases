@@ -1,4 +1,4 @@
-# Microsoft.DurableTask/schedulers
+﻿# Microsoft.DurableTask/schedulers
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.sku.name` | `Microsoft.DurableTask/schedulers/sku.name` |
 | `properties.sku.capacity` | `Microsoft.DurableTask/schedulers/sku.capacity` |
 | `properties.sku.redundancyState` | `Microsoft.DurableTask/schedulers/sku.redundancyState` |
-

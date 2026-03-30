@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentprojects/groups/assessments
+﻿# Microsoft.Migrate/assessmentprojects/groups/assessments
 
 | Default Path | Alias |
 |---|---|
@@ -35,4 +35,3 @@
 | `properties.monthlyStandardSSDStorageCost` | `Microsoft.Migrate/assessmentprojects/groups/assessments/monthlyStandardSSDStorageCost` |
 | `properties.status` | `Microsoft.Migrate/assessmentprojects/groups/assessments/status` |
 | `properties.numberOfMachines` | `Microsoft.Migrate/assessmentprojects/groups/assessments/numberOfMachines` |
-

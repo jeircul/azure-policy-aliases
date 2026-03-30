@@ -1,4 +1,4 @@
-# Microsoft.Security/securityConnectors
+﻿# Microsoft.Security/securityConnectors
 
 | Default Path | Alias |
 |---|---|
@@ -258,4 +258,3 @@
 | `properties.environmentData.authentication` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication.AccessToken` |
 | `properties.environmentData.authentication` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication` |
 | `properties.environmentData.authentication.authenticationType` | `Microsoft.Security/securityConnectors/environmentData.DockerHubOrganization.authentication.authenticationType` |
-

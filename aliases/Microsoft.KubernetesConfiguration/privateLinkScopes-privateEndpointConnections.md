@@ -1,4 +1,4 @@
-# Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections
+﻿# Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections/provisioningState` |
-

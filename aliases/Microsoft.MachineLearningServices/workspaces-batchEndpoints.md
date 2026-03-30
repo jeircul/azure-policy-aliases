@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/batchEndpoints
+﻿# Microsoft.MachineLearningServices/workspaces/batchEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `sku.size` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/sku.size` |
 | `sku.family` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/sku.family` |
 | `sku.capacity` | `Microsoft.MachineLearningServices/workspaces/batchEndpoints/sku.capacity` |
-

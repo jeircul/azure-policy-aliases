@@ -1,4 +1,4 @@
-# Microsoft.KubernetesConfiguration/extensions
+﻿# Microsoft.KubernetesConfiguration/extensions
 
 | Default Path | Alias |
 |---|---|
@@ -55,4 +55,3 @@
 | `properties.installedVersion` | `Microsoft.KubernetesConfiguration/extensions/installedVersion` |
 | `properties.currentVersion` | `Microsoft.KubernetesConfiguration/extensions/currentVersion` |
 | `properties.isSystemExtension` | `Microsoft.KubernetesConfiguration/extensions/isSystemExtension` |
-

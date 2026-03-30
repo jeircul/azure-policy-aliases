@@ -1,4 +1,4 @@
-# Microsoft.AppConfiguration/configurationStores/snapshots
+﻿# Microsoft.AppConfiguration/configurationStores/snapshots
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.itemsCount` | `Microsoft.AppConfiguration/configurationStores/snapshots/itemsCount` |
 | `properties.tags` | `Microsoft.AppConfiguration/configurationStores/snapshots/tags` |
 | `properties.etag` | `Microsoft.AppConfiguration/configurationStores/snapshots/etag` |
-

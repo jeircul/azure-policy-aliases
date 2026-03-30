@@ -1,4 +1,4 @@
-# Microsoft.Web/hostingenvironments/configurations
+﻿# Microsoft.Web/hostingenvironments/configurations
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.ftpEnabled` | `Microsoft.Web/hostingEnvironments/configurations/ftpEnabled` |
 | `properties.remoteDebugEnabled` | `Microsoft.Web/hostingEnvironments/configurations/remoteDebugEnabled` |
 | `properties.inboundIpAddressOverride` | `Microsoft.Web/hostingEnvironments/configurations/inboundIpAddressOverride` |
-

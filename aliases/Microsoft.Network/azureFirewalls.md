@@ -1,4 +1,4 @@
-# Microsoft.Network/azureFirewalls
+﻿# Microsoft.Network/azureFirewalls
 
 | Default Path | Alias |
 |---|---|
@@ -136,4 +136,3 @@
 | `properties.autoscaleConfiguration` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration` |
 | `properties.autoscaleConfiguration.minCapacity` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration.minCapacity` |
 | `properties.autoscaleConfiguration.maxCapacity` | `Microsoft.Network/azureFirewalls/autoscaleConfiguration.maxCapacity` |
-

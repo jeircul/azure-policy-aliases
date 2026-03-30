@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/clusters
+﻿# Microsoft.AVS/privateClouds/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.clusterId` | `Microsoft.AVS/privateClouds/clusters/clusterId` |
 | `properties.hosts` | `Microsoft.AVS/privateClouds/clusters/hosts` |
 | `properties.hosts[*]` | `Microsoft.AVS/privateClouds/clusters/hosts[*]` |
-

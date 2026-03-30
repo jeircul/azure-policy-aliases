@@ -1,4 +1,4 @@
-# microsoft.insights/diagnosticSettings
+﻿# microsoft.insights/diagnosticSettings
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.logAnalyticsDestinationType` | `Microsoft.Insights/diagnosticSettings/logAnalyticsDestinationType` |
 | `properties.logs[*].categoryGroup` | `microsoft.insights/diagnosticSettings/logs[*].categoryGroup` |
 | `properties.marketplacePartnerId` | `Microsoft.Insights/diagnosticSettings/marketplacePartnerId` |
-

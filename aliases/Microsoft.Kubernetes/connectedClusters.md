@@ -1,4 +1,4 @@
-# Microsoft.Kubernetes/connectedClusters
+﻿# Microsoft.Kubernetes/connectedClusters
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.connectivityStatus` | `Microsoft.Kubernetes/connectedClusters/connectivityStatus` |
 | `properties.privateLinkScopeResourceId` | `Microsoft.Kubernetes/connectedClusters/privateLinkScopeResourceId` |
 | `properties.privateLinkState` | `Microsoft.Kubernetes/connectedClusters/privateLinkState` |
-

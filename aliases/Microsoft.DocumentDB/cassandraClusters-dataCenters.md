@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/cassandraClusters/dataCenters
+﻿# Microsoft.DocumentDB/cassandraClusters/dataCenters
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.provisionError.target` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.target` |
 | `properties.provisionError.additionalErrorInfo` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/provisionError.additionalErrorInfo` |
 | `properties.privateEndpointIpAddress` | `Microsoft.DocumentDB/cassandraClusters/dataCenters/privateEndpointIpAddress` |
-

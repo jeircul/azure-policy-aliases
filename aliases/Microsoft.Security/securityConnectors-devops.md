@@ -1,4 +1,4 @@
-# Microsoft.Security/securityConnectors/devops
+﻿# Microsoft.Security/securityConnectors/devops
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.agentlessConfiguration.inventoryList[*]` | `Microsoft.Security/securityConnectors/devops/agentlessConfiguration.inventoryList[*]` |
 | `properties.agentlessConfiguration.inventoryList[*].inventoryKind` | `Microsoft.Security/securityConnectors/devops/agentlessConfiguration.inventoryList[*].inventoryKind` |
 | `properties.agentlessConfiguration.inventoryList[*].value` | `Microsoft.Security/securityConnectors/devops/agentlessConfiguration.inventoryList[*].value` |
-

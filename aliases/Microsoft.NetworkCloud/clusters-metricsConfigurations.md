@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/clusters/metricsConfigurations
+﻿# Microsoft.NetworkCloud/clusters/metricsConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.enabledMetrics` | `Microsoft.NetworkCloud/clusters/metricsConfigurations/enabledMetrics` |
 | `properties.enabledMetrics[*]` | `Microsoft.NetworkCloud/clusters/metricsConfigurations/enabledMetrics[*]` |
 | `properties.provisioningState` | `Microsoft.NetworkCloud/clusters/metricsConfigurations/provisioningState` |
-

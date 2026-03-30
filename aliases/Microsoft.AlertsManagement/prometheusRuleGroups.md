@@ -1,4 +1,4 @@
-# Microsoft.AlertsManagement/prometheusRuleGroups
+﻿# Microsoft.AlertsManagement/prometheusRuleGroups
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.rules[*].resolveConfiguration` | `Microsoft.AlertsManagement/prometheusRuleGroups/rules[*].resolveConfiguration` |
 | `properties.rules[*].resolveConfiguration.autoResolved` | `Microsoft.AlertsManagement/prometheusRuleGroups/rules[*].resolveConfiguration.autoResolved` |
 | `properties.rules[*].resolveConfiguration.timeToResolve` | `Microsoft.AlertsManagement/prometheusRuleGroups/rules[*].resolveConfiguration.timeToResolve` |
-

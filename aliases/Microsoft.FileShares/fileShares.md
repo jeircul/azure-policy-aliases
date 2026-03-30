@@ -1,4 +1,4 @@
-# Microsoft.FileShares/fileShares
+﻿# Microsoft.FileShares/fileShares
 
 | Default Path | Alias |
 |---|---|
@@ -43,4 +43,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.FileShares/fileShares/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.FileShares/fileShares/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpointConnections[*].properties.provisioningState` | `Microsoft.FileShares/fileShares/privateEndpointConnections[*].provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/cacheRules
+﻿# Microsoft.ContainerRegistry/registries/cacheRules
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.targetRepository` | `Microsoft.ContainerRegistry/registries/cacheRules/targetRepository` |
 | `properties.creationDate` | `Microsoft.ContainerRegistry/registries/cacheRules/creationDate` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/cacheRules/provisioningState` |
-

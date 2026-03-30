@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerNamespaces/channels
+﻿# Microsoft.EventGrid/partnerNamespaces/channels
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.provisioningState` | `Microsoft.EventGrid/partnerNamespaces/channels/provisioningState` |
 | `properties.readinessState` | `Microsoft.EventGrid/partnerNamespaces/channels/readinessState` |
 | `properties.expirationTimeIfNotActivatedUtc` | `Microsoft.EventGrid/partnerNamespaces/channels/expirationTimeIfNotActivatedUtc` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/groups
+﻿# Microsoft.ApiManagement/service/workspaces/groups
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.description` | `Microsoft.ApiManagement/service/workspaces/groups/description` |
 | `properties.type` | `Microsoft.ApiManagement/service/workspaces/groups/type` |
 | `properties.externalId` | `Microsoft.ApiManagement/service/workspaces/groups/externalId` |
-

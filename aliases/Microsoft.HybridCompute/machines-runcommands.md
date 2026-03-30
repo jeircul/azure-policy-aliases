@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/machines/runcommands
+﻿# Microsoft.HybridCompute/machines/runcommands
 
 | Default Path | Alias |
 |---|---|
@@ -52,4 +52,3 @@
 | `properties.instanceView.statuses[*].displayStatus` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].displayStatus` |
 | `properties.instanceView.statuses[*].message` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].message` |
 | `properties.instanceView.statuses[*].time` | `Microsoft.HybridCompute/machines/runCommands/instanceView.statuses[*].time` |
-

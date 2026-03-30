@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/datastores
+﻿# Microsoft.MachineLearningServices/workspaces/datastores
 
 | Default Path | Alias |
 |---|---|
@@ -746,4 +746,3 @@
 | `properties.intellectualProperty` | `Microsoft.MachineLearningServices/workspaces/datastores/intellectualProperty` |
 | `properties.intellectualProperty.protectionLevel` | `Microsoft.MachineLearningServices/workspaces/datastores/intellectualProperty.protectionLevel` |
 | `properties.intellectualProperty.publisher` | `Microsoft.MachineLearningServices/workspaces/datastores/intellectualProperty.publisher` |
-

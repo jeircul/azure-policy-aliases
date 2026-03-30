@@ -1,4 +1,4 @@
-# Microsoft.Network/ddosCustomPolicies
+﻿# Microsoft.Network/ddosCustomPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.protocolCustomSettings[*].triggerSensitivityOverride` | `Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*].triggerSensitivityOverride` |
 | `properties.protocolCustomSettings[*]` | `Microsoft.Network/ddosCustomPolicies/protocolCustomSettings[*]` |
 | `properties.protocolCustomSettings` | `Microsoft.Network/ddosCustomPolicies/protocolCustomSettings` |
-

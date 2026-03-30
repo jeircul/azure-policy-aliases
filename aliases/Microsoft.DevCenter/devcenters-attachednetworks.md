@@ -1,4 +1,4 @@
-# Microsoft.DevCenter/devcenters/attachednetworks
+﻿# Microsoft.DevCenter/devcenters/attachednetworks
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.networkConnectionLocation` | `Microsoft.DevCenter/devcenters/attachednetworks/networkConnectionLocation` |
 | `properties.healthCheckStatus` | `Microsoft.DevCenter/devcenters/attachednetworks/healthCheckStatus` |
 | `properties.domainJoinType` | `Microsoft.DevCenter/devcenters/attachednetworks/domainJoinType` |
-

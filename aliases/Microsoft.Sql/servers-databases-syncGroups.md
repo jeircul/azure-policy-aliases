@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/syncGroups
+﻿# Microsoft.Sql/servers/databases/syncGroups
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `sku.capacity` | `Microsoft.Sql/servers/databases/syncGroups/sku.capacity` |
 | `properties.enableConflictLogging` | `Microsoft.Sql/servers/databases/syncGroups/enableConflictLogging` |
 | `properties.conflictLoggingRetentionInDays` | `Microsoft.Sql/servers/databases/syncGroups/conflictLoggingRetentionInDays` |
-

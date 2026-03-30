@@ -1,4 +1,4 @@
-# Microsoft.Relay/namespaces
+﻿# Microsoft.Relay/namespaces
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Relay/namespaces/privateEndpointConnections[*].systemData.lastModifiedAt` |
 | `properties.publicNetworkAccess` | `Microsoft.Relay/namespaces/publicNetworkAccess` |
-

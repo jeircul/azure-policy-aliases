@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualWans
+﻿# Microsoft.Network/virtualWans
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.allowVnetToVnetTraffic` | `Microsoft.Network/virtualWans/allowVnetToVnetTraffic` |
 | `properties.office365LocalBreakoutCategory` | `Microsoft.Network/virtualWans/office365LocalBreakoutCategory` |
 | `properties.type` | `Microsoft.Network/virtualWans/type` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/graphs
+﻿# Microsoft.DocumentDB/databaseAccounts/graphs
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.options.throughput` | `Microsoft.DocumentDB/databaseAccounts/graphs/options.throughput` |
 | `properties.options.autoscaleSettings` | `Microsoft.DocumentDB/databaseAccounts/graphs/options.autoscaleSettings` |
 | `properties.options.autoscaleSettings.maxThroughput` | `Microsoft.DocumentDB/databaseAccounts/graphs/options.autoscaleSettings.maxThroughput` |
-

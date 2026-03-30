@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/hostpools
+﻿# Microsoft.DesktopVirtualization/hostpools
 
 | Default Path | Alias |
 |---|---|
@@ -75,4 +75,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].systemData.lastModifiedAt` |
 | `properties.privateEndpointConnections[*].properties.groupIds` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].groupIds` |
 | `properties.privateEndpointConnections[*].properties.groupIds[*]` | `Microsoft.DesktopVirtualization/hostPools/privateEndpointConnections[*].groupIds[*]` |
-

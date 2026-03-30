@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/codes
+﻿# Microsoft.MachineLearningServices/workspaces/codes
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.latestVersion` | `Microsoft.MachineLearningServices/workspaces/codes/latestVersion` |
 | `properties.nextVersion` | `Microsoft.MachineLearningServices/workspaces/codes/nextVersion` |
 | `properties.provisioningState` | `Microsoft.MachineLearningServices/workspaces/codes/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub/privateEndpointConnections
+﻿# Microsoft.SignalRService/WebPubSub/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.groupIds` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.SignalRService/webPubSub/privateEndpointConnections/groupIds[*]` |
-

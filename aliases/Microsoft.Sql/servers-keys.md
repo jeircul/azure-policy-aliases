@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/keys
+﻿# Microsoft.Sql/servers/keys
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.creationDate` | `Microsoft.Sql/servers/keys/creationDate` |
 | `properties.autoRotationEnabled` | `Microsoft.Sql/servers/keys/autoRotationEnabled` |
 | `properties.keyVersion` | `Microsoft.Sql/servers/keys/keyVersion` |
-

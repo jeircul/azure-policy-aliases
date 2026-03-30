@@ -1,4 +1,4 @@
-# Microsoft.Singularity/accounts/accountQuotaPolicies
+﻿# Microsoft.Singularity/accounts/accountQuotaPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.quotas[*].limit` | `Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].limit` |
 | `properties.quotas[*].used` | `Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].used` |
 | `properties.quotas[*].slaTier` | `Microsoft.Singularity/accounts/accountQuotaPolicies/quotas[*].slaTier` |
-

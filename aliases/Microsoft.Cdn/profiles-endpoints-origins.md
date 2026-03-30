@@ -1,4 +1,4 @@
-# Microsoft.Cdn/profiles/endpoints/origins
+﻿# Microsoft.Cdn/profiles/endpoints/origins
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.privateLinkLocation` | `Microsoft.Cdn/profiles/endpoints/origins/privateLinkLocation` |
 | `properties.privateLinkApprovalMessage` | `Microsoft.Cdn/profiles/endpoints/origins/privateLinkApprovalMessage` |
 | `properties.privateEndpointStatus` | `Microsoft.Cdn/profiles/endpoints/origins/privateEndpointStatus` |
-

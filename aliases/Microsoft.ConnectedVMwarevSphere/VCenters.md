@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/VCenters
+﻿# Microsoft.ConnectedVMwarevSphere/VCenters
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.statuses[*].severity` | `Microsoft.ConnectedVMwarevSphere/vcenters/statuses[*].severity` |
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/vcenters/statuses[*].lastUpdatedAt` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/vcenters/provisioningState` |
-

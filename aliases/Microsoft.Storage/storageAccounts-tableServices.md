@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/tableServices
+﻿# Microsoft.Storage/storageAccounts/tableServices
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.cors.corsRules[*].exposedHeaders[*]` | `Microsoft.Storage/storageAccounts/tableServices/cors.corsRules[*].exposedHeaders[*]` |
 | `properties.cors.corsRules[*].allowedHeaders` | `Microsoft.Storage/storageAccounts/tableServices/cors.corsRules[*].allowedHeaders` |
 | `properties.cors.corsRules[*].allowedHeaders[*]` | `Microsoft.Storage/storageAccounts/tableServices/cors.corsRules[*].allowedHeaders[*]` |
-

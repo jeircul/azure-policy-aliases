@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults/replicationRecoveryPlans
+﻿# Microsoft.RecoveryServices/vaults/replicationRecoveryPlans
 
 | Default Path | Alias |
 |---|---|
@@ -50,4 +50,3 @@
 | `properties.groups[*].endGroupActions[*].customDetails.description` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ManualActionDetails.description` |
 | `properties.groups[*].startGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].startGroupActions[*].customDetails.ManualActionDetails` |
 | `properties.groups[*].endGroupActions[*].customDetails` | `Microsoft.RecoveryServices/vaults/replicationRecoveryPlans/groups[*].endGroupActions[*].customDetails.ManualActionDetails` |
-

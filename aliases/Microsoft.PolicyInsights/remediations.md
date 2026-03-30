@@ -1,4 +1,4 @@
-# Microsoft.PolicyInsights/remediations
+﻿# Microsoft.PolicyInsights/remediations
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.failureThreshold.percentage` | `Microsoft.PolicyInsights/remediations/failureThreshold.percentage` |
 | `properties.filters.resourceIds` | `Microsoft.PolicyInsights/remediations/filters.resourceIds` |
 | `properties.filters.resourceIds[*]` | `Microsoft.PolicyInsights/remediations/filters.resourceIds[*]` |
-

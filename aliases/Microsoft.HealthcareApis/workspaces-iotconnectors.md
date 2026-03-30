@@ -1,4 +1,4 @@
-# Microsoft.HealthcareApis/workspaces/iotconnectors
+﻿# Microsoft.HealthcareApis/workspaces/iotconnectors
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.ingestionEndpointConfiguration.consumerGroup` | `Microsoft.HealthcareApis/workspaces/iotconnectors/ingestionEndpointConfiguration.consumerGroup` |
 | `properties.ingestionEndpointConfiguration.fullyQualifiedEventHubNamespace` | `Microsoft.HealthcareApis/workspaces/iotconnectors/ingestionEndpointConfiguration.fullyQualifiedEventHubNamespace` |
 | `properties.deviceMapping` | `Microsoft.HealthcareApis/workspaces/iotconnectors/deviceMapping` |
-

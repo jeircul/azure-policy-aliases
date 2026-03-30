@@ -1,4 +1,4 @@
-# Microsoft.ManagedServices/registrationAssignments
+﻿# Microsoft.ManagedServices/registrationAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -40,4 +40,3 @@
 | `properties.registrationDefinition.systemData.lastModifiedBy` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.lastModifiedBy` |
 | `properties.registrationDefinition.systemData.lastModifiedByType` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.lastModifiedByType` |
 | `properties.registrationDefinition.systemData.lastModifiedAt` | `Microsoft.ManagedServices/registrationAssignments/registrationDefinition.systemData.lastModifiedAt` |
-

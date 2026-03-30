@@ -1,4 +1,4 @@
-# Microsoft.Relay/namespaces/networkrulesets
+﻿# Microsoft.Relay/namespaces/networkrulesets
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.ipRules[*].ipMask` | `Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].ipMask` |
 | `properties.ipRules[*].action` | `Microsoft.Relay/namespaces/networkRuleSets/ipRules[*].action` |
 | `properties.publicNetworkAccess` | `Microsoft.Relay/namespaces/networkRuleSets/publicNetworkAccess` |
-

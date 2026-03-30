@@ -1,4 +1,4 @@
-# Microsoft.Maintenance/maintenanceConfigurations
+﻿# Microsoft.Maintenance/maintenanceConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -47,4 +47,3 @@
 | `properties.overrides.overrides[*].endDateTime` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].endDateTime` |
 | `properties.overrides.overrides[*].timeZone` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].timeZone` |
 | `properties.overrides.overrides[*].overrideProperties` | `Microsoft.Maintenance/maintenanceConfigurations/overrides.overrides[*].overrideProperties` |
-

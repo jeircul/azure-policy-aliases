@@ -1,4 +1,4 @@
-# Microsoft.DesktopVirtualization/scalingplans/pooledSchedules
+﻿# Microsoft.DesktopVirtualization/scalingplans/pooledSchedules
 
 | Default Path | Alias |
 |---|---|
@@ -35,4 +35,3 @@
 | `properties.createDelete.rampUpMinimumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/pooledSchedules/createDelete.rampUpMinimumHostPoolSize` |
 | `properties.createDelete.rampDownMaximumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/pooledSchedules/createDelete.rampDownMaximumHostPoolSize` |
 | `properties.createDelete.rampDownMinimumHostPoolSize` | `Microsoft.DesktopVirtualization/scalingPlans/pooledSchedules/createDelete.rampDownMinimumHostPoolSize` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/managedNamespaces
+﻿# Microsoft.ContainerService/managedClusters/managedNamespaces
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.adoptionPolicy` | `Microsoft.ContainerService/managedClusters/managedNamespaces/adoptionPolicy` |
 | `properties.deletePolicy` | `Microsoft.ContainerService/managedClusters/managedNamespaces/deletePolicy` |
 | `properties.portalFqdn` | `Microsoft.ContainerService/managedClusters/managedNamespaces/portalFqdn` |
-

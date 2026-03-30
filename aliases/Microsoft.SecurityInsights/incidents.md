@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/incidents
+﻿# Microsoft.SecurityInsights/incidents
 
 | Default Path | Alias |
 |---|---|
@@ -36,4 +36,3 @@
 | `properties.providerIncidentId` | `Microsoft.SecurityInsights/incidents/providerIncidentId` |
 | `properties.relatedAnalyticRuleIds` | `Microsoft.SecurityInsights/incidents/relatedAnalyticRuleIds` |
 | `properties.relatedAnalyticRuleIds[*]` | `Microsoft.SecurityInsights/incidents/relatedAnalyticRuleIds[*]` |
-

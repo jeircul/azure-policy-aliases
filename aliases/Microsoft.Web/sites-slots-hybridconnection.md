@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/slots/hybridconnection
+﻿# Microsoft.Web/sites/slots/hybridconnection
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.hostname` | `Microsoft.Web/sites/slots/hybridconnection/hostname` |
 | `properties.port` | `Microsoft.Web/sites/slots/hybridconnection/port` |
 | `properties.biztalkUri` | `Microsoft.Web/sites/slots/hybridconnection/biztalkUri` |
-

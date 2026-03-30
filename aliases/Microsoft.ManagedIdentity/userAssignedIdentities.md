@@ -1,4 +1,4 @@
-# Microsoft.ManagedIdentity/userAssignedIdentities
+﻿# Microsoft.ManagedIdentity/userAssignedIdentities
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.clientId` | `Microsoft.ManagedIdentity/userAssignedIdentities/clientId` |
 | `properties.clientSecretUrl` | `Microsoft.ManagedIdentity/userAssignedIdentities/clientSecretUrl` |
 | `properties.isolationScope` | `Microsoft.ManagedIdentity/userAssignedIdentities/isolationScope` |
-

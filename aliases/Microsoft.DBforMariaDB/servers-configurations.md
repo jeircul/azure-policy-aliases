@@ -1,4 +1,4 @@
-# Microsoft.DBforMariaDB/servers/configurations
+﻿# Microsoft.DBforMariaDB/servers/configurations
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.allowedValues` | `Microsoft.DBforMariaDB/servers/configurations/allowedValues` |
 | `properties.source` | `Microsoft.DBforMariaDB/servers/configurations/source` |
 | `properties.value` | `Microsoft.DBforMariaDB/servers/configurations/value` |
-

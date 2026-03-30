@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/DataControllers
+﻿# Microsoft.AzureArcData/DataControllers
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.logsDashboardCredential` | `Microsoft.AzureArcData/dataControllers/logsDashboardCredential` |
 | `properties.logsDashboardCredential.username` | `Microsoft.AzureArcData/dataControllers/logsDashboardCredential.username` |
 | `properties.logsDashboardCredential.password` | `Microsoft.AzureArcData/dataControllers/logsDashboardCredential.password` |
-

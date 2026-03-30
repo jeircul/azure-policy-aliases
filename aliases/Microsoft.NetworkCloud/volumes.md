@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/volumes
+﻿# Microsoft.NetworkCloud/volumes
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.provisioningState` | `Microsoft.NetworkCloud/volumes/provisioningState` |
 | `properties.serialNumber` | `Microsoft.NetworkCloud/volumes/serialNumber` |
 | `properties.sizeMiB` | `Microsoft.NetworkCloud/volumes/sizeMiB` |
-

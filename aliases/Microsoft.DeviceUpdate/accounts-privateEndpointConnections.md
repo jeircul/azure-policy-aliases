@@ -1,4 +1,4 @@
-# Microsoft.DeviceUpdate/accounts/privateEndpointConnections
+﻿# Microsoft.DeviceUpdate/accounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.DeviceUpdate/accounts/privateEndpointConnections/groupIds[*]` |
-

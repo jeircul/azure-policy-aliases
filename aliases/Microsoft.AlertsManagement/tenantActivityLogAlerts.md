@@ -1,4 +1,4 @@
-# Microsoft.AlertsManagement/tenantActivityLogAlerts
+﻿# Microsoft.AlertsManagement/tenantActivityLogAlerts
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.actions.actionGroups[*].actionProperties` | `Microsoft.AlertsManagement/tenantActivityLogAlerts/actions.actionGroups[*].actionProperties` |
 | `properties.enabled` | `Microsoft.AlertsManagement/tenantActivityLogAlerts/enabled` |
 | `properties.description` | `Microsoft.AlertsManagement/tenantActivityLogAlerts/description` |
-

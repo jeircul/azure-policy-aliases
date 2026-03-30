@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/fleets/autoUpgradeProfiles
+﻿# Microsoft.ContainerService/fleets/autoUpgradeProfiles
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.autoUpgradeProfileStatus.lastTriggerUpgradeVersions[*]` | `Microsoft.ContainerService/fleets/autoUpgradeProfiles/autoUpgradeProfileStatus.lastTriggerUpgradeVersions[*]` |
 | `properties.targetKubernetesVersion` | `Microsoft.ContainerService/fleets/autoUpgradeProfiles/targetKubernetesVersion` |
 | `properties.longTermSupport` | `Microsoft.ContainerService/fleets/autoUpgradeProfiles/longTermSupport` |
-

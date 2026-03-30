@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/cases
+﻿# Microsoft.SecurityInsights/cases
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.relatedAlertProductNames[*]` | `Microsoft.SecurityInsights/cases/relatedAlertProductNames[*]` |
 | `properties.tactics` | `Microsoft.SecurityInsights/cases/tactics` |
 | `properties.tactics[*]` | `Microsoft.SecurityInsights/cases/tactics[*]` |
-

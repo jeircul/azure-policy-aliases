@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels
+﻿# Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.tableName` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/tableName` |
 | `properties.columnName` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/columnName` |
 | `properties.clientClassificationSource` | `Microsoft.Sql/servers/databases/schemas/tables/columns/sensitivityLabels/clientClassificationSource` |
-

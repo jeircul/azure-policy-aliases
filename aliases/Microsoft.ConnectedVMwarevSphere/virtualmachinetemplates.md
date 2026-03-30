@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates
+﻿# Microsoft.ConnectedVMwarevSphere/virtualmachinetemplates
 
 | Default Path | Alias |
 |---|---|
@@ -66,4 +66,3 @@
 | `properties.statuses[*].severity` | `Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/statuses[*].severity` |
 | `properties.statuses[*].lastUpdatedAt` | `Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/statuses[*].lastUpdatedAt` |
 | `properties.provisioningState` | `Microsoft.ConnectedVMwarevSphere/virtualMachineTemplates/provisioningState` |
-

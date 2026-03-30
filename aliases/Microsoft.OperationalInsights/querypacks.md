@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/querypacks
+﻿# Microsoft.OperationalInsights/querypacks
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.timeCreated` | `Microsoft.OperationalInsights/queryPacks/timeCreated` |
 | `properties.timeModified` | `Microsoft.OperationalInsights/queryPacks/timeModified` |
 | `properties.provisioningState` | `Microsoft.OperationalInsights/queryPacks/provisioningState` |
-

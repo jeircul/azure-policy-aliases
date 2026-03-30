@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/PostgresInstances
+﻿# Microsoft.AzureArcData/PostgresInstances
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `sku.family` | `Microsoft.AzureArcData/postgresInstances/sku.family` |
 | `sku.capacity` | `Microsoft.AzureArcData/postgresInstances/sku.capacity` |
 | `sku.tier` | `Microsoft.AzureArcData/postgresInstances/sku.tier` |
-

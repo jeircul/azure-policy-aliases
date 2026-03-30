@@ -1,4 +1,4 @@
-# Microsoft.DataProtection/backupVaults/backupPolicies
+﻿# Microsoft.DataProtection/backupVaults/backupPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -75,4 +75,3 @@
 | `properties.policyRules[*].trigger` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger` |
 | `properties.policyRules[*].trigger.taggingCriteria` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger.AdhocBasedTriggerContext.taggingCriteria` |
 | `properties.policyRules[*].trigger.taggingCriteria[*].criteria[*]` | `Microsoft.DataProtection/backupVaults/backupPolicies/BackupPolicy.policyRules[*].AzureBackupRule.trigger.ScheduleBasedTriggerContext.taggingCriteria[*].criteria[*].ScheduleBasedBackupCriteria` |
-

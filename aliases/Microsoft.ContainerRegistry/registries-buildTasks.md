@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/buildTasks
+﻿# Microsoft.ContainerRegistry/registries/buildTasks
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.platform.cpu` | `Microsoft.ContainerRegistry/registries/buildTasks/platform.cpu` |
 | `properties.platform` | `Microsoft.ContainerRegistry/registries/buildTasks/platform` |
 | `properties.timeout` | `Microsoft.ContainerRegistry/registries/buildTasks/timeout` |
-

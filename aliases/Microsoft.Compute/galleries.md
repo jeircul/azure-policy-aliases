@@ -1,4 +1,4 @@
-# Microsoft.Compute/galleries
+﻿# Microsoft.Compute/galleries
 
 | Default Path | Alias |
 |---|---|
@@ -59,4 +59,3 @@
 | `properties.sharingProfile.communityGalleryInfo.communityGalleryEnabled` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.communityGalleryEnabled` |
 | `properties.sharingProfile.communityGalleryInfo.publicNames` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publicNames` |
 | `properties.sharingProfile.communityGalleryInfo.publicNames[*]` | `Microsoft.Compute/galleries/sharingProfile.communityGalleryInfo.publicNames[*]` |
-

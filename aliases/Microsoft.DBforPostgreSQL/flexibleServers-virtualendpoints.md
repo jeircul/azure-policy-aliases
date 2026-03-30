@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints
+﻿# Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.members[*]` | `Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/members[*]` |
 | `properties.virtualEndpoints` | `Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/virtualEndpoints` |
 | `properties.virtualEndpoints[*]` | `Microsoft.DBforPostgreSQL/flexibleServers/virtualendpoints/virtualEndpoints[*]` |
-

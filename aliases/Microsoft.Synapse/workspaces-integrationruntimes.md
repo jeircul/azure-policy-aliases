@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/integrationruntimes
+﻿# Microsoft.Synapse/workspaces/integrationruntimes
 
 | Default Path | Alias |
 |---|---|
@@ -98,4 +98,3 @@
 | `properties.typeProperties.selfContainedInteractiveAuthoringEnabled` | `Microsoft.Synapse/workspaces/integrationRuntimes/SelfHosted.typeProperties.selfContainedInteractiveAuthoringEnabled` |
 | `properties.typeProperties.computeProperties.copyComputeScaleProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.copyComputeScaleProperties` |
 | `properties.typeProperties.computeProperties.pipelineExternalComputeScaleProperties` | `Microsoft.Synapse/workspaces/integrationRuntimes/Managed.typeProperties.computeProperties.pipelineExternalComputeScaleProperties` |
-

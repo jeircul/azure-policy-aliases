@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces/eventhubs/consumergroups
+﻿# Microsoft.EventHub/namespaces/eventhubs/consumergroups
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.eventHubPath` | `Microsoft.EventHub/namespaces/eventhubs/consumergroups/eventHubPath` |
 | `properties.updatedAt` | `Microsoft.EventHub/namespaces/eventhubs/consumergroups/updatedAt` |
 | `properties.userMetadata` | `Microsoft.EventHub/namespaces/eventhubs/consumergroups/userMetadata` |
-

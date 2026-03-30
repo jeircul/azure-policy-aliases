@@ -1,4 +1,4 @@
-# Microsoft.Network/routeTables/routes
+﻿# Microsoft.Network/routeTables/routes
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.nextHopIpAddress` | `Microsoft.Network/routeTables/routes/nextHopIpAddress` |
 | `properties.provisioningState` | `Microsoft.Network/routeTables/routes/provisioningState` |
 | `properties.hasBgpOverride` | `Microsoft.Network/routeTables/routes/hasBgpOverride` |
-

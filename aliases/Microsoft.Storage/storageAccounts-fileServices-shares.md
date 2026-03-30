@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/fileServices/shares
+﻿# Microsoft.Storage/storageAccounts/fileServices/shares
 
 | Default Path | Alias |
 |---|---|
@@ -37,4 +37,3 @@
 | `properties.fileSharePaidBursting.paidBurstingEnabled` | `Microsoft.Storage/storageAccounts/fileServices/shares/fileSharePaidBursting.paidBurstingEnabled` |
 | `properties.fileSharePaidBursting.paidBurstingMaxIops` | `Microsoft.Storage/storageAccounts/fileServices/shares/fileSharePaidBursting.paidBurstingMaxIops` |
 | `properties.fileSharePaidBursting.paidBurstingMaxBandwidthMibps` | `Microsoft.Storage/storageAccounts/fileServices/shares/fileSharePaidBursting.paidBurstingMaxBandwidthMibps` |
-

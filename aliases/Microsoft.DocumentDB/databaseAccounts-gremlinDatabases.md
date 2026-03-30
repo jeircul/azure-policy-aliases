@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/gremlinDatabases
+﻿# Microsoft.DocumentDB/databaseAccounts/gremlinDatabases
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.resource.restoreParameters.restoreTimestampInUtc` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreTimestampInUtc` |
 | `properties.resource.createMode` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.createMode` |
 | `properties.resource.restoreParameters.restoreWithTtlDisabled` | `Microsoft.DocumentDB/databaseAccounts/gremlinDatabases/resource.restoreParameters.restoreWithTtlDisabled` |
-

@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/watchlists
+﻿# Microsoft.SecurityInsights/watchlists
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.uploadStatus` | `Microsoft.SecurityInsights/watchlists/uploadStatus` |
 | `properties.watchlistItemsCount` | `Microsoft.SecurityInsights/watchlists/watchlistItemsCount` |
 | `properties.itemsSearchKey` | `Microsoft.SecurityInsights/watchlists/itemsSearchKey` |
-

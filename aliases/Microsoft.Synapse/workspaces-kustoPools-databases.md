@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/kustoPools/databases
+﻿# Microsoft.Synapse/workspaces/kustoPools/databases
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.leaderClusterResourceId` | `Microsoft.Synapse/workspaces/kustoPools/databases/ReadOnlyFollowing.leaderClusterResourceId` |
 | `properties.attachedDatabaseConfigurationName` | `Microsoft.Synapse/workspaces/kustoPools/databases/ReadOnlyFollowing.attachedDatabaseConfigurationName` |
 | `properties.principalsModificationKind` | `Microsoft.Synapse/workspaces/kustoPools/databases/ReadOnlyFollowing.principalsModificationKind` |
-

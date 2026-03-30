@@ -1,4 +1,4 @@
-# Microsoft.AppConfiguration/configurationStores/privateEndpointConnections
+﻿# Microsoft.AppConfiguration/configurationStores/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.AppConfiguration/configurationStores/privateEndpointConnections/privateLinkServiceConnectionState` |
-

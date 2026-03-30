@@ -1,4 +1,4 @@
-# Microsoft.Blueprint/blueprints/versions
+﻿# Microsoft.Blueprint/blueprints/versions
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.changeNotes` | `Microsoft.Blueprint/blueprints/versions/changeNotes` |
 | `properties.resourceGroups.additionalProperties.tags` | `Microsoft.Blueprint/blueprints/versions/resourceGroups.additionalProperties.tags` |
 | `properties.resourceGroups.additionalProperties.tags.additionalProperties` | `Microsoft.Blueprint/blueprints/versions/resourceGroups.additionalProperties.tags.additionalProperties` |
-

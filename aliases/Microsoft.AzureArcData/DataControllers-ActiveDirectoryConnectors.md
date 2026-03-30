@@ -1,4 +1,4 @@
-# Microsoft.AzureArcData/DataControllers/ActiveDirectoryConnectors
+﻿# Microsoft.AzureArcData/DataControllers/ActiveDirectoryConnectors
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.status.lastUpdateTime` | `Microsoft.AzureArcData/dataControllers/activeDirectoryConnectors/status.lastUpdateTime` |
 | `properties.status.observedGeneration` | `Microsoft.AzureArcData/dataControllers/activeDirectoryConnectors/status.observedGeneration` |
 | `properties.status.state` | `Microsoft.AzureArcData/dataControllers/activeDirectoryConnectors/status.state` |
-

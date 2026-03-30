@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/jobAgents/jobs
+﻿# Microsoft.Sql/servers/jobAgents/jobs
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.schedule.type` | `Microsoft.Sql/servers/jobAgents/jobs/schedule.type` |
 | `properties.schedule.enabled` | `Microsoft.Sql/servers/jobAgents/jobs/schedule.enabled` |
 | `properties.schedule.interval` | `Microsoft.Sql/servers/jobAgents/jobs/schedule.interval` |
-

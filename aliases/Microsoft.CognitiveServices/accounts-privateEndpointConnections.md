@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/privateEndpointConnections
+﻿# Microsoft.CognitiveServices/accounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.groupIds` | `Microsoft.CognitiveServices/accounts/privateEndpointConnections/groupIds` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.CognitiveServices/accounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.CognitiveServices/accounts/privateEndpointConnections/provisioningState` |
-

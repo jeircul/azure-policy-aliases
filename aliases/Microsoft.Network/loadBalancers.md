@@ -1,4 +1,4 @@
-# Microsoft.Network/loadBalancers
+﻿# Microsoft.Network/loadBalancers
 
 | Default Path | Alias |
 |---|---|
@@ -932,4 +932,3 @@
 | `properties.probes[*].properties.NoHealthyBackendsBehavior` | `Microsoft.Network/loadBalancers/probes[*].NoHealthyBackendsBehavior` |
 | `properties.loadBalancingRules[*].properties.enableConnectionTracking` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].enableConnectionTracking` |
 | `properties.scope` | `Microsoft.Network/loadBalancers/scope` |
-

@@ -1,4 +1,4 @@
-# microsoft.insights/privateLinkScopes
+﻿# microsoft.insights/privateLinkScopes
 
 | Default Path | Alias |
 |---|---|
@@ -23,4 +23,3 @@
 | `properties.accessModeSettings.exclusions[*].privateEndpointConnectionName` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].privateEndpointConnectionName` |
 | `properties.accessModeSettings.exclusions[*].queryAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].queryAccessMode` |
 | `properties.accessModeSettings.exclusions[*].ingestionAccessMode` | `microsoft.insights/privateLinkScopes/accessModeSettings.exclusions[*].ingestionAccessMode` |
-

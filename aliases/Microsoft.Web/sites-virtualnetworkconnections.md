@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/virtualnetworkconnections
+﻿# Microsoft.Web/sites/virtualnetworkconnections
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.routes[*].systemData.lastModifiedBy` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.lastModifiedBy` |
 | `properties.routes[*].systemData.lastModifiedByType` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.lastModifiedByType` |
 | `properties.routes[*].systemData.lastModifiedAt` | `Microsoft.Web/sites/virtualNetworkConnections/routes[*].systemData.lastModifiedAt` |
-

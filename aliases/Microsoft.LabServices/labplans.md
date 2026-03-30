@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labplans
+﻿# Microsoft.LabServices/labplans
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.supportInfo.instructions` | `Microsoft.LabServices/labPlans/supportInfo.instructions` |
 | `properties.linkedLmsInstance` | `Microsoft.LabServices/labPlans/linkedLmsInstance` |
 | `properties.provisioningState` | `Microsoft.LabServices/labPlans/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Compute/hostGroups/hosts
+﻿# Microsoft.Compute/hostGroups/hosts
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `sku.capacity` | `Microsoft.Compute/hostGroups/hosts/sku.capacity` |
 | `sku` | `Microsoft.Compute/hostGroups/hosts/sku` |
 | `properties.timeCreated` | `Microsoft.Compute/hostGroups/hosts/timeCreated` |
-

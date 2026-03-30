@@ -1,4 +1,4 @@
-# Microsoft.Authorization/policyDefinitions
+﻿# Microsoft.Authorization/policyDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.externalEvaluationEnforcementSettings.endpointSettings.kind` | `Microsoft.Authorization/policydefinitions/externalEvaluationEnforcementSettings.endpointSettings.kind` |
 | `properties.externalEvaluationEnforcementSettings.roleDefinitionIds` | `Microsoft.Authorization/policydefinitions/externalEvaluationEnforcementSettings.roleDefinitionIds` |
 | `properties.externalEvaluationEnforcementSettings.roleDefinitionIds[*]` | `Microsoft.Authorization/policydefinitions/externalEvaluationEnforcementSettings.roleDefinitionIds[*]` |
-

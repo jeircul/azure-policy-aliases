@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs/ipConfigurations
+﻿# Microsoft.Network/virtualHubs/ipConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -575,4 +575,3 @@
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].numberOfIpAddresses` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].numberOfIpAddresses` |
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes` |
 | `properties.subnet.properties.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` | `Microsoft.Network/virtualHubs/ipConfigurations/subnet.ipamPoolPrefixAllocations[*].allocatedAddressPrefixes[*]` |
-

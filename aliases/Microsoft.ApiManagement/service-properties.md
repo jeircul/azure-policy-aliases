@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/properties
+﻿# Microsoft.ApiManagement/service/properties
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.tags` | `Microsoft.ApiManagement/service/properties/tags` |
 | `properties.secret` | `Microsoft.ApiManagement/service/properties/secret` |
 | `properties.value` | `Microsoft.ApiManagement/service/properties/value` |
-

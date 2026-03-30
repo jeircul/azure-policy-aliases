@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances/databases
+﻿# Microsoft.Sql/managedInstances/databases
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.extendedAccessibilityInfo.inaccessibilityReasonDescription` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonDescription` |
 | `properties.extendedAccessibilityInfo.inaccessibilityReasonKind` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonKind` |
 | `properties.extendedAccessibilityInfo.inaccessibilityReasonTdeKeyUri` | `Microsoft.Sql/managedInstances/databases/extendedAccessibilityInfo.inaccessibilityReasonTdeKeyUri` |
-

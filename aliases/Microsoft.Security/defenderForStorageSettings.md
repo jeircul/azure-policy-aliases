@@ -1,4 +1,4 @@
-# Microsoft.Security/defenderForStorageSettings
+﻿# Microsoft.Security/defenderForStorageSettings
 
 | Default Path | Alias |
 |---|---|
@@ -17,4 +17,3 @@
 | `properties.sensitiveDataDiscovery.operationStatus.message` | `Microsoft.Security/defenderForStorageSettings/sensitiveDataDiscovery.operationStatus.message` |
 | `properties.overrideSubscriptionLevelSettings` | `Microsoft.Security/defenderForStorageSettings/overrideSubscriptionLevelSettings` |
 | `properties.malwareScanning.scanResultsEventGridTopicResourceId` | `Microsoft.Security/defenderForStorageSettings/malwareScanning.scanResultsEventGridTopicResourceId` |
-

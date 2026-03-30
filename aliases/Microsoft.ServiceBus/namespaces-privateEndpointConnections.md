@@ -1,4 +1,4 @@
-# Microsoft.ServiceBus/namespaces/privateEndpointConnections
+﻿# Microsoft.ServiceBus/namespaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.provisioningState` | `Microsoft.ServiceBus/namespaces/privateEndpointConnections/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes
+﻿# Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.size` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/size` |
 | `properties.parentPath` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/parentPath` |
 | `properties.provisioningState` | `Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes/provisioningState` |
-

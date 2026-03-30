@@ -1,4 +1,4 @@
-# Microsoft.Databricks/workspaces/virtualNetworkPeerings
+﻿# Microsoft.Databricks/workspaces/virtualNetworkPeerings
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.remoteAddressSpace.addressPrefixes[*]` | `Microsoft.Databricks/workspaces/virtualNetworkPeerings/remoteAddressSpace.addressPrefixes[*]` |
 | `properties.peeringState` | `Microsoft.Databricks/workspaces/virtualNetworkPeerings/peeringState` |
 | `properties.provisioningState` | `Microsoft.Databricks/workspaces/virtualNetworkPeerings/provisioningState` |
-

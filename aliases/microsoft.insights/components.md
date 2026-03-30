@@ -1,4 +1,4 @@
-# microsoft.insights/components
+﻿# microsoft.insights/components
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.Name` | `Microsoft.Insights/components/Name` |
 | `properties.DisableLocalAuth` | `Microsoft.Insights/components/DisableLocalAuth` |
 | `properties.ForceCustomerStorageForProfiler` | `Microsoft.Insights/components/ForceCustomerStorageForProfiler` |
-

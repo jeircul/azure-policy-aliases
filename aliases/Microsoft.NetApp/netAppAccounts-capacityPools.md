@@ -1,4 +1,4 @@
-# Microsoft.NetApp/netAppAccounts/capacityPools
+﻿# Microsoft.NetApp/netAppAccounts/capacityPools
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.qosType` | `Microsoft.NetApp/netAppAccounts/capacityPools/qosType` |
 | `properties.coolAccess` | `Microsoft.NetApp/netAppAccounts/capacityPools/coolAccess` |
 | `properties.encryptionType` | `Microsoft.NetApp/netAppAccounts/capacityPools/encryptionType` |
-

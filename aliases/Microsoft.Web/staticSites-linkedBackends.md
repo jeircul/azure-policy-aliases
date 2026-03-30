@@ -1,4 +1,4 @@
-# Microsoft.Web/staticSites/linkedBackends
+﻿# Microsoft.Web/staticSites/linkedBackends
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.region` | `Microsoft.Web/staticSites/linkedBackends/region` |
 | `properties.createdOn` | `Microsoft.Web/staticSites/linkedBackends/createdOn` |
 | `properties.provisioningState` | `Microsoft.Web/staticSites/linkedBackends/provisioningState` |
-

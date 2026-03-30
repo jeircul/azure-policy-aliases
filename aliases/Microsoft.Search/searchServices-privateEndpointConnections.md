@@ -1,4 +1,4 @@
-# Microsoft.Search/searchServices/privateEndpointConnections
+﻿# Microsoft.Search/searchServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Search/searchServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.groupId` | `Microsoft.Search/searchServices/privateEndpointConnections/groupId` |
 | `properties.provisioningState` | `Microsoft.Search/searchServices/privateEndpointConnections/provisioningState` |
-

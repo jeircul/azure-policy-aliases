@@ -1,4 +1,4 @@
-# Microsoft.FluidRelay/fluidRelayServers
+﻿# Microsoft.FluidRelay/fluidRelayServers
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` | `Microsoft.FluidRelay/fluidRelayServers/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.identityType` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` | `Microsoft.FluidRelay/fluidRelayServers/encryption.customerManagedKeyEncryption.keyEncryptionKeyIdentity.userAssignedIdentityResourceId` |
 | `properties.encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` | `Microsoft.FluidRelay/fluidRelayServers/encryption.customerManagedKeyEncryption.keyEncryptionKeyUrl` |
-

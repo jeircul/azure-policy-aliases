@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces
+﻿# Microsoft.Synapse/workspaces
 
 | Default Path | Alias |
 |---|---|
@@ -66,4 +66,3 @@
 | `properties.settings` | `Microsoft.Synapse/workspaces/settings` |
 | `properties.azureADOnlyAuthentication` | `Microsoft.Synapse/workspaces/azureADOnlyAuthentication` |
 | `properties.trustedServiceBypassEnabled` | `Microsoft.Synapse/workspaces/trustedServiceBypassEnabled` |
-

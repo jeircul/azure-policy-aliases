@@ -1,4 +1,4 @@
-# Microsoft.Blueprint/blueprintAssignments
+﻿# Microsoft.Blueprint/blueprintAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -24,4 +24,3 @@
 | `properties.locks.excludedPrincipals` | `Microsoft.Blueprint/blueprintAssignments/locks.excludedPrincipals` |
 | `properties.locks.excludedActions[*]` | `Microsoft.Blueprint/blueprintAssignments/locks.excludedActions[*]` |
 | `properties.locks.excludedActions` | `Microsoft.Blueprint/blueprintAssignments/locks.excludedActions` |
-

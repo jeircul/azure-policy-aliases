@@ -1,4 +1,4 @@
-# Microsoft.NetworkCloud/bareMetalMachines
+﻿# Microsoft.NetworkCloud/bareMetalMachines
 
 | Default Path | Alias |
 |---|---|
@@ -61,4 +61,3 @@
 | `properties.runtimeProtectionStatus.scanCompletedTime` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.scanCompletedTime` |
 | `properties.runtimeProtectionStatus.scanScheduledTime` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.scanScheduledTime` |
 | `properties.runtimeProtectionStatus.scanStartedTime` | `Microsoft.NetworkCloud/bareMetalMachines/runtimeProtectionStatus.scanStartedTime` |
-

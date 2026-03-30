@@ -1,4 +1,4 @@
-# Microsoft.Network/p2sVpnGateways
+﻿# Microsoft.Network/p2sVpnGateways
 
 | Default Path | Alias |
 |---|---|
@@ -116,4 +116,3 @@
 | `properties.p2SConnectionConfigurations[*].properties.previousConfigurationPolicyGroupAssociations[*].id` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].previousConfigurationPolicyGroupAssociations[*].id` |
 | `properties.p2SConnectionConfigurations[*].properties.vpnClientAddressPool.ipamPoolPrefixAllocations` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].vpnClientAddressPool.ipamPoolPrefixAllocations` |
 | `properties.p2SConnectionConfigurations[*].properties.vpnClientAddressPool.ipamPoolPrefixAllocations[*]` | `Microsoft.Network/p2svpnGateways/p2SConnectionConfigurations[*].vpnClientAddressPool.ipamPoolPrefixAllocations[*]` |
-

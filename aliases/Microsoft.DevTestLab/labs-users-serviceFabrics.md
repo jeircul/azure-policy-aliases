@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/users/serviceFabrics
+﻿# Microsoft.DevTestLab/labs/users/serviceFabrics
 
 | Default Path | Alias |
 |---|---|
@@ -69,4 +69,3 @@
 | `properties.applicableSchedule.properties.labVmsStartup.properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/users/serviceFabrics/applicableSchedule.labVmsStartup.uniqueIdentifier` |
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/users/serviceFabrics/provisioningState` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/users/serviceFabrics/uniqueIdentifier` |
-

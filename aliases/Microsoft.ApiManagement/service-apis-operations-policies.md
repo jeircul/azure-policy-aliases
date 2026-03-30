@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/apis/operations/policies
+﻿# Microsoft.ApiManagement/service/apis/operations/policies
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.value` | `Microsoft.ApiManagement/service/apis/operations/policies/policy.value` |
 | `properties.format` | `Microsoft.ApiManagement/service/apis/operations/policies/policy.format` |
 | `properties.value` | `Microsoft.ApiManagement/service/apis/operations/policies/value` |
-

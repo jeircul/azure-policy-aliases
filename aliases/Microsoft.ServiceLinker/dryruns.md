@@ -1,4 +1,4 @@
-# Microsoft.ServiceLinker/dryruns
+﻿# Microsoft.ServiceLinker/dryruns
 
 | Default Path | Alias |
 |---|---|
@@ -105,4 +105,3 @@
 | `properties.operationPreviews[*].action` | `Microsoft.ServiceLinker/dryruns/operationPreviews[*].action` |
 | `properties.operationPreviews[*].scope` | `Microsoft.ServiceLinker/dryruns/operationPreviews[*].scope` |
 | `properties.provisioningState` | `Microsoft.ServiceLinker/dryruns/provisioningState` |
-

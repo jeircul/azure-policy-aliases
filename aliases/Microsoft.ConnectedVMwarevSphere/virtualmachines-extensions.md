@@ -1,4 +1,4 @@
-# Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions
+﻿# Microsoft.ConnectedVMwarevSphere/virtualmachines/extensions
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.instanceView.status.displayStatus` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status.displayStatus` |
 | `properties.instanceView.status.message` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status.message` |
 | `properties.instanceView.status.time` | `Microsoft.ConnectedVMwarevSphere/virtualMachines/extensions/instanceView.status.time` |
-

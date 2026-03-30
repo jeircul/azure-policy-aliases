@@ -1,4 +1,4 @@
-# Microsoft.AVS/privateClouds/workloadNetworks/segments
+﻿# Microsoft.AVS/privateClouds/workloadNetworks/segments
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.status` | `Microsoft.AVS/privateClouds/workloadNetworks/segments/status` |
 | `properties.provisioningState` | `Microsoft.AVS/privateClouds/workloadNetworks/segments/provisioningState` |
 | `properties.revision` | `Microsoft.AVS/privateClouds/workloadNetworks/segments/revision` |
-

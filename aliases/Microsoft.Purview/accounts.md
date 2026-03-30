@@ -1,4 +1,4 @@
-# Microsoft.Purview/accounts
+﻿# Microsoft.Purview/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -60,4 +60,3 @@
 | `properties.ingestionStorage.id` | `Microsoft.Purview/accounts/ingestionStorage.id` |
 | `properties.ingestionStorage.primaryEndpoint` | `Microsoft.Purview/accounts/ingestionStorage.primaryEndpoint` |
 | `properties.ingestionStorage.publicNetworkAccess` | `Microsoft.Purview/accounts/ingestionStorage.publicNetworkAccess` |
-

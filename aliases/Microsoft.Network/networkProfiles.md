@@ -1,4 +1,4 @@
-# Microsoft.Network/networkProfiles
+﻿# Microsoft.Network/networkProfiles
 
 | Default Path | Alias |
 |---|---|
@@ -248,4 +248,3 @@
 | `properties.containerNetworkInterfaces[*].properties.containerNetworkInterfaceConfiguration.properties.containerNetworkInterfaces[*].name` | `Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.containerNetworkInterfaces[*].name` |
 | `properties.containerNetworkInterfaces[*].properties.containerNetworkInterfaceConfiguration.properties.containerNetworkInterfaces[*].type` | `Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.containerNetworkInterfaces[*].type` |
 | `properties.containerNetworkInterfaces[*].properties.containerNetworkInterfaceConfiguration.properties.containerNetworkInterfaces[*].etag` | `Microsoft.Network/networkProfiles/containerNetworkInterfaces[*].containerNetworkInterfaceConfiguration.containerNetworkInterfaces[*].etag` |
-

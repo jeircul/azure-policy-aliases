@@ -1,4 +1,4 @@
-# Microsoft.Automanage/configurationProfileAssignments
+﻿# Microsoft.Automanage/configurationProfileAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.status` | `Microsoft.Automanage/configurationProfileAssignments/status` |
 | `properties.profileOverrides` | `Microsoft.Automanage/configurationProfileAssignments/profileOverrides` |
 | `managedBy` | `Microsoft.Automanage/configurationProfileAssignments/managedBy` |
-

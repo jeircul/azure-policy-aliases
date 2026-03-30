@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys
+﻿# Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.resource.keyWrapMetadata.type` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.type` |
 | `properties.resource.keyWrapMetadata.value` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.value` |
 | `properties.resource.keyWrapMetadata.algorithm` | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases/clientEncryptionKeys/resource.keyWrapMetadata.algorithm` |
-

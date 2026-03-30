@@ -1,4 +1,4 @@
-# Microsoft.App/containerApps
+﻿# Microsoft.App/containerApps
 
 | Default Path | Alias |
 |---|---|
@@ -234,4 +234,3 @@
 | `properties.configuration.revisionTransitionThreshold` | `Microsoft.App/containerApps/configuration.revisionTransitionThreshold` |
 | `properties.template.initContainers[*].resources.gpu` | `Microsoft.App/containerApps/template.initContainers[*].resources.gpu` |
 | `properties.template.containers[*].resources.gpu` | `Microsoft.App/containerApps/template.containers[*].resources.gpu` |
-

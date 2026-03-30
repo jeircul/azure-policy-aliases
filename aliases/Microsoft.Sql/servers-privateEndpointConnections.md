@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/privateEndpointConnections
+﻿# Microsoft.Sql/servers/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.provisioningState` | `Microsoft.Sql/servers/privateEndpointConnections/provisioningState` |
 | `properties.groupIds` | `Microsoft.Sql/servers/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Sql/servers/privateEndpointConnections/groupIds[*]` |
-

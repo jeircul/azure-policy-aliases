@@ -1,4 +1,4 @@
-# Microsoft.Network/dnszones
+﻿# Microsoft.Network/dnszones
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.signingKeys[*].protocol` | `Microsoft.Network/dnszones/signingKeys[*].protocol` |
 | `properties.signingKeys[*].publicKey` | `Microsoft.Network/dnszones/signingKeys[*].publicKey` |
 | `properties.signingKeys[*].securityAlgorithmType` | `Microsoft.Network/dnszones/signingKeys[*].securityAlgorithmType` |
-

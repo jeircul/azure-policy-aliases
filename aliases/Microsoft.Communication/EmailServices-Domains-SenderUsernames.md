@@ -1,4 +1,4 @@
-# Microsoft.Communication/EmailServices/Domains/SenderUsernames
+﻿# Microsoft.Communication/EmailServices/Domains/SenderUsernames
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.username` | `Microsoft.Communication/emailServices/domains/senderUsernames/username` |
 | `properties.displayName` | `Microsoft.Communication/emailServices/domains/senderUsernames/displayName` |
 | `properties.provisioningState` | `Microsoft.Communication/emailServices/domains/senderUsernames/provisioningState` |
-

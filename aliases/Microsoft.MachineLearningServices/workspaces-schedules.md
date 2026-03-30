@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/schedules
+﻿# Microsoft.MachineLearningServices/workspaces/schedules
 
 | Default Path | Alias |
 |---|---|
@@ -684,4 +684,3 @@
 | `properties.action.jobDefinition.taskDetails.testData.pathOnCompute` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.AutoML.taskDetails.testData.pathOnCompute` |
 | `properties.action.jobDefinition.taskDetails.modelSettings.checkpointModel.pathOnCompute` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.AutoML.taskDetails.modelSettings.checkpointModel.pathOnCompute` |
 | `properties.action.jobDefinition.taskDetails.trainingData.pathOnCompute` | `Microsoft.MachineLearningServices/workspaces/schedules/action.CreateJob.jobDefinition.AutoML.taskDetails.trainingData.pathOnCompute` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/networkExperimentProfiles/experiments
+﻿# Microsoft.Network/networkExperimentProfiles/experiments
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.resourceState` | `Microsoft.Network/networkExperimentProfiles/experiments/resourceState` |
 | `properties.status` | `Microsoft.Network/networkExperimentProfiles/experiments/status` |
 | `properties.scriptFileUri` | `Microsoft.Network/networkExperimentProfiles/experiments/scriptFileUri` |
-

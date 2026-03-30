@@ -1,4 +1,4 @@
-# Microsoft.App/containerapps/sourcecontrols
+﻿# Microsoft.App/containerapps/sourcecontrols
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.githubActionConfiguration.buildEnvironmentVariables[*]` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables[*]` |
 | `properties.githubActionConfiguration.buildEnvironmentVariables[*].name` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables[*].name` |
 | `properties.githubActionConfiguration.buildEnvironmentVariables[*].value` | `Microsoft.App/containerApps/sourcecontrols/githubActionConfiguration.buildEnvironmentVariables[*].value` |
-

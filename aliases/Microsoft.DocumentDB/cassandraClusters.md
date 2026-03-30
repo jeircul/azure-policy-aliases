@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/cassandraClusters
+﻿# Microsoft.DocumentDB/cassandraClusters
 
 | Default Path | Alias |
 |---|---|
@@ -49,4 +49,3 @@
 | `properties.scheduledEventStrategy` | `Microsoft.DocumentDB/cassandraClusters/scheduledEventStrategy` |
 | `properties.azureConnectionMethod` | `Microsoft.DocumentDB/cassandraClusters/azureConnectionMethod` |
 | `properties.privateLinkResourceId` | `Microsoft.DocumentDB/cassandraClusters/privateLinkResourceId` |
-

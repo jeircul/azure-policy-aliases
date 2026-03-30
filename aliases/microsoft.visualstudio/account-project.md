@@ -1,4 +1,4 @@
-# microsoft.visualstudio/account/project
+﻿# microsoft.visualstudio/account/project
 
 | Default Path | Alias |
 |---|---|
@@ -31,4 +31,3 @@
 | `properties.pipelineBootstrapConfigurations[*].repository` | `Microsoft.VisualStudio/account/project/pipelineBootstrapConfigurations[*].repository` |
 | `properties.pipelineBootstrapConfigurations[*]` | `Microsoft.VisualStudio/account/project/pipelineBootstrapConfigurations[*]` |
 | `properties.pipelineBootstrapConfigurations` | `Microsoft.VisualStudio/account/project/pipelineBootstrapConfigurations` |
-

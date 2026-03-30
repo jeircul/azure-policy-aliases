@@ -1,4 +1,4 @@
-# Microsoft.Kusto/clusters/databases/dataconnections
+﻿# Microsoft.Kusto/clusters/databases/dataconnections
 
 | Default Path | Alias |
 |---|---|
@@ -37,4 +37,3 @@
 | `properties.databaseRouting` | `Microsoft.Kusto/clusters/databases/dataConnections/EventGrid.databaseRouting` |
 | `properties.databaseRouting` | `Microsoft.Kusto/clusters/databases/dataConnections/IotHub.databaseRouting` |
 | `properties.databaseRouting` | `Microsoft.Kusto/clusters/databases/dataConnections/EventHub.databaseRouting` |
-

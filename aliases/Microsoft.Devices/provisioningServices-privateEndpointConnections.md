@@ -1,4 +1,4 @@
-# Microsoft.Devices/provisioningServices/privateEndpointConnections
+﻿# Microsoft.Devices/provisioningServices/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.privateLinkServiceConnectionState.status` | `Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState.status` |
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Devices/provisioningServices/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
-

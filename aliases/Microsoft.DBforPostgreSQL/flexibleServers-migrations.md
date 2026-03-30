@@ -1,4 +1,4 @@
-# Microsoft.DBforPostgreSQL/flexibleServers/migrations
+﻿# Microsoft.DBforPostgreSQL/flexibleServers/migrations
 
 | Default Path | Alias |
 |---|---|
@@ -89,4 +89,3 @@
 | `properties.sslMode` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/sslMode` |
 | `properties.migrationInstanceResourceId` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrationInstanceResourceId` |
 | `properties.migrateRoles` | `Microsoft.DBforPostgreSQL/flexibleServers/migrations/migrateRoles` |
-

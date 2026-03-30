@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRouteCrossConnections
+﻿# Microsoft.Network/expressRouteCrossConnections
 
 | Default Path | Alias |
 |---|---|
@@ -154,4 +154,3 @@
 | `properties.peerings[*].properties.ipv6PeeringConfig.routeFilter.properties.peerings[*].properties.peeredConnections[*].etag` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].ipv6PeeringConfig.routeFilter.peerings[*].peeredConnections[*].etag` |
 | `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo` |
 | `properties.peerings[*].properties.microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` | `Microsoft.Network/expressRouteCrossConnections/peerings[*].microsoftPeeringConfig.advertisedPublicPrefixInfo[*]` |
-

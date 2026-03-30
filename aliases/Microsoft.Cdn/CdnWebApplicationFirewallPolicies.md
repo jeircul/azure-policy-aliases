@@ -1,4 +1,4 @@
-# Microsoft.Cdn/CdnWebApplicationFirewallPolicies
+﻿# Microsoft.Cdn/CdnWebApplicationFirewallPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -73,4 +73,3 @@
 | `properties.endpointLinks[*]` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/endpointLinks[*]` |
 | `properties.endpointLinks` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/endpointLinks` |
 | `properties.extendedProperties` | `Microsoft.Cdn/CdnWebApplicationFirewallPolicies/extendedProperties` |
-

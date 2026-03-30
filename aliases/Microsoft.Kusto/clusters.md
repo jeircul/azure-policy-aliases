@@ -1,4 +1,4 @@
-# Microsoft.Kusto/clusters
+﻿# Microsoft.Kusto/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -68,4 +68,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.Kusto/clusters/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.Kusto/clusters/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.Kusto/clusters/privateEndpointConnections[*].systemData.lastModifiedAt` |
-

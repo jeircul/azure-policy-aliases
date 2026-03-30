@@ -1,4 +1,4 @@
-# Microsoft.Network/networkInterfaces
+﻿# Microsoft.Network/networkInterfaces
 
 | Default Path | Alias |
 |---|---|
@@ -610,4 +610,3 @@
 | `properties.defaultOutboundConnectivityEnabled` | `Microsoft.Network/networkInterfaces/defaultOutboundConnectivityEnabled` |
 | `properties.privateLinkService.properties.accessMode` | `Microsoft.Network/networkInterfaces/privateLinkService.accessMode` |
 | `properties.privateEndpoint.properties.ipVersionType` | `Microsoft.Network/networkInterfaces/privateEndpoint.ipVersionType` |
-

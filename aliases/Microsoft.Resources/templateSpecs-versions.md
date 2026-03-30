@@ -1,4 +1,4 @@
-# Microsoft.Resources/templateSpecs/versions
+﻿# Microsoft.Resources/templateSpecs/versions
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.linkedTemplates` | `Microsoft.Resources/templateSpecs/versions/linkedTemplates` |
 | `properties.linkedTemplates[*]` | `Microsoft.Resources/templateSpecs/versions/linkedTemplates[*]` |
 | `properties.linkedTemplates[*].path` | `Microsoft.Resources/templateSpecs/versions/linkedTemplates[*].path` |
-

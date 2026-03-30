@@ -1,4 +1,4 @@
-# Microsoft.Communication/EmailServices/Domains
+﻿# Microsoft.Communication/EmailServices/Domains
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.verificationRecords.DMARC.ttl` | `Microsoft.Communication/emailServices/domains/verificationRecords.DMARC.ttl` |
 | `properties.validSenderUsernames` | `Microsoft.Communication/emailServices/domains/validSenderUsernames` |
 | `properties.userEngagementTracking` | `Microsoft.Communication/emailServices/domains/userEngagementTracking` |
-

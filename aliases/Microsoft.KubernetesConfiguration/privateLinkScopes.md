@@ -1,4 +1,4 @@
-# Microsoft.KubernetesConfiguration/privateLinkScopes
+﻿# Microsoft.KubernetesConfiguration/privateLinkScopes
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.privateEndpointConnections[*].systemData.lastModifiedBy` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedBy` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedByType` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedByType` |
 | `properties.privateEndpointConnections[*].systemData.lastModifiedAt` | `Microsoft.KubernetesConfiguration/privateLinkScopes/privateEndpointConnections[*].systemData.lastModifiedAt` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/bastionHosts
+﻿# Microsoft.Network/bastionHosts
 
 | Default Path | Alias |
 |---|---|
@@ -35,4 +35,3 @@
 | `zones[*]` | `Microsoft.Network/bastionHosts/zones[*]` |
 | `properties.enableSessionRecording` | `Microsoft.Network/bastionHosts/enableSessionRecording` |
 | `properties.enablePrivateOnlyBastion` | `Microsoft.Network/bastionHosts/enablePrivateOnlyBastion` |
-

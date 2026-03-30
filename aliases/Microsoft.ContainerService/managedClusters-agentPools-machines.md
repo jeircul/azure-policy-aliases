@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/managedClusters/agentPools/machines
+﻿# Microsoft.ContainerService/managedClusters/agentPools/machines
 
 | Default Path | Alias |
 |---|---|
@@ -93,4 +93,3 @@
 | `properties.status.driftAction` | `Microsoft.ContainerService/managedClusters/agentPools/machines/status.driftAction` |
 | `properties.status.driftReason` | `Microsoft.ContainerService/managedClusters/agentPools/machines/status.driftReason` |
 | `properties.status.vmState` | `Microsoft.ContainerService/managedClusters/agentPools/machines/status.vmState` |
-

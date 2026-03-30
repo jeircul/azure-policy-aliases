@@ -1,4 +1,4 @@
-# Microsoft.Logic/integrationAccounts/agreements
+﻿# Microsoft.Logic/integrationAccounts/agreements
 
 | Default Path | Alias |
 |---|---|
@@ -672,4 +672,3 @@
 | `properties.content.Edifact.sendAgreement.protocolSettings.edifactDelimiterOverrides` | `Microsoft.Logic/integrationAccounts/agreements/content.Edifact.sendAgreement.protocolSettings.edifactDelimiterOverrides` |
 | `properties.content.aS2.sendAgreement.protocolSettings.securitySettings.sha2AlgorithmFormat` | `Microsoft.Logic/integrationAccounts/agreements/content.aS2.sendAgreement.protocolSettings.securitySettings.sha2AlgorithmFormat` |
 | `properties.content.aS2.sendAgreement.protocolSettings.validationSettings.signingAlgorithm` | `Microsoft.Logic/integrationAccounts/agreements/content.aS2.sendAgreement.protocolSettings.validationSettings.signingAlgorithm` |
-

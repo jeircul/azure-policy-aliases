@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/authorizationServers
+﻿# Microsoft.ApiManagement/service/authorizationServers
 
 | Default Path | Alias |
 |---|---|
@@ -32,4 +32,3 @@
 | `properties.tokenBodyParameters[*].value` | `Microsoft.ApiManagement/service/authorizationServers/tokenBodyParameters[*].value` |
 | `properties.useInTestConsole` | `Microsoft.ApiManagement/service/authorizationServers/useInTestConsole` |
 | `properties.useInApiDocumentation` | `Microsoft.ApiManagement/service/authorizationServers/useInApiDocumentation` |
-

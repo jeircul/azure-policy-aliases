@@ -1,4 +1,4 @@
-# Microsoft.Workloads/sapVirtualInstances/databaseInstances
+﻿# Microsoft.Workloads/sapVirtualInstances/databaseInstances
 
 | Default Path | Alias |
 |---|---|
@@ -26,4 +26,3 @@
 | `properties.errors.properties.details[*].message` | `Microsoft.Workloads/sapVirtualInstances/databaseInstances/errors.details[*].message` |
 | `properties.errors.properties.details[*].details` | `Microsoft.Workloads/sapVirtualInstances/databaseInstances/errors.details[*].details` |
 | `properties.errors.properties.details[*].details[*]` | `Microsoft.Workloads/sapVirtualInstances/databaseInstances/errors.details[*].details[*]` |
-

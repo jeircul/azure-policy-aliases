@@ -1,4 +1,4 @@
-# Microsoft.Web/serverFarms
+﻿# Microsoft.Web/serverFarms
 
 | Default Path | Alias |
 |---|---|
@@ -84,4 +84,3 @@
 | `properties.storageMounts[*].credentialsKeyVaultReference.secretUri` | `Microsoft.Web/serverfarms/storageMounts[*].credentialsKeyVaultReference.secretUri` |
 | `properties.storageMounts[*].credentialsKeyVaultReference.referenceStatus` | `Microsoft.Web/serverfarms/storageMounts[*].credentialsKeyVaultReference.referenceStatus` |
 | `properties.rdpEnabled` | `Microsoft.Web/serverfarms/rdpEnabled` |
-

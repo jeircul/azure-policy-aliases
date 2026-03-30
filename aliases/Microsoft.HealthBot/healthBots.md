@@ -1,4 +1,4 @@
-# Microsoft.HealthBot/healthBots
+﻿# Microsoft.HealthBot/healthBots
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.keyVaultProperties.keyVaultUri` | `Microsoft.HealthBot/healthBots/keyVaultProperties.keyVaultUri` |
 | `properties.keyVaultProperties.userIdentity` | `Microsoft.HealthBot/healthBots/keyVaultProperties.userIdentity` |
 | `properties.accessControlMethod` | `Microsoft.HealthBot/healthBots/accessControlMethod` |
-

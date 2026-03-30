@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/vaults/replicationFabrics
+﻿# Microsoft.RecoveryServices/vaults/replicationFabrics
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.customDetails.migrationSolutionId` | `Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails.VMwareV2.migrationSolutionId` |
 | `properties.customDetails` | `Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails.VMwareV2` |
 | `properties.customDetails` | `Microsoft.RecoveryServices/vaults/replicationFabrics/customDetails.InMageRcm` |
-

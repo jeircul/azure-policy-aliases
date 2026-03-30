@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/apis
+﻿# Microsoft.ApiManagement/service/workspaces/apis
 
 | Default Path | Alias |
 |---|---|
@@ -54,4 +54,3 @@
 | `properties.apiVersionSet.versionQueryName` | `Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versionQueryName` |
 | `properties.apiVersionSet.versionHeaderName` | `Microsoft.ApiManagement/service/workspaces/apis/apiVersionSet.versionHeaderName` |
 | `properties.provisioningState` | `Microsoft.ApiManagement/service/workspaces/apis/provisioningState` |
-

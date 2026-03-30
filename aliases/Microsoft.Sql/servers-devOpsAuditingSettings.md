@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/devOpsAuditingSettings
+﻿# Microsoft.Sql/servers/devOpsAuditingSettings
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.storageAccountAccessKey` | `Microsoft.Sql/servers/devOpsAuditingSettings/storageAccountAccessKey` |
 | `properties.storageAccountSubscriptionId` | `Microsoft.Sql/servers/devOpsAuditingSettings/storageAccountSubscriptionId` |
 | `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/devOpsAuditingSettings/isManagedIdentityInUse` |
-

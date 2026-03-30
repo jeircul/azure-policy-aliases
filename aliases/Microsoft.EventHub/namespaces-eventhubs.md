@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces/eventhubs
+﻿# Microsoft.EventHub/namespaces/eventhubs
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.captureDescription.destination.identity` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity` |
 | `properties.captureDescription.destination.identity.type` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity.type` |
 | `properties.captureDescription.destination.identity.userAssignedIdentity` | `Microsoft.EventHub/namespaces/eventhubs/captureDescription.destination.identity.userAssignedIdentity` |
-

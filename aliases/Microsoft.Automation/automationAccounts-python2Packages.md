@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/python2Packages
+﻿# Microsoft.Automation/automationAccounts/python2Packages
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.contentLink.version` | `Microsoft.Automation/automationAccounts/python2Packages/contentLink.version` |
 | `properties.contentLink` | `Microsoft.Automation/automationAccounts/python2Packages/contentLink` |
 | `properties.contentLink.contentHash.value` | `Microsoft.Automation/automationAccounts/python2Packages/contentLink.contentHash.value` |
-

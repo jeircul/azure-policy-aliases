@@ -1,4 +1,4 @@
-# Microsoft.Sql/managedInstances
+﻿# Microsoft.Sql/managedInstances
 
 | Default Path | Alias |
 |---|---|
@@ -71,4 +71,3 @@
 | `properties.totalMemoryMB` | `Microsoft.Sql/managedInstances/totalMemoryMB` |
 | `properties.memorySizeInGB` | `Microsoft.Sql/managedInstances/memorySizeInGB` |
 | `properties.requestedLogicalAvailabilityZone` | `Microsoft.Sql/managedInstances/requestedLogicalAvailabilityZone` |
-

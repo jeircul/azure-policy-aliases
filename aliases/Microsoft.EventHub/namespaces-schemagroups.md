@@ -1,4 +1,4 @@
-# Microsoft.EventHub/namespaces/schemagroups
+﻿# Microsoft.EventHub/namespaces/schemagroups
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.groupProperties` | `Microsoft.EventHub/namespaces/schemagroups/groupProperties` |
 | `properties.schemaCompatibility` | `Microsoft.EventHub/namespaces/schemagroups/schemaCompatibility` |
 | `properties.schemaType` | `Microsoft.EventHub/namespaces/schemagroups/schemaType` |
-

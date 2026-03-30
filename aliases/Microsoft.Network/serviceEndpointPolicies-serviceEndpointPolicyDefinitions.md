@@ -1,4 +1,4 @@
-# Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions
+﻿# Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.serviceResources[*]` | `Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources[*]` |
 | `properties.serviceResources` | `Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/serviceResources` |
 | `properties.provisioningState` | `Microsoft.Network/serviceEndpointPolicies/serviceEndpointPolicyDefinitions/provisioningState` |
-

@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/connections/deployments
+﻿# Microsoft.MachineLearningServices/workspaces/connections/deployments
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.type` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/type` |
 | `properties.model` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/managedOnlineEndpoint.model` |
 | `properties.endpointComputeType` | `Microsoft.MachineLearningServices/workspaces/connections/deployments/managedOnlineEndpoint.endpointComputeType` |
-

@@ -1,4 +1,4 @@
-# Microsoft.EdgeOrder/orderItems
+﻿# Microsoft.EdgeOrder/orderItems
 
 | Default Path | Alias |
 |---|---|
@@ -129,4 +129,3 @@
 | `properties.orderItemDetails.managementRpDetailsList[*].resourceProviderNamespace` | `Microsoft.EdgeOrder/orderItems/orderItemDetails.managementRpDetailsList[*].resourceProviderNamespace` |
 | `properties.addressDetails.forwardAddress.addressValidationStatus` | `Microsoft.EdgeOrder/orderItems/addressDetails.forwardAddress.addressValidationStatus` |
 | `properties.addressDetails.returnAddress.addressValidationStatus` | `Microsoft.EdgeOrder/orderItems/addressDetails.returnAddress.addressValidationStatus` |
-

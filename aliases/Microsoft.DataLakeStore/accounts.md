@@ -1,4 +1,4 @@
-# Microsoft.DataLakeStore/accounts
+﻿# Microsoft.DataLakeStore/accounts
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.trustedIdProviders` | `Microsoft.DataLakeStore/accounts/trustedIdProviders` |
 | `properties.trustedIdProviders[*].properties.idProvider` | `Microsoft.DataLakeStore/accounts/trustedIdProviders[*].idProvider` |
 | `properties.trustedIdProviderState` | `Microsoft.DataLakeStore/accounts/trustedIdProviderState` |
-

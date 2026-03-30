@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/tableServices/tables
+﻿# Microsoft.Storage/storageAccounts/tableServices/tables
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.signedIdentifiers[*].accessPolicy.startTime` | `Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy.startTime` |
 | `properties.signedIdentifiers[*].accessPolicy.expiryTime` | `Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy.expiryTime` |
 | `properties.signedIdentifiers[*].accessPolicy.permission` | `Microsoft.Storage/storageAccounts/tableServices/tables/signedIdentifiers[*].accessPolicy.permission` |
-

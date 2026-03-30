@@ -1,4 +1,4 @@
-# Microsoft.Compute/restorePointCollections/restorePoints
+﻿# Microsoft.Compute/restorePointCollections/restorePoints
 
 | Default Path | Alias |
 |---|---|
@@ -154,4 +154,3 @@
 | `properties.sourceMetadata.securityProfile.proxyAgentSettings.enabled` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings.enabled` |
 | `properties.sourceMetadata.securityProfile.proxyAgentSettings.mode` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings.mode` |
 | `properties.sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` | `Microsoft.Compute/restorePointCollections/restorePoints/sourceMetadata.securityProfile.proxyAgentSettings.keyIncarnationId` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DocumentDB/mongoClusters/users
+﻿# Microsoft.DocumentDB/mongoClusters/users
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.roles[*]` | `Microsoft.DocumentDB/mongoClusters/users/roles[*]` |
 | `properties.roles[*].db` | `Microsoft.DocumentDB/mongoClusters/users/roles[*].db` |
 | `properties.roles[*].role` | `Microsoft.DocumentDB/mongoClusters/users/roles[*].role` |
-

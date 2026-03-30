@@ -1,4 +1,4 @@
-# Microsoft.Batch/batchAccounts/pools
+﻿# Microsoft.Batch/batchAccounts/pools
 
 | Default Path | Alias |
 |---|---|
@@ -260,4 +260,3 @@
 | `properties.deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.secureBootEnabled` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.secureBootEnabled` |
 | `properties.deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.vTpmEnabled` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.securityProfile.uefiSettings.vTpmEnabled` |
 | `properties.deploymentConfiguration.virtualMachineConfiguration.osDisk.managedDisk.securityProfile` | `Microsoft.Batch/batchAccounts/pools/deploymentConfiguration.virtualMachineConfiguration.osDisk.managedDisk.securityProfile` |
-

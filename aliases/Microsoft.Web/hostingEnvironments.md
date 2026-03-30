@@ -1,4 +1,4 @@
-# Microsoft.Web/hostingEnvironments
+﻿# Microsoft.Web/hostingEnvironments
 
 | Default Path | Alias |
 |---|---|
@@ -123,4 +123,3 @@
 | `properties.networkingConfiguration.properties.remoteDebugEnabled` | `Microsoft.Web/hostingEnvironments/networkingConfiguration.remoteDebugEnabled` |
 | `properties.networkingConfiguration.properties.inboundIpAddressOverride` | `Microsoft.Web/hostingEnvironments/networkingConfiguration.inboundIpAddressOverride` |
 | `properties.upgradeAvailability` | `Microsoft.Web/hostingEnvironments/upgradeAvailability` |
-

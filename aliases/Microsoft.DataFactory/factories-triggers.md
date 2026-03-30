@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/triggers
+﻿# Microsoft.DataFactory/factories/triggers
 
 | Default Path | Alias |
 |---|---|
@@ -108,4 +108,3 @@
 | `properties.typeProperties.dependsOn[*].referenceTrigger` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger` |
 | `properties.typeProperties.dependsOn[*].referenceTrigger.type` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger.type` |
 | `properties.typeProperties.dependsOn[*].referenceTrigger.referenceName` | `Microsoft.DataFactory/factories/triggers/TumblingWindowTrigger.typeProperties.dependsOn[*].TriggerDependencyReference.referenceTrigger.referenceName` |
-

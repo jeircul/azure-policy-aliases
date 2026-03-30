@@ -1,4 +1,4 @@
-# Microsoft.Workloads/phpWorkloads
+﻿# Microsoft.Workloads/phpWorkloads
 
 | Default Path | Alias |
 |---|---|
@@ -113,4 +113,3 @@
 | `sku.size` | `Microsoft.Workloads/phpWorkloads/sku.size` |
 | `sku.family` | `Microsoft.Workloads/phpWorkloads/sku.family` |
 | `sku.capacity` | `Microsoft.Workloads/phpWorkloads/sku.capacity` |
-

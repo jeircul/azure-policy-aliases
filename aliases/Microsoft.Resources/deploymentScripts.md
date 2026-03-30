@@ -1,4 +1,4 @@
-# Microsoft.Resources/deploymentScripts
+﻿# Microsoft.Resources/deploymentScripts
 
 | Default Path | Alias |
 |---|---|
@@ -48,4 +48,3 @@
 | `properties.timeout` | `Microsoft.Resources/deploymentScripts/AzurePowerShell.timeout` |
 | `properties.azPowerShellVersion` | `Microsoft.Resources/deploymentScripts/AzurePowerShell.azPowerShellVersion` |
 | `properties.azCliVersion` | `Microsoft.Resources/deploymentScripts/AzureCLI.azCliVersion` |
-

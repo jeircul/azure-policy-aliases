@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/customImages
+﻿# Microsoft.DevTestLab/labs/customImages
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.customImagePlan.offer` | `Microsoft.DevTestLab/labs/customImages/customImagePlan.offer` |
 | `properties.customImagePlan` | `Microsoft.DevTestLab/labs/customImages/customImagePlan` |
 | `properties.isPlanAuthorized` | `Microsoft.DevTestLab/labs/customImages/isPlanAuthorized` |
-

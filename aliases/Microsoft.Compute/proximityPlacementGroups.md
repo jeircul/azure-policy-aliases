@@ -1,4 +1,4 @@
-# Microsoft.Compute/proximityPlacementGroups
+﻿# Microsoft.Compute/proximityPlacementGroups
 
 | Default Path | Alias |
 |---|---|
@@ -41,4 +41,3 @@
 | `properties.intent.vmSizes[*]` | `Microsoft.Compute/proximityPlacementGroups/intent.vmSizes[*]` |
 | `zones` | `Microsoft.Compute/proximityPlacementGroups/zones` |
 | `zones[*]` | `Microsoft.Compute/proximityPlacementGroups/zones[*]` |
-

@@ -1,4 +1,4 @@
-# Microsoft.DataProtection/backupVaults/backupResourceGuardProxies
+﻿# Microsoft.DataProtection/backupVaults/backupResourceGuardProxies
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.resourceGuardOperationDetails[*].defaultResourceRequest` | `Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/resourceGuardOperationDetails[*].defaultResourceRequest` |
 | `properties.lastUpdatedTime` | `Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/lastUpdatedTime` |
 | `properties.description` | `Microsoft.DataProtection/backupVaults/backupResourceGuardProxies/description` |
-

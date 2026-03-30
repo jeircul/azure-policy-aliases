@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/HyperVSites/hosts
+﻿# Microsoft.OffAzure/HyperVSites/hosts
 
 | Default Path | Alias |
 |---|---|
@@ -18,4 +18,3 @@
 | `properties.errors[*].summaryMessage` | `Microsoft.OffAzure/HyperVSites/hosts/errors[*].summaryMessage` |
 | `properties.errors[*].source` | `Microsoft.OffAzure/HyperVSites/hosts/errors[*].source` |
 | `properties.errors[*].messageParameters` | `Microsoft.OffAzure/HyperVSites/hosts/errors[*].messageParameters` |
-

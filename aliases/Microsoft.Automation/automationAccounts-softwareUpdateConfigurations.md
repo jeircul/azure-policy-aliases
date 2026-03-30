@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/softwareUpdateConfigurations
+﻿# Microsoft.Automation/automationAccounts/softwareUpdateConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -75,4 +75,3 @@
 | `properties.tasks.postTask.source` | `Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/tasks.postTask.source` |
 | `properties.tasks.postTask` | `Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/tasks.postTask` |
 | `properties.tasks` | `Microsoft.Automation/automationAccounts/softwareUpdateConfigurations/tasks` |
-

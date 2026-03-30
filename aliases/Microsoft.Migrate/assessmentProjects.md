@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentProjects
+﻿# Microsoft.Migrate/assessmentProjects
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.description` | `Microsoft.Migrate/assessmentProjects/privateEndpointConnections[*].privateLinkServiceConnectionState.description` |
 | `properties.privateEndpointConnections[*].properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Migrate/assessmentProjects/privateEndpointConnections[*].privateLinkServiceConnectionState.actionsRequired` |
 | `properties.customerStorageAccountArmId` | `Microsoft.Migrate/assessmentProjects/customerStorageAccountArmId` |
-

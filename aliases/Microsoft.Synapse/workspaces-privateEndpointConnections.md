@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/privateEndpointConnections
+﻿# Microsoft.Synapse/workspaces/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.description` | `Microsoft.Synapse/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.description` |
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Synapse/workspaces/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.provisioningState` | `Microsoft.Synapse/workspaces/privateEndpointConnections/provisioningState` |
-

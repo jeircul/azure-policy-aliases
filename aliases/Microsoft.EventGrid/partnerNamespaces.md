@@ -1,4 +1,4 @@
-# Microsoft.EventGrid/partnerNamespaces
+﻿# Microsoft.EventGrid/partnerNamespaces
 
 | Default Path | Alias |
 |---|---|
@@ -27,4 +27,3 @@
 | `properties.disableLocalAuth` | `Microsoft.EventGrid/partnerNamespaces/disableLocalAuth` |
 | `properties.partnerTopicRoutingMode` | `Microsoft.EventGrid/partnerNamespaces/partnerTopicRoutingMode` |
 | `properties.minimumTlsVersionAllowed` | `Microsoft.EventGrid/partnerNamespaces/minimumTlsVersionAllowed` |
-

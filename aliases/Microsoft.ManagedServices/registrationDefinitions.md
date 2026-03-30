@@ -1,4 +1,4 @@
-# Microsoft.ManagedServices/registrationDefinitions
+﻿# Microsoft.ManagedServices/registrationDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `properties.eligibleAuthorizations[*].justInTimeAccessPolicy.managedByTenantApprovers[*].principalIdDisplayName` | `Microsoft.ManagedServices/registrationDefinitions/eligibleAuthorizations[*].justInTimeAccessPolicy.managedByTenantApprovers[*].principalIdDisplayName` |
 | `properties.manageeTenantId` | `Microsoft.ManagedServices/registrationDefinitions/manageeTenantId` |
 | `properties.manageeTenantName` | `Microsoft.ManagedServices/registrationDefinitions/manageeTenantName` |
-

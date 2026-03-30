@@ -1,4 +1,4 @@
-# Microsoft.Network/vpnGateways
+﻿# Microsoft.Network/vpnGateways
 
 | Default Path | Alias |
 |---|---|
@@ -156,4 +156,3 @@
 | `properties.connections[*].properties.routingConfiguration.inboundRouteMap.id` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.inboundRouteMap.id` |
 | `properties.connections[*].properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.outboundRouteMap` |
 | `properties.connections[*].properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/vpnGateways/connections[*].routingConfiguration.outboundRouteMap.id` |
-

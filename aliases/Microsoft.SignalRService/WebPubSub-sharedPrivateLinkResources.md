@@ -1,4 +1,4 @@
-# Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources
+﻿# Microsoft.SignalRService/WebPubSub/sharedPrivateLinkResources
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.status` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/status` |
 | `properties.fqdns` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/fqdns` |
 | `properties.fqdns[*]` | `Microsoft.SignalRService/webPubSub/sharedPrivateLinkResources/fqdns[*]` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/pipelineRuns
+﻿# Microsoft.ContainerRegistry/registries/pipelineRuns
 
 | Default Path | Alias |
 |---|---|
@@ -38,4 +38,3 @@
 | `properties.forceUpdateTag` | `Microsoft.ContainerRegistry/registries/pipelineRuns/forceUpdateTag` |
 | `properties.response.source.storageAccessMode` | `Microsoft.ContainerRegistry/registries/pipelineRuns/response.source.storageAccessMode` |
 | `properties.response.target.storageAccessMode` | `Microsoft.ContainerRegistry/registries/pipelineRuns/response.target.storageAccessMode` |
-

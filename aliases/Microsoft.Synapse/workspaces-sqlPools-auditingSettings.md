@@ -1,4 +1,4 @@
-# Microsoft.Synapse/workspaces/sqlPools/auditingSettings
+﻿# Microsoft.Synapse/workspaces/sqlPools/auditingSettings
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.storageAccountSubscriptionId` | `Microsoft.Synapse/workspaces/sqlPools/auditingSettings/storageAccountSubscriptionId` |
 | `properties.isStorageSecondaryKeyInUse` | `Microsoft.Synapse/workspaces/sqlPools/auditingSettings/isStorageSecondaryKeyInUse` |
 | `properties.isAzureMonitorTargetEnabled` | `Microsoft.Synapse/workspaces/sqlPools/auditingSettings/isAzureMonitorTargetEnabled` |
-

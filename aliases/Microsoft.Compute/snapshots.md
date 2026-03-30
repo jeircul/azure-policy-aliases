@@ -1,4 +1,4 @@
-# Microsoft.Compute/snapshots
+﻿# Microsoft.Compute/snapshots
 
 | Default Path | Alias |
 |---|---|
@@ -91,4 +91,3 @@
 | `properties.creationData.securityMetadataUri` | `Microsoft.Compute/snapshots/creationData.securityMetadataUri` |
 | `properties.creationData.instantAccessDurationMinutes` | `Microsoft.Compute/snapshots/creationData.instantAccessDurationMinutes` |
 | `properties.snapshotAccessState` | `Microsoft.Compute/snapshots/snapshotAccessState` |
-

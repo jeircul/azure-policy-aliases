@@ -1,4 +1,4 @@
-# Microsoft.ContainerRegistry/registries/importPipelines
+﻿# Microsoft.ContainerRegistry/registries/importPipelines
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.options[*]` | `Microsoft.ContainerRegistry/registries/importPipelines/options[*]` |
 | `properties.provisioningState` | `Microsoft.ContainerRegistry/registries/importPipelines/provisioningState` |
 | `properties.source.storageAccessMode` | `Microsoft.ContainerRegistry/registries/importPipelines/source.storageAccessMode` |
-

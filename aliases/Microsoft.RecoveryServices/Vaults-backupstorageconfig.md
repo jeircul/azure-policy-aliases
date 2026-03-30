@@ -1,4 +1,4 @@
-# Microsoft.RecoveryServices/Vaults/backupstorageconfig
+﻿# Microsoft.RecoveryServices/Vaults/backupstorageconfig
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.crossRegionRestoreFlag` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/crossRegionRestoreFlag` |
 | `properties.dedupState` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/dedupState` |
 | `properties.xcoolState` | `Microsoft.RecoveryServices/vaults/backupstorageconfig/xcoolState` |
-

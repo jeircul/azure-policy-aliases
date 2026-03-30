@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/artifactSources
+﻿# Microsoft.DevTestLab/labs/artifactSources
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.armTemplateFolderPath` | `Microsoft.DevTestLab/labs/artifactSources/armTemplateFolderPath` |
 | `properties.createdDate` | `Microsoft.DevTestLab/labs/artifactSources/createdDate` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/artifactSources/uniqueIdentifier` |
-

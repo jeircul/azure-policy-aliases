@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces/dataSources
+﻿# Microsoft.OperationalInsights/workspaces/dataSources
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.instanceName` | `Microsoft.OperationalInsights/workspaces/dataSources/instanceName` |
 | `properties.intervalSeconds` | `Microsoft.OperationalInsights/workspaces/dataSources/intervalSeconds` |
 | `properties.counterName` | `Microsoft.OperationalInsights/workspaces/dataSources/counterName` |
-

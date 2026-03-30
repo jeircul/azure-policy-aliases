@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualHubs/bgpConnections
+﻿# Microsoft.Network/virtualHubs/bgpConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.connectionState` | `Microsoft.Network/virtualHubs/bgpConnections/connectionState` |
 | `properties.hubVirtualNetworkConnection` | `Microsoft.Network/virtualHubs/bgpConnections/hubVirtualNetworkConnection` |
 | `properties.hubVirtualNetworkConnection.id` | `Microsoft.Network/virtualHubs/bgpConnections/hubVirtualNetworkConnection.id` |
-

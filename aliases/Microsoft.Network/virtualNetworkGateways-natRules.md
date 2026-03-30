@@ -1,4 +1,4 @@
-# Microsoft.Network/virtualNetworkGateways/natRules
+﻿# Microsoft.Network/virtualNetworkGateways/natRules
 
 | Default Path | Alias |
 |---|---|
@@ -14,4 +14,3 @@
 | `properties.ipConfigurationId` | `Microsoft.Network/virtualNetworkGateways/natRules/ipConfigurationId` |
 | `properties.internalMappings[*].portRange` | `Microsoft.Network/virtualNetworkGateways/natRules/internalMappings[*].portRange` |
 | `properties.externalMappings[*].portRange` | `Microsoft.Network/virtualNetworkGateways/natRules/externalMappings[*].portRange` |
-

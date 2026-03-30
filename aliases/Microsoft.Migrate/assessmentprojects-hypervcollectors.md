@@ -1,4 +1,4 @@
-# Microsoft.Migrate/assessmentprojects/hypervcollectors
+﻿# Microsoft.Migrate/assessmentprojects/hypervcollectors
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.agentProperties.spnDetails.tenantId` | `Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails.tenantId` |
 | `properties.agentProperties.spnDetails` | `Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties.spnDetails` |
 | `properties.agentProperties` | `Microsoft.Migrate/assessmentprojects/hypervcollectors/agentProperties` |
-

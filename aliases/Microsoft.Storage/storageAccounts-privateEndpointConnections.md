@@ -1,4 +1,4 @@
-# Microsoft.Storage/storageAccounts/privateEndpointConnections
+﻿# Microsoft.Storage/storageAccounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.actionRequired` | `Microsoft.Storage/storageAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.Storage/storageAccounts/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.Storage/storageAccounts/privateEndpointConnections/provisioningState` |
-

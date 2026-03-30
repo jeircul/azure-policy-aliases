@@ -1,4 +1,4 @@
-# Microsoft.HybridCompute/machines
+﻿# Microsoft.HybridCompute/machines
 
 | Default Path | Alias |
 |---|---|
@@ -201,4 +201,3 @@
 | `properties.identityKeyStore` | `Microsoft.HybridCompute/machines/identityKeyStore` |
 | `properties.tpmEkCertificate` | `Microsoft.HybridCompute/machines/tpmEkCertificate` |
 | `properties.hardwareResourceId` | `Microsoft.HybridCompute/machines/hardwareResourceId` |
-

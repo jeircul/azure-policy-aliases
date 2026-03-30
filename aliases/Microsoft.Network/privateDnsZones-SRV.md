@@ -1,4 +1,4 @@
-# Microsoft.Network/privateDnsZones/SRV
+﻿# Microsoft.Network/privateDnsZones/SRV
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/SRV/txtRecords` |
 | `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/SRV/txtRecords[*].value` |
 | `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/SRV/txtRecords[*].value[*]` |
-

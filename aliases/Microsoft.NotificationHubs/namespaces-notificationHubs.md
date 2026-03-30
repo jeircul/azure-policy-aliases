@@ -1,4 +1,4 @@
-# Microsoft.NotificationHubs/namespaces/notificationHubs
+﻿# Microsoft.NotificationHubs/namespaces/notificationHubs
 
 | Default Path | Alias |
 |---|---|
@@ -64,4 +64,3 @@
 | `properties.fcmV1Credential.properties.clientEmail` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential.clientEmail` |
 | `properties.fcmV1Credential.properties.privateKey` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential.privateKey` |
 | `properties.fcmV1Credential.properties.projectId` | `Microsoft.NotificationHubs/namespaces/notificationHubs/fcmV1Credential.projectId` |
-

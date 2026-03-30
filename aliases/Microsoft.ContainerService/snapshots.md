@@ -1,4 +1,4 @@
-# Microsoft.ContainerService/snapshots
+﻿# Microsoft.ContainerService/snapshots
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.osSku` | `Microsoft.ContainerService/snapshots/osSku` |
 | `properties.vmSize` | `Microsoft.ContainerService/snapshots/vmSize` |
 | `properties.enableFIPS` | `Microsoft.ContainerService/snapshots/enableFIPS` |
-

@@ -1,4 +1,4 @@
-# Microsoft.CognitiveServices/accounts/capabilityhosts
+﻿# Microsoft.CognitiveServices/accounts/capabilityhosts
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.vectorStoreConnections` | `Microsoft.CognitiveServices/accounts/capabilityHosts/vectorStoreConnections` |
 | `properties.vectorStoreConnections[*]` | `Microsoft.CognitiveServices/accounts/capabilityHosts/vectorStoreConnections[*]` |
 | `properties.enablePublicHostingEnvironment` | `Microsoft.CognitiveServices/accounts/capabilityHosts/enablePublicHostingEnvironment` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Network/expressRouteGateways
+﻿# Microsoft.Network/expressRouteGateways
 
 | Default Path | Alias |
 |---|---|
@@ -48,4 +48,3 @@
 | `properties.expressRouteConnections[*].properties.routingConfiguration.outboundRouteMap` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.outboundRouteMap` |
 | `properties.expressRouteConnections[*].properties.routingConfiguration.outboundRouteMap.id` | `Microsoft.Network/expressRouteGateways/expressRouteConnections[*].routingConfiguration.outboundRouteMap.id` |
 | `properties.allowNonVirtualWanTraffic` | `Microsoft.Network/expressRouteGateways/allowNonVirtualWanTraffic` |
-

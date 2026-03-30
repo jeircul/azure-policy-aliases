@@ -1,4 +1,4 @@
-# Microsoft.Network/dnszones/MX
+﻿# Microsoft.Network/dnszones/MX
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnszones/MX/NAPTRRecords[*].replacement` |
 | `properties.trafficManagementProfile` | `Microsoft.Network/dnszones/MX/trafficManagementProfile` |
 | `properties.trafficManagementProfile.id` | `Microsoft.Network/dnszones/MX/trafficManagementProfile.id` |
-

@@ -1,4 +1,4 @@
-# Microsoft.Workloads/monitors
+﻿# Microsoft.Workloads/monitors
 
 | Default Path | Alias |
 |---|---|
@@ -45,4 +45,3 @@
 | `properties.monitorSubnet` | `Microsoft.Workloads/monitors/monitorSubnet` |
 | `properties.msiArmId` | `Microsoft.Workloads/monitors/msiArmId` |
 | `properties.storageAccountArmId` | `Microsoft.Workloads/monitors/storageAccountArmId` |
-

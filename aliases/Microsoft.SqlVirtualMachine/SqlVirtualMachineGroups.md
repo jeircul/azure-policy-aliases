@@ -1,4 +1,4 @@
-# Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups
+﻿# Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups
 
 | Default Path | Alias |
 |---|---|
@@ -19,4 +19,3 @@
 | `properties.wsfcDomainProfile` | `Microsoft.SqlVirtualMachine/SqlVirtualMachineGroups/wsfcDomainProfile` |
 | `properties.wsfcDomainProfile.clusterSubnetType` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/wsfcDomainProfile.clusterSubnetType` |
 | `properties.wsfcDomainProfile.isSqlServiceAccountGmsa` | `Microsoft.SqlVirtualMachine/sqlVirtualMachineGroups/wsfcDomainProfile.isSqlServiceAccountGmsa` |
-

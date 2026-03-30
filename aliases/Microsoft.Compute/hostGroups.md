@@ -1,4 +1,4 @@
-# Microsoft.Compute/hostGroups
+﻿# Microsoft.Compute/hostGroups
 
 | Default Path | Alias |
 |---|---|
@@ -11,4 +11,3 @@
 | `properties.supportAutomaticPlacement` | `Microsoft.Compute/hostGroups/supportAutomaticPlacement` |
 | `properties.additionalCapabilities` | `Microsoft.Compute/hostGroups/additionalCapabilities` |
 | `properties.additionalCapabilities.ultraSSDEnabled` | `Microsoft.Compute/hostGroups/additionalCapabilities.ultraSSDEnabled` |
-

@@ -1,4 +1,4 @@
-# Microsoft.ServiceBus/namespaces/queues
+﻿# Microsoft.ServiceBus/namespaces/queues
 
 | Default Path | Alias |
 |---|---|
@@ -33,4 +33,3 @@
 | `properties.forwardDeadLetteredMessagesTo` | `Microsoft.ServiceBus/namespaces/queues/forwardDeadLetteredMessagesTo` |
 | `properties.maxMessageSizeInKilobytes` | `Microsoft.ServiceBus/namespaces/queues/maxMessageSizeInKilobytes` |
 | `properties.userMetadata` | `Microsoft.ServiceBus/namespaces/queues/userMetadata` |
-

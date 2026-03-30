@@ -1,4 +1,4 @@
-# Microsoft.DevTestLab/labs/users/environments
+﻿# Microsoft.DevTestLab/labs/users/environments
 
 | Default Path | Alias |
 |---|---|
@@ -13,4 +13,3 @@
 | `properties.provisioningState` | `Microsoft.DevTestLab/labs/users/environments/provisioningState` |
 | `properties.uniqueIdentifier` | `Microsoft.DevTestLab/labs/users/environments/uniqueIdentifier` |
 | `properties.deploymentProperties.parameters[*].value` | `Microsoft.DevTestLab/labs/users/environments/deploymentProperties.parameters[*].value` |
-

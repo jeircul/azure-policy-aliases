@@ -1,4 +1,4 @@
-# Microsoft.Network/dnszones/CNAME
+﻿# Microsoft.Network/dnszones/CNAME
 
 | Default Path | Alias |
 |---|---|
@@ -72,4 +72,3 @@
 | `properties.NAPTRRecords[*].replacement` | `Microsoft.Network/dnszones/CNAME/NAPTRRecords[*].replacement` |
 | `properties.trafficManagementProfile` | `Microsoft.Network/dnszones/CNAME/trafficManagementProfile` |
 | `properties.trafficManagementProfile.id` | `Microsoft.Network/dnszones/CNAME/trafficManagementProfile.id` |
-

@@ -1,4 +1,4 @@
-# Microsoft.LabServices/labAccounts/galleryImages
+﻿# Microsoft.LabServices/labAccounts/galleryImages
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.latestOperationResult.httpMethod` | `Microsoft.LabServices/labAccounts/galleryImages/latestOperationResult.httpMethod` |
 | `properties.latestOperationResult.operationUrl` | `Microsoft.LabServices/labAccounts/galleryImages/latestOperationResult.operationUrl` |
 | `properties.latestOperationResult` | `Microsoft.LabServices/labAccounts/galleryImages/latestOperationResult` |
-

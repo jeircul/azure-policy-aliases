@@ -1,4 +1,4 @@
-# Microsoft.Subscription/SubscriptionDefinitions
+﻿# Microsoft.Subscription/SubscriptionDefinitions
 
 | Default Path | Alias |
 |---|---|
@@ -6,4 +6,3 @@
 | `properties.subscriptionDisplayName` | `Microsoft.Subscription/SubscriptionDefinitions/subscriptionDisplayName` |
 | `properties.offerType` | `Microsoft.Subscription/SubscriptionDefinitions/offerType` |
 | `properties.etag` | `Microsoft.Subscription/SubscriptionDefinitions/etag` |
-

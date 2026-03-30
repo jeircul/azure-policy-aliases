@@ -1,4 +1,4 @@
-# Microsoft.ServiceFabric/managedclusters/applications
+﻿# Microsoft.ServiceFabric/managedclusters/applications
 
 | Default Path | Alias |
 |---|---|
@@ -30,4 +30,3 @@
 | `properties.managedIdentities[*]` | `Microsoft.ServiceFabric/managedclusters/applications/managedIdentities[*]` |
 | `properties.managedIdentities[*].name` | `Microsoft.ServiceFabric/managedclusters/applications/managedIdentities[*].name` |
 | `properties.managedIdentities[*].principalId` | `Microsoft.ServiceFabric/managedclusters/applications/managedIdentities[*].principalId` |
-

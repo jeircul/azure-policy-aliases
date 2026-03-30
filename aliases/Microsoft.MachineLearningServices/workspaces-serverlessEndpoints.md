@@ -1,4 +1,4 @@
-# Microsoft.MachineLearningServices/workspaces/serverlessEndpoints
+﻿# Microsoft.MachineLearningServices/workspaces/serverlessEndpoints
 
 | Default Path | Alias |
 |---|---|
@@ -25,4 +25,3 @@
 | `properties.endpointState` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/endpointState` |
 | `properties.contentSafety` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/contentSafety` |
 | `properties.contentSafety.contentSafetyStatus` | `Microsoft.MachineLearningServices/workspaces/serverlessEndpoints/contentSafety.contentSafetyStatus` |
-

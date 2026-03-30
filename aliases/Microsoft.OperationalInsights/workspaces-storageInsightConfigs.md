@@ -1,4 +1,4 @@
-# Microsoft.OperationalInsights/workspaces/storageInsightConfigs
+﻿# Microsoft.OperationalInsights/workspaces/storageInsightConfigs
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.status.state` | `Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status.state` |
 | `properties.status.description` | `Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status.description` |
 | `properties.status` | `Microsoft.OperationalInsights/workspaces/storageinsightconfigs/status` |
-

@@ -1,4 +1,4 @@
-# Microsoft.CostManagement/Views
+﻿# Microsoft.CostManagement/Views
 
 | Default Path | Alias |
 |---|---|
@@ -53,4 +53,3 @@
 | `properties.query.dataSet.filter.tagKey` | `Microsoft.CostManagement/views/query.dataSet.filter.tagKey` |
 | `properties.query.dataSet.filter.tagValue` | `Microsoft.CostManagement/views/query.dataSet.filter.tagValue` |
 | `properties.query.includeMonetaryCommitment` | `Microsoft.CostManagement/views/query.includeMonetaryCommitment` |
-

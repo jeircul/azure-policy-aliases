@@ -1,4 +1,4 @@
-# Microsoft.ContainerInstance/nGroups
+﻿# Microsoft.ContainerInstance/nGroups
 
 | Default Path | Alias |
 |---|---|
@@ -51,4 +51,3 @@
 | `properties.updateProfile.rollingUpdateProfile.maxUnhealthyPercent` | `Microsoft.ContainerInstance/ngroups/updateProfile.rollingUpdateProfile.maxUnhealthyPercent` |
 | `properties.updateProfile.rollingUpdateProfile.pauseTimeBetweenBatches` | `Microsoft.ContainerInstance/ngroups/updateProfile.rollingUpdateProfile.pauseTimeBetweenBatches` |
 | `properties.updateProfile.rollingUpdateProfile.inPlaceUpdate` | `Microsoft.ContainerInstance/ngroups/updateProfile.rollingUpdateProfile.inPlaceUpdate` |
-

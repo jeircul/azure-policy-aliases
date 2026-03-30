@@ -1,4 +1,4 @@
-# microsoft.insights/privateLinkScopes/privateEndpointConnections
+﻿# microsoft.insights/privateLinkScopes/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -9,4 +9,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateLinkServiceConnectionState` | `Microsoft.Insights/privateLinkScopes/privateEndpointConnections/privateLinkServiceConnectionState` |
 | `properties.provisioningState` | `Microsoft.Insights/privateLinkScopes/privateEndpointConnections/provisioningState` |
-

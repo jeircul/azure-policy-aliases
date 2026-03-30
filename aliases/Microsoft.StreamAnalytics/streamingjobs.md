@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/streamingjobs
+﻿# Microsoft.StreamAnalytics/streamingjobs
 
 | Default Path | Alias |
 |---|---|
@@ -423,4 +423,3 @@
 | `properties.externals.refreshConfiguration.timeFormat` | `Microsoft.StreamAnalytics/streamingjobs/externals.refreshConfiguration.timeFormat` |
 | `properties.externals.refreshConfiguration.refreshInterval` | `Microsoft.StreamAnalytics/streamingjobs/externals.refreshConfiguration.refreshInterval` |
 | `properties.externals.refreshConfiguration.refreshType` | `Microsoft.StreamAnalytics/streamingjobs/externals.refreshConfiguration.refreshType` |
-

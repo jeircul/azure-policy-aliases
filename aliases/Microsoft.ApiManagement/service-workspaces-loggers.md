@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/workspaces/loggers
+﻿# Microsoft.ApiManagement/service/workspaces/loggers
 
 | Default Path | Alias |
 |---|---|
@@ -7,4 +7,3 @@
 | `properties.credentials` | `Microsoft.ApiManagement/service/workspaces/loggers/credentials` |
 | `properties.isBuffered` | `Microsoft.ApiManagement/service/workspaces/loggers/isBuffered` |
 | `properties.resourceId` | `Microsoft.ApiManagement/service/workspaces/loggers/resourceId` |
-

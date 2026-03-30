@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/privateEndpointConnections
+﻿# Microsoft.Automation/automationAccounts/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -10,4 +10,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.groupIds` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/groupIds` |
 | `properties.groupIds[*]` | `Microsoft.Automation/automationAccounts/privateEndpointConnections/groupIds[*]` |
-

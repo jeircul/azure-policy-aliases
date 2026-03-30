@@ -1,4 +1,4 @@
-# Microsoft.Authorization/roleAssignments
+﻿# Microsoft.Authorization/roleAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -15,4 +15,3 @@
 | `properties.createdBy` | `Microsoft.Authorization/roleAssignments/createdBy` |
 | `properties.updatedBy` | `Microsoft.Authorization/roleAssignments/updatedBy` |
 | `properties.delegatedManagedIdentityResourceId` | `Microsoft.Authorization/roleAssignments/delegatedManagedIdentityResourceId` |
-

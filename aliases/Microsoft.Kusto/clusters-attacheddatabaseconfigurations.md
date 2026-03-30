@@ -1,4 +1,4 @@
-# Microsoft.Kusto/clusters/attacheddatabaseconfigurations
+﻿# Microsoft.Kusto/clusters/attacheddatabaseconfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.tableLevelSharingProperties.materializedViewsToInclude[*]` | `Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.materializedViewsToInclude[*]` |
 | `properties.tableLevelSharingProperties.materializedViewsToExclude` | `Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.materializedViewsToExclude` |
 | `properties.tableLevelSharingProperties.materializedViewsToExclude[*]` | `Microsoft.Kusto/clusters/attachedDatabaseConfigurations/tableLevelSharingProperties.materializedViewsToExclude[*]` |
-

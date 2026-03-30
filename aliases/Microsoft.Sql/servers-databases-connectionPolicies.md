@@ -1,4 +1,4 @@
-# Microsoft.Sql/servers/databases/connectionPolicies
+﻿# Microsoft.Sql/servers/databases/connectionPolicies
 
 | Default Path | Alias |
 |---|---|
@@ -16,4 +16,3 @@
 | `properties.useServerDefault` | `Microsoft.Sql/servers/databases/connectionPolicies/default.useServerDefault` |
 | `properties.redirectionState` | `Microsoft.Sql/servers/databases/connectionPolicies/default.redirectionState` |
 | `properties.state` | `Microsoft.Sql/servers/databases/connectionPolicies/default.state` |
-

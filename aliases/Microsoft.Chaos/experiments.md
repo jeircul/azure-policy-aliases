@@ -1,4 +1,4 @@
-# Microsoft.Chaos/experiments
+﻿# Microsoft.Chaos/experiments
 
 | Default Path | Alias |
 |---|---|
@@ -41,4 +41,3 @@
 | `properties.customerDataStorage` | `Microsoft.Chaos/experiments/customerDataStorage` |
 | `properties.customerDataStorage.storageAccountResourceId` | `Microsoft.Chaos/experiments/customerDataStorage.storageAccountResourceId` |
 | `properties.customerDataStorage.blobContainerName` | `Microsoft.Chaos/experiments/customerDataStorage.blobContainerName` |
-

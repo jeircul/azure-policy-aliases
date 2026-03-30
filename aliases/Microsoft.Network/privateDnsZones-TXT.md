@@ -1,4 +1,4 @@
-# Microsoft.Network/privateDnsZones/TXT
+﻿# Microsoft.Network/privateDnsZones/TXT
 
 | Default Path | Alias |
 |---|---|
@@ -39,4 +39,3 @@
 | `properties.txtRecords` | `Microsoft.Network/privateDnsZones/TXT/txtRecords` |
 | `properties.txtRecords[*].value` | `Microsoft.Network/privateDnsZones/TXT/txtRecords[*].value` |
 | `properties.txtRecords[*].value[*]` | `Microsoft.Network/privateDnsZones/TXT/txtRecords[*].value[*]` |
-

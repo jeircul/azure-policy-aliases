@@ -1,4 +1,4 @@
-# Microsoft.GuestConfiguration/guestConfigurationAssignments
+﻿# Microsoft.GuestConfiguration/guestConfigurationAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -34,4 +34,3 @@
 | `properties.guestConfiguration.configurationSetting.configurationModeFrequencyMins` | `Microsoft.GuestConfiguration/guestConfigurationAssignments/guestConfiguration.configurationSetting.configurationModeFrequencyMins` |
 | `properties.lastComplianceStatusChecked` | `Microsoft.GuestConfiguration/guestConfigurationAssignments/lastComplianceStatusChecked` |
 | `properties.context` | `Microsoft.GuestConfiguration/guestConfigurationAssignments/context` |
-

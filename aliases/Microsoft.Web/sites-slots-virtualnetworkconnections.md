@@ -1,4 +1,4 @@
-# Microsoft.Web/sites/slots/virtualnetworkconnections
+﻿# Microsoft.Web/sites/slots/virtualnetworkconnections
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.routes[*].systemData.lastModifiedBy` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.lastModifiedBy` |
 | `properties.routes[*].systemData.lastModifiedByType` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.lastModifiedByType` |
 | `properties.routes[*].systemData.lastModifiedAt` | `Microsoft.Web/sites/slots/virtualNetworkConnections/routes[*].systemData.lastModifiedAt` |
-

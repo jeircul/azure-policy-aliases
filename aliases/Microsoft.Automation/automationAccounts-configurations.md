@@ -1,4 +1,4 @@
-# Microsoft.Automation/automationAccounts/configurations
+﻿# Microsoft.Automation/automationAccounts/configurations
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.description` | `Microsoft.Automation/automationAccounts/configurations/description` |
 | `properties.source.hash.value` | `Microsoft.Automation/automationAccounts/configurations/source.hash.value` |
 | `properties.source.value` | `Microsoft.Automation/automationAccounts/configurations/source.value` |
-

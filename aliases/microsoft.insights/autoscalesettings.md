@@ -1,4 +1,4 @@
-# microsoft.insights/autoscalesettings
+﻿# microsoft.insights/autoscalesettings
 
 | Default Path | Alias |
 |---|---|
@@ -67,4 +67,3 @@
 | `properties.predictiveAutoscalePolicy` | `Microsoft.Insights/autoscalesettings/predictiveAutoscalePolicy` |
 | `properties.predictiveAutoscalePolicy.scaleMode` | `Microsoft.Insights/autoscalesettings/predictiveAutoscalePolicy.scaleMode` |
 | `properties.predictiveAutoscalePolicy.scaleLookAheadTime` | `Microsoft.Insights/autoscalesettings/predictiveAutoscalePolicy.scaleLookAheadTime` |
-

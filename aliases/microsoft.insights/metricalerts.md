@@ -1,4 +1,4 @@
-# microsoft.insights/metricalerts
+﻿# microsoft.insights/metricalerts
 
 | Default Path | Alias |
 |---|---|
@@ -110,4 +110,3 @@
 | `properties.criteria.allOf[*].dimensions[*].values` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-SingleResourceMultipleMetricCriteria.allOf[*].dimensions[*].values` |
 | `properties.criteria.allOf[*].dimensions[*].values[*]` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-SingleResourceMultipleMetricCriteria.allOf[*].dimensions[*].values[*]` |
 | `properties.criteria.allOf[*].skipMetricValidation` | `Microsoft.Insights/metricAlerts/criteria.Microsoft-Azure-Monitor-SingleResourceMultipleMetricCriteria.allOf[*].skipMetricValidation` |
-

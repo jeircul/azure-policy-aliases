@@ -1,4 +1,4 @@
-# Microsoft.StreamAnalytics/streamingjobs/outputs
+﻿# Microsoft.StreamAnalytics/streamingjobs/outputs
 
 | Default Path | Alias |
 |---|---|
@@ -163,4 +163,3 @@
 | `properties.watermarkSettings` | `Microsoft.StreamAnalytics/streamingjobs/outputs/watermarkSettings` |
 | `properties.watermarkSettings.watermarkMode` | `Microsoft.StreamAnalytics/streamingjobs/outputs/watermarkSettings.watermarkMode` |
 | `properties.watermarkSettings.maxWatermarkDifferenceAcrossPartitions` | `Microsoft.StreamAnalytics/streamingjobs/outputs/watermarkSettings.maxWatermarkDifferenceAcrossPartitions` |
-

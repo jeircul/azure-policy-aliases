@@ -1,4 +1,4 @@
-# Microsoft.Authorization/policyAssignments
+﻿# Microsoft.Authorization/policyAssignments
 
 | Default Path | Alias |
 |---|---|
@@ -48,4 +48,3 @@
 | `properties.selfServeExemptionSettings.enabled` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.enabled` |
 | `properties.selfServeExemptionSettings.policyDefinitionReferenceIds` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.policyDefinitionReferenceIds` |
 | `properties.selfServeExemptionSettings.policyDefinitionReferenceIds[*]` | `Microsoft.Authorization/policyassignments/selfServeExemptionSettings.policyDefinitionReferenceIds[*]` |
-

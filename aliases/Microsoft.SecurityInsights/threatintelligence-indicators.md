@@ -1,4 +1,4 @@
-# Microsoft.SecurityInsights/threatintelligence/indicators
+﻿# Microsoft.SecurityInsights/threatintelligence/indicators
 
 | Default Path | Alias |
 |---|---|
@@ -57,4 +57,3 @@
 | `properties.created` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.created` |
 | `properties.modified` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.modified` |
 | `properties.extensions` | `Microsoft.SecurityInsights/threatIntelligence/indicators/indicator.extensions` |
-

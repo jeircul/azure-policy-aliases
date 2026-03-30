@@ -1,4 +1,4 @@
-# Microsoft.ApiManagement/service/loggers
+﻿# Microsoft.ApiManagement/service/loggers
 
 | Default Path | Alias |
 |---|---|
@@ -20,4 +20,3 @@
 | `properties.sampling.properties.initialPercentage` | `Microsoft.ApiManagement/service/loggers/sampling.initialPercentage` |
 | `properties.sampling` | `Microsoft.ApiManagement/service/loggers/sampling` |
 | `properties.sampling.example` | `Microsoft.ApiManagement/service/loggers/sampling.example` |
-

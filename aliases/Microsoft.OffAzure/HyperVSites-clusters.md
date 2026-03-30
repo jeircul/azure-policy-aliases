@@ -1,4 +1,4 @@
-# Microsoft.OffAzure/HyperVSites/clusters
+﻿# Microsoft.OffAzure/HyperVSites/clusters
 
 | Default Path | Alias |
 |---|---|
@@ -21,4 +21,3 @@
 | `properties.errors[*].summaryMessage` | `Microsoft.OffAzure/HyperVSites/clusters/errors[*].summaryMessage` |
 | `properties.errors[*].source` | `Microsoft.OffAzure/HyperVSites/clusters/errors[*].source` |
 | `properties.errors[*].messageParameters` | `Microsoft.OffAzure/HyperVSites/clusters/errors[*].messageParameters` |
-

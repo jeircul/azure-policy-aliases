@@ -1,4 +1,4 @@
-# Microsoft.VirtualMachineImages/imageTemplates
+﻿# Microsoft.VirtualMachineImages/imageTemplates
 
 | Default Path | Alias |
 |---|---|
@@ -29,4 +29,3 @@
 | `properties.vmProfile.osDiskSizeGB` | `Microsoft.VirtualMachineImages/imageTemplates/vmProfile.osDiskSizeGB` |
 | `properties.vmProfile.vnetConfig` | `Microsoft.VirtualMachineImages/imageTemplates/vmProfile.vnetConfig` |
 | `properties.vmProfile.vnetConfig.subnetId` | `Microsoft.VirtualMachineImages/imageTemplates/vmProfile.vnetConfig.subnetId` |
-

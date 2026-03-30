@@ -1,6 +1,5 @@
-# Microsoft.Web/sites/basicPublishingCredentialsPolicies
+﻿# Microsoft.Web/sites/basicPublishingCredentialsPolicies
 
 | Default Path | Alias |
 |---|---|
 | `properties.allow` | `Microsoft.Web/sites/basicPublishingCredentialsPolicies/allow` |
-

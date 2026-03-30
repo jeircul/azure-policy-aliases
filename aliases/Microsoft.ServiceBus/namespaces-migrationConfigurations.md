@@ -1,4 +1,4 @@
-# Microsoft.ServiceBus/namespaces/migrationConfigurations
+﻿# Microsoft.ServiceBus/namespaces/migrationConfigurations
 
 | Default Path | Alias |
 |---|---|
@@ -12,4 +12,3 @@
 | `properties.targetNamespace` | `Microsoft.ServiceBus/namespaces/migrationConfigurations/$default.targetNamespace` |
 | `properties.postMigrationName` | `Microsoft.ServiceBus/namespaces/migrationConfigurations/$default.postMigrationName` |
 | `properties.migrationState` | `Microsoft.ServiceBus/namespaces/migrationConfigurations/$default.migrationState` |
-

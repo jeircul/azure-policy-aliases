@@ -1,4 +1,4 @@
-# Microsoft.BotService/botServices/channels
+﻿# Microsoft.BotService/botServices/channels
 
 | Default Path | Alias |
 |---|---|
@@ -188,4 +188,3 @@
 | `properties.properties.magicCode` | `Microsoft.BotService/botServices/channels/EmailChannel.magicCode` |
 | `properties.provisioningState` | `Microsoft.BotService/botServices/channels/provisioningState` |
 | `properties.location` | `Microsoft.BotService/botServices/channels/location` |
-

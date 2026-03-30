@@ -1,4 +1,4 @@
-# Microsoft.AppPlatform/Spring/apiPortals
+﻿# Microsoft.AppPlatform/Spring/apiPortals
 
 | Default Path | Alias |
 |---|---|
@@ -28,4 +28,3 @@
 | `sku.tier` | `Microsoft.AppPlatform/Spring/apiPortals/sku.tier` |
 | `sku.capacity` | `Microsoft.AppPlatform/Spring/apiPortals/sku.capacity` |
 | `properties.apiTryOutEnabledState` | `Microsoft.AppPlatform/Spring/apiPortals/apiTryOutEnabledState` |
-

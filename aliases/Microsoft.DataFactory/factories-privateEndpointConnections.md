@@ -1,4 +1,4 @@
-# Microsoft.DataFactory/factories/privateEndpointConnections
+﻿# Microsoft.DataFactory/factories/privateEndpointConnections
 
 | Default Path | Alias |
 |---|---|
@@ -8,4 +8,3 @@
 | `properties.privateLinkServiceConnectionState.actionsRequired` | `Microsoft.DataFactory/factories/privateEndPointConnections/privateLinkServiceConnectionState.actionsRequired` |
 | `properties.privateEndpoint` | `Microsoft.DataFactory/factories/privateEndPointConnections/privateEndpoint` |
 | `properties.privateEndpoint.id` | `Microsoft.DataFactory/factories/privateEndPointConnections/privateEndpoint.id` |
-
