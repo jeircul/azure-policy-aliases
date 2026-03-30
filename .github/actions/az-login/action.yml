@@ -21,18 +21,24 @@ runs:
       shell: pwsh
       run: |
         # Install Az.Accounts if not available
-        if(-not (Get-Module Az.Accounts -ListAvailable)){
-          Install-Module Az.Accounts -Force -ErrorAction Stop
+        if (-not (Get-Module Az.Accounts -ListAvailable)) {
+          Install-Module Az.Accounts -Force -Scope CurrentUser -ErrorAction Stop
         }
 
         # Get federated token
         $secureOIDCToken = $ENV:ACTIONS_ID_TOKEN_REQUEST_TOKEN | ConvertTo-SecureString -AsPlainText
-        $federatedToken = (Invoke-RestMethod "$($ENV:ACTIONS_ID_TOKEN_REQUEST_URL)&audience=api://AzureADTokenExchange" -Authentication Bearer -token $secureOIDCToken).value
+        $federatedToken = (Invoke-RestMethod "$($ENV:ACTIONS_ID_TOKEN_REQUEST_URL)&audience=api://AzureADTokenExchange" -Authentication Bearer -Token $secureOIDCToken).value
+
+        # Mask token in logs to prevent accidental exposure
+        Write-Host "::add-mask::$federatedToken"
 
         # Connect to Azure account
         Connect-AzAccount -FederatedToken $federatedToken -Tenant $Env:TENANT_ID -ApplicationID $Env:CLIENT_ID -ErrorAction Stop
 
-        # Az Login if enable-cli option is set
-        if($ENV:ENABLE_CLI) {
-          az login --service-principal -u $($Env:CLIENT_ID) -t $($Env:TENANT_ID) --federated-token $federatedToken --allow-no-subscriptions
+        # Az CLI login if enable-cli option is set
+        if ($ENV:ENABLE_CLI) {
+          az login --service-principal -u $Env:CLIENT_ID -t $Env:TENANT_ID --federated-token $federatedToken --allow-no-subscriptions
+          if ($LASTEXITCODE -ne 0) {
+            Write-Error "az login failed with exit code $LASTEXITCODE"
+          }
         }

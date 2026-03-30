@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
 
 permissions:
   id-token: write
@@ -15,11 +12,11 @@ permissions:
 
 env:
   GIT_USER_EMAIL: "github-actions[bot]@users.noreply.github.com"
-  GIT_USER_NAME: "github-actions[bot]"
+  GIT_USER_NAME: "Azure Policy Bot"
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -30,21 +27,15 @@ jobs:
           tenant-id: ${{ secrets.TENANT_ID }}
       - name: Get Updated Aliases
         shell: pwsh
-        run: |
-          Set-Location $ENV:GITHUB_WORKSPACE
-          Write-Host "workspace: $ENV:GITHUB_WORKSPACE"
-          dir
-          ./src/Get-ResourceAliases.ps1
+        run: ./src/Get-ResourceAliases.ps1
       - name: Auto commit changes
         run: |
-          cd $GITHUB_WORKSPACE
           now=$(date +'%a %d %b %Y')
-          git config --global user.email $ENV:GIT_USER_EMAIL
-          git config --global user.name $ENV:GIT_USER_NAME
+          git config --local user.email "$GIT_USER_EMAIL"
+          git config --local user.name "$GIT_USER_NAME"
           git add --all
-          if [ -n "$(git status --porcelain)" ]
-          then
-            git commit -a -m "auto update aliases $now"
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -a -m "chore: update Azure policy aliases ($now)"
             git push
           fi
       # - name: Create pull request

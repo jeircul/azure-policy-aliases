@@ -1,24 +1,26 @@
-# Check if Az.Resources module is installed, if not, install it
+# Abort on any error — prevents partial/empty output being committed
+$ErrorActionPreference = 'Stop'
+
+# Install Az.Resources if not available
 if (-not (Get-Module Az.Resources -ListAvailable)) {
-    Install-Module Az.Resources -Force
+    Install-Module Az.Resources -Force -Scope CurrentUser -MinimumVersion 7.0.0
 }
 
 # Get all available policy aliases
 $resourceTypes = Get-AzPolicyAlias -ListAvailable
-
-# Group resource types by namespace
 $providers = $resourceTypes | Group-Object -Property Namespace
 
-# Define base path
 $basePath = "aliases"
 
-# Create base directory if it doesn't exist
-if (!(Test-Path -Path $basePath)) {
-    New-Item -Name $basePath -ItemType "directory" | Out-Null
+# Wipe and recreate to remove stale files from deleted/renamed resource types
+if (Test-Path -Path $basePath) {
+    Remove-Item -Path $basePath -Recurse -Force
 }
+New-Item -Name $basePath -ItemType "directory" | Out-Null
 
-# Initialize table of contents
-$toc = @"
+# Use StringBuilder to avoid O(n^2) string allocations from repeated +=
+$toc = [System.Text.StringBuilder]::new()
+[void]$toc.AppendLine(@"
 # 📋 Azure Policy Aliases
 ![Update Aliases](https://github.com/jeircul/azure-policy-aliases/actions/workflows/update-aliases.yml/badge.svg)
 
@@ -29,45 +31,43 @@ $toc = @"
 ✨ **Total Providers**: $($providers.Count) | 📦 **Resource Types**: $($resourceTypes.Count)
 
 ---
+"@)
 
-"@
-
-# Loop through each provider
 foreach ($provider in $providers) {
     $resourceTypesWithAliases = $provider.Group | Where-Object { $_.Aliases.Count -gt 0 }
 
     if ($resourceTypesWithAliases.Count -gt 0) {
-        $toc += "## 🔷 $($provider.Name)`n`n"
+        [void]$toc.AppendLine("## 🔷 $($provider.Name)")
+        [void]$toc.AppendLine()
 
         $namespacePath = Join-Path -Path $basePath -ChildPath $provider.Name
 
-        # Create namespace directory if it doesn't exist
         if (!(Test-Path -Path $namespacePath)) {
             New-Item -Path $namespacePath -ItemType "directory" | Out-Null
         }
 
-        # Loop through each resource type with aliases
         foreach ($resourceType in $resourceTypesWithAliases) {
-            $resourceMarkdown = "# $($resourceType.Namespace)/$($resourceType.ResourceType)`n`n"
-            $resourceMarkdown += "| Default Path | Alias |`n|---|---|`n"
+            $sb = [System.Text.StringBuilder]::new()
+            [void]$sb.AppendLine("# $($resourceType.Namespace)/$($resourceType.ResourceType)")
+            [void]$sb.AppendLine()
+            [void]$sb.AppendLine("| Default Path | Alias |")
+            [void]$sb.AppendLine("|---|---|")
 
-            # Loop through each alias
             foreach ($alias in $resourceType.Aliases) {
-                $resourceMarkdown += "| ``$($alias.DefaultPath)`` | ``$($alias.Name)`` |`n"
+                [void]$sb.AppendLine("| ``$($alias.DefaultPath)`` | ``$($alias.Name)`` |")
             }
 
             $fileName = $resourceType.ResourceType.Replace("/", "-")
             $filePath = Join-Path -Path $namespacePath -ChildPath "$($fileName).md"
 
-            # Write resource markdown to file
-            $resourceMarkdown | Out-File -FilePath $filePath
+            # Direct .NET write is significantly faster than the Out-File pipeline
+            [System.IO.File]::WriteAllText($filePath, $sb.ToString(), [System.Text.Encoding]::UTF8)
 
-            $toc += "- [$($resourceType.Namespace)/$($resourceType.ResourceType)]($filePath)`n"
+            [void]$toc.AppendLine("- [$($resourceType.Namespace)/$($resourceType.ResourceType)]($filePath)")
         }
 
-        $toc += "`n`n"
+        [void]$toc.AppendLine()
     }
 }
 
-# Write table of contents to README.md
-$toc | Out-File -FilePath "README.md"
+[System.IO.File]::WriteAllText("README.md", $toc.ToString(), [System.Text.Encoding]::UTF8)
