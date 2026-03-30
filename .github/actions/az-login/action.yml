@@ -1,5 +1,5 @@
 name: Azure Federated Credentials login
-description: Login to Azure Powershell with Federated Credentials, also installs Az.Accounts if it is not installed
+description: Login to Azure PowerShell with Federated Credentials
 inputs:
   client-id:
     required: true
@@ -20,9 +20,6 @@ runs:
         ENABLE_CLI: ${{ inputs.enable-cli }}
       shell: pwsh
       run: |
-        # Ensure Az.Accounts is up-to-date; installs if missing, updates if outdated, no-ops if current
-        Install-PSResource Az.Accounts -Scope CurrentUser -Quiet -AcceptLicense -TrustRepository
-
         # Get federated token
         $secureOIDCToken = $ENV:ACTIONS_ID_TOKEN_REQUEST_TOKEN | ConvertTo-SecureString -AsPlainText
         $federatedToken = (Invoke-RestMethod "$($ENV:ACTIONS_ID_TOKEN_REQUEST_URL)&audience=api://AzureADTokenExchange" -Authentication Bearer -Token $secureOIDCToken).value
