@@ -1,9 +1,6 @@
 # Abort on any error — prevents partial/empty output being committed
 $ErrorActionPreference = 'Stop'
 
-# Ensure Az.Resources is up-to-date; installs if missing, updates if outdated, no-ops if current
-Install-PSResource Az.Resources -Scope CurrentUser -Quiet -AcceptLicense -TrustRepository
-
 # Get all available policy aliases
 $resourceTypes = Get-AzPolicyAlias -ListAvailable
 $providers = $resourceTypes | Group-Object -Property Namespace
