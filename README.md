@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 333 | 📦 **Resource Types**: 5694
+✨ **Total Providers**: 331 | 📦 **Resource Types**: 5685
 
 ---
 ## 🔷 Microsoft.AAD
@@ -186,7 +186,6 @@
 - [Microsoft.Authorization/policySetDefinitions/versions](aliases/Microsoft.Authorization/policySetDefinitions-versions.md)
 - [Microsoft.Authorization/policyAssignments](aliases/Microsoft.Authorization/policyAssignments.md)
 - [Microsoft.Authorization/policyExemptions](aliases/Microsoft.Authorization/policyExemptions.md)
-- [Microsoft.Authorization/policyEnrollments](aliases/Microsoft.Authorization/policyEnrollments.md)
 
 ## 🔷 Microsoft.Automanage
 
@@ -305,7 +304,6 @@
 - [Microsoft.Cache/redisEnterprise](aliases/Microsoft.Cache/redisEnterprise.md)
 - [Microsoft.Cache/RedisEnterprise/privateEndpointConnections](aliases/Microsoft.Cache/RedisEnterprise-privateEndpointConnections.md)
 - [Microsoft.Cache/redisEnterprise/databases](aliases/Microsoft.Cache/redisEnterprise-databases.md)
-- [Microsoft.Cache/redisEnterprise/migrations](aliases/Microsoft.Cache/redisEnterprise-migrations.md)
 - [Microsoft.Cache/Redis/firewallrules](aliases/Microsoft.Cache/Redis-firewallrules.md)
 - [Microsoft.Cache/redis/linkedservers](aliases/Microsoft.Cache/redis-linkedservers.md)
 - [Microsoft.Cache/redis/patchSchedules](aliases/Microsoft.Cache/redis-patchSchedules.md)
@@ -315,7 +313,6 @@
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 ## 🔷 Microsoft.Cdn
 
