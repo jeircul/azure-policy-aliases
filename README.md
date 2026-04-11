@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 332 | 📦 **Resource Types**: 5683
+✨ **Total Providers**: 332 | 📦 **Resource Types**: 5682
 
 ---
 ## 🔷 Microsoft.AAD
@@ -131,6 +131,8 @@
 - [Microsoft.App/managedEnvironments/javaComponents](aliases/Microsoft.App/managedEnvironments-javaComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents](aliases/Microsoft.App/managedEnvironments-daprComponents.md)
 - [Microsoft.App/managedEnvironments/daprComponents/resiliencyPolicies](aliases/Microsoft.App/managedEnvironments-daprComponents-resiliencyPolicies.md)
+- [Microsoft.App/agents](aliases/Microsoft.App/agents.md)
+- [Microsoft.App/agentSpaces](aliases/Microsoft.App/agentSpaces.md)
 - [Microsoft.App/containerapps/authconfigs](aliases/Microsoft.App/containerapps-authconfigs.md)
 - [Microsoft.App/managedenvironments/storages](aliases/Microsoft.App/managedenvironments-storages.md)
 - [Microsoft.App/containerapps/sourcecontrols](aliases/Microsoft.App/containerapps-sourcecontrols.md)
@@ -179,6 +181,7 @@
 - [Microsoft.Authorization/roleManagementPolicies](aliases/Microsoft.Authorization/roleManagementPolicies.md)
 - [Microsoft.Authorization/roleAssignments](aliases/Microsoft.Authorization/roleAssignments.md)
 - [Microsoft.Authorization/roleDefinitions](aliases/Microsoft.Authorization/roleDefinitions.md)
+- [Microsoft.Authorization/denyAssignments](aliases/Microsoft.Authorization/denyAssignments.md)
 - [Microsoft.Authorization/locks](aliases/Microsoft.Authorization/locks.md)
 - [Microsoft.Authorization/policyDefinitions](aliases/Microsoft.Authorization/policyDefinitions.md)
 - [Microsoft.Authorization/policyDefinitions/versions](aliases/Microsoft.Authorization/policyDefinitions-versions.md)
