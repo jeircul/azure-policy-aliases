@@ -385,7 +385,6 @@
 
 ## 🔷 Microsoft.Compute
 
-- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/availabilitySets](aliases/Microsoft.Compute/availabilitySets.md)
 - [Microsoft.Compute/virtualMachines](aliases/Microsoft.Compute/virtualMachines.md)
 - [Microsoft.Compute/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachines-extensions.md)
@@ -411,6 +410,7 @@
 - [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
 - [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
 - [Microsoft.Compute/diskAccesses](aliases/Microsoft.Compute/diskAccesses.md)
+- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
