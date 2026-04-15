@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 332 | 📦 **Resource Types**: 5679
+✨ **Total Providers**: 332 | 📦 **Resource Types**: 5682
 
 ---
 ## 🔷 Microsoft.AAD
@@ -318,6 +318,7 @@
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 ## 🔷 Microsoft.Cdn
 
@@ -385,6 +386,7 @@
 
 ## 🔷 Microsoft.Compute
 
+- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/availabilitySets](aliases/Microsoft.Compute/availabilitySets.md)
 - [Microsoft.Compute/virtualMachines](aliases/Microsoft.Compute/virtualMachines.md)
 - [Microsoft.Compute/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachines-extensions.md)
@@ -410,7 +412,6 @@
 - [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
 - [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
 - [Microsoft.Compute/diskAccesses](aliases/Microsoft.Compute/diskAccesses.md)
-- [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -1218,6 +1219,7 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
@@ -1277,6 +1279,7 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
