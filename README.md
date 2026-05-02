@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 5694
+✨ **Total Providers**: 329 | 📦 **Resource Types**: 5693
 
 ---
 ## 🔷 Microsoft.AAD
@@ -1839,4 +1839,18 @@
 - [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
 - [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
 - [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
+
+## 🔷 Oracle.Database
+
+- [Oracle.Database/exadbVmClusters](aliases/Oracle.Database/exadbVmClusters.md)
+- [Oracle.Database/exascaleDbStorageVaults](aliases/Oracle.Database/exascaleDbStorageVaults.md)
+- [Oracle.Database/cloudExadataInfrastructures](aliases/Oracle.Database/cloudExadataInfrastructures.md)
+- [Oracle.Database/cloudVmClusters](aliases/Oracle.Database/cloudVmClusters.md)
+- [Oracle.Database/oracleSubscriptions](aliases/Oracle.Database/oracleSubscriptions.md)
+- [Oracle.Database/autonomousDatabases](aliases/Oracle.Database/autonomousDatabases.md)
+- [Oracle.Database/autonomousDatabases/autonomousDatabaseBackups](aliases/Oracle.Database/autonomousDatabases-autonomousDatabaseBackups.md)
+- [Oracle.Database/cloudVmClusters/virtualNetworkAddresses](aliases/Oracle.Database/cloudVmClusters-virtualNetworkAddresses.md)
+- [Oracle.Database/resourceAnchors](aliases/Oracle.Database/resourceAnchors.md)
+- [Oracle.Database/networkAnchors](aliases/Oracle.Database/networkAnchors.md)
+- [Oracle.Database/dbSystems](aliases/Oracle.Database/dbSystems.md)
 
