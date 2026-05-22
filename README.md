@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 327 | 📦 **Resource Types**: 5734
+✨ **Total Providers**: 328 | 📦 **Resource Types**: 5736
 
 ---
 ## 🔷 Microsoft.AAD
@@ -1210,7 +1210,6 @@
 - [Microsoft.Network/serviceEndpointPolicies](aliases/Microsoft.Network/serviceEndpointPolicies.md)
 - [Microsoft.Network/routeTables](aliases/Microsoft.Network/routeTables.md)
 - [Microsoft.Network/publicIPPrefixes](aliases/Microsoft.Network/publicIPPrefixes.md)
-- [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/networkWatchers](aliases/Microsoft.Network/networkWatchers.md)
 - [Microsoft.Network/networkWatchers/connectionMonitors](aliases/Microsoft.Network/networkWatchers-connectionMonitors.md)
 - [Microsoft.Network/networkWatchers/flowLogs](aliases/Microsoft.Network/networkWatchers-flowLogs.md)
@@ -1220,6 +1219,7 @@
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
+- [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
