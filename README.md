@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 328 | 📦 **Resource Types**: 5736
+✨ **Total Providers**: 328 | 📦 **Resource Types**: 5749
 
 ---
 ## 🔷 Microsoft.AAD
@@ -386,6 +386,17 @@
 ## 🔷 Microsoft.Compute
 
 - [Microsoft.Compute/cloudServices](aliases/Microsoft.Compute/cloudServices.md)
+- [Microsoft.Compute/galleries](aliases/Microsoft.Compute/galleries.md)
+- [Microsoft.Compute/galleries/images](aliases/Microsoft.Compute/galleries-images.md)
+- [Microsoft.Compute/galleries/images/versions](aliases/Microsoft.Compute/galleries-images-versions.md)
+- [Microsoft.Compute/galleries/applications](aliases/Microsoft.Compute/galleries-applications.md)
+- [Microsoft.Compute/galleries/applications/versions](aliases/Microsoft.Compute/galleries-applications-versions.md)
+- [Microsoft.Compute/galleries/inVMAccessControlProfiles](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles.md)
+- [Microsoft.Compute/galleries/inVMAccessControlProfiles/versions](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles-versions.md)
+- [Microsoft.Compute/disks](aliases/Microsoft.Compute/disks.md)
+- [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
+- [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
+- [Microsoft.Compute/diskAccesses](aliases/Microsoft.Compute/diskAccesses.md)
 - [Microsoft.Compute/availabilitySets](aliases/Microsoft.Compute/availabilitySets.md)
 - [Microsoft.Compute/virtualMachines](aliases/Microsoft.Compute/virtualMachines.md)
 - [Microsoft.Compute/virtualMachines/extensions](aliases/Microsoft.Compute/virtualMachines-extensions.md)
@@ -400,17 +411,6 @@
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
-- [Microsoft.Compute/galleries](aliases/Microsoft.Compute/galleries.md)
-- [Microsoft.Compute/galleries/images](aliases/Microsoft.Compute/galleries-images.md)
-- [Microsoft.Compute/galleries/images/versions](aliases/Microsoft.Compute/galleries-images-versions.md)
-- [Microsoft.Compute/galleries/applications](aliases/Microsoft.Compute/galleries-applications.md)
-- [Microsoft.Compute/galleries/applications/versions](aliases/Microsoft.Compute/galleries-applications-versions.md)
-- [Microsoft.Compute/galleries/inVMAccessControlProfiles](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles.md)
-- [Microsoft.Compute/galleries/inVMAccessControlProfiles/versions](aliases/Microsoft.Compute/galleries-inVMAccessControlProfiles-versions.md)
-- [Microsoft.Compute/disks](aliases/Microsoft.Compute/disks.md)
-- [Microsoft.Compute/snapshots](aliases/Microsoft.Compute/snapshots.md)
-- [Microsoft.Compute/diskEncryptionSets](aliases/Microsoft.Compute/diskEncryptionSets.md)
-- [Microsoft.Compute/diskAccesses](aliases/Microsoft.Compute/diskAccesses.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -1210,6 +1210,7 @@
 - [Microsoft.Network/serviceEndpointPolicies](aliases/Microsoft.Network/serviceEndpointPolicies.md)
 - [Microsoft.Network/routeTables](aliases/Microsoft.Network/routeTables.md)
 - [Microsoft.Network/publicIPPrefixes](aliases/Microsoft.Network/publicIPPrefixes.md)
+- [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/networkWatchers](aliases/Microsoft.Network/networkWatchers.md)
 - [Microsoft.Network/networkWatchers/connectionMonitors](aliases/Microsoft.Network/networkWatchers-connectionMonitors.md)
 - [Microsoft.Network/networkWatchers/flowLogs](aliases/Microsoft.Network/networkWatchers-flowLogs.md)
@@ -1218,8 +1219,8 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
-- [Microsoft.Network/ddosCustomPolicies](aliases/Microsoft.Network/ddosCustomPolicies.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1277,6 +1278,7 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
