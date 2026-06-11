@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 328 | 📦 **Resource Types**: 5777
+✨ **Total Providers**: 329 | 📦 **Resource Types**: 5775
 
 ---
 ## 🔷 Microsoft.AAD
