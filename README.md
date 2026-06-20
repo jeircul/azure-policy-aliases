@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 331 | 📦 **Resource Types**: 5824
+✨ **Total Providers**: 331 | 📦 **Resource Types**: 5816
 
 ---
 ## 🔷 Microsoft.AAD
@@ -1219,9 +1219,7 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
 - [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
-- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1279,8 +1277,6 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
-- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
-- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
