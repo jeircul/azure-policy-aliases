@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 329 | 📦 **Resource Types**: 5820
+✨ **Total Providers**: 331 | 📦 **Resource Types**: 5836
 
 ---
 ## 🔷 Microsoft.AAD
@@ -472,11 +472,17 @@
 - [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
 - [Microsoft.ContainerService/fleets/updateStrategies](aliases/Microsoft.ContainerService/fleets-updateStrategies.md)
 - [Microsoft.ContainerService/fleets/autoUpgradeProfiles](aliases/Microsoft.ContainerService/fleets-autoUpgradeProfiles.md)
+- [Microsoft.ContainerService/fleets/clusterMeshProfiles](aliases/Microsoft.ContainerService/fleets-clusterMeshProfiles.md)
 - [Microsoft.ContainerService/fleets/gates](aliases/Microsoft.ContainerService/fleets-gates.md)
+- [Microsoft.ContainerService/fleets/managedNamespaces](aliases/Microsoft.ContainerService/fleets-managedNamespaces.md)
 - [Microsoft.ContainerService/managedClusters](aliases/Microsoft.ContainerService/managedClusters.md)
 - [Microsoft.ContainerService/managedclustersnapshots](aliases/Microsoft.ContainerService/managedclustersnapshots.md)
 - [Microsoft.ContainerService/managedClusters/managedNamespaces](aliases/Microsoft.ContainerService/managedClusters-managedNamespaces.md)
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
+- [Microsoft.ContainerService/managedClusters/meshMemberships](aliases/Microsoft.ContainerService/managedClusters-meshMemberships.md)
+- [Microsoft.ContainerService/aiManagers](aliases/Microsoft.ContainerService/aiManagers.md)
+- [Microsoft.ContainerService/nodeCustomizations](aliases/Microsoft.ContainerService/nodeCustomizations.md)
+- [Microsoft.ContainerService/preparedImageSpecifications](aliases/Microsoft.ContainerService/preparedImageSpecifications.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
@@ -484,6 +490,8 @@
 - [Microsoft.ContainerService/managedClusters/loadBalancers](aliases/Microsoft.ContainerService/managedClusters-loadBalancers.md)
 - [Microsoft.ContainerService/managedClusters/agentPools/machines](aliases/Microsoft.ContainerService/managedClusters-agentPools-machines.md)
 - [Microsoft.ContainerService/managedClusters/namespaces](aliases/Microsoft.ContainerService/managedClusters-namespaces.md)
+- [Microsoft.ContainerService/aiManagers/namespaces](aliases/Microsoft.ContainerService/aiManagers-namespaces.md)
+- [Microsoft.ContainerService/managedClusters/jwtAuthenticators](aliases/Microsoft.ContainerService/managedClusters-jwtAuthenticators.md)
 
 ## 🔷 Microsoft.CostManagement
 
