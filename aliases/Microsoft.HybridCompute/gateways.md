@@ -8,5 +8,3 @@
 | `properties.gatewayEndpoint` | `Microsoft.HybridCompute/gateways/gatewayEndpoint` |
 | `properties.allowedFeatures` | `Microsoft.HybridCompute/gateways/allowedFeatures` |
 | `properties.allowedFeatures[*]` | `Microsoft.HybridCompute/gateways/allowedFeatures[*]` |
-| `properties.gatewayBypass` | `Microsoft.HybridCompute/gateways/gatewayBypass` |
-| `properties.gatewayBypass[*]` | `Microsoft.HybridCompute/gateways/gatewayBypass[*]` |
