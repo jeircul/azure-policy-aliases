@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 5884
+✨ **Total Providers**: 330 | 📦 **Resource Types**: 5886
 
 ---
 ## 🔷 Microsoft.AAD
@@ -115,6 +115,8 @@
 - [Microsoft.ApiManagement/service/workspaces/certificates](aliases/Microsoft.ApiManagement/service-workspaces-certificates.md)
 - [Microsoft.ApiManagement/service/workspaces/diagnostics](aliases/Microsoft.ApiManagement/service-workspaces-diagnostics.md)
 - [Microsoft.ApiManagement/service/workspaces/loggers](aliases/Microsoft.ApiManagement/service-workspaces-loggers.md)
+- [Microsoft.ApiManagement/service/apis/tools](aliases/Microsoft.ApiManagement/service-apis-tools.md)
+- [Microsoft.ApiManagement/service/clientApplications](aliases/Microsoft.ApiManagement/service-clientApplications.md)
 
 ## 🔷 Microsoft.App
 
