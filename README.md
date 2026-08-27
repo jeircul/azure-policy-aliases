@@ -1126,6 +1126,18 @@
 - [Microsoft.Migrate/moveCollections/moveResources](aliases/Microsoft.Migrate/moveCollections-moveResources.md)
 - [Microsoft.Migrate/migrateprojects/privateEndpointConnections](aliases/Microsoft.Migrate/migrateprojects-privateEndpointConnections.md)
 
+## 🔷 Microsoft.Mission
+
+- [Microsoft.Mission/virtualEnclaves](aliases/Microsoft.Mission/virtualEnclaves.md)
+- [Microsoft.Mission/communities](aliases/Microsoft.Mission/communities.md)
+- [Microsoft.Mission/virtualEnclaves/enclaveEndpoints](aliases/Microsoft.Mission/virtualEnclaves-enclaveEndpoints.md)
+- [Microsoft.Mission/communities/communityEndpoints](aliases/Microsoft.Mission/communities-communityEndpoints.md)
+- [Microsoft.Mission/enclaveConnections](aliases/Microsoft.Mission/enclaveConnections.md)
+- [Microsoft.Mission/communities/transitHubs](aliases/Microsoft.Mission/communities-transitHubs.md)
+- [Microsoft.Mission/virtualEnclaves/workloads](aliases/Microsoft.Mission/virtualEnclaves-workloads.md)
+- [Microsoft.Mission/approvals](aliases/Microsoft.Mission/approvals.md)
+- [Microsoft.Mission/communities/dedicatedHubs](aliases/Microsoft.Mission/communities-dedicatedHubs.md)
+
 ## 🔷 Microsoft.Monitor
 
 - [Microsoft.Monitor/accounts](aliases/Microsoft.Monitor/accounts.md)
