@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 333 | 📦 **Resource Types**: 5926
+✨ **Total Providers**: 333 | 📦 **Resource Types**: 5930
 
 ---
 ## 🔷 Microsoft.AAD
@@ -321,7 +321,6 @@
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
-- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 ## 🔷 Microsoft.Cdn
 
@@ -415,7 +414,6 @@
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
-- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -461,18 +459,16 @@
 - [Microsoft.ContainerRegistry/registries/replications](aliases/Microsoft.ContainerRegistry/registries-replications.md)
 - [Microsoft.ContainerRegistry/registries/webhooks](aliases/Microsoft.ContainerRegistry/registries-webhooks.md)
 - [Microsoft.ContainerRegistry/registries/privateEndpointConnections](aliases/Microsoft.ContainerRegistry/registries-privateEndpointConnections.md)
-- [Microsoft.ContainerRegistry/registries/packages/archives](aliases/Microsoft.ContainerRegistry/registries-packages-archives.md)
 - [Microsoft.ContainerRegistry/registries/taskRuns](aliases/Microsoft.ContainerRegistry/registries-taskRuns.md)
 - [Microsoft.ContainerRegistry/registries/tasks](aliases/Microsoft.ContainerRegistry/registries-tasks.md)
 - [Microsoft.ContainerRegistry/registries/agentPools](aliases/Microsoft.ContainerRegistry/registries-agentPools.md)
+- [Microsoft.ContainerRegistry/registries/packages/archives](aliases/Microsoft.ContainerRegistry/registries-packages-archives.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks](aliases/Microsoft.ContainerRegistry/registries-buildTasks.md)
 - [Microsoft.ContainerRegistry/registries/buildTasks/steps](aliases/Microsoft.ContainerRegistry/registries-buildTasks-steps.md)
 
 ## 🔷 Microsoft.ContainerService
 
 - [Microsoft.ContainerService/deploymentSafeguards](aliases/Microsoft.ContainerService/deploymentSafeguards.md)
-- [Microsoft.ContainerService/nodeCustomizations](aliases/Microsoft.ContainerService/nodeCustomizations.md)
-- [Microsoft.ContainerService/preparedImageSpecifications](aliases/Microsoft.ContainerService/preparedImageSpecifications.md)
 - [Microsoft.ContainerService/fleets](aliases/Microsoft.ContainerService/fleets.md)
 - [Microsoft.ContainerService/fleets/members](aliases/Microsoft.ContainerService/fleets-members.md)
 - [Microsoft.ContainerService/fleets/updateRuns](aliases/Microsoft.ContainerService/fleets-updateRuns.md)
@@ -487,6 +483,8 @@
 - [Microsoft.ContainerService/snapshots](aliases/Microsoft.ContainerService/snapshots.md)
 - [Microsoft.ContainerService/managedClusters/meshMemberships](aliases/Microsoft.ContainerService/managedClusters-meshMemberships.md)
 - [Microsoft.ContainerService/aiManagers](aliases/Microsoft.ContainerService/aiManagers.md)
+- [Microsoft.ContainerService/nodeCustomizations](aliases/Microsoft.ContainerService/nodeCustomizations.md)
+- [Microsoft.ContainerService/preparedImageSpecifications](aliases/Microsoft.ContainerService/preparedImageSpecifications.md)
 - [Microsoft.ContainerService/managedClusters/agentPools](aliases/Microsoft.ContainerService/managedClusters-agentPools.md)
 - [Microsoft.ContainerService/managedClusters/privateEndpointConnections](aliases/Microsoft.ContainerService/managedClusters-privateEndpointConnections.md)
 - [Microsoft.ContainerService/managedClusters/maintenanceConfigurations](aliases/Microsoft.ContainerService/managedClusters-maintenanceConfigurations.md)
@@ -1152,8 +1150,8 @@
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/snapshots](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-snapshots.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/backups](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-backups.md)
-- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
 - [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/volumeQuotaRules](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-volumeQuotaRules.md)
+- [Microsoft.NetApp/netAppAccounts/capacityPools/volumes/subvolumes](aliases/Microsoft.NetApp/netAppAccounts-capacityPools-volumes-subvolumes.md)
 
 ## 🔷 Microsoft.Network
 
@@ -1188,7 +1186,6 @@
 - [Microsoft.Network/connections](aliases/Microsoft.Network/connections.md)
 - [Microsoft.Network/applicationGateways](aliases/Microsoft.Network/applicationGateways.md)
 - [Microsoft.Network/expressRouteCircuits](aliases/Microsoft.Network/expressRouteCircuits.md)
-- [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/routeFilters](aliases/Microsoft.Network/routeFilters.md)
 - [Microsoft.Network/vpnSites](aliases/Microsoft.Network/vpnSites.md)
 - [Microsoft.Network/vpnServerConfigurations](aliases/Microsoft.Network/vpnServerConfigurations.md)
@@ -1247,8 +1244,7 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
-- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
+- [Microsoft.Network/expressRouteCrossConnections](aliases/Microsoft.Network/expressRouteCrossConnections.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1306,8 +1302,6 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
-- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
-- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
@@ -1693,8 +1687,6 @@
 ## 🔷 Microsoft.Storage
 
 - [Microsoft.Storage/storageAccounts/storageTaskAssignments](aliases/Microsoft.Storage/storageAccounts-storageTaskAssignments.md)
-- [Microsoft.Storage/storageAccounts/connectors](aliases/Microsoft.Storage/storageAccounts-connectors.md)
-- [Microsoft.Storage/storageAccounts/dataShares](aliases/Microsoft.Storage/storageAccounts-dataShares.md)
 - [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)
 - [Microsoft.Storage/storageAccounts/advancedPlatformMetrics](aliases/Microsoft.Storage/storageAccounts-advancedPlatformMetrics.md)
 - [Microsoft.Storage/storageAccounts](aliases/Microsoft.Storage/storageAccounts.md)
@@ -1702,6 +1694,8 @@
 - [Microsoft.Storage/storageAccounts/tableServices](aliases/Microsoft.Storage/storageAccounts-tableServices.md)
 - [Microsoft.Storage/storageAccounts/queueServices](aliases/Microsoft.Storage/storageAccounts-queueServices.md)
 - [Microsoft.Storage/storageAccounts/fileServices](aliases/Microsoft.Storage/storageAccounts-fileServices.md)
+- [Microsoft.Storage/storageAccounts/connectors](aliases/Microsoft.Storage/storageAccounts-connectors.md)
+- [Microsoft.Storage/storageAccounts/dataShares](aliases/Microsoft.Storage/storageAccounts-dataShares.md)
 - [Microsoft.Storage/storageAccounts/managementPolicies](aliases/Microsoft.Storage/storageAccounts-managementPolicies.md)
 - [Microsoft.Storage/storageAccounts/fileServices/shares](aliases/Microsoft.Storage/storageAccounts-fileServices-shares.md)
 - [Microsoft.Storage/storageAccounts/blobServices/containers/immutabilityPolicies](aliases/Microsoft.Storage/storageAccounts-blobServices-containers-immutabilityPolicies.md)
@@ -1868,11 +1862,11 @@
 - [Microsoft.Workloads/sapVirtualInstances/applicationInstances](aliases/Microsoft.Workloads/sapVirtualInstances-applicationInstances.md)
 - [Microsoft.Workloads/sapVirtualInstances/centralInstances](aliases/Microsoft.Workloads/sapVirtualInstances-centralInstances.md)
 - [Microsoft.Workloads/sapVirtualInstances/databaseInstances](aliases/Microsoft.Workloads/sapVirtualInstances-databaseInstances.md)
-- [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
-- [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
 - [Microsoft.Workloads/monitors](aliases/Microsoft.Workloads/monitors.md)
 - [Microsoft.Workloads/monitors/providerInstances](aliases/Microsoft.Workloads/monitors-providerInstances.md)
 - [Microsoft.Workloads/monitors/sapLandscapeMonitor](aliases/Microsoft.Workloads/monitors-sapLandscapeMonitor.md)
+- [Microsoft.Workloads/phpWorkloads](aliases/Microsoft.Workloads/phpWorkloads.md)
+- [Microsoft.Workloads/phpWorkloads/wordpressInstances](aliases/Microsoft.Workloads/phpWorkloads-wordpressInstances.md)
 
 ## 🔷 Oracle.Database
 
