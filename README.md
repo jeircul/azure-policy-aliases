@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 333 | 📦 **Resource Types**: 5942
+✨ **Total Providers**: 332 | 📦 **Resource Types**: 5940
 
 ---
 ## 🔷 Microsoft.AAD
@@ -592,6 +592,17 @@
 - [Microsoft.DataProtection/backupVaults/backupInstances](aliases/Microsoft.DataProtection/backupVaults-backupInstances.md)
 - [Microsoft.DataProtection/backupVaults/backupPolicies](aliases/Microsoft.DataProtection/backupVaults-backupPolicies.md)
 - [Microsoft.DataProtection/backupVaults/backupResourceGuardProxies](aliases/Microsoft.DataProtection/backupVaults-backupResourceGuardProxies.md)
+
+## 🔷 Microsoft.DataReplication
+
+- [Microsoft.DataReplication/replicationVaults](aliases/Microsoft.DataReplication/replicationVaults.md)
+- [Microsoft.DataReplication/replicationFabrics](aliases/Microsoft.DataReplication/replicationFabrics.md)
+- [Microsoft.DataReplication/replicationFabrics/fabricAgents](aliases/Microsoft.DataReplication/replicationFabrics-fabricAgents.md)
+- [Microsoft.DataReplication/replicationVaults/alertSettings](aliases/Microsoft.DataReplication/replicationVaults-alertSettings.md)
+- [Microsoft.DataReplication/replicationVaults/privateEndpointConnections](aliases/Microsoft.DataReplication/replicationVaults-privateEndpointConnections.md)
+- [Microsoft.DataReplication/replicationVaults/protectedItems](aliases/Microsoft.DataReplication/replicationVaults-protectedItems.md)
+- [Microsoft.DataReplication/replicationVaults/replicationExtensions](aliases/Microsoft.DataReplication/replicationVaults-replicationExtensions.md)
+- [Microsoft.DataReplication/replicationVaults/replicationPolicies](aliases/Microsoft.DataReplication/replicationVaults-replicationPolicies.md)
 
 ## 🔷 Microsoft.DataShare
 
