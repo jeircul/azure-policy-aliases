@@ -932,5 +932,3 @@
 | `properties.probes[*].properties.NoHealthyBackendsBehavior` | `Microsoft.Network/loadBalancers/probes[*].NoHealthyBackendsBehavior` |
 | `properties.loadBalancingRules[*].properties.enableConnectionTracking` | `Microsoft.Network/loadBalancers/loadBalancingRules[*].enableConnectionTracking` |
 | `properties.scope` | `Microsoft.Network/loadBalancers/scope` |
-| `properties.frontendIPConfigurations[*].properties.ddosSettings` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].ddosSettings` |
-| `properties.frontendIPConfigurations[*].properties.ddosSettings.ddosCustomPolicy` | `Microsoft.Network/loadBalancers/frontendIPConfigurations[*].ddosSettings.ddosCustomPolicy` |
