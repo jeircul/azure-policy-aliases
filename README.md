@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 5995
+✨ **Total Providers**: 330 | 📦 **Resource Types**: 5991
 
 ---
 ## 🔷 GitHub.Network
@@ -422,7 +422,6 @@
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
-- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -1266,8 +1265,6 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
-- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
-- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1325,8 +1322,6 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
-- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
-- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
@@ -1736,12 +1731,6 @@
 
 - [Microsoft.StorageCache/caches](aliases/Microsoft.StorageCache/caches.md)
 - [Microsoft.StorageCache/caches/storageTargets](aliases/Microsoft.StorageCache/caches-storageTargets.md)
-- [Microsoft.StorageCache/amlFilesystems](aliases/Microsoft.StorageCache/amlFilesystems.md)
-- [Microsoft.StorageCache/amlFilesystems/importJobs](aliases/Microsoft.StorageCache/amlFilesystems-importJobs.md)
-- [Microsoft.StorageCache/amlFilesystems/autoExportJobs](aliases/Microsoft.StorageCache/amlFilesystems-autoExportJobs.md)
-- [Microsoft.StorageCache/amlFilesystems/autoImportJobs](aliases/Microsoft.StorageCache/amlFilesystems-autoImportJobs.md)
-- [Microsoft.StorageCache/amlFilesystems/expansionJobs](aliases/Microsoft.StorageCache/amlFilesystems-expansionJobs.md)
-- [Microsoft.StorageCache/amlFilesystems/rebalanceJobs](aliases/Microsoft.StorageCache/amlFilesystems-rebalanceJobs.md)
 
 ## 🔷 Microsoft.StorageMover
 
