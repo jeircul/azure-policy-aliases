@@ -6,9 +6,7 @@ on:
     - cron: "0 0 * * *"
 
 permissions:
-  id-token: write
-  contents: write
-  # pull-requests: write
+  contents: read
 
 env:
   GIT_USER_EMAIL: "github-actions[bot]@users.noreply.github.com"
@@ -17,9 +15,15 @@ env:
 jobs:
   update:
     runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      id-token: write
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          # The main-protection ruleset lets only this deploy key push to main without a PR
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
       - name: Login
         uses: ./.github/actions/az-login
         with:
