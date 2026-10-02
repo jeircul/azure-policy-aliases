@@ -32,6 +32,15 @@ jobs:
       - name: Get Updated Aliases
         shell: pwsh
         run: ./src/Get-ResourceAliases.ps1
+      - name: Guard against mass deletion
+        run: |
+          before=$(git ls-tree -r --name-only HEAD -- aliases | wc -l)
+          after=$(find aliases -type f | wc -l)
+          echo "Alias files: before=$before after=$after"
+          if [ "$before" -gt 0 ] && [ $((after * 10)) -lt $((before * 9)) ]; then
+            echo "::error::Alias file count dropped by more than 10% ($before -> $after)"
+            exit 1
+          fi
       - name: Auto commit changes
         run: |
           now=$(date +'%a %d %b %Y')
