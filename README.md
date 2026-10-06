@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 329 | 📦 **Resource Types**: 5989
+✨ **Total Providers**: 329 | 📦 **Resource Types**: 5992
 
 ---
 ## 🔷 GitHub.Network
@@ -1476,6 +1476,8 @@
 - [Microsoft.Security/alerts](aliases/Microsoft.Security/alerts.md)
 - [Microsoft.Security/alertsSuppressionRules](aliases/Microsoft.Security/alertsSuppressionRules.md)
 - [Microsoft.Security/pricings](aliases/Microsoft.Security/pricings.md)
+- [Microsoft.Security/batchPricings](aliases/Microsoft.Security/batchPricings.md)
+- [Microsoft.Security/serviceEntitlements](aliases/Microsoft.Security/serviceEntitlements.md)
 - [Microsoft.Security/AutoProvisioningSettings](aliases/Microsoft.Security/AutoProvisioningSettings.md)
 - [Microsoft.Security/securityContacts](aliases/Microsoft.Security/securityContacts.md)
 - [Microsoft.Security/workspaceSettings](aliases/Microsoft.Security/workspaceSettings.md)
