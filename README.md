@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 329 | 📦 **Resource Types**: 5995
+✨ **Total Providers**: 330 | 📦 **Resource Types**: 6008
 
 ---
 ## 🔷 GitHub.Network
@@ -719,9 +719,9 @@
 ## 🔷 Microsoft.DeviceUpdate
 
 - [Microsoft.DeviceUpdate/accounts](aliases/Microsoft.DeviceUpdate/accounts.md)
-- [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnections](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnections.md)
 - [Microsoft.DeviceUpdate/accounts/privateEndpointConnectionProxies](aliases/Microsoft.DeviceUpdate/accounts-privateEndpointConnectionProxies.md)
+- [Microsoft.DeviceUpdate/accounts/instances](aliases/Microsoft.DeviceUpdate/accounts-instances.md)
 
 ## 🔷 Microsoft.DevOpsInfrastructure
 
@@ -1127,6 +1127,8 @@
 ## 🔷 Microsoft.Maps
 
 - [Microsoft.Maps/accounts](aliases/Microsoft.Maps/accounts.md)
+- [Microsoft.Maps/accounts/privateEndpointConnections](aliases/Microsoft.Maps/accounts-privateEndpointConnections.md)
+- [Microsoft.Maps/accounts/creators](aliases/Microsoft.Maps/accounts-creators.md)
 
 ## 🔷 Microsoft.Migrate
 
