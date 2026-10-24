@@ -24,3 +24,5 @@
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/auditingSettings/default.queueDelayMs` |
 | `properties.queueDelayMs` | `Microsoft.Sql/servers/databases/auditingSettings/queueDelayMs` |
 | `properties.isManagedIdentityInUse` | `Microsoft.Sql/servers/databases/auditingSettings/isManagedIdentityInUse` |
+| `properties.requiredFields` | `Microsoft.Sql/servers/databases/auditingSettings/requiredFields` |
+| `properties.requiredFields[*]` | `Microsoft.Sql/servers/databases/auditingSettings/requiredFields[*]` |
