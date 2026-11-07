@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 330 | 📦 **Resource Types**: 6046
+✨ **Total Providers**: 334 | 📦 **Resource Types**: 6085
 
 ---
 ## 🔷 GitHub.Network
@@ -422,6 +422,7 @@
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
+- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -961,6 +962,18 @@
 - [Microsoft.HealthDataAIServices/deidServices/privateEndpointConnections](aliases/Microsoft.HealthDataAIServices/deidServices-privateEndpointConnections.md)
 - [Microsoft.HealthDataAIServices/deidServices](aliases/Microsoft.HealthDataAIServices/deidServices.md)
 
+## 🔷 Microsoft.HorizonDB
+
+- [Microsoft.HorizonDB/clusters](aliases/Microsoft.HorizonDB/clusters.md)
+- [Microsoft.HorizonDB/clusters/privateEndpointConnections](aliases/Microsoft.HorizonDB/clusters-privateEndpointConnections.md)
+- [Microsoft.HorizonDB/clusters/administrators](aliases/Microsoft.HorizonDB/clusters-administrators.md)
+- [Microsoft.HorizonDB/clusters/microsoftEntraAdministrators](aliases/Microsoft.HorizonDB/clusters-microsoftEntraAdministrators.md)
+- [Microsoft.HorizonDB/parameterGroups](aliases/Microsoft.HorizonDB/parameterGroups.md)
+- [Microsoft.HorizonDB/clusters/authentications](aliases/Microsoft.HorizonDB/clusters-authentications.md)
+- [Microsoft.HorizonDB/clusters/pools](aliases/Microsoft.HorizonDB/clusters-pools.md)
+- [Microsoft.HorizonDB/clusters/pools/firewallRules](aliases/Microsoft.HorizonDB/clusters-pools-firewallRules.md)
+- [Microsoft.HorizonDB/clusters/pools/replicas](aliases/Microsoft.HorizonDB/clusters-pools-replicas.md)
+
 ## 🔷 Microsoft.HybridCompute
 
 - [Microsoft.HybridCompute/machines](aliases/Microsoft.HybridCompute/machines.md)
@@ -971,6 +984,7 @@
 - [Microsoft.HybridCompute/machines/licenseProfiles](aliases/Microsoft.HybridCompute/machines-licenseProfiles.md)
 - [Microsoft.HybridCompute/licenses](aliases/Microsoft.HybridCompute/licenses.md)
 - [Microsoft.HybridCompute/gateways](aliases/Microsoft.HybridCompute/gateways.md)
+- [Microsoft.HybridCompute/machines/applications](aliases/Microsoft.HybridCompute/machines-applications.md)
 
 ## 🔷 Microsoft.HybridContainerService
 
@@ -1292,6 +1306,8 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
+- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1349,6 +1365,8 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
+- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
