@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 334 | 📦 **Resource Types**: 6085
+✨ **Total Providers**: 332 | 📦 **Resource Types**: 6077
 
 ---
 ## 🔷 GitHub.Network
