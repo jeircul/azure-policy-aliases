@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 334 | 📦 **Resource Types**: 6089
+✨ **Total Providers**: 334 | 📦 **Resource Types**: 6098
 
 ---
 ## 🔷 GitHub.Network
@@ -383,6 +383,10 @@
 - [Microsoft.CognitiveServices/accounts/arcDeployments](aliases/Microsoft.CognitiveServices/accounts-arcDeployments.md)
 - [Microsoft.CognitiveServices/accounts/managedComputeDeployments](aliases/Microsoft.CognitiveServices/accounts-managedComputeDeployments.md)
 - [Microsoft.CognitiveServices/accounts/managedNetworks/outboundRules](aliases/Microsoft.CognitiveServices/accounts-managedNetworks-outboundRules.md)
+- [Microsoft.CognitiveServices/accounts/adapterDeployments](aliases/Microsoft.CognitiveServices/accounts-adapterDeployments.md)
+- [Microsoft.CognitiveServices/accounts/costControls](aliases/Microsoft.CognitiveServices/accounts-costControls.md)
+- [Microsoft.CognitiveServices/accounts/raiBindings](aliases/Microsoft.CognitiveServices/accounts-raiBindings.md)
+- [Microsoft.CognitiveServices/accounts/raiRegos](aliases/Microsoft.CognitiveServices/accounts-raiRegos.md)
 
 ## 🔷 Microsoft.Communication
 
@@ -422,6 +426,7 @@
 - [Microsoft.Compute/sshPublicKeys](aliases/Microsoft.Compute/sshPublicKeys.md)
 - [Microsoft.Compute/capacityReservationGroups](aliases/Microsoft.Compute/capacityReservationGroups.md)
 - [Microsoft.Compute/capacityReservationGroups/capacityReservations](aliases/Microsoft.Compute/capacityReservationGroups-capacityReservations.md)
+- [Microsoft.Compute/interconnectBlocks](aliases/Microsoft.Compute/interconnectBlocks.md)
 - [Microsoft.Compute/images](aliases/Microsoft.Compute/images.md)
 - [Microsoft.Compute/hostGroups](aliases/Microsoft.Compute/hostGroups.md)
 - [Microsoft.Compute/hostGroups/hosts](aliases/Microsoft.Compute/hostGroups-hosts.md)
@@ -1305,6 +1310,8 @@
 - [Microsoft.Network/ddosProtectionPlans](aliases/Microsoft.Network/ddosProtectionPlans.md)
 - [Microsoft.Network/networkProfiles](aliases/Microsoft.Network/networkProfiles.md)
 - [Microsoft.Network/ipAllocations](aliases/Microsoft.Network/ipAllocations.md)
+- [Microsoft.Network/virtualNetworkAppliances](aliases/Microsoft.Network/virtualNetworkAppliances.md)
+- [Microsoft.Network/interconnectGroups](aliases/Microsoft.Network/interconnectGroups.md)
 - [Microsoft.Network/virtualNetworks/subnets](aliases/Microsoft.Network/virtualNetworks-subnets.md)
 - [Microsoft.Network/virtualNetworks/virtualNetworkPeerings](aliases/Microsoft.Network/virtualNetworks-virtualNetworkPeerings.md)
 - [Microsoft.Network/networkSecurityGroups/securityRules](aliases/Microsoft.Network/networkSecurityGroups-securityRules.md)
@@ -1362,6 +1369,8 @@
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisIntents](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisIntents.md)
 - [Microsoft.Network/networkManagers/verifierWorkspaces/reachabilityAnalysisRuns](aliases/Microsoft.Network/networkManagers-verifierWorkspaces-reachabilityAnalysisRuns.md)
 - [Microsoft.Network/networkSecurityPerimeters/loggingConfigurations](aliases/Microsoft.Network/networkSecurityPerimeters-loggingConfigurations.md)
+- [Microsoft.Network/networkmanagers/ipampools/staticcidrs](aliases/Microsoft.Network/networkmanagers-ipampools-staticcidrs.md)
+- [Microsoft.Network/virtualHubs/connectionPolicies](aliases/Microsoft.Network/virtualHubs-connectionPolicies.md)
 
 ## 🔷 Microsoft.NetworkCloud
 
@@ -1408,6 +1417,7 @@
 - [Microsoft.OperationalInsights/workspaces/dataSources](aliases/Microsoft.OperationalInsights/workspaces-dataSources.md)
 - [Microsoft.OperationalInsights/workspaces/linkedStorageAccounts](aliases/Microsoft.OperationalInsights/workspaces-linkedStorageAccounts.md)
 - [Microsoft.OperationalInsights/workspaces/tables](aliases/Microsoft.OperationalInsights/workspaces-tables.md)
+- [Microsoft.OperationalInsights/workspaces/summaryLogs](aliases/Microsoft.OperationalInsights/workspaces-summaryLogs.md)
 - [Microsoft.OperationalInsights/workspaces/storageInsightConfigs](aliases/Microsoft.OperationalInsights/workspaces-storageInsightConfigs.md)
 - [Microsoft.OperationalInsights/workspaces/linkedServices](aliases/Microsoft.OperationalInsights/workspaces-linkedServices.md)
 - [Microsoft.OperationalInsights/clusters](aliases/Microsoft.OperationalInsights/clusters.md)
@@ -1521,6 +1531,7 @@
 - [Microsoft.Security/pricings](aliases/Microsoft.Security/pricings.md)
 - [Microsoft.Security/batchPricings](aliases/Microsoft.Security/batchPricings.md)
 - [Microsoft.Security/serviceEntitlements](aliases/Microsoft.Security/serviceEntitlements.md)
+- [Microsoft.Security/serviceEntitlementSettings](aliases/Microsoft.Security/serviceEntitlementSettings.md)
 - [Microsoft.Security/AutoProvisioningSettings](aliases/Microsoft.Security/AutoProvisioningSettings.md)
 - [Microsoft.Security/securityContacts](aliases/Microsoft.Security/securityContacts.md)
 - [Microsoft.Security/workspaceSettings](aliases/Microsoft.Security/workspaceSettings.md)
@@ -1752,6 +1763,8 @@
 ## 🔷 Microsoft.Storage
 
 - [Microsoft.Storage/storageAccounts/storageTaskAssignments](aliases/Microsoft.Storage/storageAccounts-storageTaskAssignments.md)
+- [Microsoft.Storage/contextCaches](aliases/Microsoft.Storage/contextCaches.md)
+- [Microsoft.Storage/contextCaches/contextCacheContainers](aliases/Microsoft.Storage/contextCaches-contextCacheContainers.md)
 - [Microsoft.Storage/storageAccounts/connectors](aliases/Microsoft.Storage/storageAccounts-connectors.md)
 - [Microsoft.Storage/storageAccounts/dataShares](aliases/Microsoft.Storage/storageAccounts-dataShares.md)
 - [Microsoft.Storage/storageAccounts/encryptionScopes](aliases/Microsoft.Storage/storageAccounts-encryptionScopes.md)

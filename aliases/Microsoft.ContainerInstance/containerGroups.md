@@ -253,3 +253,4 @@
 | `properties.identityAcls.acls[*]` | `Microsoft.ContainerInstance/containerGroups/identityAcls.acls[*]` |
 | `properties.identityAcls.acls[*].access` | `Microsoft.ContainerInstance/containerGroups/identityAcls.acls[*].access` |
 | `properties.identityAcls.acls[*].identity` | `Microsoft.ContainerInstance/containerGroups/identityAcls.acls[*].identity` |
+| `properties.volumes[*].azureFile.userManagedIdentityClientId` | `Microsoft.ContainerInstance/containerGroups/volumes[*].azureFile.userManagedIdentityClientId` |

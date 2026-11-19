@@ -115,3 +115,5 @@
 | `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].dynamicThrottlingEnabled` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].dynamicThrottlingEnabled` |
 | `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns` |
 | `properties.speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns[*]` | `Microsoft.CognitiveServices/accounts/deployments/speculativeDecoding.draftModel.callRateLimit.rules[*].matchPatterns[*]` |
+| `properties.costControlIds` | `Microsoft.CognitiveServices/accounts/deployments/costControlIds` |
+| `properties.costControlIds[*]` | `Microsoft.CognitiveServices/accounts/deployments/costControlIds[*]` |
