@@ -5,7 +5,7 @@
 
 📅 The data is periodically fetched using `Get-AzPolicyAlias` command provided as part of the Az Module.
 
-✨ **Total Providers**: 334 | 📦 **Resource Types**: 6098
+✨ **Total Providers**: 334 | 📦 **Resource Types**: 6103
 
 ---
 ## 🔷 GitHub.Network
@@ -325,6 +325,7 @@
 ## 🔷 Microsoft.Capacity
 
 - [Microsoft.Capacity/resourceProviders/locations/serviceLimits](aliases/Microsoft.Capacity/resourceProviders-locations-serviceLimits.md)
+- [Microsoft.Capacity/reservationOrders](aliases/Microsoft.Capacity/reservationOrders.md)
 
 ## 🔷 Microsoft.Cdn
 
